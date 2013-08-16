@@ -1,0 +1,1053 @@
+käsite;käsitesuhde;lähikäsite
+suomi_termi_1;koostumussuhteinen yläkäsite;koostumussuhteinen yläkäsite
+hammaslaitainen;yläkäsite;lehtilaita
+hammaslaitainen;yläkäsite;nirhalaitainen
+hammaslaitainen;yläkäsite;nyhälaitainen
+hammaslaitainen;yläkäsite;sahalaitainen
+hammaslaitainen;;lehtilaita
+hankasilmu;koostumussuhteinen yläkäsite;lehti
+hankasilmu;yläkäsite;silmu
+hede;yläkäsite;kukkalehti
+hede;koostumussuhteinen yläkäsite;kukka
+hede;koostumussuhteinen alakäsite;palho
+hede;koostumussuhteinen alakäsite;ponsi
+hede;vieruskäsite;emi
+hede;yläkäsite;kukkalehti
+aitolehti;yläkäsite;lehti ikänsä suhteen
+aitolehti;vieruskäsite;varhaislehti
+aitolehti;vieruskäsite;myöhäislehti
+aitolehti;yläkäsite;kasvulehti
+aitolehti;;sirkkalehti
+sirkkalehti;yläkäsite;lehti ikänsä suhteen
+sirkkalehti;koostumussuhteinen yläkäsite;verso
+sirkkalehti;;varsilehti
+sirkkalehti;;kasvulehti
+sirkkalehti;;esilehti
+sirkkalehti;;varhaislehti
+sirkkalehti;;myöhäislehti
+alalehti;yläkäsite;lehti
+alalehti;yläkäsite;lehti
+aluslehti;yläkäsite;lehti
+aluslehti;vieruskäsite;varsilehti
+aluslehti;yläkäsite;kasvulehti
+siitoslehtiperä;koostumussuhteinen yläkäsite;kehä
+siitoslehtiperä;;emiöperä
+siitoslehtiperä;;hetiöperä
+ehyt;yläkäsite;lehti jakautumisen suhteen
+ehyt;;kerrannaislehti
+ehytlaitainen;yläkäsite;lehtilaita
+ehytlaitainen;vieruskäsite;hammaslaitainen
+ehytlaitainen;;lehtilaita
+ehytlaitainen;;ehyt
+emi;yläkäsite;kukkalehti
+emi;koostumussuhteinen yläkäsite;kukka
+emi;yläkäsite;kukkalehti
+emi;vieruskäsite;hede
+emi;koostumussuhteinen alakäsite;sikiäin
+emi;koostumussuhteinen alakäsite;vartalo
+emi;koostumussuhteinen alakäsite;luotti
+epämukainen;yläkäsite;elimen symmetrisyys; kukka; lehti
+epämukainen;vieruskäsite;tasamukainen
+epämukainen;vieruskäsite;peilisymmetrinen
+epämukainen;vieruskäsite;säteittäissymmetrinen
+epämukainen;vieruskäsite;symmetrinen
+epämukainen;vieruskäsite;vastakohtainen
+erillinen;yläkäsite;lehti
+erillinen;vieruskäsite;yhdistynyt
+erillislehtinen;yläkäsite;emiö; teriö; verhiö
+erillislehtinen;yläkäsite;erillisverhiöinen
+erillislehtinen;yläkäsite;erillisteriöinen
+erillislehtinen;yläkäsite;erilliseminen
+helve;yläkäsite;lehti
+helve;koostumussuhteinen yläkäsite;kukinto
+helve;koostumussuhteinen yläkäsite;tähkylä
+helve;yläkäsite;ulkohelve
+helve;yläkäsite;sisähelve
+helve;;vihne
+helve;;kale
+helve;;kauna
+herttatyvinen;yläkäsite;lehden tyvi
+herttatyvinen;vieruskäsite;keihästyvinen
+herttatyvinen;vieruskäsite;kiilatyvinen
+herttatyvinen;vieruskäsite;nuolityvinen
+herttatyvinen;vieruskäsite;suippotyvinen
+herttatyvinen;;herttamainen
+huuli;yläkäsite;terälehti
+huuli;koostumussuhteinen yläkäsite;teriö
+huuli;;huulimainen
+huuli;yläkäsite;ylähuuli
+huuli;yläkäsite;alahuuli
+huuli;koostumussuhteinen yläkäsite;teriö
+huuli;koostumussuhteinen yläkäsite;verhiö
+ilmalehti;yläkäsite;vesikasvin lehti
+ilmalehti;vieruskäsite;kelluslehti
+ilmalehti;vieruskäsite;uposlehti
+jakoinen;yläkäsite;lehti liuskaisuuden suhteen
+jakoinen;vieruskäsite;halkoinen
+jakoinen;vieruskäsite;osainen
+jakoinen;yläkäsite;liuskainen
+johteinen;yläkäsite;lehden tyvi
+johteinen;vieruskäsite;sepivä
+kaksilehdykkäinen;yläkäsite;parilehdykkäinen
+kaksilehdykkäinen;yläkäsite;parilehdykkäinen
+kaksilehdykkäinen;;sormilehdykkäinen
+kaksiosainen;yläkäsite;lehti liuskaisuuden suhteen
+kaksiosainen;;kaksiliuskainen
+kaksiosainen;vieruskäsite;kaksihalkoinen
+kaksiosainen;vieruskäsite;kaksijakoinen
+kale;yläkäsite;lehti
+kale;koostumussuhteinen yläkäsite;tähkylä
+kale;yläkäsite;ulkokale
+kale;yläkäsite;sisäkale
+kale;yläkäsite;tähkylä
+kapean vastapuikea;yläkäsite;lehtilavan muoto
+kapean vastapuikea;yläkäsite;vastapuikea
+kapean vastapuikea;vieruskäsite;kapeanpuikea
+kapean vastapuikea;;puikea
+kapeanpuikea;yläkäsite;lehtilavan muoto
+kapeanpuikea;yläkäsite;puikea
+kapeanpuikea;vieruskäsite;kapean vastapuikea
+kapeansoikea;yläkäsite;lehtilavan muoto
+kapeansoikea;yläkäsite;soikea
+kapeansoikea;vieruskäsite;kapeanpuikea
+kapeansoikea;vieruskäsite;kapeansuikea
+kapeansuikea;yläkäsite;lehtilavan muoto
+kapeansuikea;yläkäsite;suikea
+kapeansuikea;vieruskäsite;kapeansoikea
+kapeansuikea;vieruskäsite;kapeanpuikea
+kasvulehti;yläkäsite;lehti
+kasvulehti;yläkäsite;aluslehti
+kasvulehti;yläkäsite;varsilehti
+kasvulehti;;varhaislehti
+kasvulehti;;aitolehti
+kasvulehti;;myöhäislehti
+kehtosuomu;yläkäsite;ylälehti
+kehtosuomu;koostumussuhteinen yläkäsite;kehto
+kehtosuomu;koostumussuhteinen yläkäsite;kehto
+kehtosuomu;yläkäsite;ylälehti
+kehälehti;yläkäsite;kukkalehti
+kehälehti;koostumussuhteinen yläkäsite;kukka
+kehälehti;yläkäsite;terälehti
+kehälehti;yläkäsite;verholehti
+kehälehti;yläkäsite;kukkalehti
+kehälehti;;kehäliuska
+keihäsmäinen;yläkäsite;lehtilavan muoto
+keihäsmäinen;vieruskäsite;nuolityvinen
+keihäsmäinen;;keihästyvinen
+laakaruoti;yläkäsite;varsi
+laakaruoti;koostumussuhteinen yläkäsite;lehti
+laakaruoti;yläkäsite;ruoti
+laakaruoti;;laakavarsi
+laakaruoti;;laakaverso
+mesikannus;yläkäsite;lehti
+mesikannus;yläkäsite;mesilehti
+mesikannus;;kannus
+mesilehti;yläkäsite;lehti
+mesilehti;koostumussuhteinen yläkäsite;kehä
+mesilehti;yläkäsite;kehälehti
+sisäkale;yläkäsite;lehti
+sisäkale;koostumussuhteinen yläkäsite;tähkylä
+sisäkale;yläkäsite;kale
+sisäkale;vieruskäsite;ulkokale
+sivulehdykkä;yläkäsite;lehti
+sivulehdykkä;koostumussuhteinen yläkäsite;kerrannaislehti
+sivulehdykkä;yläkäsite;lehdykkä
+sivulehdykkä;vieruskäsite;päätölehdykkä
+sivulehdykkä;koostumussuhteinen yläkäsite;kerrannaislehti
+sormiosainen;yläkäsite;lehti liuskaisuuden suhteen
+sormiosainen;yläkäsite;sormiliuskainen
+sormiosainen;yläkäsite;osainen
+sormiosainen;vieruskäsite;sormihalkoinen
+sormiosainen;vieruskäsite;sormijakoinen
+sormiosainen;;pariosainen
+sormiosainen;;kourasuoninen
+ulkokale;yläkäsite;lehti
+ulkokale;koostumussuhteinen yläkäsite;tähkylä
+ulkokale;vieruskäsite;sisäkale
+ulkokale;yläkäsite;kale
+keihästyvinen;yläkäsite;lehden tyvi
+keihästyvinen;vieruskäsite;nuolityvinen
+keihästyvinen;;herttatyvinen
+keihästyvinen;;kiilatyvinen
+keihästyvinen;;keihäsmäinen
+kelluslehti;yläkäsite;vesikasvin lehti
+kelluslehti;vieruskäsite;ilmalehti
+kelluslehti;vieruskäsite;uposlehti
+kerrannainen;yläkäsite;elin; hedelmä; kukinto; lehti
+kerrannainen;;kerrannaislehti
+kerrannainen;;kerrannaissarja
+kerrannainen;;kerrannaistähkä
+kerrannainen;;kerrannaishuiskilo
+kerrannainen;;kerrannaisterttu
+kerrannaislehti;yläkäsite;lehti jakautumisen suhteen
+kerrannaislehti;;ehyt
+kerrannaislehti;koostumussuhteinen alakäsite;lehdykkä
+keskiranka;yläkäsite;varsi
+keskiranka;koostumussuhteinen yläkäsite;kukinto; lehti
+keskiranka;;kukintoranka
+keskiranka;;pääranka
+keskiranka;;lapakko
+keskisuoni;koostumussuhteinen yläkäsite;lehti
+keskisuoni;vieruskäsite;sivusuoni
+keulamainen;yläkäsite;lehden kärki
+keulamainen;vieruskäsite;typäkkä
+keulamainen;vieruskäsite;lanttopäinen
+säteittäinen;yläkäsite;lehtiasento
+säteittäinen;;kierteinen
+säteittäinen;;lehtiasento
+säteittäinen;yläkäsite;kiehkurainen
+säteittäinen;vieruskäsite;vastakkainen
+säteittäinen;vieruskäsite;vuorottainen
+kielekekorvake;koostumussuhteinen yläkäsite;lehti
+kielekekorvake;;kieleke
+kielekekorvake;;korvake
+kierteinen (lehtiasento);yläkäsite;lehtiasento
+kierteinen (lehtiasento);yläkäsite;vuorottainen
+kierteinen (lehtiasento);vieruskäsite;kiehkurainen
+kierteinen (lehtiasento);;lehtiasento
+kiilamainen;yläkäsite;lehtilavan muoto
+kiilamainen;;kiilatyvinen
+kiilamainen;vieruskäsite;kolmiomainen
+kiilamainen;vieruskäsite;vastakolmiomainen
+kiilatyvinen;yläkäsite;lehden tyvi
+kiilatyvinen;vieruskäsite;suippotyvinen
+kiilatyvinen;vieruskäsite;herttatyvinen
+kiilatyvinen;vieruskäsite;keihästyvinen
+kiilatyvinen;vieruskäsite;nuolityvinen
+kiilatyvinen;;kiilamainen
+kilpimäinen (lehti);yläkäsite;lehtilavan muoto
+kilpimäinen (lehti);;kilpilehti
+kolmeen kertaan kolmisorminen;yläkäsite;kerrannaislehti
+kolmeen kertaan kolmisorminen;yläkäsite;kolmisorminen
+kolmeen kertaan kolmisorminen;vieruskäsite;toistamiseen kolmisorminen
+kolmeen kertaan parilehdykkäinen;yläkäsite;parilehdykkäinen
+kolmeen kertaan parilehdykkäinen;yläkäsite;parilehdykkäinen
+kolmeen kertaan parilehdykkäinen;vieruskäsite;toistamiseen parilehdykkäinen
+kolmilehdykkäinen;yläkäsite;kerrannaislehti
+kolmilehdykkäinen;;kolmisorminen
+kolmilehdykkäinen;;lehdykkä
+kolmilehdykkäinen;;kerrannaislehti
+kolmilehdykkäinen;;kolmilehtinen
+kolmiomainen;yläkäsite;lehtilavan muoto
+kolmiomainen;vieruskäsite;kiilamainen
+kolmiomainen;vieruskäsite;tasakylkisen kolmiomainen
+kolmiomainen;vieruskäsite;pyöreän kolmikulmainen
+korkosuoninen;yläkäsite;lehtisuonitus
+korkosuoninen;koostumussuhteinen yläkäsite;pinta
+korkosuoninen;;suonitus
+korvake;koostumussuhteinen yläkäsite;lehti
+korvake;;lehtikorvake
+korvake;;kielekekorvake
+korvake;;korvaketuppi
+korvaketuppi;koostumussuhteinen yläkäsite;lehti
+korvaketuppi;yläkäsite;tuppi
+korvaketuppi;;korvake
+kourasuoninen;yläkäsite;lehtisuonitus
+kourasuoninen;;suonitus
+kourasuoninen;;sormiliuskainen
+kourasuoninen;vieruskäsite;silposuoninen
+kourasuoninen;vieruskäsite;sulkasuoninen
+kourasuoninen;vieruskäsite;verkkosuoninen
+kourumainen;yläkäsite;lehtilavan muoto
+kukkalehti;yläkäsite;lehti
+kukkalehti;koostumussuhteinen yläkäsite;kukka
+kukkalehti;koostumussuhteinen yläkäsite;kukka
+kukkalehti;yläkäsite;lehti
+kukkalehti;yläkäsite;kehälehti
+kukkalehti;yläkäsite;verholehti
+kukkalehti;yläkäsite;terälehti
+kukkalehti;yläkäsite;emi
+kukkalehti;yläkäsite;hede
+kukkalehti;koostumussuhteinen vieruskäsite;kukkapohjus
+kukkapohjus;yläkäsite;pohjus
+kukkapohjus;koostumussuhteinen yläkäsite;kukka
+kukkapohjus;;mykeröpohjus
+kukkapohjus;;kukkalehti
+kynsi;koostumussuhteinen yläkäsite;lehti
+kynsi;;laide
+kynsi;;kynnellinen
+kynsi;koostumussuhteinen yläkäsite;terälehti
+kynsi;koostumussuhteinen yläkäsite;verholehti
+kynsi;koostumussuhteinen yläkäsite;suojuslehti
+lanttopäinen;yläkäsite;lehden kärki
+lanttopäinen;vieruskäsite;typäkkä
+lanttopäinen;vieruskäsite;keulamainen
+lehdykkä;koostumussuhteinen yläkäsite;kerrannaislehti
+lehdykkä;koostumussuhteinen yläkäsite;kerrannaislehti
+lehdykkä;;lehti
+lehti;yläkäsite;kasvin peruselin
+lehti;koostumussuhteinen yläkäsite;verso
+lehti;yläkäsite;peruselin
+lehti;koostumussuhteinen yläkäsite;kasvi
+lehti;koostumussuhteinen vieruskäsite;varsi
+lehti;koostumussuhteinen vieruskäsite;juuri
+lehti;koostumussuhteinen vieruskäsite;verso
+lehti;koostumussuhteinen vieruskäsite;kukka
+lehtiasento;yläkäsite;lehti
+lehtiasento;;kierteinen
+lehtiasento;;kiehkurainen
+lehtikanta;koostumussuhteinen yläkäsite;lehti
+lehtikanta;koostumussuhteinen yläkäsite;lehti
+lehtikanta;koostumussuhteinen vieruskäsite;lapa
+lehtikanta;koostumussuhteinen vieruskäsite;ruoti
+lehtilaita;koostumussuhteinen yläkäsite;lehti
+lehtilaita;koostumussuhteinen yläkäsite;lapa
+lehtilaita;;ehyt
+lehtilaita;;hammaslaitainen
+lapa;koostumussuhteinen yläkäsite;lehti
+lapa;koostumussuhteinen yläkäsite;lehti
+lapa;koostumussuhteinen vieruskäsite;ruoti
+lapa;koostumussuhteinen vieruskäsite;lehtikanta
+ruoti;yläkäsite;varsi
+ruoti;koostumussuhteinen yläkäsite;lehti
+ruoti;koostumussuhteinen yläkäsite;lehti
+ruoti;koostumussuhteinen vieruskäsite;lapa
+ruoti;koostumussuhteinen vieruskäsite;lehtikanta
+tuppi;yläkäsite;lehden kanta
+tuppi;koostumussuhteinen yläkäsite;lehti
+tuppi;yläkäsite;lehtikanta
+tuppi;;korvaketuppi
+lehtivihreä;koostumussuhteinen yläkäsite;lehti
+lehtivihreä;;lehti
+lehtivihreä;;fotosynteesi
+lehtivihreätön;;lehtivihreä
+leveän pyöreähkö;yläkäsite;lehtilavan muoto
+leveänpuikea;yläkäsite;lehtilavan muoto
+leveänpuikea;yläkäsite;puikea
+leveänpuikea;vieruskäsite;kapeanpuikea
+leveänpuikea;vieruskäsite;kapean vastapuikea
+leveänsoikea;yläkäsite;lehtilavan muoto
+leveänsoikea;yläkäsite;soikea
+leveänsoikea;vieruskäsite;kapeansoikea
+liuska;koostumussuhteinen yläkäsite;kehä; lehti; teriö
+liuska;;liuskainen
+liuskainen;yläkäsite;lehti liuskaisuuden suhteen
+liuskainen;yläkäsite;pariliuskainen
+liuskainen;yläkäsite;sormiliuskainen
+lusikkamainen;yläkäsite;lehtilavan muoto
+lyhytsuippuinen;yläkäsite;lehden kärki
+lyhytsuippuinen;vieruskäsite;pitkäsuippuinen
+lyhytsuippuinen;vieruskäsite;suippo
+mehikasvi;yläkäsite;kasvityyppi
+mehikasvi;;lehtimehikasvi
+miekkamainen;yläkäsite;lehtilavan muoto
+munuaismainen;yläkäsite;lehtilavan muoto
+munuaismainen;vieruskäsite;herttamainen
+munuaismainen;vieruskäsite;soikea
+munuaismainen;vieruskäsite;puikea
+munuaismainen;vieruskäsite;suikea
+munuaismainen;vieruskäsite;kolmiomainen
+kukka;yläkäsite;kasvin peruselin; kukka
+kukka;koostumussuhteinen yläkäsite;verso
+kukka;koostumussuhteinen alakäsite;kukkapohjus
+kukka;koostumussuhteinen alakäsite;kukkalehti
+möyheä;yläkäsite;lehti
+möyheä;;mehevä
+neulanen;yläkäsite;lehti
+neulasmainen;yläkäsite;lehtilavan muoto
+neulasmainen;;neulanen
+nirhalaitainen;yläkäsite;hammaslaitainen
+nirhalaitainen;yläkäsite;hammaslaitainen
+nirhalaitainen;vieruskäsite;sahalaitainen
+nirhalaitainen;vieruskäsite;nyhälaitainen
+nirhalaitainen;;ehytlaitainen
+nivel;yläkäsite;lehti
+nivel;koostumussuhteinen yläkäsite;varsi
+nivel;;nivelväli
+norkkosuomu;yläkäsite;lehti
+norkkosuomu;koostumussuhteinen yläkäsite;norkko
+norkkosuomu;yläkäsite;suomu
+norkkosuomu;yläkäsite;tukilehti
+norkkosuomu;koostumussuhteinen yläkäsite;norkko
+nuolityvinen;yläkäsite;lehden tyvi
+nuolityvinen;vieruskäsite;keihästyvinen
+nyhälaitainen;yläkäsite;hammaslaitainen
+nyhälaitainen;yläkäsite;hammaslaitainen
+nyhälaitainen;vieruskäsite;sahalaitainen
+nyhälaitainen;vieruskäsite;nirhalaitainen
+nyhälaitainen;;ehytlaitainen
+ora;koostumussuhteinen yläkäsite;verso
+ora;yläkäsite;oraoksa
+ora;yläkäsite;oralehti
+oralehti;yläkäsite;lehti
+oralehti;vieruskäsite;oraoksa
+oraoksa;koostumussuhteinen yläkäsite;varsi
+oraoksa;yläkäsite;ora
+oraoksa;vieruskäsite;oralehti
+parihalkoinen;yläkäsite;lehti liuskaisuuden suhteen
+parihalkoinen;yläkäsite;halkoinen
+parihalkoinen;yläkäsite;pariliuskainen
+parihalkoinen;vieruskäsite;parijakoinen
+parihalkoinen;vieruskäsite;pariosainen
+parihalkoinen;;sormihalkoinen
+parijakoinen;yläkäsite;lehti liuskaisuuden suhteen
+parijakoinen;yläkäsite;pariliuskainen
+parijakoinen;yläkäsite;jakoinen
+parijakoinen;vieruskäsite;parihalkoinen
+parijakoinen;vieruskäsite;pariosainen
+parijakoinen;;sormijakoinen
+parilehdykkäinen;yläkäsite;kerrannaislehti
+parilehdykkäinen;yläkäsite;lehdykkäinen
+parilehdykkäinen;yläkäsite;päätöparinen
+parilehdykkäinen;yläkäsite;tasaparinen
+parilehdykkäinen;yläkäsite;vuorolehdykkäinen
+parilehdykkäinen;yläkäsite;välilehdykkäinen
+pariliuskainen;yläkäsite;lehti liuskaisuuden suhteen
+pariliuskainen;yläkäsite;liuskainen
+pariliuskainen;yläkäsite;parihalkoinen
+pariliuskainen;yläkäsite;parijakoinen
+pariliuskainen;yläkäsite;pariosainen
+pariliuskainen;;sormiliuskainen
+pariosainen;yläkäsite;lehti liuskaisuuden suhteen
+pariosainen;yläkäsite;osainen
+pariosainen;yläkäsite;pariliuskainen
+pariosainen;vieruskäsite;parihalkoinen
+pariosainen;vieruskäsite;parijakoinen
+pariosainen;;sormiosainen
+pieninyhäinen;yläkäsite;lehtilaita
+pieninyhäinen;vieruskäsite;hienonyhäinen
+pieninyhäinen;yläkäsite;nyhälaitainen
+pieninyhäinen;;lehtilaita
+piikkikärkinen;yläkäsite;lehden kärki
+piikkikärkinen;;otapäinen
+pitkulainen;yläkäsite;lehtilavan muoto
+pitkulainen;vieruskäsite;pitkänpyöreä
+pitkulainen;vieruskäsite;pyöreä
+pitkulainen;vieruskäsite;soikea
+pitkulainen;vieruskäsite;suikea
+pitkulainen;vieruskäsite;tasasoukka
+pitkänpyöreä;yläkäsite;lehtilavan muoto
+pitkänpyöreä;vieruskäsite;pitkulainen
+pitkänpyöreä;vieruskäsite;pyöreä
+pitkänpyöreä;vieruskäsite;soikea
+pitkänpyöreä;vieruskäsite;suikea
+pitkänpyöreä;vieruskäsite;tasasoukka
+pitkäsuippuinen;yläkäsite;lehden kärki
+pitkäsuippuinen;vieruskäsite;lyhytsuippuinen
+pitkäsuippuinen;vieruskäsite;suippo
+pitkäsuippuinen;;otapäinen
+pitkäsuippuinen;;suippotyvinen
+pitkäsuippuinen;;lisäkkeellinen
+puikea;yläkäsite;lehtilavan muoto
+puikea;vieruskäsite;suikea
+puikea;vieruskäsite;soikea
+puikea;vieruskäsite;pitkulainen
+puikea;vieruskäsite;vastapuikea
+pullakko;yläkäsite;lehti
+pullakko;yläkäsite;suojuslehti
+purje;yläkäsite;terälehti
+purje;koostumussuhteinen yläkäsite;teriö
+purje;vieruskäsite;siivet
+purje;vieruskäsite;venho
+purje;;perhomainen
+pussimainen;yläkäsite;lehti
+pussimainen;;pussilehti
+pussimainen;vieruskäsite;huppumainen
+pyyntirakkula;koostumussuhteinen yläkäsite;lehti
+pyyntirakkula;yläkäsite;lehdykkä
+pyöreä;yläkäsite;lehtilavan muoto
+pyöreä;vieruskäsite;pitkulainen
+pyöreä;vieruskäsite;pitkänpyöreä
+pyöreä;vieruskäsite;soikea
+pyöreä;vieruskäsite;suikea
+pyöreä;vieruskäsite;tasasoukka
+pyöreähkö;yläkäsite;lehtilavan muoto
+pyöreähkö;;pyöreä
+päätölehdykkä;koostumussuhteinen yläkäsite;lehti
+päätölehdykkä;vieruskäsite;sivulehdykkä
+päätölehdykkä;;kerrannaislehti
+päätölehdykkä;yläkäsite;lehdykkä
+päätöliuska;koostumussuhteinen yläkäsite;lehti
+päätöliuska;;päätölehdykkä
+päätöliuska;yläkäsite;liuska
+päätöparinen;yläkäsite;parilehdykkäinen
+päätöparinen;yläkäsite;parilehdykkäinen
+päätöparinen;vieruskäsite;tasaparinen
+päätöparinen;vieruskäsite;vuorolehdykkäinen
+päätöparinen;vieruskäsite;välilehdykkäinen
+ripsireunainen;yläkäsite;lehtilaita
+ripsireunainen;;ripsinen
+ripsisahainen;yläkäsite;lehtilaita
+ripsisahainen;yläkäsite;sahalaitainen
+ripsisahainen;yläkäsite;ripsireunainen
+ripsisahainen;;ripsinen
+ripsisahainen;;lehtilaita
+ristikkäinen;yläkäsite;lehtiasento
+ristikkäinen;yläkäsite;vastakkainen
+ristikkäinen;;säteittäinen
+ristikkäinen;;kierteinen
+ristikkäinen;;lehtiasento
+ruusuke;yläkäsite;lehti
+ruusuke;koostumussuhteinen yläkäsite;verso
+ruusuke;;kiehkura
+ruusuke;koostumussuhteinen alakäsite;lehti
+ruusukkeinen;yläkäsite;lehtiasento
+ruusukkeinen;;lehtiasento
+ruusukkeinen;;ruusuke
+ruusukkeinen;;kierteinen
+ruusukkeinen;;vastakkainen
+sahalaitainen;yläkäsite;hammaslaitainen
+sahalaitainen;yläkäsite;hammaslaitainen
+sahalaitainen;vieruskäsite;ehytlaitainen
+sahalaitainen;vieruskäsite;nirhalaitainen
+sahalaitainen;vieruskäsite;nyhälaitainen
+sahalaitainen;yläkäsite;toissahainen
+sahalaitainen;yläkäsite;vastasahainen
+sahalaitainen;yläkäsite;hienosahainen
+sepivä;yläkäsite;lehden tyvi
+sepivä;vieruskäsite;johteinen
+sepivä;;lehtikorvakkeellinen
+aaltopoimuinen;yläkäsite;lehti; pinta
+aaltopoimuinen;;lehtilapa
+silmu;koostumussuhteinen yläkäsite;lehti; verso
+silmu;;nuppu
+silmusuomu;yläkäsite;alalehti
+silmusuomu;koostumussuhteinen yläkäsite;verso
+silmusuomu;;tukilehti
+silmusuomu;;alalehti
+silmusuomu;;suomu
+silposuoninen;yläkäsite;lehtisuonitus
+silposuoninen;;suonitus
+silposuoninen;vieruskäsite;sulkasuoninen
+silposuoninen;vieruskäsite;verkkosuoninen
+silposuoninen;vieruskäsite;kourasuoninen
+sisähelve;yläkäsite;lehti
+sisähelve;koostumussuhteinen yläkäsite;tähkylä
+sisähelve;yläkäsite;helve
+sisähelve;vieruskäsite;ulkohelve
+soikea;yläkäsite;lehtilavan muoto
+soikea;vieruskäsite;pitkulainen
+soikea;vieruskäsite;pitkänpyöreä
+soikea;vieruskäsite;pyöreä
+soikea;vieruskäsite;suikea
+soikea;vieruskäsite;tasasoukka
+soikea;vieruskäsite;puikea
+sormilehdykkäinen;yläkäsite;kerrannaislehti
+sormilehdykkäinen;yläkäsite;lehdykkäinen
+sormilehdykkäinen;;parilehdykkäinen
+sormilehdykkäinen;;sormiliuskainen
+sormilehdykkäinen;;kourasuoninen
+sormilehdykkäinen;;kolmisorminen
+sormilehdykkäinen;;jalkamainen
+sormiliuskainen;yläkäsite;lehti liuskaisuuden suhteen
+sormiliuskainen;yläkäsite;liuskainen
+sormiliuskainen;;kourasuoninen
+sormiliuskainen;;sormilehdykkäinen
+sormiliuskainen;;jalkamainen
+sormiliuskainen;yläkäsite;sormihalkoinen
+sormiliuskainen;yläkäsite;sormijakoinen
+sormiliuskainen;yläkäsite;sormiosainen
+suikea;yläkäsite;lehtilavan muoto
+suikea;vieruskäsite;pyöreä
+suikea;vieruskäsite;soikea
+suikea;vieruskäsite;pitkulainen
+suikea;vieruskäsite;puikea
+suikea;vieruskäsite;tasasoukka
+sulkasuoninen;yläkäsite;lehtisuonitus
+sulkasuoninen;;suonitus
+sulkasuoninen;vieruskäsite;kourasuoninen
+sulkasuoninen;vieruskäsite;silposuoninen
+sulkasuoninen;vieruskäsite;verkkosuoninen
+suojuslehti;yläkäsite;ylälehti
+suojuslehti;yläkäsite;lehti
+suojuslehti;yläkäsite;ylälehti
+suojuslehti;vieruskäsite;tukilehti
+suojuslehti;vieruskäsite;alalehti
+suojuslehti;vieruskäsite;varuslehti
+suojussuomu;yläkäsite;lehti
+suojussuomu;;varuslehti
+suojussuomu;;suomu
+suojussuomu;yläkäsite;suojuslehti
+suomu;yläkäsite;lehti
+suomu;;alalehti
+suomu;;suojuslehti
+suomu;yläkäsite;käpysuomu
+suomu;yläkäsite;silmusuomu
+suomu;yläkäsite;pohjussuomu
+suomulehti;yläkäsite;lehti
+suomulehti;yläkäsite;lehti
+suomumainen;yläkäsite;elin; lehti
+suomumainen;;suomu
+suomumainen;;kalvomainen
+suoni;koostumussuhteinen yläkäsite;lehti
+suoni;yläkäsite;sivusuoni
+suoni;yläkäsite;keskisuoni
+suonitus;koostumussuhteinen yläkäsite;lehti
+suonitus;;silposuoninen
+suonitus;;kourasuoninen
+suonitus;;sulkasuoninen
+suonitus;;verkkosuoninen
+suonitus;;korkosuoninen
+surkastunut;yläkäsite;elin; lehti
+surkastunut;;kuihtuva
+tasaparinen;yläkäsite;parilehdykkäinen
+tasaparinen;yläkäsite;parilehdykkäinen
+tasaparinen;vieruskäsite;päätöparinen
+tasaparinen;vieruskäsite;vuorolehdykkäinen
+tasaparinen;vieruskäsite;välilehdykkäinen
+tasasoukka;yläkäsite;lehtilavan muoto
+tasasoukka;;pitkulainen
+tasasoukka;;soikea
+tasasoukka;;suikea
+tasasoukka;;puikea
+tasasoukka;;pyöreä
+tasasoukka;;neulasmainen
+teriö;koostumussuhteinen yläkäsite;kukka
+teriö;koostumussuhteinen yläkäsite;kehä
+teriö;koostumussuhteinen vieruskäsite;verhiö
+teriö;koostumussuhteinen alakäsite;terälehti
+terälehti;yläkäsite;kukkalehti
+terälehti;koostumussuhteinen yläkäsite;teriö
+terälehti;yläkäsite;kehälehti
+terälehti;vieruskäsite;verholehti
+terälehti;koostumussuhteinen yläkäsite;teriö
+terälehti;koostumussuhteinen yläkäsite;kehä
+terävä;yläkäsite;lehden kärki
+terävä;vieruskäsite;tylppä
+toissahainen;yläkäsite;lehtilaita
+toissahainen;yläkäsite;sahalaitainen
+toissahainen;yläkäsite;vieruskäsite
+toissahainen;;lehtilaita
+tukilehti;yläkäsite;lehti
+tukilehti;yläkäsite;suojuslehti
+tukilehti;;silmusuomu
+tuppimainen;yläkäsite;lehti
+tuppimainen;;lehtituppi
+tylppä;yläkäsite;lehden kärki; lehden tyvi
+tylppä;vieruskäsite;terävä
+tähkäsuomu;yläkäsite;lehti
+tähkäsuomu;koostumussuhteinen yläkäsite;tähkä
+tähkäsuomu;yläkäsite;tukilehti
+tähkäsuomu;;suomu
+tähkäsuomu;koostumussuhteinen yläkäsite;tähkä
+ulkohelve;yläkäsite;lehti
+ulkohelve;koostumussuhteinen yläkäsite;tähkylä
+ulkohelve;vieruskäsite;sisähelve
+ulkohelve;yläkäsite;helve
+ulkosuomu;yläkäsite;lehti
+ulkosuomu;koostumussuhteinen yläkäsite;mykerö
+ulkosuomu;koostumussuhteinen yläkäsite;mykerö
+ulkosuomu;yläkäsite;alalehti
+uposlehti;yläkäsite;vesikasvin lehti
+uposlehti;vieruskäsite;ilmalehti
+uposlehti;vieruskäsite;kelluslehti
+uposlehti;;uposlehtinen
+varsilehti;yläkäsite;lehti
+varsilehti;vieruskäsite;aluslehti
+varsilehti;yläkäsite;kasvulehti
+vastaherttamainen;yläkäsite;lehtilavan muoto
+vastaherttamainen;vieruskäsite;herttamainen
+vastakkainen;yläkäsite;lehtiasento
+vastakkainen;;vuorottainen
+vastakkainen;;kierteinen
+vastakkainen;;lehtiasento
+vastakkainen;yläkäsite;kiehkurainen
+vastakkainen;yläkäsite;ristikkäinen
+vastakolmiomainen;yläkäsite;lehtilavan muoto
+vastakolmiomainen;vieruskäsite;kolmiomainen
+vastapuikea;yläkäsite;lehtilavan muoto
+vastapuikea;vieruskäsite;puikea
+venho;yläkäsite;terälehti
+venho;koostumussuhteinen yläkäsite;teriö
+venho;vieruskäsite;siivet
+venho;vieruskäsite;purje
+venho;;perhomainen
+verhiö;koostumussuhteinen yläkäsite;kehä
+verhiö;koostumussuhteinen yläkäsite;kehä
+verhiö;koostumussuhteinen vieruskäsite;teriö
+verhiö;koostumussuhteinen alakäsite;verholehti
+verholehti;yläkäsite;kukkalehti
+verholehti;koostumussuhteinen yläkäsite;verhiö
+verholehti;yläkäsite;kehälehti
+verholehti;vieruskäsite;terälehti
+verholehti;koostumussuhteinen yläkäsite;verhiö
+verholehti;koostumussuhteinen yläkäsite;kehä
+verkkomainen;yläkäsite;lehtisuonitus
+verkkomainen;koostumussuhteinen yläkäsite;pinta
+verkkomainen;;ruutuinen
+verkkosuoninen;yläkäsite;lehtisuonitus
+verkkosuoninen;;suonitus
+verkkosuoninen;vieruskäsite;kourasuoninen
+verkkosuoninen;vieruskäsite;silposuoninen
+verkkosuoninen;vieruskäsite;sulkasuoninen
+vesalehti;yläkäsite;lehti
+vesalehti;koostumussuhteinen yläkäsite;varsi
+vesalehti;koostumussuhteinen yläkäsite;vesa
+vuorolehdykkäinen;yläkäsite;parilehdykkäinen
+vuorolehdykkäinen;yläkäsite;parilehdykkäinen
+vuorolehdykkäinen;vieruskäsite;päätöparinen
+vuorolehdykkäinen;vieruskäsite;tasaparinen
+vuorolehdykkäinen;vieruskäsite;välilehdykkäinen
+vuorottainen;yläkäsite;lehtiasento
+vuorottainen;yläkäsite;kierteinen
+vuorottainen;vieruskäsite;vastakkainen
+vuorottainen;vieruskäsite;säteittäinen
+vuorottainen;;ruusukkeinen
+vuorottainen;;lehtiasento
+yhdislehtinen;yläkäsite;elin; emiö; kukka; teriö; verhiö
+yhdislehtinen;;erillislehtinen
+yhdislehtinen;;erillinen
+yhdistynyt;yläkäsite;elin; terälehti
+yhdistynyt;;erillinen
+yhdistynyt;;yhdislehtinen
+ylälehti;yläkäsite;lehti
+ylälehti;koostumussuhteinen yläkäsite;kukinto; verso
+ylälehti;;alalehti
+ylälehti;;suojuslehti
+ylälehti;;varuslehti
+ylälehti;;tukilehti
+äimämäinen;yläkäsite;lehtilavan muoto
+äimämäinen;;neulasmainen
+ruutu;koostumussuhteinen yläkäsite;lehti; pinta
+ruutu;koostumussuhteinen yläkäsite;lehti
+ruutupintainen;yläkäsite;lehti; pinta
+ruutupintainen;;verkkomainen
+ruutupintainen;;ruutu
+suippotyvinen;yläkäsite;lehden tyvi
+suippotyvinen;vieruskäsite;pitkäsuippuinen
+suippotyvinen;vieruskäsite;kiilatyvinen
+lehtikorvake;koostumussuhteinen yläkäsite;lehti
+lehtikorvake;koostumussuhteinen yläkäsite;lehti
+lehtikorvake;yläkäsite;korvake
+lehtikorvakkeellinen;yläkäsite;lehti
+lehtikorvakkeellinen;;lehtikorvake
+lehtikorvakkeellinen;;korvakkeellinen
+lehtikorvakkeellinen;;sepivä
+hanka;koostumussuhteinen yläkäsite;lehti
+kaksiliuskainen;yläkäsite;lehti liuskaisuuden suhteen
+kaksiliuskainen;yläkäsite;liuskainen
+kaksiliuskainen;vieruskäsite;kolmiliuskainen
+kaksiliuskainen;;sormiliuskainen
+kaksiliuskainen;;pariliuskainen
+kaksiliuskainen;;kaksiosainen
+toistamiseen parilehdykkäinen;yläkäsite;parilehdykkäinen
+toistamiseen parilehdykkäinen;;kolmeen kertaan parilehdykkäinen
+toistamiseen parilehdykkäinen;yläkäsite;parilehdykkäinen
+toistamiseen parilehdykkäinen;;toistamiseen kolmisorminen
+toistamiseen kolmisorminen;yläkäsite;kerrannaislehti; lehti liuskaisuuden suhteen
+toistamiseen kolmisorminen;yläkäsite;kolmisorminen
+toistamiseen kolmisorminen;;liuskainen
+toistamiseen kolmisorminen;;kolmeen kertaan kolmisorminen
+toistamiseen kolmisorminen;;toistamiseen parilehdykkäinen
+esilehti;yläkäsite;lehti ikänsä suhteen
+esilehti;koostumussuhteinen yläkäsite;verso
+esilehti;;varuslehti
+esilehti;;sirkkalehti
+varuslehti;yläkäsite;lehti
+varuslehti;koostumussuhteinen yläkäsite;kehä
+varuslehti;yläkäsite;suojuslehti
+varuslehti;;kehto
+hapsiliuskainen;yläkäsite;lehti liuskaisuuden suhteen
+hapsiliuskainen;vieruskäsite;kapealiuskainen
+hapsiliuskainen;yläkäsite;liuskainen
+kärhellinen;yläkäsite;lehti
+kärhellinen;;kärhi
+herttamainen;yläkäsite;lehtilavan muoto
+herttamainen;;herttatyvinen
+herttamainen;;vastaherttamainen
+lisäteriö;yläkäsite;lehti
+lisäteriö;koostumussuhteinen yläkäsite;teriö
+lisäteriö;;teriö
+;yläkäsite;lehti
+;koostumussuhteinen yläkäsite;teriö
+;koostumussuhteinen yläkäsite;lisäteriö
+;yläkäsite;liuska
+;koostumussuhteinen yläkäsite;lehti
+;koostumussuhteinen yläkäsite;lehdykkä
+;yläkäsite;keskiranka
+;yläkäsite;keskisuoni
+;koostumussuhteinen yläkäsite;lehti
+;koostumussuhteinen yläkäsite;pikkulehdykkä
+;yläkäsite;keskiranka
+;yläkäsite; keskisuoni
+piispansauva;yläkäsite;lehti
+huppumainen;yläkäsite;lehti
+huppumainen;vieruskäsite;säkkimäinen
+tasakylkisen kolmiomainen;yläkäsite;lehtilavan muoto
+tasakylkisen kolmiomainen;yläkäsite;kolmiomainen
+tasakylkisen kolmiomainen;;kiilamainen
+tasakylkisen kolmiomainen;;vastakolmiomainen
+hienohampainen;yläkäsite;lehtilaita
+hienohampainen;yläkäsite;hammaslaitainen
+hienohampainen;;lehtilaita
+uposlehtinen;yläkäsite;kasvityyppi
+uposlehtinen;vieruskäsite;kelluslehtinen
+uposlehtinen;vieruskäsite;irtokelluja
+uposlehtinen;vieruskäsite;pohjalehtinen
+uposlehtinen;;uposlehti
+matalasti risalaitainen;yläkäsite;lehtilaita
+matalasti risalaitainen;;risakärkinen
+matalasti risalaitainen;;lehtilaita
+korvakkeeton;yläkäsite;lehti
+korvakkeeton;vieruskäsite;korvakkeellinen
+sirppimäinen;yläkäsite;lehti
+sirppimäinen;vieruskäsite;lusikkamainen
+sirppimäinen;vieruskäsite;neulasmainen
+sirppimäinen;vieruskäsite;pussimainen
+sirppimäinen;vieruskäsite;keihäsmäinen
+lehtimäinen;yläkäsite;lehti
+lehtimäinen;;lehti
+;yläkäsite;lehti
+emiöperä;koostumussuhteinen yläkäsite;kukka
+emiöperä;;siitoslehtiperä
+erilaislehtinen;yläkäsite;verso
+limittäinen;yläkäsite;lehti
+limittäinen;;vierilaitainen
+välilehdykkäinen;yläkäsite;parilehdykkäinen
+välilehdykkäinen;yläkäsite;parilehdykkäinen
+välilehdykkäinen;vieruskäsite;tasaparinen
+välilehdykkäinen;vieruskäsite;päätöparinen
+välilehdykkäinen;vieruskäsite;vuorolehdykkäinen
+suojuslehtikiehkura;koostumussuhteinen yläkäsite;kukinto; kukka
+suojuslehtikiehkura;;kehto
+suojuslehtikiehkura;;kiehkura
+säännöttömästi liuskainen;yläkäsite;lehti liuskaisuuden suhteen
+säännöttömästi liuskainen;yläkäsite;liuskainen
+säännöttömästi liuskainen;;taapäin liuskainen
+kapealiuskainen;yläkäsite;lehti liuskaisuuden suhteen
+kapealiuskainen;vieruskäsite;hapsiliuskainen
+kapealiuskainen;vieruskäsite;yläkäsite
+kieleke;koostumussuhteinen yläkäsite;lehti
+kauna;yläkäsite;lehti
+kauna;koostumussuhteinen yläkäsite;kukinto
+kauna;koostumussuhteinen yläkäsite;tähkylä
+kauna;;sisähelve
+kauna;;helve
+lyyramainen;yläkäsite;lehtilavan muoto
+lyyramainen;yläkäsite;lehdykkäinen
+lyyramainen;yläkäsite;liuskainen
+kuihtuva;yläkäsite;elin; lehti; terälehti; verhiö
+kuihtuva;;surkastunut
+venemäinen;yläkäsite;lehti
+venemäinen;;kölillinen
+kelluslehtinen;yläkäsite;kasvityyppi
+kelluslehtinen;;kelluslehti
+kelluslehtinen;vieruskäsite; uposlehtinen
+kelluslehtinen;vieruskäsite;irtokelluja
+kelluslehtinen;vieruskäsite;pohjalehtinen
+käpysuomu;yläkäsite;lehti
+käpysuomu;koostumussuhteinen yläkäsite;kukinto
+käpysuomu;yläkäsite;suomu
+käpysuomu;koostumussuhteinen yläkäsite;käpy
+sormijakoinen;yläkäsite;lehti liuskaisuuden suhteen
+sormijakoinen;yläkäsite;sormiliuskainen
+sormijakoinen;yläkäsite;jakoinen
+sormijakoinen;vieruskäsite;sormihalkoinen
+sormijakoinen;vieruskäsite;sormiosainen
+sormijakoinen;;parijakoinen
+sormijakoinen;;kourasuoninen
+viulunmuotoinen;yläkäsite;lehtilavan muoto
+viulunmuotoinen;;vastapuikea
+jalkamainen;yläkäsite;lehtilavan muoto
+jalkamainen;yläkäsite;sormiliuskainen
+jalkamainen;;kolmisorminen
+jalkamainen;;sormijakoinen
+jalkamainen;;sormihalkoinen
+viisiosainen;yläkäsite;lehti
+kehäliuska;yläkäsite;lehti
+kehäliuska;koostumussuhteinen yläkäsite;kehä
+kehäliuska;;kehälehti
+jaksottaisesti sahalaitainen;yläkäsite;lehtilaita
+jaksottaisesti sahalaitainen;yläkäsite;sahalaitainen
+jaksottaisesti sahalaitainen;vieruskäsite;ripsisahainen
+jaksottaisesti sahalaitainen;vieruskäsite;toissahainen
+jaksottaisesti sahalaitainen;vieruskäsite;hienosahainen
+jaksottaisesti sahalaitainen;vieruskäsite;vastasahainen
+jaksottaisesti sahalaitainen;vieruskäsite;nystysahainen
+jaksottaisesti sahalaitainen;;lehtilaita
+terälehtimäinen;yläkäsite;lehti
+terälehtimäinen;;verholehti
+terälehtimäinen;;suojuslehti
+ruodillinen;yläkäsite;lehti
+ruodillinen;;ruoti
+;yläkäsite;varsi
+;koostumussuhteinen yläkäsite;lehti
+;;kukkaperä
+;;kukintoperä
+;yläkäsite;ruoti
+lehdykkäinen;yläkäsite;kerrannaislehti
+lehdykkäinen;yläkäsite;parilehdykkäinen
+lehdykkäinen;yläkäsite;sormilehdykkäinen
+pikkulehdykkä;yläkäsite;lehti
+pikkulehdykkä;koostumussuhteinen yläkäsite;lehti
+pikkulehdykkä;yläkäsite;lehdykkä
+epätasaisen typäkkä;yläkäsite;lehden kärki
+epätasaisen typäkkä;yläkäsite;typäkkä
+pullistuma;koostumussuhteinen yläkäsite;lehti
+pohjussuomu;yläkäsite;lehti
+pohjussuomu;koostumussuhteinen yläkäsite;mykerö
+pohjussuomu;koostumussuhteinen yläkäsite;pohjus
+pohjussuomu;koostumussuhteinen yläkäsite;yläkäsite
+matalaan mutkalaitainen;yläkäsite;lehtilaita
+matalaan mutkalaitainen;yläkäsite;mutkalaitainen
+matalaan mutkalaitainen;;lehtilaita
+matalaan mutkalaitainen;;aaltopoimuinen
+taapäin liuskainen;yläkäsite;lehtilaita
+taapäin liuskainen;;vastasahainen
+taapäin liuskainen;;säännöttömästi liuskainen
+verholehtimäinen;yläkäsite;lehti
+verholehtimäinen;vieruskäsite;terälehtimäinen
+hienosahainen;yläkäsite;lehtilaita
+hienosahainen;yläkäsite;sahalaitainen
+hienosahainen;;lehtilaita
+verso;yläkäsite;kasvin peruselin
+verso;koostumussuhteinen yläkäsite;kasvi
+verso;koostumussuhteinen alakäsite;lehti
+verso;koostumussuhteinen alakäsite;varsi
+verso;koostumussuhteinen vieruskäsite;juuri
+verso;yläkäsite;ilmaverso
+verso;yläkäsite;kukkaverso
+verso;yläkäsite;lyhytverso
+verso;yläkäsite;pitkäverso
+verso;yläkäsite;peruselin
+mutkalaitainen;yläkäsite;lehtilaita
+mutkalaitainen;;aaltopoimuinen
+mutkalaitainen;yläkäsite;matalaan mutkalaitainen
+mutkalaitainen;;mutkainen
+mutkalaitainen;;lehtilaita
+lovi;koostumussuhteinen yläkäsite;lehti
+puikelon suojuslehti;yläkäsite;lehti
+puikelon suojuslehti;koostumussuhteinen yläkäsite;kukinto
+puikelon suojuslehti;yläkäsite;suojuslehti
+puikelon suojuslehti;yläkäsite;koostumussuhteinen yläkäsite
+piikki;koostumussuhteinen yläkäsite;lehti; pinta
+piikki;;sukaspiikki
+piikki;;oka
+piikki;;ora
+itiölehti;yläkäsite;lehti
+itiölehti;koostumussuhteinen alakäsite;itiöpesäke
+itiölehti;yläkäsite;pikkuitiöpesäkelehti
+lehdykän korvake;koostumussuhteinen yläkäsite;lehti
+lehdykän korvake;yläkäsite;korvake
+korvakkeellinen;yläkäsite;lehti
+korvakkeellinen;vieruskäsite;korvakkeeton
+korvakkeellinen;;korvake
+kolmisorminen;yläkäsite;kerrannaislehti; lehti liuskaisuuden suhteen
+kolmisorminen;;kolmilehdykkäinen
+kolmisorminen;;kerrannaislehti
+kolmiotainen;yläkäsite;lehti
+kolmiotainen;yläkäsite;otapäinen
+kolmiliuskainen;yläkäsite;lehti liuskaisuuden suhteen
+kolmiliuskainen;yläkäsite;kolmihalkoinen
+kolmiliuskainen;yläkäsite;kolmiosainen
+kolmiliuskainen;yläkäsite;kolmijakoinen
+kolmiliuskainen;yläkäsite;liuskainen
+kolmilehtinen;yläkäsite;varsi
+kolmilehtinen;;kolmilehdykkäinen
+kulmikkaanpuikea;yläkäsite;lehtilavan muoto
+kulmikkaanpuikea;yläkäsite;puikea
+kulmikkaanpuikea;;vinoneliömäinen
+typäkkä;yläkäsite;lehden kärki; lehden tyvi
+typäkkä;vieruskäsite;lanttopäinen
+typäkkä;vieruskäsite;keulamainen
+typäkkä;vieruskäsite;terävä
+typäkkä;;typäkkätyvinen
+erikokoislehtisyys;;erilaislehtisyys
+erilaislehtisyys;;erikokoislehtisyys
+halkoinen;yläkäsite;lehti liuskaisuuden suhteen
+halkoinen;vieruskäsite;jakoinen
+halkoinen;vieruskäsite;osainen
+halkoinen;yläkäsite;liuskainen
+kilpilehti;yläkäsite;lehti
+kärhilehti;yläkäsite;lehti
+kärhilehti;yläkäsite;lehti
+lehtiaihe;yläkäsite;lehti
+lehtiaihe;;lehti
+lehtikiehkura;yläkäsite;lehtiasento
+lehtikiehkura;;lehtiasento
+lehtimehukasvi;yläkäsite;kasvityyppi
+lehtimehukasvi;;mehilehti
+lehtiseuraanto;;lehti
+myöhäislehti;yläkäsite;lehti ikänsä suhteen
+myöhäislehti;yläkäsite;lehti
+myöhäislehti;vieruskäsite;varhaislehti
+myöhäislehti;vieruskäsite;aitolehti
+myöhäislehti;;sirkkalehti
+myöhäislehti;;esilehti
+osainen;yläkäsite;lehti liuskaisuuden suhteen
+osainen;yläkäsite;liuskainen
+osainen;vieruskäsite;jakoinen
+osainen;vieruskäsite;halkoinen
+peruselin;yläkäsite;juuri
+peruselin;yläkäsite;verso
+peruselin;yläkäsite;lehti
+peruselin;yläkäsite;varsi
+peruselin;yläkäsite;kukka
+pussilehti;yläkäsite;lehti
+selkälehti;yläkäsite;lehti
+selkälehti;vieruskäsite;vatsalehti
+selkälehti;vieruskäsite;kylkilehti
+sormihalkoinen;yläkäsite;lehti liuskaisuuden suhteen
+sormihalkoinen;yläkäsite;sormiliuskainen
+sormihalkoinen;yläkäsite;halkoinen
+sormihalkoinen;vieruskäsite;sormijakoinen
+sormihalkoinen;vieruskäsite;sormiosainen
+sormihalkoinen;;parihalkoinen
+sormihalkoinen;;kourasuoninen
+tyvilehti;yläkäsite;lehti
+tyvilehti;yläkäsite;lehti
+tyvilehti;;varsilehti
+tyvilehti;;sirkkalehti
+vaippalehti;yläkäsite;lehti
+vaippalehti;yläkäsite;varhaislehti
+varhaislehti;yläkäsite;lehti ikänsä suhteen
+varhaislehti;yläkäsite;kasvulehti
+varhaislehti;vieruskäsite;aitolehti
+varhaislehti;vieruskäsite;myöhäislehti
+varhaislehti;;vaippalehti
+erilehtinen;yläkäsite;kukka
+erilehtinen;;erillinen
+erilehtinen;;yhdistynyt
+mehilehti;yläkäsite;lehti
+mehilehti;;mehikasvi
+lehtijäkälä;yläkäsite;sienitiede
+jalot lehtipuut;yläkäsite;kasvityyppi
+jalot lehtipuut;yläkäsite;lehtipuu
+karstasammalet;yläkäsite;taksoni
+karstasammalet;yläkäsite;lehtisammalet
+karstasammalet;vieruskäsite;rahkasammalet
+karstasammalet;vieruskäsite;aitosammalet
+lehtimetsä;yläkäsite;kasvupaikka
+lehtimetsä;yläkäsite;metsä
+lehtimetsä;vieruskäsite;havumetsä
+lehtimetsä;vieruskäsite;kangasmetsä
+lehtimetsä;vieruskäsite;sekametsä
+maksasammalet;yläkäsite;taksoni
+maksasammalet;vieruskäsite;sarvisammalet
+maksasammalet;vieruskäsite;lehtisammalet
+pohjalehtinen;yläkäsite;kasvityyppi
+pohjalehtinen;vieruskäsite;kelluslehtinen
+pohjalehtinen;vieruskäsite;uposlehtinen
+pohjalehtinen;vieruskäsite;irtokelluja
+sarvisammalet;yläkäsite;taksoni
+sarvisammalet;vieruskäsite;maksasammalet
+sarvisammalet;vieruskäsite;lehtisammalet
+vatsalehti;yläkäsite;lehti
+vatsalehti;vieruskäsite;kylkilehti
+vatsalehti;vieruskäsite;selkälehti
+lehtiarpi;koostumussuhteinen yläkäsite;pinta; varsi
+kiehkurainen;yläkäsite;lehtiasento
+kiehkurainen;vieruskäsite;kierteinen
+kiehkurainen;yläkäsite;vastakkainen
+kiehkurainen;yläkäsite;säteittäinen
+kiehkurainen;;lehtiasento
+vastasahainen;yläkäsite;lehtilaita
+vastasahainen;yläkäsite;sahalaitainen
+vastasahainen;;lehtilaita
+kylkilehti;yläkäsite;lehti
+kylkilehti;vieruskäsite;vatsalehti
+kylkilehti;vieruskäsite;selkälehti
+peitinsuomu;yläkäsite;lehti
+peitinsuomu;;suomu
+nystysahainen;yläkäsite;lehtilaita
+nystysahainen;yläkäsite;sahalaitainen
+nystysahainen;;lehtilaita
+lehtiaukko;koostumussuhteinen yläkäsite;lehti
+kynnellinen;yläkäsite;lehti
+kynnellinen;;kynsi
+pikkuitiöpesäkelehti;yläkäsite;lehti
+pikkuitiöpesäkelehti;;itiölehti
+sivusuoni;koostumussuhteinen yläkäsite;lehti
+sivusuoni;yläkäsite;suoni
+sivusuoni;vieruskäsite;keskisuoni
+pohjaluku;;kukkalehti

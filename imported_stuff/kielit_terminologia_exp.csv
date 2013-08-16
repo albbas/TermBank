@@ -1,0 +1,375 @@
+nimitys%käsite%käännösvastaavuus%kieli%sanaluokka%sanamuoto%perussanatyyppi%johdostyyppi%käyttösuositus%alkuperä
+käsite%käsite%%suomi%substantiivi%%%%%
+begrepp%käsite%%ruotsi%%%%%%
+concept%käsite%%ranska%%%%%%
+notion%käsite%%ranska%%%%%%
+concept%käsite%%englanti%%%%%%
+käsitteen ala%käsitteen ala%%suomi%substantiivi%%%%%
+ekstensio%käsitteen ala%%suomi%substantiivi%%%%%
+käsitteen ekstensio%käsitteen ala%%suomi%substantiivi%%%%%
+extension%käsitteen ala%%ruotsi%%%%%%
+begreppsomfång%käsitteen ala%%ruotsi%%%%%%
+Begriffsumfang%käsitteen ala%%saksa%%%%%%
+extension %käsitteen ala%%ranska%%%%%%
+extension%käsitteen ala%%englanti%%%%%%
+käsitteen sisältö%käsitteen sisältö%%suomi%substantiivi%%%%%
+intensio%käsitteen sisältö%%suomi%substantiivi%%%%%
+käsitteen intensio%käsitteen sisältö%%suomi%substantiivi%%%%%
+intension%käsitteen sisältö%%ruotsi%%%%%%
+begreppsinnehåll%käsitteen sisältö%%ruotsi%%%%%%
+Begriffsinhalt%käsitteen sisältö%%saksa%%%%%%
+compréhension%käsitteen sisältö%%ranska%%%%%%
+intension%käsitteen sisältö%%englanti%%%%%%
+käsitepiirre%käsitepiirre%%suomi%substantiivi%%%%%
+kännetecken%käsitepiirre%%ruotsi%%%%%%
+Begriffsmerkmal%käsitepiirre%%saksa%%%%%%
+caractère%käsitepiirre%%ranska%%%%%%
+characteristic%käsitepiirre%%englanti%%%%%%
+olennaispiirre%olennaispiirre%%suomi%substantiivi%%%%%
+olennainen käsitepiirre%olennaispiirre%%suomi%substantiivi%%%%%
+väsentligt kännetecken%olennaispiirre%%ruotsi%%%%%%
+essentielles Merkmal%olennaispiirre%%saksa%%%%%%
+wesenliches Merkmal%olennaispiirre%%saksa%%%%%%
+caractère essentiel%olennaispiirre%%ranska%%%%%%
+essential characteristic%olennaispiirre%%englanti%%%%%%
+erottava piirre% erottava piirre%%suomi%substantiivi%%%%%
+erottava käsitepiirre% erottava piirre%%suomi%substantiivi%%%%%
+särskiljande kännetecken% erottava piirre%%ruotsi%%%%%%
+caractère distinctif% erottava piirre%%ranska%%%%%%
+delimiting characteristic% erottava piirre%%englanti%%%%%%
+yleiskäsite%yleiskäsite%%suomi%substantiivi%%%%%
+allmänbegrepp%yleiskäsite%%ruotsi%%%%%%
+Allgemeinbegriff%yleiskäsite%%saksa%%%%%%
+concept général%yleiskäsite%%ranska%%%%%%
+general concept%yleiskäsite%%englanti%%%%%%
+yksilökäsite%yksilökäsite%%suomi%substantiivi%%%%%
+individualbegrepp%yksilökäsite%%ruotsi%%%%%%
+Individualbegriff%yksilökäsite%%saksa%%%%%%
+concept unique%yksilökäsite%%ranska%%%%%%
+individual concept%yksilökäsite%%englanti%%%%%%
+yläkäsite%yläkäsite%%suomi%substantiivi%%%%%
+looginen yläkäsite%yläkäsite%%suomi%substantiivi%%%%%
+hierarkkinen yläkäsite%yläkäsite%%suomi%substantiivi%%%%%
+överordnat begrepp%yläkäsite%%ruotsi%%%%%%
+överbegrepp%yläkäsite%%ruotsi%%%%%%
+Oberbegriff%yläkäsite%%saksa%%%%%%
+concept superordonné%yläkäsite%%ranska%%%%%%
+superordinate concept%yläkäsite%%englanti%%%%%%
+broader concept%yläkäsite%%englanti%%%%%%
+alakäsite%alakäsite%%suomi%substantiivi%%%%%
+looginen alakäsite%alakäsite%%suomi%substantiivi%%%%%
+hierarkkinen alakäsite%alakäsite%%suomi%substantiivi%%%%%
+underordnat begrepp%alakäsite%%ruotsi%%%%%%
+underbegrepp%alakäsite%%ruotsi%%%%%%
+Unterbegriff%alakäsite%%saksa%%%%%%
+concept subordonné%alakäsite%%ranska%%%%%%
+subordinate concept%alakäsite%%englanti%%%%%%
+narrower concept%alakäsite%%englanti%%%%%%
+koostumussuhteinen yläkäsite%koostumussuhteinen yläkäsite%%suomi%substantiivi%%%%%
+koostumussuhteen yläkäsite%koostumussuhteinen yläkäsite%%suomi%substantiivi%%%%%
+kokonaisuuskäsite%koostumussuhteinen yläkäsite%%suomi%substantiivi%%%%%
+helhetsbegrepp%koostumussuhteinen yläkäsite%%ruotsi%%%%%%
+concept intégrant%koostumussuhteinen yläkäsite%%ranska%%%%%%
+comprehensive concept%koostumussuhteinen yläkäsite%%englanti%%%%%%
+koostumussuhteinen alakäsite%koostumussuhteinen alakäsite%%suomi%substantiivi%%%%%
+koostumussuhteen alakäsite%koostumussuhteinen alakäsite%%suomi%substantiivi%%%%%
+osakäsite%koostumussuhteinen alakäsite%%suomi%substantiivi%%%%%
+delbegrepp%koostumussuhteinen alakäsite%%ruotsi%%%%%%
+concept partitif%koostumussuhteinen alakäsite%%ranska%%%%%%
+partitive concept%koostumussuhteinen alakäsite%%englanti%%%%%%
+vieruskäsite%vieruskäsite%%suomi%substantiivi%%%%suositeltu%
+rinnakkaiskäsite%vieruskäsite%%suomi%substantiivi%%%%%
+sidoordnat begrepp%vieruskäsite%%ruotsi%%%%%%
+sidobegrepp%vieruskäsite%%ruotsi%%%%%%
+nebengeordnete Begriffe%vieruskäsite%%saksa%%%%%%
+concept coordonné%vieruskäsite%%ranska%%%%%%
+coordinate concept%vieruskäsite%%englanti%%%%%%
+käsitekenttä%käsitekenttä%%suomi%substantiivi%%%%%
+begreppsfält%käsitekenttä%%ruotsi%%%%%%
+champ m conceptuel%käsitekenttä%%ranska%%%%%%
+%käsitekenttä%%ranska%%%%%%
+champ notionnel%käsitekenttä%%ranska%%%%%%
+concept field%käsitekenttä%%englanti%%%%%%
+käsitejärjestelmä%käsitejärjestelmä%%suomi%substantiivi%%%%%
+begreppssystem%käsitejärjestelmä%%ruotsi%%%%%%
+Begriffssystem%käsitejärjestelmä%%saksa%%%%%%
+système de concepts%käsitejärjestelmä%%ranska%%%%%%
+système de notions%käsitejärjestelmä%%ranska%%%%%%
+concept system%käsitejärjestelmä%%englanti%%%%%%
+system of concepts%käsitejärjestelmä%%englanti%%%%%%
+käsitejärjestelmäkaavio%käsitejärjestelmäkaavio%%suomi%substantiivi%%%%%
+käsitekaavio%käsitejärjestelmäkaavio%%suomi%substantiivi%%%%%
+begreppsdiagram%käsitejärjestelmäkaavio%%ruotsi%%%%%%
+schéma conceptuel%käsitejärjestelmäkaavio%%ranska%%%%%%
+schéma notionnel%käsitejärjestelmäkaavio%%ranska%%%%%%
+concept diagram%käsitejärjestelmäkaavio%%englanti%%%%%%
+hierarkiasuhde%hierarkiasuhde%%suomi%substantiivi%%%%%
+hierarkkinen käsitesuhde%hierarkiasuhde%%suomi%substantiivi%%%%%
+hierarkkinen suhde%hierarkiasuhde%%suomi%substantiivi%%%%%
+generisk begreppsrelation%hierarkiasuhde%%ruotsi%%%%%%
+logisk begreppsrelation%hierarkiasuhde%%ruotsi%%%%%%
+hierarchische Beziehung%hierarkiasuhde%%saksa%%%%%%
+relation générique%hierarkiasuhde%%ranska%%%%%%
+generic relation%hierarkiasuhde%%englanti%%%%%%
+genus-species relation%hierarkiasuhde%%englanti%%%%%%
+koostumussuhde%koostumussuhde%%suomi%substantiivi%%%%%
+partitiv begreppsrelation%koostumussuhde%%ruotsi%%%%%%
+del-helhetsrelation%koostumussuhde%%ruotsi%%%%%%
+partitive Beziehung%koostumussuhde%%saksa%%%%%%
+relation partitive%koostumussuhde%%ranska%%%%%%
+relation partie-tout%koostumussuhde%%ranska%%%%%%
+partitive relation%koostumussuhde%%englanti%%%%%%
+part-whole relation%koostumussuhde%%englanti%%%%%%
+funktiosuhde%funktiosuhde%%suomi%substantiivi%%%%%
+associativ begreppsrelation%funktiosuhde%%ruotsi%%%%%%
+relation associative%funktiosuhde%%ranska%%%%%%
+relation pragmatique%funktiosuhde%%ranska%%%%%%
+associative relation%funktiosuhde%%englanti%%%%%%
+pragmatic relation%funktiosuhde%%englanti%%%%%%
+aikasuhde%aikasuhde%%suomi%substantiivi%%%%%
+temporaalinen käsitesuhde%aikasuhde%%suomi%substantiivi%%%%%
+tidsrelation%aikasuhde%%ruotsi%%%%%%
+relation temporelle%aikasuhde%%ranska%%%%%%
+temporal relation%aikasuhde%%englanti%%%%%%
+syysuhde%syysuhde%%suomi%substantiivi%%%%%
+syy-seuraussuhde%syysuhde%%suomi%substantiivi%%%%%
+kausaalisuhde%syysuhde%%suomi%substantiivi%%%%%
+orsaksrelation%syysuhde%%ruotsi%%%%%%
+Kausalbeziehung%syysuhde%%saksa%%%%%%
+relation causale%syysuhde%%ranska%%%%%%
+causal relation%syysuhde%%englanti%%%%%%
+cause-effect relation%syysuhde%%englanti%%%%%%
+määritelmä%määritelmä%%suomi%substantiivi%%%%%
+definition%määritelmä%%ruotsi%%%%%%
+Definition%määritelmä%%saksa%%%%%%
+définition%määritelmä%%ranska%%%%%%
+definition%määritelmä%%englanti%%%%%%
+sisältömääritelmä %sisältömääritelmä %%suomi%substantiivi%%%%suositeltu%
+intensionaalinen määritelmä%sisältömääritelmä %%suomi%substantiivi%%%%%
+intensionell definition%sisältömääritelmä %%ruotsi%%%%%%
+innehållsdefinition%sisältömääritelmä %%ruotsi%%%%%%
+Inhaltsdefinition%sisältömääritelmä %%saksa%%%%%%
+définition par compréhension%sisältömääritelmä %%ranska%%%%%%
+définition par intention%sisältömääritelmä %%ranska%%%%%%
+intensional definition%sisältömääritelmä %%englanti%%%%%%
+joukkomääritelmä %joukkomääritelmä %%suomi%substantiivi%%%%suositeltu%
+alamääritelmä%joukkomääritelmä %%suomi%substantiivi%%%%%
+ekstensionaalinen määritelmä%joukkomääritelmä %%suomi%substantiivi%%%%%
+extensionell definition%joukkomääritelmä %%ruotsi%%%%%%
+omfångsdefinition%joukkomääritelmä %%ruotsi%%%%%%
+Umfangsderinition%joukkomääritelmä %%saksa%%%%%%
+définition par extension%joukkomääritelmä %%ranska%%%%%%
+extensional definition%joukkomääritelmä %%englanti%%%%%%
+kehämääritelmä%kehämääritelmä%%suomi%substantiivi%%%%%
+cirkeldefinition%kehämääritelmä%%ruotsi%%%%%%
+définition tautologique%kehämääritelmä%%ranska%%%%%%
+circular definition%kehämääritelmä%%englanti%%%%%%
+sisäinen kehämääritelmä%sisäinen kehämääritelmä%%suomi%substantiivi%%%%%
+inre cirkeldefinition%sisäinen kehämääritelmä%%ruotsi%%%%%%
+Zirkeldefinition %sisäinen kehämääritelmä%%saksa%%%%%%
+définition tautologique interne%sisäinen kehämääritelmä%%ranska%%%%%%
+internal circular definition%sisäinen kehämääritelmä%%englanti%%%%%%
+ulkoinen kehämääritelmä%ulkoinen kehämääritelmä%%suomi%substantiivi%%%%%
+yttre cirkeldefinition%ulkoinen kehämääritelmä%%ruotsi%%%%%%
+Zirkeldefinition %ulkoinen kehämääritelmä%%saksa%%%%%%
+définition tautologique externe%ulkoinen kehämääritelmä%%ranska%%%%%%
+external circular definition%ulkoinen kehämääritelmä%%englanti%%%%%%
+nimitys %nimitys (terminologiaoppi)%%suomi%substantiivi%%%%%
+benämning%nimitys (terminologiaoppi)%%ruotsi%%%%%%
+Benennung%nimitys (terminologiaoppi)%%saksa%%%%%%
+désignation%nimitys (terminologiaoppi)%%ranska%%%%%%
+designation%nimitys (terminologiaoppi)%%englanti%%%%%%
+lyhenne%lyhenne%%suomi%substantiivi%%%%%
+förkortning%lyhenne%%ruotsi%%%%%%
+Abkürzung%lyhenne%%saksa%%%%%%
+abréviation%lyhenne%%ranska%%%%%%
+abbreviation%lyhenne%%englanti%%%%%%
+erisnimi %erisnimi (terminologiaoppi)%%suomi%substantiivi%%%%%
+propri%erisnimi (terminologiaoppi)%%suomi%substantiivi%%%%%
+egennamn%erisnimi (terminologiaoppi)%%ruotsi%%%%%%
+proprium%erisnimi (terminologiaoppi)%%ruotsi%%%%%%
+appellation%erisnimi (terminologiaoppi)%%ranska%%%%%%
+nom%erisnimi (terminologiaoppi)%%ranska%%%%%%
+appellation%erisnimi (terminologiaoppi)%%englanti%%%%%%
+name%erisnimi (terminologiaoppi)%%englanti%%%%%%
+yhdistämätön termi%yhdistämätön termi%%suomi%substantiivi%%%%%
+enkel term%yhdistämätön termi%%ruotsi%%%%%%
+terme simplet%yhdistämätön termi%%ranska%%%%%%
+simple term%yhdistämätön termi%%englanti%%%%%%
+johdostermi%johdostermi%%suomi%substantiivi%%%%%
+avledd term%johdostermi%%ruotsi%%%%%%
+dérivé%johdostermi%%ranska%%%%%%
+derivative%johdostermi%%englanti%%%%%%
+sanaliittotermi%sanaliittotermi%%suomi%substantiivi%%%%%
+flerordsterm%sanaliittotermi%%ruotsi%%%%%%
+terme composé%sanaliittotermi%%ranska%%%%%%
+compound term%sanaliittotermi%%englanti%%%%%%
+yhdyssanatermi%yhdyssanatermi%%suomi%substantiivi%%%%%
+sammansatt term%yhdyssanatermi%%ruotsi%%%%%%
+terme complexe%yhdyssanatermi%%ranska%%%%%%
+complex term%yhdyssanatermi%%englanti%%%%%%
+suositeltava termi%suositeltava termi%%suomi%substantiivi%%%%%
+suositettava termi%suositeltava termi%%suomi%substantiivi%%%%%
+rekommenderad term%suositeltava termi%%ruotsi%%%%%%
+Vorzugsbenennung%suositeltava termi%%saksa%%%%%%
+terme privilégié%suositeltava termi%%ranska%%%%%%
+preferred term%suositeltava termi%%englanti%%%%%%
+sallittava termi%sallittava termi%%suomi%substantiivi%%%%%
+tillåten term%sallittava termi%%ruotsi%%%%%%
+zugelassene Benennung%sallittava termi%%saksa%%%%%%
+terme toléré%sallittava termi%%ranska%%%%%%
+admitted term%sallittava termi%%englanti%%%%%%
+hylättävä termi%hylättävä termi%%suomi%substantiivi%%%%%
+avrådd term%hylättävä termi%%ruotsi%%%%%%
+abgelehnte Benennung%hylättävä termi%%saksa%%%%%%
+terme déconseillé%hylättävä termi%%ranska%%%%%%
+deprecated term%hylättävä termi%%englanti%%%%%%
+vanhentunut termi%vanhentunut termi%%suomi%substantiivi%%%%%
+föråldrad term%vanhentunut termi%%ruotsi%%%%%%
+terme désuet%vanhentunut termi%%ranska%%%%%%
+obsolete term%vanhentunut termi%%englanti%%%%%%
+lainatermi%lainatermi%%suomi%substantiivi%%%%%
+lånad term%lainatermi%%ruotsi%%%%%%
+emprunt%lainatermi%%ranska%%%%%%
+borrowed term%lainatermi%%englanti%%%%%%
+terminologinen fraasi%terminologinen fraasi%%suomi%substantiivi%%%%%
+erikoiskielen fraasi%terminologinen fraasi%%suomi%substantiivi%%%%%
+terminologisk fras%terminologinen fraasi%%ruotsi%%%%%%
+locution terminologique%terminologinen fraasi%%ranska%%%%%%
+terminological phrase%terminologinen fraasi%%englanti%%%%%%
+termittäminen%termittäminen%%suomi%substantiivi%%%%%
+terminologisering%termittäminen%%ruotsi%%%%%%
+terminologisation%termittäminen%%ranska%%%%%%
+terminologization%termittäminen%%englanti%%%%%%
+yleiskielistyminen%yleiskielistyminen%%suomi%substantiivi%%%%%
+avterminologisering%yleiskielistyminen%%ruotsi%%%%%%
+déterminologisation%yleiskielistyminen%%ranska%%%%%%
+banalisation %yleiskielistyminen%%ranska%%%%%%
+de-terminologization%yleiskielistyminen%%englanti%%%%%%
+vastaavuus%vastaavuus%%suomi%substantiivi%%%%%
+ekvivalenssi%vastaavuus%%suomi%substantiivi%%%%%
+ekvivalens%vastaavuus%%ruotsi%%%%%%
+termekvivalens%vastaavuus%%ruotsi%%%%%%
+Äquivalenz%vastaavuus%%saksa%%%%%%
+équivalence%vastaavuus%%ranska%%%%%%
+equivalence%vastaavuus%%englanti%%%%%%
+mononymia%mononymia%%suomi%substantiivi%%%%%
+mononymi%mononymia%%ruotsi%%%%%%
+mononymie%mononymia%%ranska%%%%%%
+mononymy%mononymia%%englanti%%%%%%
+monosemia%monosemia%%suomi%substantiivi%%%%%
+yksimerkityksisyys%monosemia%%suomi%substantiivi%%%%%
+monosemi%monosemia%%ruotsi%%%%%%
+Monosemie%monosemia%%saksa%%%%%%
+monosémie%monosemia%%ranska%%%%%%
+monosemy%monosemia%%englanti%%%%%%
+nimistö %nimistö (terminologiaoppi)%%suomi%substantiivi%%%%%
+nomenklatur%nimistö (terminologiaoppi)%%ruotsi%%%%%%
+Nomenklatur%nimistö (terminologiaoppi)%%saksa%%%%%%
+nomenclature%nimistö (terminologiaoppi)%%ranska%%%%%%
+nomenclature%nimistö (terminologiaoppi)%%englanti%%%%%%
+sanastotyö%sanastotyö%%suomi%substantiivi%%%%%
+terminologinen työ%sanastotyö%%suomi%substantiivi%%%%%
+terminologiarbete%sanastotyö%%ruotsi%%%%%%
+terminologiskt arbete%sanastotyö%%ruotsi%%%%%%
+travail terminologique%sanastotyö%%ranska%%%%%%
+terminology work%sanastotyö%%englanti%%%%%%
+sanastus %sanastus (terminologiaoppi)%%suomi%substantiivi%%%%%
+excerpering%sanastus (terminologiaoppi)%%ruotsi%%%%%%
+dépouillement terminologique%sanastus (terminologiaoppi)%%ranska%%%%%%
+term excerption%sanastus (terminologiaoppi)%%englanti%%%%%%
+korpus%korpus%%suomi%substantiivi%%%%%
+korpus%korpus%%ruotsi%%%%%%
+corpus%korpus%%ranska%%%%%%
+corpus%korpus%%englanti%%%%%%
+terminologinen konkordanssi%terminologinen konkordanssi%%suomi%substantiivi%%%%%
+terminologisk konkordans%terminologinen konkordanssi%%ruotsi%%%%%%
+concordance terminologique%terminologinen konkordanssi%%ranska%%%%%%
+terminological concordance%terminologinen konkordanssi%%englanti%%%%%%
+käsiteanalyysi%käsiteanalyysi%%suomi%substantiivi%%%%%
+begreppsanalys%käsiteanalyysi%%ruotsi%%%%%%
+analyse de concepts%käsiteanalyysi%%ranska%%%%%%
+concept analysis%käsiteanalyysi%%englanti%%%%%%
+terminografia%terminografia%%suomi%substantiivi%%%%%
+terminografi%terminografia%%ruotsi%%%%%%
+terminographie%terminografia%%ranska%%%%%%
+terminography%terminografia%%englanti%%%%%%
+käsiteharmonisointi%käsiteharmonisointi%%suomi%substantiivi%%%%%
+begreppsharmonisering%käsiteharmonisointi%%ruotsi%%%%%%
+harmonisation des concepts%käsiteharmonisointi%%ranska%%%%%%
+concept harmonization%käsiteharmonisointi%%englanti%%%%%%
+termiharmonisointi%termiharmonisointi%%suomi%substantiivi%%%%%
+termharmonisering%termiharmonisointi%%ruotsi%%%%%%
+harmonisation des termes%termiharmonisointi%%ranska%%%%%%
+term harmonization%termiharmonisointi%%englanti%%%%%%
+terminologinen tieto%terminologinen tieto%%suomi%substantiivi%%%%%
+terminologiska data %terminologinen tieto%%ruotsi%%%%%%
+donnée terminologique%terminologinen tieto%%ranska%%%%%%
+terminological data%terminologinen tieto%%englanti%%%%%%
+termitietuemalli%termitietuemalli%%suomi%substantiivi%%%%%
+termpostformat%termitietuemalli%%ruotsi%%%%%%
+Format für terminologische Daten%termitietuemalli%%saksa%%%%%%
+format terminologique%termitietuemalli%%ranska%%%%%%
+terminological format%termitietuemalli%%englanti%%%%%%
+termitietue%termitietue%%suomi%substantiivi%%%%%
+termpost%termitietue%%ruotsi%%%%%%
+Wortstelle%termitietue%%saksa%%%%%%
+Eintrag%termitietue%%saksa%%%%%%
+terminologische Einheit%termitietue%%saksa%%%%%%
+article terminologique%termitietue%%ranska%%%%%%
+terminological entry%termitietue%%englanti%%%%%%
+terminological record%termitietue%%englanti%%%%%%
+term record%termitietue%%englanti%%%%%%
+päätermi%päätermi%%suomi%substantiivi%%%%%
+uppslagsterm%päätermi%%ruotsi%%%%%%
+entrée%päätermi%%ranska%%%%%%
+vedette%päätermi%%ranska%%%%%%
+entry term%päätermi%%englanti%%%%%%
+selite%selite%%suomi%substantiivi%%%%%
+huomautus%selite%%suomi%substantiivi%%%%%
+anmärkning%selite%%ruotsi%%%%%%
+Anmerkung%selite%%saksa%%%%%%
+note%selite%%ranska%%%%%%
+note%selite%%englanti%%%%%%
+konteksti %konteksti (terminologiaoppi)%%suomi%substantiivi%%%%%
+kontext%konteksti (terminologiaoppi)%%ruotsi%%%%%%
+contexte%konteksti (terminologiaoppi)%%ranska%%%%%%
+context%konteksti (terminologiaoppi)%%englanti%%%%%%
+viittaus %viittaus (terminologiaoppi)%%suomi%substantiivi%%%%%
+hänvisning%viittaus (terminologiaoppi)%%ruotsi%%%%%%
+référence%viittaus (terminologiaoppi)%%ranska%%%%%%
+reference%viittaus (terminologiaoppi)%%englanti%%%%%%
+systemaattinen järjestys%systemaattinen järjestys%%suomi%substantiivi%%%%%
+systematisk uppställning%systemaattinen järjestys%%ruotsi%%%%%%
+systematische Anordnung%systemaattinen järjestys%%saksa%%%%%%
+classement systématique%systemaattinen järjestys%%ranska%%%%%%
+ordre systématique%systemaattinen järjestys%%ranska%%%%%%
+systematic arrangement%systemaattinen järjestys%%englanti%%%%%%
+systematic order%systemaattinen järjestys%%englanti%%%%%%
+aakkosjärjestys%aakkosjärjestys%%suomi%substantiivi%%%%%
+alfabetisk uppställning%aakkosjärjestys%%ruotsi%%%%%%
+alphabetische Anordnung%aakkosjärjestys%%saksa%%%%%%
+classement alphabétique%aakkosjärjestys%%ranska%%%%%%
+ordre alphabétique%aakkosjärjestys%%ranska%%%%%%
+alphabetical arrangement%aakkosjärjestys%%englanti%%%%%%
+alphabetical order%aakkosjärjestys%%englanti%%%%%%
+yhdistelmäjärjestys%yhdistelmäjärjestys%%suomi%substantiivi%%%%%
+blandad uppställning%yhdistelmäjärjestys%%ruotsi%%%%%%
+classement mixte%yhdistelmäjärjestys%%ranska%%%%%%
+ordre mixte%yhdistelmäjärjestys%%ranska%%%%%%
+mixed arrangement%yhdistelmäjärjestys%%englanti%%%%%%
+mixed order%yhdistelmäjärjestys%%englanti%%%%%%
+termitietokanta%termitietokanta%%suomi%substantiivi%%%%%
+termdatabas%termitietokanta%%ruotsi%%%%%%
+terminologisk databas%termitietokanta%%ruotsi%%%%%%
+terminologische Datenbasis%termitietokanta%%saksa%%%%%%
+base de données terminologiques%termitietokanta%%ranska%%%%%%
+terminological database%termitietokanta%%englanti%%%%%%
+term bank%termitietokanta%%englanti%%%%%%
+terminologinen sanasto%terminologinen sanasto%%suomi%substantiivi%%%%%
+terminologisk ordlista%terminologinen sanasto%%ruotsi%%%%%%
+terminologisk ordbok%terminologinen sanasto%%ruotsi%%%%%%
+dictionnaire terminologique%terminologinen sanasto%%ranska%%%%%%
+dictionnaire technique%terminologinen sanasto%%ranska%%%%%%
+terminological dictionary%terminologinen sanasto%%englanti%%%%%%
+technical dictionary%terminologinen sanasto%%englanti%%%%%%

@@ -73,16 +73,27 @@ class TBImportExternalDatabase extends Maintenance {
 		$output = array();
 		foreach ( $rows as $row ) {
 			$values = str_getcsv( $row, SEPARATOR );
+			
+			$contents = $values;
+			$content = $values[1];
+			unset($contents[0]);
+			unset($contents[1]);
+			
 
-			if ( count( $values ) !== count( $headers ) ) {
-				echo "Apua2\n";
-				var_dump( $headers, $values ); die();
+			foreach ($contents as $element) {
+			
+			$content = $content+'%'+$element;
+
 			}
 
+			$result[0] = $values[0];
+			$result[1] = $content;
+
 			if ( is_int($uniq) ) {
-				$output[$values[$uniq]] = array_combine( $headers, $values );
+				//echo '$uniq:'+$uniq;				
+				$output[$values[$uniq]] = array_combine( $headers, $result );
 			} else {
-				$output[] = array_combine( $headers, $values );
+				$output[] = array_combine( $headers, $result );
 			}
 		}
 		return $output;

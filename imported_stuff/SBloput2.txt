@@ -1,0 +1,1045 @@
+Mikrobiologia	kromatiini	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=kromatiini|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=chromatin|kieli=englanti}}
+Mikrobiologia	ksylanaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=ksylanaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=xylanase|kieli=englanti}}
+Sienitiede	kuromankannatinpylväs	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=kuromankannatinpylväs|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=synnema|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=synnema|kieli=englanti}}
+Sienitiede	kuromapahka	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=kuromapahka|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sporodokio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sporodochium|kieli=englanti}}
+Sienitiede	kuromaperä	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=kuromaperä|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=conidium bearing cell|kieli=englanti}}
+Sienitiede	kuromapullo	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=kuromapullo|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pyknidio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pycnidium|kieli=englanti}}
+Sienitiede	kystidi	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=kystidi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=cystidium|kieli=englanti}}
+Sienitiede	kämmekkäsienijuuri	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=kämmekkäsienijuuri|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=orkideamykorritsa|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=orchid mycorrhiza|kieli=englanti}}
+Sienitiede	kärkisolu	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=kärkisolu|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=apikaalisolu|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=apical cell|kieli=englanti}}
+Sienitiede	kärkitihentymä	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=kärkitihentymä|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=spitzenkörper|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=spitzenkörper|kieli=englanti}}
+Mikrobiologia	käyminen	{{Käsite|selite=Käymisen lopputuotteena syntyy alkoholia tai happoja.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=käyminen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=fermentoituminen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=fermentation|kieli=englanti}}
+Mikrobiologia	kääntymä	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=kääntymä|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=inversio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=inversion|kieli=englanti}}
+Sienitiede	kääpä	{{Käsite|selite=Nämä sienet ovat useimmiten lahottajia.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=kääpä|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=shelf fungus|kieli=englanti}}
+Sienitiede	käävät	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=käävät|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=shelf fungi|kieli=englanti}}
+Sienitiede	kääväkäs	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=kääväkäs|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=â€?Aphyllophoralesâ€?|kieli=englanti}}
+Sienitiede	lajimääre	{{Käsite|lisätiedot=|luokka=biologia}}{{Liittyvä nimitys|nimitys=lajimääre|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=epiteetti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=epithet|kieli=englanti}}
+Mikrobiologia	lakkaasi	{{Käsite|selite=Jotkut lakkaasit pystyvät hajottamaan ligniiniä.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=lakkaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=laccase|kieli=englanti}}
+Mikrobiologia	laskostusentsyymi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=laskostusentsyymi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=co-chaperone|kieli=englanti}}{{Liittyvä nimitys|nimitys=folding chaperone|kieli=englanti}}
+Sienitiede	leivinhiiva	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=leivinhiiva|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=panimohiiva|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=bakerâ€™s yeast|kieli=englanti}}
+Sienitiede	lepoitiö	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=lepoitiö|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=dormant spore|kieli=englanti}}
+Sienitiede	leväsienet	{{Käsite|selite=Ryhmään kuuluivat aikoinaan siimallisia soluja tuottaneet sienet, kuten piiskasiimasienet, Blastocladiomycota ja Neocallimastigomycota. Sitä saatetaan käyttää yhteisnimityksenä sukasiimaisiin (Stramenopila) kuuluvista, ulkoisesti sieniä muistuttavista eliöistä.<ref>Lähde:SB2013</ref>|lisätiedot=|tieteellinen nimi=Mastigomycotina|luokka=Mikrobiologia, Taksonominen yksikkö}}{{Liittyvä nimitys|nimitys=leväsienet|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=phycomycetes|kieli=englanti}}
+Mikrobiologia	ligaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=ligaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ligase|kieli=englanti}}
+Mikrobiologia	ligniini	{{Käsite|selite= Aromaattisista alkoholeista rakentuva amorfinen ja vaikeasti hajotettava polyfenoli, jolla on suuri molekyylikoko<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=ligniini|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=lignin|kieli=englanti}}
+Mikrobiologia	ligniiniperoksidaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=ligniiniperoksidaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=lignin peroxidase|kieli=englanti}}
+Mikrobiologia	ligninolyyttinen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=ligninolyyttinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ligninolytic|kieli=englanti}}
+Mikrobiologia	lignoselluloosa	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=lignoselluloosa|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=lignocellulose|kieli=englanti}}
+Sienitiede	likenikolinen	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=likenikolinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=lichenicolous|kieli=englanti}}
+Sienitiede	limakkosienet	{{Käsite|lisätiedot=|tieteellinen nimi=Gymnomycota|luokka=Mikrobiologia, Taksonominen yksikkö}}{{Liittyvä nimitys|nimitys=limakkosienet|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=gymnomycetes|kieli=englanti}}
+Sienitiede	limasienet	{{Käsite|selite=Taksonin ja sen alataksonien sieni-päätteiset nimet juontuvat ajalta, jolloin näiden ryhmien luultiin kuuluvan sienten kuntaan.<ref>Lähde:SB2013</ref>|lisätiedot=|tieteellinen nimi=Eumycetozoa, Myxomycota (vanh.)|luokka=Mikrobiologia, Taksonominen yksikkö}}{{Liittyvä nimitys|nimitys=limasienet|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=slime molds|kieli=englanti}}
+Mikrobiologia	linjarajoittunut geeni	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=linjarajoittunut geeni|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=lineage specific gene|kieli=englanti}}{{Liittyvä nimitys|nimitys=LS gene|kieli=englanti}}{{Liittyvä nimitys|nimitys=taxonomically restricted gene|kieli=englanti}}{{Liittyvä nimitys|nimitys=TR gene|kieli=englanti}}
+Mikrobiologia	lipaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=lipaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=lipase|kieli=englanti}}
+Mikrobiologia	lipopeptidi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=lipopeptidi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=lipopeptide|kieli=englanti}}
+Sienitiede	lisärihma	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=lisärihma|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=parafyysi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=nesterihma|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=paraphysis|kieli=englanti}}
+Sienitiede	loinen	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=loinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=parasiitti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=parasite|kieli=englanti}}
+Mikrobiologia	lokus	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=lokus|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=locus|kieli=englanti}}
+Mikrobiologia	lusiferiini	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=lusiferiini|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=luciferin|kieli=englanti}}
+Mikrobiologia	lyaasi	{{Käsite|selite=Tämän seurauksena toiseen irtoavaan molekyyliin muodostuu usein kaksoissidos.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=lyaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=lyase|kieli=englanti}}
+Mikrobiologia	lysosomi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=lysosomi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=lysosome|kieli=englanti}}
+Mikrobiologia	lyyttinen vakuoli	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=lyyttinen vakuoli|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=lytic vacuole|kieli=englanti}}
+Mikrobiologia	lähetti-RNA	{{Käsite|selite= Lähetti-RNA sisältää geneettisen informaation, jonka avulla voidaan muodostaa proteiineja<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=lähetti-RNA|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mRNA|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=messenger RNA|kieli=englanti}}
+Sienitiede	maitiaisrihma	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=maitiaisrihma|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=lactifer|kieli=englanti}}
+Mikrobiologia	mangaaniperoksidaasi	{{Käsite|selite= Hapettunut 3-arvoinen mangaani puolestaan hapettaa esimerkiksi fenolisen yhdisteen fenoksiradikaaliksi poistamalla siitä elektronin.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=mangaaniperoksidaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=manganese peroxide|kieli=englanti}}
+Mikrobiologia	mannanaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=mannanaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mannanase|kieli=englanti}}
+Mikrobiologia	MAP-kinaasi	{{Käsite|selite=Erilaiset MAP-kinaasit ohjaavat solujen vasteita ulkoisiin ärsykkeisiin, kuten kuivuuteen, kuumuuteen ja solunjakautumista stimuloiviin aineisiin. Ne säätelevät solunjakautumista, geenien ilmenemistä, erilaistumista, mitoosia ja ohjelmoitua solukuolemista.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=MAP-kinaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=MAP kinase|kieli=englanti}}
+Mikrobiologia	MAP-kinaasivälitteinen viestinvälitysketju	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=MAP-kinaasivälitteinen viestinvälitysketju|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=MAP-kinaasikaskadi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=MAP-kinaasireitti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=MAP-signaalinvälitysketju|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=Mitogen-activated protein (MAP) kinase signalling pathway|kieli=englanti}}
+Mikrobiologia	MAT-lokus	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=MAT-lokus|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=MAT locus|kieli=englanti}}
+Mikrobiologia	meioosi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=meioosi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sienissä diploidi solu tuottaa yleensä neljä elinkelpoista haploidia|kieli=englanti}}{{Liittyvä nimitys|nimitys=kromosomistoltaan ja geeneiltään erilaista sukusolua|kieli=englanti}}
+Sienitiede	meiospori	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=meiospori|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=meiospore|kieli=englanti}}
+Sienitiede	merosporangio	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=merosporangio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=merosporangium|kieli=englanti}}
+Sienitiede	metabasidio	{{Käsite|selite=Monilla sienillä se ei kuitenkaan ole mikään tietty osa itiökannasta vaan probasidion myöhempi kehitysvaihe<ref>Lähde:SB2013</ref>|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=metabasidio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=metabasidium|kieli=englanti}}
+Sienitiede	mikropahka	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=mikropahka|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mikrosklerootio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=microsclerotium|kieli=englanti}}
+Sienitiede	mikrotubulus	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=mikrotubulus|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=microtubulus|kieli=englanti}}
+Mikrobiologia	mikrobi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=mikrobi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mikro-organismi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=microbe|kieli=englanti}}
+Mikrobiologia	mikro-RNA	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=mikro-RNA|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=non-coding RNA|kieli=englanti}}{{Liittyvä nimitys|nimitys=ncRNA|kieli=englanti}}
+Mikrobiologia	mitogeeni	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=mitogeeni|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mitogen|kieli=englanti}}
+Mikrobiologia	mitoosi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=mitoosi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mitosis|kieli=englanti}}
+Mikrobiologia	mitokondrio	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=mitokondrio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mitochondrium|kieli=englanti}}
+Sienitiede	mitospori	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=mitospori|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mitospore|kieli=englanti}}
+Mikrobiologia	monofyleettinen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=monofyleettinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=monophyletic|kieli=englanti}}
+Mikrobiologia	monokaryoottinen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=monokaryoottinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=monokaryotic|kieli=englanti}}
+Mikrobiologia	monosakkaridi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=monosakkaridi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=monosaccharide|kieli=englanti}}
+Mikrobiologia	morfologinen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=morfologinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=morphological|kieli=englanti}}
+Mikrobiologia	multialleelinen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=multialleelinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=multiallelic|kieli=englanti}}
+Sienitiede	munapesäke	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=munapesäke|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=askogonio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ascogonium|kieli=englanti}}
+Sienitiede	mykobiontti	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=mykobiontti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mycobiont|kieli=englanti}}
+Sienitiede	mykorritsosfääri	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=mykorritsosfääri|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mycorrhizosophere|kieli=englanti}}
+Mikrobiologia	myosiini	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=myosiini|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=myosin|kieli=englanti}}
+Sienitiede	myseeli	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=myseeli|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mycelium|kieli=englanti}}
+Sienitiede	mäntykukkasienijuuri	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=mäntykukkasienijuuri|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=monotropoidimykorritsa|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=monotropoid mycorrhiza|kieli=englanti}}
+Sienitiede	nahakkaat	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=nahakkaat|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=corticioid fungi|kieli=englanti}}{{Liittyvä nimitys|nimitys=stereoid fungi|kieli=englanti}}
+Mikrobiologia	N-asetyyliglukosamiini	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=N-asetyyliglukosamiini|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=N-acetyl glucosamine|kieli=englanti}}
+Mikrobiologia	nekrotrofi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=nekrotrofi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=necrotrophic|kieli=englanti}}
+Sienitiede	nesterihma	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=nesterihma|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=parafyysi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=lisärihma|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=paraphysis|kieli=englanti}}
+Sienitiede	noki-itiö	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=noki-itiö|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ustilospori|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ustospori|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ustilospore|kieli=englanti}}{{Liittyvä nimitys|nimitys=ustospore|kieli=englanti}}
+Sienitiede	nuijahomeet	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=nuijahomeet|otsikossa=Y|kieli=suomi}}
+Mikrobiologia	nukleaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=nukleaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=nuclease|kieli=englanti}}
+Mikrobiologia	nukleosomi	{{Käsite|selite=Nukleosomien avulla molekyyli saadaan mahtumaan tuman sisälle. Yksi nukleosomi koostuu useammasta histonista, joiden ympärille kaksijuosteinen DNA on kiertynyt.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=nukleosomi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=nucleosome|kieli=englanti}}
+Mikrobiologia	ohutkerroskromatografia	{{Käsite|selite=Eroteltavan seoksen eri yhdisteet liikkuvat huokoisessa materiaalissa eri nopeuksilla, jolloin ne erottuvat toisistaan.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=ohutkerroskromatografia|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=thin layer chromatography (TLC)|kieli=englanti}}
+Mikrobiologia	oksaalihappo	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=oksaalihappo|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=esiintyy kasvikunnassa|kieli=englanti}}{{Liittyvä nimitys|nimitys=esimerkiksi raparperissa|kieli=englanti}}{{Liittyvä nimitys|nimitys=punajuuressa|kieli=englanti}}{{Liittyvä nimitys|nimitys=pinaatissa ja ketunleivässä|kieli=englanti}}
+Mikrobiologia	oksidaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=oksidaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=oxidase|kieli=englanti}}
+Mikrobiologia	oksidoreduktaasi	{{Käsite|selite=Siirto hapettaa yhdisteen tai atomin ja samalla pelkistää toisen yhdisteen tai atomin<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=oksidoreduktaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=oxidoreductase|kieli=englanti}}
+Mikrobiologia	oogamia	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=oogamia|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=oogamy|kieli=englanti}}
+Sienitiede	operkulaatti	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=operkulaatti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=operculate|kieli=englanti}}
+Sienitiede	ora	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=ora|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=spine|kieli=englanti}}{{Liittyvä nimitys|nimitys=â€?toothâ€?|kieli=englanti}}
+Sienitiede	orakkaat	{{Käsite|selite= Itiöt sijaitsevat orien pinnalla.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=orakkaat|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=hydnoid fungi|kieli=englanti}}{{Liittyvä nimitys|nimitys=tooth fungi|kieli=englanti}}
+Mikrobiologia	orpo geeni	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=orpo geeni|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=orphan gene|kieli=englanti}}
+Mikrobiologia	ortologinen geeni	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=ortologinen geeni|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=orthologic [genes]|kieli=englanti}}
+Sienitiede	orvakka	{{Käsite|selite=Ohut ja usein kirkasvärinen itiöemä on ryppyinen ja nystyinen, alapinnaltaan sileä ja pillitön.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=orvakka|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=corticioid|kieli=englanti}}{{Liittyvä nimitys|nimitys=corticoid|kieli=englanti}}
+Sienitiede	orvakat	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=orvakat|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=corticioids|kieli=englanti}}
+Mikrobiologia	PAH-yhdisteet	{{Käsite|selite=Aromaattisia renkaita on yleensä 2-5, esimerkki kahden bentseenirenkaan muodostamasta yhdisteestä on naftaleeni ja viiden renkaan yhdisteestä bentso(a)pyreeni.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=PAH-yhdisteet|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=PAH compounds|kieli=englanti}}
+Sienitiede	painerihma	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=painerihma|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=appressorio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=tartuntarihma|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=appressorium|kieli=englanti}}
+Sienitiede	pallosolu	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=pallosolu|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sphaerocyst|kieli=englanti}}
+Mikrobiologia	parafyleettinen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=parafyleettinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=paraphyletic|kieli=englanti}}
+Mikrobiologia	pariutumisalue	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=pariutumisalue|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mating loci|kieli=englanti}}
+Sienitiede	pariutumistyyppi	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=pariutumistyyppi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mating type|kieli=englanti}}{{Liittyvä nimitys|nimitys=mating strain|kieli=englanti}}
+Sienitiede	parveiluitiö	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=parveiluitiö|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=parveilija|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=tsoospori|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=zoospori|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=zoospore|kieli=englanti}}
+Sienitiede	parveiluitiöpesäke	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=parveiluitiöpesäke|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=tsoosporangio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=zoosporangio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=zoosporangium|kieli=englanti}}
+Mikrobiologia	peittaus	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=peittaus|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=seed disinfection|kieli=englanti}}{{Liittyvä nimitys|nimitys=seed dressing|kieli=englanti}}
+Mikrobiologia	pektiini	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=pektiini|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pectin|kieli=englanti}}
+Mikrobiologia	pektinaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=pektinaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pectinase|kieli=englanti}}
+Sienitiede	pensselihomeet	{{Käsite|lisätiedot=|luokka=Mikrobiologia, Taksonominen yksikkö}}{{Liittyvä nimitys|nimitys=pensselihomeet|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=genus Penicillium|kieli=englanti}}
+Mikrobiologia	peptidi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=peptidi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=peptid|kieli=englanti}}
+Sienitiede	peridioli	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=peridioli|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=peridiole|kieli=englanti}}
+Mikrobiologia	permeaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=permeaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=permease|kieli=englanti}}
+Mikrobiologia	peroksidaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=peroksidaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=peroxidase|kieli=englanti}}
+Mikrobiologia	peroksisomi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=peroksisomi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=peroxisome|kieli=englanti}}
+Mikrobiologia	peroksyyli	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=peroksyyli|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=peroxyl|kieli=englanti}}
+Mikrobiologia	peroksyyliradikaali	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=peroksyyliradikaali|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=peroxyl radical|kieli=englanti}}
+Mikrobiologia	perusaine	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=perusaine|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=primary metabolite|kieli=englanti}}
+Mikrobiologia	perusaineenvaihduntageeni	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=perusaineenvaihduntageeni|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=housekeeping gene|kieli=englanti}}
+Sienitiede	peräsiimaiset	{{Käsite|lisätiedot=|tieteellinen nimi=Opisthokonta|luokka=Eläintiede, Taksonominen yksikkö}}{{Liittyvä nimitys|nimitys=peräsiimaiset|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=opisthokonts|kieli=englanti}}
+Sienitiede	pesäkeitiö	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=pesäkeitiö|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sporangiospori|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sporangiospore|kieli=englanti}}
+Sienitiede	pikkukuromapullo	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=pikkukuromapullo|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pyknio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=spermagonio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pycnium|kieli=englanti}}{{Liittyvä nimitys|nimitys=spermagonium|kieli=englanti}}
+Sienitiede	pilkekuromaperä	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=pilkekuromaperä|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=tallinen kuromaperä|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=thallic conidium bearing cell|kieli=englanti}}
+Mikrobiologia	pilus	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=pilus|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pilus|kieli=englanti}}
+Sienitiede	pileaatti	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=pileaatti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pileate|kieli=englanti}}
+Mikrobiologia	pinta-aktiivinen aine	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=pinta-aktiivinen aine|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=surfaktantti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=surfactant|kieli=englanti}}
+Sienitiede	pintasienijuuri	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=pintasienijuuri|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ektomykorritsa|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ectomycorrhiza|kieli=englanti}}
+Mikrobiologia	plasmidi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=plasmidi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=plasmid|kieli=englanti}}
+Mikrobiologia	plasmogamia	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=plasmogamia|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=plasmogamy|kieli=englanti}}
+Mikrobiologia	pleomorfinen	{{Käsite|selite=Sienissä pleomorfisuus näkyy useiden eri muotojen tai vaiheiden esiintymisenä elinkierrossa (ks. [[Sienitiede:anamorfi|anamorfi]] ja [[Sienitiede:teleomorfi|teleomorfi]]).<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=pleomorfinen|otsikossa=Y|kieli=suomi}}
+Mikrobiologia	plesiomorfinen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=plesiomorfinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=plesiomorphic|kieli=englanti}}
+Mikrobiologia	poikilohydrinen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=poikilohydrinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=poikilohydric|kieli=englanti}}
+Mikrobiologia	polaarinen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=polaarinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=polar|kieli=englanti}}
+Mikrobiologia	polyfenolioksidaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=polyfenolioksidaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=polyphenol oxiadase|kieli=englanti}}
+Mikrobiologia	polyfosfaatti	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=polyfosfaatti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=polyphosphate|kieli=englanti}}
+Mikrobiologia	polyfyleettinen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=polyfyleettinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=polyphyletic|kieli=englanti}}
+Sienitiede	polyketidi	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=polyketidi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=polyketide|kieli=englanti}}
+Mikrobiologia	polyketidisyntaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=polyketidisyntaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=polyketide synthetase|kieli=englanti}}
+Mikrobiologia	polymeeri	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=polymeeri|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=polymer|kieli=englanti}}
+Sienitiede	polymeraasi	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=polymeraasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=polymerase|kieli=englanti}}
+Mikrobiologia	polyporoidi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=polyporoidi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=polyporoid|kieli=englanti}}
+Mikrobiologia	polysakkaridi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=polysakkaridi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=polysaccharide|kieli=englanti}}
+Sienitiede	polysentrinen	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=polysentrinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=polycentric|kieli=englanti}}
+Mikrobiologia	primaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=primaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=primase|kieli=englanti}}
+Mikrobiologia	prioni	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=prioni|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=prion|kieli=englanti}}
+Mikrobiologia	promoottori	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=promoottori|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=promoottorialue|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=promoter region|kieli=englanti}}
+Sienitiede	promyseeli	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=promyseeli|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=alkeisrihma|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=promycelium|kieli=englanti}}
+Mikrobiologia	proteaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=proteaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=protease|kieli=englanti}}
+Mikrobiologia	proteasomi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=proteasomi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=proteasome|kieli=englanti}}
+Mikrobiologia	proteiini	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=proteiini|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=valkuaisaine|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=protein|kieli=englanti}}
+Mikrobiologia	proteiinikinaasi-A	{{Käsite|selite= PKA-ryhmään kuuluu monia solun toimintoja sääteleviä entsyymejä<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=proteiinikinaasi-A|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=PKA|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=protein kinase A|kieli=englanti}}
+Mikrobiologia	proteomi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=proteomi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=proteome|kieli=englanti}}
+Mikrobiologia	protonisymporttisiirtäjä	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=protonisymporttisiirtäjä|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=proton symport|kieli=englanti}}
+Sienitiede	punahomeet	{{Käsite|lisätiedot=|luokka=Mikrobiologia, Taksonominen yksikkö}}{{Liittyvä nimitys|nimitys=punahomeet|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=genus Fusarium|kieli=englanti}}
+Mikrobiologia	puukuidut	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=puukuidut|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=wood fibers|kieli=englanti}}
+Mikrobiologia	puusolukko	{{Käsite|lisätiedot=|luokka=kasvitiede}}{{Liittyvä nimitys|nimitys=puusolukko|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=puuaines|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ksyleemi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=xylem|kieli=englanti}}
+Sienitiede	pyknidiospori	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=pyknidiospori|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pycnidiospore|kieli=englanti}}
+Sienitiede	pyrenomykeetti	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=pyrenomykeetti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pyrenomycete|kieli=englanti}}
+Sienitiede	päätyneula	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=päätyneula|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=polar filament|kieli=englanti}}
+Mikrobiologia	rakeinen solulimakalvosto	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=rakeinen solulimakalvosto|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=rakeinen endoplasminen retikulumi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=RER|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=rough endoplasmic reticulum|kieli=englanti}}{{Liittyvä nimitys|nimitys=RER|kieli=englanti}}
+Mikrobiologia	reduktaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=reduktaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=reductase|kieli=englanti}}
+Sienitiede	rengaskuromaperä	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=rengaskuromaperä|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=annelidi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=annelide|kieli=englanti}}
+Mikrobiologia	replikaatio	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=replikaatio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=replication|kieli=englanti}}
+Mikrobiologia	replikoni	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=replikoni|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=replicon|kieli=englanti}}
+Mikrobiologia	R-geeni	{{Käsite|lisätiedot=|luokka=kasvitiede}}{{Liittyvä nimitys|nimitys=R-geeni|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=R gene|kieli=englanti}}
+Mikrobiologia	ribosomi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=ribosomi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ribosome|kieli=englanti}}
+Mikrobiologia	ribosomaalinen DNA	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=ribosomaalinen DNA|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ribosomal DNA|kieli=englanti}}
+Sienitiede	ribosomaalinen RNA	{{Käsite|selite= Sienten ribosomeihin liittyviä ribosomaalisia RNA-molekyylejä kutsutaan 5.8S-, 18S- ja 28S-ribosomaaliseksi RNA:ksi<ref>Lähde:SB2013</ref>|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=ribosomaalinen RNA|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ribosomal RNA|kieli=englanti}}
+Sienitiede	rihmamaiset sienet	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=rihmamaiset sienet|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=filamentous fungi|kieli=englanti}}
+Sienitiede	rihmastojänne	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=rihmastojänne|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ritsomorfi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=rhizomorph|kieli=englanti}}{{Liittyvä nimitys|nimitys=hyphal strand|kieli=englanti}}
+Sienitiede	rihmastopahka	{{Käsite|selite=Talvehtimiselin, josta voi syntyä itiöemä, alustapahka tai sienirihma.<ref>Lähde:SB2013</ref>|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=rihmastopahka|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sklerootio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sclerotium|kieli=englanti}}
+Sienitiede	rihmastosilta	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=rihmastosilta|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=anastomoosi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=anastomosis|kieli=englanti}}
+Sienitiede	ripsisiimasienet	{{Käsite|lisätiedot=|tieteellinen nimi=Hypochytridiomycota|luokka=Mikrobiologia, Taksonominen yksikkö}}{{Liittyvä nimitys|nimitys=ripsisiimasienet|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=hyphochytridiomycetes|kieli=englanti}}
+Mikrobiologia	RNA-hiljennys	{{Käsite|selite= Mekanismi hajottaa geenin RNA-kopion pienen RNA:han sitoutuvan vastin-RNA:n avulla.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=RNA-hiljennys|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=RNA-interferenssi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=RNA silencing|kieli=englanti}}{{Liittyvä nimitys|nimitys=RNA interference|kieli=englanti}}{{Liittyvä nimitys|nimitys=RNAi|kieli=englanti}}
+Mikrobiologia	RNA-polymeraasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=RNA-polymeraasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=RNA polymerase|kieli=englanti}}
+Mikrobiologia	RNA-sekvenssi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=RNA-sekvenssi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=RNA sequence|kieli=englanti}}
+Mikrobiologia	ruskolahottaja	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=ruskolahottaja|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=brown rot fungus|kieli=englanti}}
+Mikrobiologia	salisyylihappo	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=salisyylihappo|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=salisylic acid|kieli=englanti}}
+Sienitiede	samatumainen	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=samatumainen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=homokaryoottinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=homocaryotic|kieli=englanti}}
+Sienitiede	seittivyö	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=seittivyö|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=velar region|kieli=englanti}}
+Mikrobiologia	sekatuotekäyminen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=sekatuotekäyminen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=heterofermentatiivinen käyminen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=heterofermentation|kieli=englanti}}
+Sienitiede	sekatyyppinen sienijuuri	{{Käsite|selite=Sekatyyppisiä sienijuuria on kolmenlaisia: talvikkisienijuuria, mäntykukkasienijuuria sekä puilla ja varpukasveilla havaittua tyyppiä, jota kutsutaan toistaiseksi epämääräisesti samalla termillä kuin koko joukkoa, eli sekatyyppiseksi sienijuureksi.<ref>Lähde:SB2013</ref>|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=sekatyyppinen sienijuuri|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ektendomykorritsa|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ectendomycorrhiza|kieli=englanti}}
+Mikrobiologia	sekvenssi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=sekvenssi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sequence|kieli=englanti}}
+Mikrobiologia	sellobiohydrolaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=sellobiohydrolaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=cellobiohydrolase|kieli=englanti}}
+Mikrobiologia	sellobioosi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=sellobioosi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=cellobiose|kieli=englanti}}
+Mikrobiologia	sellobioosidehydrogenaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=sellobioosidehydrogenaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=CDH|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=cellobiodehydrogenase (CDH)|kieli=englanti}}
+Mikrobiologia	sellulaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=sellulaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=cellulase|kieli=englanti}}
+Mikrobiologia	selluloosa	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=selluloosa|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=cellulose|kieli=englanti}}
+Mikrobiologia	sentromeeri	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=sentromeeri|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=centromere|kieli=englanti}}
+Sienitiede	septiini	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=septiini|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=septin|kieli=englanti}}
+Sienitiede	sidosrihma	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=sidosrihma|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=binding hypha|kieli=englanti}}
+Sienitiede	sienijuurisienten auttajabakteerit	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=sienijuurisienten auttajabakteerit|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mykorritsasienten auttajabakteerit|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mycorrhiza helper bacteria|kieli=englanti}}{{Liittyvä nimitys|nimitys=MHB|kieli=englanti}}
+Sienitiede	sienikanta	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=sienikanta|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=fungal strain|kieli=englanti}}
+Sienitiede	sienimyrkky	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=sienimyrkky|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mykotoksiini|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=mycotoxin|kieli=englanti}}
+Mikrobiologia	siirtymä	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=siirtymä|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=translokaatio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=translocation|kieli=englanti}}
+Mikrobiologia	siirtäjä-RNA	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=siirtäjä-RNA|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=transfer-RNA|kieli=englanti}}{{Liittyvä nimitys|nimitys=t-RNA|kieli=englanti}}
+Mikrobiologia	siitosrihma	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=siitosrihma|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=trikogyyni|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=trichogyne|kieli=englanti}}
+Mikrobiologia	siittiöpesäke	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=siittiöpesäke|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=anteridio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=anteridium|kieli=englanti}}{{Liittyvä nimitys|nimitys=antherid|kieli=englanti}}
+Mikrobiologia	sileä solulimakalvosto	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=sileä solulimakalvosto|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sileä endoplasminen retikulumi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=SER|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=smooth endoplasmic reticulum|kieli=englanti}}
+Mikrobiologia	silmikoiminen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=silmikoiminen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=budding|kieli=englanti}}
+Mikrobiologia	silmukointi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=silmukointi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=splicing|kieli=englanti}}
+Sienitiede	sinkilä	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=sinkilä|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=clamp|kieli=englanti}}
+Sienitiede	sisäsuojus	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=sisäsuojus|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=inner veil|kieli=englanti}}{{Liittyvä nimitys|nimitys=partial veil|kieli=englanti}}
+Mikrobiologia	sisäsyntyinen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=sisäsyntyinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=endogeeninen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=endogenic|kieli=englanti}}
+Mikrobiologia	sitruunahappokierto	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=sitruunahappokierto|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=citric acid cycle|kieli=englanti}}{{Liittyvä nimitys|nimitys=tricarboxylic acid cycle|kieli=englanti}}{{Liittyvä nimitys|nimitys=Krebâ€™s cycle|kieli=englanti}}
+Mikrobiologia	solukalvo	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=solukalvo|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=plasmalemma|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=plasmalemma|kieli=englanti}}
+Sienitiede	solukko	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=solukko|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=tissue|kieli=englanti}}
+Mikrobiologia	solulimakalvosto	{{Käsite|lisätiedot=|luokka=Taksonominen yksikkö}}{{Liittyvä nimitys|nimitys=solulimakalvosto|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=endoplasminen retikulumi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=endoplasmic reticulum|kieli=englanti}}{{Liittyvä nimitys|nimitys=ER|kieli=englanti}}
+Sienitiede	solulimasienet	{{Käsite|lisätiedot=|tieteellinen nimi=Dictyostelidae|luokka=Mikrobiologia, Taksonominen yksikkö}}{{Liittyvä nimitys|nimitys=solulimasienet|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=dictyostelids|kieli=englanti}}
+Sienitiede	solulimakkosienet	{{Käsite|lisätiedot=|tieteellinen nimi=Acrasiogymnomycota|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=solulimakkosienet|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=acrasid cellular slime molds|kieli=englanti}}
+Mikrobiologia	solun tukiranka	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=solun tukiranka|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sytoskeleton|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=cytoskeleton|kieli=englanti}}
+Mikrobiologia	somatogamia	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=somatogamia|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=somatogamy|kieli=englanti}}
+Sienitiede	sorus	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=sorus|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sorus|kieli=englanti}}
+Mikrobiologia	spermi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=spermi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sperm|kieli=englanti}}
+Mikrobiologia	sporinen meioosi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=sporinen meioosi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sporic meiosis|kieli=englanti}}
+Sienitiede	sporangioli	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=sporangioli|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sporangiole|kieli=englanti}}
+Sienitiede	sporidio	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=sporidio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sporidium|kieli=englanti}}
+Sienitiede	sporofyytti	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=sporofyytti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sporophyte|kieli=englanti}}
+Mikrobiologia	steroidi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=steroidi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=steroid|kieli=englanti}}
+Mikrobiologia	steroli	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=steroli|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sterol|kieli=englanti}}
+Mikrobiologia	steryyliesteri	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=steryyliesteri|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=steryl esther|kieli=englanti}}
+Sienitiede	strigolaktoni	{{Käsite|selite=Sama hormoni vähentää kasvin verson haaroittumista.<ref>Lähde:SB2013</ref>|lisätiedot=|luokka=kasvitiede, mikrobiologia}}{{Liittyvä nimitys|nimitys=strigolaktoni|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=strigolactone|kieli=englanti}}
+Mikrobiologia	suberiini	{{Käsite|lisätiedot=|luokka=kasvitiede}}{{Liittyvä nimitys|nimitys=suberiini|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=suberin|kieli=englanti}}
+Mikrobiologia	sukkessio	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=sukkessio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=succession|kieli=englanti}}
+Sienitiede	sukkulanapa	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=sukkulanapa|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=spindle pole body|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=spindle pole body|kieli=englanti}}{{Liittyvä nimitys|nimitys=nucleus associated organelle|kieli=englanti}}
+Sienitiede	sukkularihmasto	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=sukkularihmasto|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=spindle|kieli=englanti}}{{Liittyvä nimitys|nimitys=nuclear spindle|kieli=englanti}}
+Mikrobiologia	sukuhaara	{{Käsite|lisätiedot=|luokka=biologia}}{{Liittyvä nimitys|nimitys=sukuhaara|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=clade|kieli=englanti}}
+Mikrobiologia	sukupolvenvuorottelu	{{Käsite|lisätiedot=|luokka=biologia}}{{Liittyvä nimitys|nimitys=sukupolvenvuorottelu|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=alternation of generations|kieli=englanti}}
+Mikrobiologia	sukusolu	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=sukusolu|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=gameetti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=gamete|kieli=englanti}}
+Mikrobiologia	sukusolupesäke	{{Käsite|selite=Ks. [[Sienitiede:munapesäke|munapesäke]], [[Sienitiede:siittiöpesäke|siittiöpesäke]].<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=sukusolupesäke|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=gametangio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=gametangium|kieli=englanti}}
+Sienitiede	suomukiehkura	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=suomukiehkura|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=volval remnant|kieli=englanti}}
+Sienitiede	stefanokystidi	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=stefanokystidi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=stephanocystid|kieli=englanti}}
+Mikrobiologia	sukusoluyhtymä	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=sukusoluyhtymä|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=tsygootti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=zygote|kieli=englanti}}
+Mikrobiologia	suvullinen lisääntyminen	{{Käsite|lisätiedot=|luokka=biologia}}{{Liittyvä nimitys|nimitys=suvullinen lisääntyminen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sexual reproduction|kieli=englanti}}
+Mikrobiologia	suvuton lisääntyminen	{{Käsite|lisätiedot=|luokka=biologia}}{{Liittyvä nimitys|nimitys=suvuton lisääntyminen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=asexual reproduction|kieli=englanti}}
+Mikrobiologia	syklinen AMP	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=syklinen AMP|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=cyclic AMP|kieli=englanti}}{{Liittyvä nimitys|nimitys=cAMP|kieli=englanti}}
+Mikrobiologia	symbioosi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=symbioosi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=symbiosis|kieli=englanti}}
+Mikrobiologia	synapomorfia	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=synapomorfia|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=synapomorphy|kieli=englanti}}
+Mikrobiologia	synergia	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=synergia|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=yhteistoiminta|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=synergy|kieli=englanti}}
+Mikrobiologia	synteeninen alue	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=synteeninen alue|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=syntenic block|kieli=englanti}}
+Mikrobiologia	synteeniset geenit	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=synteeniset geenit|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=syntenic genes|kieli=englanti}}
+Mikrobiologia	systematiikka	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=systematiikka|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=systematics|kieli=englanti}}
+Mikrobiologia	systeeminen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=systeeminen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=systemic|kieli=englanti}}
+Mikrobiologia	sytokromi-P450-mono-oksygenaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=sytokromi-P450-mono-oksygenaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=cytochrome P450 monooxygenase|kieli=englanti}}
+Sienitiede	sädesienet	{{Käsite|lisätiedot=|tieteellinen nimi=Actinomycota|luokka=Mikrobiologia, Taksonominen yksikkö}}{{Liittyvä nimitys|nimitys=sädesienet|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=actinomycetes|kieli=englanti}}
+Sienitiede	tallinen	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=tallinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=thallic|kieli=englanti}}
+Sienitiede	tallus	{{Käsite|lisätiedot=|luokka=kasvitiede}}{{Liittyvä nimitys|nimitys=tallus|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=thallus|kieli=englanti}}
+Sienitiede	talvi-itiöpesäke	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=talvi-itiöpesäke|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=telio of rust fungus|kieli=englanti}}
+Sienitiede	talvikkisienijuuri	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=talvikkisienijuuri|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=arbutoidimykorritsa|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=arbutoid mycorrhiza|kieli=englanti}}
+Mikrobiologia	tandemgeenikopioituminen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=tandemgeenikopioituminen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=tandem gene duplication|kieli=englanti}}
+Mikrobiologia	tanniini	{{Käsite|lisätiedot=|luokka=kasvitiede}}{{Liittyvä nimitys|nimitys=tanniini|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=tannin|kieli=englanti}}
+Sienitiede	tartuke	{{Käsite|selite= Käytetään lähinnä kasvitautien yhteydessä.<ref>Lähde:SB2013</ref>|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=tartuke|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=infectant|kieli=englanti}}
+Mikrobiologia	tasapainokivi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=tasapainokivi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=statoliitti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=statolith|kieli=englanti}}
+Mikrobiologia	tasapainotunnistin	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=tasapainotunnistin|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=gravisuspektori|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=gravisuspector|kieli=englanti}}
+Mikrobiologia	TATA-alue	{{Käsite|selite=Alueen sekvenssi on yleensä TATAAA.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=TATA-alue|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=TATA-box|kieli=englanti}}
+Sienitiede	tatit	{{Käsite|selite= Itiöt sijaitsevat pillien pinnalla<ref>Lähde:SB2013</ref>|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=tatit|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=boletes|kieli=englanti}}
+Mikrobiologia	taudinaiheuttaja	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=taudinaiheuttaja|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=patogeeni|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pathogen|kieli=englanti}}
+Mikrobiologia	tehostaja-alue	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=tehostaja-alue|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=enhancer|kieli=englanti}}
+Sienitiede	telio	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=telio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=telium|kieli=englanti}}
+Sienitiede	teliospori	{{Käsite|selite=Molemmat ovat lepoitiöitä, joista itiökanta kehittyy myöhemmin.<ref>Lähde:SB2013</ref>|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=teliospori|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=teleutospori|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=teleutospore|kieli=englanti}}{{Liittyvä nimitys|nimitys=teliospore|kieli=englanti}}
+Sienitiede	teleomorfi	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=teleomorfi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=teleomorph|kieli=englanti}}
+Mikrobiologia	telomeeri	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=telomeeri|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=telomer|kieli=englanti}}
+Mikrobiologia	telomeraasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=telomeraasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=telomerase|kieli=englanti}}
+Mikrobiologia	terminus	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=terminus|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=terminus|kieli=englanti}}
+Sienitiede	tetrapolaarinen	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=tetrapolaarinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=tetrapolar|kieli=englanti}}
+Mikrobiologia	toisiolähetti	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=toisiolähetti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=second messenger|kieli=englanti}}
+Sienitiede	toistojaksojen mutatoiminen	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=toistojaksojen mutatoiminen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=repeat induced point mutations (RIP)|kieli=englanti}}
+Mikrobiologia	topoisomeraasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=topoisomeraasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=topoisomerase|kieli=englanti}}
+Mikrobiologia	trakeidi	{{Käsite|lisätiedot=|luokka=kasvianatomia, puuanatomia}}{{Liittyvä nimitys|nimitys=trakeidi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=tracheid|kieli=englanti}}
+Mikrobiologia	transkriptio	{{Käsite|selite=Transkriptiossa RNA-polymeraasi kopioi tuman DNA:ssa olevaa geneettistä koodia RNA:ksi. Transkriptiossa syntyy sekä lähetti-RNA, siirtäjä-RNA, ribosomaalisia RNA että mikro-RNA-molekyylejä.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=transkriptio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=geenin ilmentyminen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=transcription|kieli=englanti}}{{Liittyvä nimitys|nimitys=gene expression|kieli=englanti}}
+Mikrobiologia	transkriptiotekijä	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=transkriptiotekijä|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=transkriptiofaktori|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=transcription factor|kieli=englanti}}
+Mikrobiologia	transkriptomi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=transkriptomi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=transcriptome|kieli=englanti}}
+Mikrobiologia	translaatio	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=translaatio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=translation|kieli=englanti}}
+Mikrobiologia	transposoni	{{Käsite|selite=Transposonit pystyvät myös siirtymään eliöstä ja lajista toiseen.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=transposoni|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=transposone|kieli=englanti}}
+Mikrobiologia	triglyseridi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=triglyseridi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=triglycerid|kieli=englanti}}
+Sienitiede	trisporihappo	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=trisporihappo|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=trisporic acid|kieli=englanti}}
+Mikrobiologia	tsygoottinen meioosi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=tsygoottinen meioosi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=zygotic meiosis|kieli=englanti}}
+Mikrobiologia	tumajyvänen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=tumajyvänen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=nukleolus|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=nucleolus|kieli=englanti}}
+Sienitiede	tuppi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=tuppi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=sheath|kieli=englanti}}
+Mikrobiologia	turgorpaine	{{Käsite|selite= Se painaa solukalvon tiiviisti soluseinään kiinni<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=turgorpaine|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=turgor pressure|kieli=englanti}}
+Sienitiede	tynnyrihuokonen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=tynnyrihuokonen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=gap in dolipore septum|kieli=englanti}}
+Mikrobiologia	täsmätuotekäyminen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=täsmätuotekäyminen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=homofermentatiivinen käyminen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=homofermentation|kieli=englanti}}
+Mikrobiologia	ubikitiini	{{Käsite|selite= Ubikitiiniä toisiin proteiineihin kiinnittävät entsyymit merkitsevät, mitkä proteiinit tulee kuljettaa proteasomeihin, joissa hajotus tapahtuu.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=ubikitiini|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ubichitin|kieli=englanti}}
+Mikrobiologia	ulkosyntyinen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=ulkosyntyinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=eksogeeninen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=exogenic|kieli=englanti}}
+Sienitiede	unitunikaatti	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=unitunikaatti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=unitunicate|kieli=englanti}}
+Mikrobiologia	uudelleenjärjestäytyminen	{{Käsite|selite=Erityisesti suvullisessa lisääntymisessä uudelleenyhdistyminen tuottaa jälkeläisille tehokkaasti uusia ominaisuus(geeni)yhdistelmiä.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=uudelleenjärjestäytyminen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=uudelleenyhdistyminen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=rekombinaatio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=recombination|kieli=englanti}}
+Mikrobiologia	vaihtoehtoinen silmukointi	{{Käsite|selite= Intronisekvenssit sisältävästä esilähetti-RNA:sta voidaan tällöin poistaa sekä intronit että osa eksoneista.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=vaihtoehtoinen silmukointi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=alternative splicing|kieli=englanti}}
+Sienitiede	vaillinaissienet	{{Käsite|lisätiedot=|tieteellinen nimi=Deuteromycota|luokka=Mikrobiologia, Taksonominen yksikkö}}{{Liittyvä nimitys|nimitys=vaillinaissienet|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=deuteromycetes|kieli=englanti}}
+Mikrobiologia	vaimentaja	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=vaimentaja|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=repressori|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=repressor|kieli=englanti}}
+Mikrobiologia	vakuoli	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=vakuoli|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=vacuole|kieli=englanti}}
+Sienitiede	valejuuri	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=valejuuri|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pseudorrhiza|kieli=englanti}}
+Sienitiede	valekotelopullo	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=valekotelopullo|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pseudoteekio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pseudothecium|kieli=englanti}}
+Sienitiede	valelisärihma	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=valelisärihma|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pseudoparafyysi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pseudoparaphyses|kieli=englanti}}
+Sienitiede	valerihma	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=valerihma|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pseudohyyfi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pseudohypha|kieli=englanti}}
+Sienitiede	valesolukko	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=valesolukko|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pseudoparenkyymi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=pseudoparenchyma|kieli=englanti}}
+Mikrobiologia	valinnainen loinen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=valinnainen loinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=ehdollinen loinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=fakultatiivinen parasiitti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=facultative parasite|kieli=englanti}}
+Sienitiede	valkolaho	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=valkolaho|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=white rot|kieli=englanti}}
+Sienitiede	valkolahottaja	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=valkolahottaja|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=white rot fungi|kieli=englanti}}
+Mikrobiologia	vastinemäkset	{{Käsite|selite=Adeniini pariutuu tymiinin (DNA:ssa) ja urasiilin (RNA:ssa) kanssa, guaniini sytosiinin kanssa.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=vastinemäkset|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=complementary bases|kieli=englanti}}
+Mikrobiologia	vastinjuoste	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=vastinjuoste|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=complementary sequence|kieli=englanti}}
+Sienitiede	verkkolimasienet	{{Käsite|lisätiedot=|tieteellinen nimi=Labyrinthulomycota|luokka=Mikrobiologia, Taksonominen yksikkö}}{{Liittyvä nimitys|nimitys=verkkolimasienet|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=labyrinthulomycetes|kieli=englanti}}
+Mikrobiologia	versatiiliperoksidaasi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=versatiiliperoksidaasi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=versatile peroxidase|kieli=englanti}}
+Mikrobiologia	vesikkeli	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=vesikkeli|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=vesicle|kieli=englanti}}
+Mikrobiologia	vetyperoksidi	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=vetyperoksidi|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=hydrogen peroxide|kieli=englanti}}
+Mikrobiologia	viestinvälitysketju	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=viestinvälitysketju|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=signaalinvälitysketju|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=signaalinvälitysreitti|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=signalling cascade|kieli=englanti}}
+Mikrobiologia	virioni	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=virioni|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=virion|kieli=englanti}}
+Sienitiede	vuotikka	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=vuotikka|otsikossa=Y|kieli=suomi}}
+Sienitiede	vyötärökuromaperä	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=vyötärökuromaperä|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=blastinen kuromaperä|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=blastic conidium bearing cell|kieli=englanti}}
+Sienitiede	välikokoiset säikeet	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=välikokoiset säikeet|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=välikokoiset filamentit|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=intermediate filaments|kieli=englanti}}
+Sienitiede	väliseinä	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=väliseinä|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=septum|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=septum|kieli=englanti}}
+Sienitiede	väliseinätön	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=väliseinätön|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=kenosyyttinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=coenosytic|kieli=englanti}}
+Sienitiede	Woroninin kappale	{{Käsite|selite=Voi toimia väliseinän huokostulppana.<ref>Lähde:SB2013</ref>|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=Woroninin kappale|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=Woronin body|kieli=englanti}}
+Mikrobiologia	yhteisevoluutio	{{Käsite|lisätiedot=|luokka=biologia}}{{Liittyvä nimitys|nimitys=yhteisevoluutio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=koevoluutio|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=coevolution|kieli=englanti}}
+Mikrobiologia	yhteisliukoinen	{{Käsite|lisätiedot=}}{{Liittyvä nimitys|nimitys=yhteisliukoinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=amfifiilinen|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=amphiphilic|kieli=englanti}}
+Sienitiede	yhtymäitiö	{{Käsite|lisätiedot=|luokka=Mikrobiologia}}{{Liittyvä nimitys|nimitys=yhtymäitiö|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=tsygospori|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=zygospore|kieli=englanti}}
+Sienitiede	yhtymäsienet	{{Käsite|lisätiedot=|tieteellinen nimi=Zygomycota|luokka=Mikrobiologia, Taksonominen yksikkö}}{{Liittyvä nimitys|nimitys=yhtymäsienet|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=zygomycetes|kieli=englanti}}
+Mikrobiologia	3â€™-pää	{{Käsite|selite=Nukleiinihapot pitenevät vain tästä päästä.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=3â€™-pää|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=3â€™-end|kieli=englanti}}{{Liittyvä nimitys|nimitys=three prime end|kieli=englanti}}
+Mikrobiologia	5â€™-pää	{{Käsite|selite= Nukleiinihapot eivät pitene tästä päästä.<ref>Lähde:SB2013</ref>|lisätiedot=}}{{Liittyvä nimitys|nimitys=5â€™-pää|otsikossa=Y|kieli=suomi}}{{Liittyvä nimitys|nimitys=5â€™-end|kieli=englanti}}{{Liittyvä nimitys|nimitys=five prime end|kieli=englanti}}
+Nimitys	kromatiini	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	chromatin	{{Nimitys|kieli=englanti}}
+Nimitys	ksylanaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	xylanase	{{Nimitys|kieli=englanti}}
+Nimitys	kuromankannatinpylväs	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	synnema	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=syn-}}{{Nimitys|kieli=englanti}}
+Nimitys	kuromapahka	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	sporodokio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=sporo-}}
+Nimitys	sporodochium	{{Nimitys|kieli=englanti}}
+Nimitys	kuromaperä	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	conidium bearing cell	{{Nimitys|kieli=englanti}}
+Nimitys	kuromapullo	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	pyknidio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	pycnidium	{{Nimitys|kieli=englanti}}
+Nimitys	kystidi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	cystidium	{{Nimitys|kieli=englanti}}
+Nimitys	kämmekkäsienijuuri	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	orkideamykorritsa	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	orchid mycorrhiza	{{Nimitys|kieli=englanti}}
+Nimitys	kärkisolu	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	apikaalisolu	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	apical cell	{{Nimitys|kieli=englanti}}
+Nimitys	kärkitihentymä	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	spitzenkörper	{{Nimitys|kieli=suomi|sanaluokka=substantiivi}}{{Nimitys|kieli=englanti}}
+Nimitys	käyminen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|johdostyyppi=-minen}}
+Nimitys	fermentoituminen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|johdostyyppi=-minen}}
+Nimitys	fermentation	{{Nimitys|kieli=englanti}}
+Nimitys	kääntymä	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|johdostyyppi=-mA}}
+Nimitys	inversio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	inversion	{{Nimitys|kieli=englanti}}
+Nimitys	kääpä	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	shelf fungus	{{Nimitys|kieli=englanti}}
+Nimitys	käävät	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	shelf fungi	{{Nimitys|kieli=englanti}}
+Nimitys	kääväkäs	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|johdostyyppi=-kAs}}
+Nimitys	â€?Aphyllophoralesâ€?	{{Nimitys|kieli=englanti}}
+Nimitys	lajimääre	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	epiteetti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	epithet	{{Nimitys|kieli=englanti}}
+Nimitys	lakkaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	laccase	{{Nimitys|kieli=englanti}}
+Nimitys	laskostusentsyymi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	co-chaperone	{{Nimitys|kieli=englanti}}
+Nimitys	folding chaperone	{{Nimitys|kieli=englanti}}
+Nimitys	leivinhiiva	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	panimohiiva	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	bakerâ€™s yeast	{{Nimitys|kieli=englanti}}
+Nimitys	lepoitiö	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	dormant spore	{{Nimitys|kieli=englanti}}
+Nimitys	leväsienet	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	phycomycetes	{{Nimitys|kieli=englanti}}
+Nimitys	ligaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	ligase	{{Nimitys|kieli=englanti}}
+Nimitys	ligniini	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	lignin	{{Nimitys|kieli=englanti}}
+Nimitys	ligniiniperoksidaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	lignin peroxidase	{{Nimitys|kieli=englanti}}
+Nimitys	ligninolyyttinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdistämätön|johdostyyppi=-inen}}
+Nimitys	ligninolytic	{{Nimitys|kieli=englanti}}
+Nimitys	lignoselluloosa	{{Nimitys|kieli=suomi|sanaluokka=substantiivi}}
+Nimitys	lignocellulose	{{Nimitys|kieli=englanti}}
+Nimitys	likenikolinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdistämätön|johdostyyppi=-inen}}
+Nimitys	lichenicolous	{{Nimitys|kieli=englanti}}
+Nimitys	limakkosienet	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	gymnomycetes	{{Nimitys|kieli=englanti}}
+Nimitys	limasienet	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	slime molds	{{Nimitys|kieli=englanti}}
+Nimitys	linjarajoittunut geeni	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	lineage specific gene	{{Nimitys|kieli=englanti}}
+Nimitys	LS gene	{{Nimitys|kieli=englanti}}
+Nimitys	taxonomically restricted gene	{{Nimitys|kieli=englanti}}
+Nimitys	TR gene	{{Nimitys|kieli=englanti}}
+Nimitys	lipaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	lipase	{{Nimitys|kieli=englanti}}
+Nimitys	lipopeptidi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	lipopeptide	{{Nimitys|kieli=englanti}}
+Nimitys	lisärihma	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	parafyysi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=para-}}
+Nimitys	nesterihma	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	paraphysis	{{Nimitys|kieli=englanti}}
+Nimitys	loinen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	parasiitti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=para-}}
+Nimitys	parasite	{{Nimitys|kieli=englanti}}
+Nimitys	lokus	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	locus	{{Nimitys|kieli=englanti}}
+Nimitys	lusiferiini	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	luciferin	{{Nimitys|kieli=englanti}}
+Nimitys	lyaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	lyase	{{Nimitys|kieli=englanti}}
+Nimitys	lysosomi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	lysosome	{{Nimitys|kieli=englanti}}
+Nimitys	lyyttinen vakuoli	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	lytic vacuole	{{Nimitys|kieli=englanti}}
+Nimitys	lähetti-RNA	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	mRNA	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=lyhenne}}
+Nimitys	messenger RNA	{{Nimitys|kieli=englanti}}
+Nimitys	maitiaisrihma	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	lactifer	{{Nimitys|kieli=englanti}}
+Nimitys	mangaaniperoksidaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	manganese peroxide	{{Nimitys|kieli=englanti}}
+Nimitys	mannanaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	mannanase	{{Nimitys|kieli=englanti}}
+Nimitys	MAP-kinaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	MAP kinase	{{Nimitys|kieli=englanti}}
+Nimitys	MAP-kinaasivälitteinen viestinvälitysketju	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	MAP-kinaasikaskadi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	MAP-kinaasireitti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	MAP-signaalinvälitysketju	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	Mitogen-activated protein (MAP) kinase signalling pathway	{{Nimitys|kieli=englanti}}
+Nimitys	MAT-lokus	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	MAT locus	{{Nimitys|kieli=englanti}}
+Nimitys	meioosi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	sienissä diploidi solu tuottaa yleensä neljä elinkelpoista haploidia	{{Nimitys|kieli=englanti}}
+Nimitys	kromosomistoltaan ja geeneiltään erilaista sukusolua	{{Nimitys|kieli=englanti}}
+Nimitys	meiospori	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	meiospore	{{Nimitys|kieli=englanti}}
+Nimitys	merosporangio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	merosporangium	{{Nimitys|kieli=englanti}}
+Nimitys	metabasidio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	metabasidium	{{Nimitys|kieli=englanti}}
+Nimitys	mikropahka	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=mikro-}}
+Nimitys	mikrosklerootio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=mikro-}}
+Nimitys	microsclerotium	{{Nimitys|kieli=englanti}}
+Nimitys	mikrotubulus	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=mikro-}}
+Nimitys	microtubulus	{{Nimitys|kieli=englanti}}
+Nimitys	mikrobi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=mikro-}}
+Nimitys	mikro-organismi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=mikro-}}
+Nimitys	microbe	{{Nimitys|kieli=englanti}}
+Nimitys	mikro-RNA	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=mikro-}}
+Nimitys	non-coding RNA	{{Nimitys|kieli=englanti}}
+Nimitys	ncRNA	{{Nimitys|kieli=englanti}}
+Nimitys	mitogeeni	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=mito-}}
+Nimitys	mitogen	{{Nimitys|kieli=englanti}}
+Nimitys	mitoosi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=mito-}}
+Nimitys	mitosis	{{Nimitys|kieli=englanti}}
+Nimitys	mitokondrio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=mito-}}
+Nimitys	mitochondrium	{{Nimitys|kieli=englanti}}
+Nimitys	mitospori	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=mito-}}
+Nimitys	mitospore	{{Nimitys|kieli=englanti}}
+Nimitys	monofyleettinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdistämätön|johdostyyppi=-inen|yhdysosamuoto=mono-}}
+Nimitys	monophyletic	{{Nimitys|kieli=englanti}}
+Nimitys	monokaryoottinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdistämätön|johdostyyppi=-inen|yhdysosamuoto=mono-}}
+Nimitys	monokaryotic	{{Nimitys|kieli=englanti}}
+Nimitys	monosakkaridi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=mono-}}
+Nimitys	monosaccharide	{{Nimitys|kieli=englanti}}
+Nimitys	morfologinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdistämätön|johdostyyppi=-inen}}
+Nimitys	morphological	{{Nimitys|kieli=englanti}}
+Nimitys	multialleelinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdistämätön|johdostyyppi=-inen|yhdysosamuoto=multi-}}
+Nimitys	multiallelic	{{Nimitys|kieli=englanti}}
+Nimitys	munapesäke	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	askogonio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	ascogonium	{{Nimitys|kieli=englanti}}
+Nimitys	mykobiontti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=myko-}}
+Nimitys	mycobiont	{{Nimitys|kieli=englanti}}
+Nimitys	mykorritsosfääri	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|yhdysosamuoto=myko-}}
+Nimitys	mycorrhizosophere	{{Nimitys|kieli=englanti}}
+Nimitys	myosiini	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	myosin	{{Nimitys|kieli=englanti}}
+Nimitys	myseeli	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	mycelium	{{Nimitys|kieli=englanti}}
+Nimitys	mäntykukkasienijuuri	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	monotropoidimykorritsa	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=mono-}}
+Nimitys	monotropoid mycorrhiza	{{Nimitys|kieli=englanti}}
+Nimitys	nahakkaat	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|johdostyyppi=-kas}}
+Nimitys	corticioid fungi	{{Nimitys|kieli=englanti}}
+Nimitys	stereoid fungi	{{Nimitys|kieli=englanti}}
+Nimitys	N-asetyyliglukosamiini	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	N-acetyl glucosamine	{{Nimitys|kieli=englanti}}
+Nimitys	nekrotrofi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	necrotrophic	{{Nimitys|kieli=englanti}}
+Nimitys	noki-itiö	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	ustilospori	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	ustospori	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	ustilospore	{{Nimitys|kieli=englanti}}
+Nimitys	ustospore	{{Nimitys|kieli=englanti}}
+Nimitys	nuijahomeet	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	nukleaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	nuclease	{{Nimitys|kieli=englanti}}
+Nimitys	nukleosomi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	nucleosome	{{Nimitys|kieli=englanti}}
+Nimitys	ohutkerroskromatografia	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	thin layer chromatography (TLC)	{{Nimitys|kieli=englanti}}
+Nimitys	oksaalihappo	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	esiintyy kasvikunnassa	{{Nimitys|kieli=englanti}}
+Nimitys	esimerkiksi raparperissa	{{Nimitys|kieli=englanti}}
+Nimitys	punajuuressa	{{Nimitys|kieli=englanti}}
+Nimitys	pinaatissa ja ketunleivässä	{{Nimitys|kieli=englanti}}
+Nimitys	oksidaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	oxidase	{{Nimitys|kieli=englanti}}
+Nimitys	oksidoreduktaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi}}
+Nimitys	oxidoreductase	{{Nimitys|kieli=englanti}}
+Nimitys	oogamia	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	oogamy	{{Nimitys|kieli=englanti}}
+Nimitys	operkulaatti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	operculate	{{Nimitys|kieli=englanti}}
+Nimitys	ora	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	spine	{{Nimitys|kieli=englanti}}
+Nimitys	â€?toothâ€?	{{Nimitys|kieli=englanti}}
+Nimitys	orakkaat	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|johdostyyppi=-kAs}}
+Nimitys	hydnoid fungi	{{Nimitys|kieli=englanti}}
+Nimitys	tooth fungi	{{Nimitys|kieli=englanti}}
+Nimitys	orpo geeni	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	orphan gene	{{Nimitys|kieli=englanti}}
+Nimitys	ortologinen geeni	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	orthologic [genes]	{{Nimitys|kieli=englanti}}
+Nimitys	orvakka	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|johdostyyppi=-kkA}}
+Nimitys	corticioid	{{Nimitys|kieli=englanti}}
+Nimitys	corticoid	{{Nimitys|kieli=englanti}}
+Nimitys	orvakat	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	corticioids	{{Nimitys|kieli=englanti}}
+Nimitys	PAH-yhdisteet	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	PAH compounds	{{Nimitys|kieli=englanti}}
+Nimitys	painerihma	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	appressorio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	tartuntarihma	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	appressorium	{{Nimitys|kieli=englanti}}
+Nimitys	pallosolu	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	sphaerocyst	{{Nimitys|kieli=englanti}}
+Nimitys	parafyleettinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdistämätön|johdostyyppi=-inen}}
+Nimitys	paraphyletic	{{Nimitys|kieli=englanti}}
+Nimitys	pariutumisalue	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	mating loci	{{Nimitys|kieli=englanti}}
+Nimitys	pariutumistyyppi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	mating type	{{Nimitys|kieli=englanti}}
+Nimitys	mating strain	{{Nimitys|kieli=englanti}}
+Nimitys	parveiluitiö	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	parveilija	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|johdostyyppi=-jA}}
+Nimitys	tsoospori	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	zoospori	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	zoospore	{{Nimitys|kieli=englanti}}
+Nimitys	parveiluitiöpesäke	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	tsoosporangio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	zoosporangio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi}}
+Nimitys	zoosporangium	{{Nimitys|kieli=englanti}}
+Nimitys	peittaus	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	seed disinfection	{{Nimitys|kieli=englanti}}
+Nimitys	seed dressing	{{Nimitys|kieli=englanti}}
+Nimitys	pektiini	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	pectin	{{Nimitys|kieli=englanti}}
+Nimitys	pektinaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	pectinase	{{Nimitys|kieli=englanti}}
+Nimitys	pensselihomeet	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	genus Penicillium	{{Nimitys|kieli=englanti}}
+Nimitys	peptidi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	peptid	{{Nimitys|kieli=englanti}}
+Nimitys	peridioli	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	peridiole	{{Nimitys|kieli=englanti}}
+Nimitys	permeaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	permease	{{Nimitys|kieli=englanti}}
+Nimitys	peroksidaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	peroxidase	{{Nimitys|kieli=englanti}}
+Nimitys	peroksisomi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	peroxisome	{{Nimitys|kieli=englanti}}
+Nimitys	peroksyyli	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	peroxyl	{{Nimitys|kieli=englanti}}
+Nimitys	peroksyyliradikaali	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	peroxyl radical	{{Nimitys|kieli=englanti}}
+Nimitys	perusaine	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	primary metabolite	{{Nimitys|kieli=englanti}}
+Nimitys	perusaineenvaihduntageeni	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	housekeeping gene	{{Nimitys|kieli=englanti}}
+Nimitys	peräsiimaiset	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-inen}}
+Nimitys	opisthokonts	{{Nimitys|kieli=englanti}}
+Nimitys	pesäkeitiö	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	sporangiospori	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	sporangiospore	{{Nimitys|kieli=englanti}}
+Nimitys	pikkukuromapullo	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	pyknio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	spermagonio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi}}
+Nimitys	pycnium	{{Nimitys|kieli=englanti}}
+Nimitys	spermagonium	{{Nimitys|kieli=englanti}}
+Nimitys	pilkekuromaperä	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	tallinen kuromaperä	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	thallic conidium bearing cell	{{Nimitys|kieli=englanti}}
+Nimitys	pilus	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}{{Nimitys|kieli=englanti}}
+Nimitys	pileaatti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	pileate	{{Nimitys|kieli=englanti}}
+Nimitys	pinta-aktiivinen aine	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	surfaktantti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	surfactant	{{Nimitys|kieli=englanti}}
+Nimitys	pintasienijuuri	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	ektomykorritsa	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	ectomycorrhiza	{{Nimitys|kieli=englanti}}
+Nimitys	plasmidi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	plasmid	{{Nimitys|kieli=englanti}}
+Nimitys	plasmogamia	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	plasmogamy	{{Nimitys|kieli=englanti}}
+Nimitys	pleomorfinen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|johdostyyppi=-inen}}
+Nimitys	plesiomorfinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdistämätön|johdostyyppi=-inen}}
+Nimitys	plesiomorphic	{{Nimitys|kieli=englanti}}
+Nimitys	poikilohydrinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdyssana|johdostyyppi=-inen}}
+Nimitys	poikilohydric	{{Nimitys|kieli=englanti}}
+Nimitys	polaarinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdistämätön}}
+Nimitys	polar	{{Nimitys|kieli=englanti}}
+Nimitys	polyfenolioksidaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=poly-}}
+Nimitys	polyphenol oxiadase	{{Nimitys|kieli=englanti}}
+Nimitys	polyfosfaatti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=poly-}}
+Nimitys	polyphosphate	{{Nimitys|kieli=englanti}}
+Nimitys	polyfyleettinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdistämätön|johdostyyppi=-inen|yhdysosamuoto=poly-}}
+Nimitys	polyphyletic	{{Nimitys|kieli=englanti}}
+Nimitys	polyketidi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=poly-}}
+Nimitys	polyketide	{{Nimitys|kieli=englanti}}
+Nimitys	polyketidisyntaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=poly-}}
+Nimitys	polyketide synthetase	{{Nimitys|kieli=englanti}}
+Nimitys	polymeeri	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=poly-}}
+Nimitys	polymer	{{Nimitys|kieli=englanti}}
+Nimitys	polymeraasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=poly-}}
+Nimitys	polymerase	{{Nimitys|kieli=englanti}}
+Nimitys	polyporoidi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=poly-}}
+Nimitys	polyporoid	{{Nimitys|kieli=englanti}}
+Nimitys	polysakkaridi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=poly-}}
+Nimitys	polysaccharide	{{Nimitys|kieli=englanti}}
+Nimitys	polysentrinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdistämätön|johdostyyppi=-inen|yhdysosamuoto=poly-}}
+Nimitys	polycentric	{{Nimitys|kieli=englanti}}
+Nimitys	primaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=pri-}}
+Nimitys	primase	{{Nimitys|kieli=englanti}}
+Nimitys	prioni	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=pri-}}
+Nimitys	prion	{{Nimitys|kieli=englanti}}
+Nimitys	promoottori	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=pro-}}
+Nimitys	promoottorialue	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	promoter region	{{Nimitys|kieli=englanti}}
+Nimitys	promyseeli	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=pro-}}
+Nimitys	alkeisrihma	{{Nimitys|kieli=suomi}}
+Nimitys	promycelium	{{Nimitys|kieli=englanti}}
+Nimitys	proteaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=pro-}}
+Nimitys	protease	{{Nimitys|kieli=englanti}}
+Nimitys	proteasomi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=pro-}}
+Nimitys	proteasome	{{Nimitys|kieli=englanti}}
+Nimitys	proteiini	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=pro-}}
+Nimitys	valkuaisaine	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	protein	{{Nimitys|kieli=englanti}}
+Nimitys	proteiinikinaasi-A	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=pro-}}
+Nimitys	PKA	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=lyhenne}}
+Nimitys	protein kinase A	{{Nimitys|kieli=englanti}}
+Nimitys	proteomi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=pro-}}
+Nimitys	proteome	{{Nimitys|kieli=englanti}}
+Nimitys	protonisymporttisiirtäjä	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-jA|yhdysosamuoto=pro-}}
+Nimitys	proton symport	{{Nimitys|kieli=englanti}}
+Nimitys	punahomeet	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	genus Fusarium	{{Nimitys|kieli=englanti}}
+Nimitys	puukuidut	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	wood fibers	{{Nimitys|kieli=englanti}}
+Nimitys	puusolukko	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	puuaines	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	ksyleemi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	xylem	{{Nimitys|kieli=englanti}}
+Nimitys	pyknidiospori	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	pycnidiospore	{{Nimitys|kieli=englanti}}
+Nimitys	pyrenomykeetti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	pyrenomycete	{{Nimitys|kieli=englanti}}
+Nimitys	päätyneula	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	polar filament	{{Nimitys|kieli=englanti}}
+Nimitys	rakeinen solulimakalvosto	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto|johdostyyppi=-stO}}
+Nimitys	rakeinen endoplasminen retikulumi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	RER	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=lyhenne}}{{Nimitys|kieli=englanti}}
+Nimitys	rough endoplasmic reticulum	{{Nimitys|kieli=englanti}}
+Nimitys	reduktaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	reductase	{{Nimitys|kieli=englanti}}
+Nimitys	rengaskuromaperä	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	annelidi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	annelide	{{Nimitys|kieli=englanti}}
+Nimitys	replikaatio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	replication	{{Nimitys|kieli=englanti}}
+Nimitys	replikoni	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	replicon	{{Nimitys|kieli=englanti}}
+Nimitys	R-geeni	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	R gene	{{Nimitys|kieli=englanti}}
+Nimitys	ribosomi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=ribo-}}
+Nimitys	ribosome	{{Nimitys|kieli=englanti}}
+Nimitys	ribosomaalinen DNA	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=sanaliitto|yhdysosamuoto=ribo-}}
+Nimitys	ribosomal DNA	{{Nimitys|kieli=englanti}}
+Nimitys	ribosomaalinen RNA	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=sanaliitto|yhdysosamuoto=ribo-}}
+Nimitys	ribosomal RNA	{{Nimitys|kieli=englanti}}
+Nimitys	rihmamaiset sienet	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	filamentous fungi	{{Nimitys|kieli=englanti}}
+Nimitys	rihmastojänne	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	ritsomorfi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi}}
+Nimitys	rhizomorph	{{Nimitys|kieli=englanti}}
+Nimitys	hyphal strand	{{Nimitys|kieli=englanti}}
+Nimitys	rihmastopahka	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	sklerootio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	sclerotium	{{Nimitys|kieli=englanti}}
+Nimitys	rihmastosilta	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	anastomoosi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	anastomosis	{{Nimitys|kieli=englanti}}
+Nimitys	ripsisiimasienet	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	hyphochytridiomycetes	{{Nimitys|kieli=englanti}}
+Nimitys	RNA-hiljennys	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-Us}}
+Nimitys	RNA-interferenssi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	RNA silencing	{{Nimitys|kieli=englanti}}
+Nimitys	RNA interference	{{Nimitys|kieli=englanti}}
+Nimitys	RNAi	{{Nimitys|kieli=englanti}}
+Nimitys	RNA-polymeraasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	RNA polymerase	{{Nimitys|kieli=englanti}}
+Nimitys	RNA-sekvenssi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	RNA sequence	{{Nimitys|kieli=englanti}}
+Nimitys	ruskolahottaja	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-jA}}
+Nimitys	brown rot fungus	{{Nimitys|kieli=englanti}}
+Nimitys	salisyylihappo	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	salisylic acid	{{Nimitys|kieli=englanti}}
+Nimitys	samatumainen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdyssana}}
+Nimitys	homokaryoottinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdyssana|johdostyyppi=-inen|yhdysosamuoto=homo-}}
+Nimitys	homocaryotic	{{Nimitys|kieli=englanti}}
+Nimitys	seittivyö	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	velar region	{{Nimitys|kieli=englanti}}
+Nimitys	sekatuotekäyminen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	heterofermentatiivinen käyminen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto|johdostyyppi=-minen|yhdysosamuoto=hetero-}}
+Nimitys	heterofermentation	{{Nimitys|kieli=englanti}}
+Nimitys	sekatyyppinen sienijuuri	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	ektendomykorritsa	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	ectendomycorrhiza	{{Nimitys|kieli=englanti}}
+Nimitys	sekvenssi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	sequence	{{Nimitys|kieli=englanti}}
+Nimitys	sellobiohydrolaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=sello-}}
+Nimitys	cellobiohydrolase	{{Nimitys|kieli=englanti}}
+Nimitys	sellobioosi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=sello-}}
+Nimitys	cellobiose	{{Nimitys|kieli=englanti}}
+Nimitys	sellobioosidehydrogenaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=sello-}}
+Nimitys	CDH	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=lyhenne}}
+Nimitys	cellobiodehydrogenase (CDH)	{{Nimitys|kieli=englanti}}
+Nimitys	sellulaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=sellu-}}
+Nimitys	cellulase	{{Nimitys|kieli=englanti}}
+Nimitys	selluloosa	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=sellu-}}
+Nimitys	cellulose	{{Nimitys|kieli=englanti}}
+Nimitys	sentromeeri	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=sentro-}}
+Nimitys	centromere	{{Nimitys|kieli=englanti}}
+Nimitys	septiini	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	septin	{{Nimitys|kieli=englanti}}
+Nimitys	sidosrihma	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	binding hypha	{{Nimitys|kieli=englanti}}
+Nimitys	sienijuurisienten auttajabakteerit	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	mykorritsasienten auttajabakteerit	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	mycorrhiza helper bacteria	{{Nimitys|kieli=englanti}}
+Nimitys	MHB	{{Nimitys|kieli=englanti}}
+Nimitys	sienikanta	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	fungal strain	{{Nimitys|kieli=englanti}}
+Nimitys	sienimyrkky	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	mykotoksiini	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=myko-}}
+Nimitys	mycotoxin	{{Nimitys|kieli=englanti}}
+Nimitys	siirtymä	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	translokaatio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=trans-}}
+Nimitys	translocation	{{Nimitys|kieli=englanti}}
+Nimitys	siirtäjä-RNA	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	transfer-RNA	{{Nimitys|kieli=englanti}}
+Nimitys	t-RNA	{{Nimitys|kieli=englanti}}
+Nimitys	siitosrihma	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	trikogyyni	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=tri-}}
+Nimitys	trichogyne	{{Nimitys|kieli=englanti}}
+Nimitys	siittiöpesäke	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	anteridio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	anteridium	{{Nimitys|kieli=englanti}}
+Nimitys	antherid	{{Nimitys|kieli=englanti}}
+Nimitys	sileä solulimakalvosto	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto|johdostyyppi=-stO}}
+Nimitys	sileä endoplasminen retikulumi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	SER	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=lyhenne}}
+Nimitys	smooth endoplasmic reticulum	{{Nimitys|kieli=englanti}}
+Nimitys	silmikoiminen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|johdostyyppi=-minen}}
+Nimitys	budding	{{Nimitys|kieli=englanti}}
+Nimitys	silmukointi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|johdostyyppi=-nti}}
+Nimitys	splicing	{{Nimitys|kieli=englanti}}
+Nimitys	sinkilä	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	clamp	{{Nimitys|kieli=englanti}}
+Nimitys	sisäsuojus	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-Us}}
+Nimitys	inner veil	{{Nimitys|kieli=englanti}}
+Nimitys	partial veil	{{Nimitys|kieli=englanti}}
+Nimitys	sisäsyntyinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdyssana|johdostyyppi=-inen}}
+Nimitys	endogeeninen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdistämätön|johdostyyppi=-inen|yhdysosamuoto=endo-}}
+Nimitys	endogenic	{{Nimitys|kieli=englanti}}
+Nimitys	sitruunahappokierto	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	citric acid cycle	{{Nimitys|kieli=englanti}}
+Nimitys	tricarboxylic acid cycle	{{Nimitys|kieli=englanti}}
+Nimitys	Krebâ€™s cycle	{{Nimitys|kieli=englanti}}
+Nimitys	solukalvo	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	plasmalemma	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}{{Nimitys|kieli=englanti}}
+Nimitys	solukko	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|johdostyyppi=-kkO}}
+Nimitys	tissue	{{Nimitys|kieli=englanti}}
+Nimitys	solulimakalvosto	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-stO}}
+Nimitys	endoplasminen retikulumi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto|yhdysosamuoto=endo-}}
+Nimitys	endoplasmic reticulum	{{Nimitys|kieli=englanti}}
+Nimitys	ER	{{Nimitys|kieli=englanti}}
+Nimitys	solulimasienet	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	dictyostelids	{{Nimitys|kieli=englanti}}
+Nimitys	solulimakkosienet	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	acrasid cellular slime molds	{{Nimitys|kieli=englanti}}
+Nimitys	solun tukiranka	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	sytoskeleton	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=syto-}}
+Nimitys	cytoskeleton	{{Nimitys|kieli=englanti}}
+Nimitys	somatogamia	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	somatogamy	{{Nimitys|kieli=englanti}}
+Nimitys	sorus	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}{{Nimitys|kieli=englanti}}
+Nimitys	spermi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	sperm	{{Nimitys|kieli=englanti}}
+Nimitys	sporinen meioosi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	sporic meiosis	{{Nimitys|kieli=englanti}}
+Nimitys	sporangioli	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	sporangiole	{{Nimitys|kieli=englanti}}
+Nimitys	sporidio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	sporidium	{{Nimitys|kieli=englanti}}
+Nimitys	sporofyytti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	sporophyte	{{Nimitys|kieli=englanti}}
+Nimitys	steroidi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	steroid	{{Nimitys|kieli=englanti}}
+Nimitys	steroli	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	sterol	{{Nimitys|kieli=englanti}}
+Nimitys	steryyliesteri	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	steryl esther	{{Nimitys|kieli=englanti}}
+Nimitys	strigolaktoni	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	strigolactone	{{Nimitys|kieli=englanti}}
+Nimitys	suberiini	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	suberin	{{Nimitys|kieli=englanti}}
+Nimitys	sukkessio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	succession	{{Nimitys|kieli=englanti}}
+Nimitys	sukkulanapa	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	spindle pole body	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}{{Nimitys|kieli=englanti}}
+Nimitys	nucleus associated organelle	{{Nimitys|kieli=englanti}}
+Nimitys	sukkularihmasto	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-stO}}
+Nimitys	spindle	{{Nimitys|kieli=englanti}}
+Nimitys	nuclear spindle	{{Nimitys|kieli=englanti}}
+Nimitys	sukuhaara	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	clade	{{Nimitys|kieli=englanti}}
+Nimitys	sukupolvenvuorottelu	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-U}}
+Nimitys	alternation of generations	{{Nimitys|kieli=englanti}}
+Nimitys	sukusolu	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	gameetti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	gamete	{{Nimitys|kieli=englanti}}
+Nimitys	sukusolupesäke	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-ke}}
+Nimitys	gametangio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	gametangium	{{Nimitys|kieli=englanti}}
+Nimitys	suomukiehkura	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	volval remnant	{{Nimitys|kieli=englanti}}
+Nimitys	stefanokystidi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	stephanocystid	{{Nimitys|kieli=englanti}}
+Nimitys	sukusoluyhtymä	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-mA}}
+Nimitys	tsygootti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	zygote	{{Nimitys|kieli=englanti}}
+Nimitys	suvullinen lisääntyminen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto|johdostyyppi=-minen}}
+Nimitys	sexual reproduction	{{Nimitys|kieli=englanti}}
+Nimitys	suvuton lisääntyminen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto|johdostyyppi=-minen}}
+Nimitys	asexual reproduction	{{Nimitys|kieli=englanti}}
+Nimitys	syklinen AMP	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	cyclic AMP	{{Nimitys|kieli=englanti}}
+Nimitys	cAMP	{{Nimitys|kieli=englanti}}
+Nimitys	symbioosi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	symbiosis	{{Nimitys|kieli=englanti}}
+Nimitys	synapomorfia	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=syn-}}
+Nimitys	synapomorphy	{{Nimitys|kieli=englanti}}
+Nimitys	synergia	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=syn-}}
+Nimitys	yhteistoiminta	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-ntA}}
+Nimitys	synergy	{{Nimitys|kieli=englanti}}
+Nimitys	synteeninen alue	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto|yhdysosamuoto=syn-}}
+Nimitys	syntenic block	{{Nimitys|kieli=englanti}}
+Nimitys	synteeniset geenit	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto|yhdysosamuoto=syn-}}
+Nimitys	syntenic genes	{{Nimitys|kieli=englanti}}
+Nimitys	systematiikka	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|johdostyyppi=-kkA}}
+Nimitys	systematics	{{Nimitys|kieli=englanti}}
+Nimitys	systeeminen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdistämätön|johdostyyppi=-inen}}
+Nimitys	systemic	{{Nimitys|kieli=englanti}}
+Nimitys	sytokromi-P450-mono-oksygenaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	cytochrome P450 monooxygenase	{{Nimitys|kieli=englanti}}
+Nimitys	sädesienet	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	actinomycetes	{{Nimitys|kieli=englanti}}
+Nimitys	tallinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdistämätön|johdostyyppi=-inen}}
+Nimitys	thallic	{{Nimitys|kieli=englanti}}
+Nimitys	tallus	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	thallus	{{Nimitys|kieli=englanti}}
+Nimitys	talvi-itiöpesäke	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-ke}}
+Nimitys	telio of rust fungus	{{Nimitys|kieli=englanti}}
+Nimitys	talvikkisienijuuri	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	arbutoidimykorritsa	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	arbutoid mycorrhiza	{{Nimitys|kieli=englanti}}
+Nimitys	tandemgeenikopioituminen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	tandem gene duplication	{{Nimitys|kieli=englanti}}
+Nimitys	tanniini	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	tannin	{{Nimitys|kieli=englanti}}
+Nimitys	tartuke	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	infectant	{{Nimitys|kieli=englanti}}
+Nimitys	tasapainokivi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	statoliitti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	statolith	{{Nimitys|kieli=englanti}}
+Nimitys	tasapainotunnistin	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-in/ime}}
+Nimitys	gravisuspektori	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	gravisuspector	{{Nimitys|kieli=englanti}}
+Nimitys	TATA-alue	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	TATA-box	{{Nimitys|kieli=englanti}}
+Nimitys	tatit	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	boletes	{{Nimitys|kieli=englanti}}
+Nimitys	taudinaiheuttaja	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-jA}}
+Nimitys	patogeeni	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	pathogen	{{Nimitys|kieli=englanti}}
+Nimitys	tehostaja-alue	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	enhancer	{{Nimitys|kieli=englanti}}
+Nimitys	telio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	telium	{{Nimitys|kieli=englanti}}
+Nimitys	teliospori	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	teleutospori	{{Nimitys|kieli=suomi|sanaluokka=substantiivi}}
+Nimitys	teleutospore	{{Nimitys|kieli=englanti}}
+Nimitys	teliospore	{{Nimitys|kieli=englanti}}
+Nimitys	teleomorfi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	teleomorph	{{Nimitys|kieli=englanti}}
+Nimitys	telomeeri	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	telomer	{{Nimitys|kieli=englanti}}
+Nimitys	telomeraasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	telomerase	{{Nimitys|kieli=englanti}}
+Nimitys	terminus	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}{{Nimitys|kieli=englanti}}
+Nimitys	tetrapolaarinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdyssana|johdostyyppi=-inen}}
+Nimitys	tetrapolar	{{Nimitys|kieli=englanti}}
+Nimitys	toisiolähetti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	second messenger	{{Nimitys|kieli=englanti}}
+Nimitys	toistojaksojen mutatoiminen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto|johdostyyppi=-minen}}
+Nimitys	repeat induced point mutations (RIP)	{{Nimitys|kieli=englanti}}
+Nimitys	topoisomeraasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	topoisomerase	{{Nimitys|kieli=englanti}}
+Nimitys	trakeidi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	tracheid	{{Nimitys|kieli=englanti}}
+Nimitys	transkriptio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=trans-}}
+Nimitys	geenin ilmentyminen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto|johdostyyppi=-minen}}
+Nimitys	transcription	{{Nimitys|kieli=englanti}}
+Nimitys	gene expression	{{Nimitys|kieli=englanti}}
+Nimitys	transkriptiotekijä	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-jA|yhdysosamuoto=trans-}}
+Nimitys	transkriptiofaktori	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=trans-}}
+Nimitys	transcription factor	{{Nimitys|kieli=englanti}}
+Nimitys	transkriptomi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=trans-}}
+Nimitys	transcriptome	{{Nimitys|kieli=englanti}}
+Nimitys	translaatio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=trans-}}
+Nimitys	translation	{{Nimitys|kieli=englanti}}
+Nimitys	transposoni	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=trans-}}
+Nimitys	transposone	{{Nimitys|kieli=englanti}}
+Nimitys	triglyseridi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|yhdysosamuoto=tri-}}
+Nimitys	triglycerid	{{Nimitys|kieli=englanti}}
+Nimitys	trisporihappo	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=tri-}}
+Nimitys	trisporic acid	{{Nimitys|kieli=englanti}}
+Nimitys	tsygoottinen meioosi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	zygotic meiosis	{{Nimitys|kieli=englanti}}
+Nimitys	tumajyvänen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-nen}}
+Nimitys	nukleolus	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	nucleolus	{{Nimitys|kieli=englanti}}
+Nimitys	tuppi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	sheath	{{Nimitys|kieli=englanti}}
+Nimitys	turgorpaine	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	turgor pressure	{{Nimitys|kieli=englanti}}
+Nimitys	tynnyrihuokonen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-nen}}
+Nimitys	gap in dolipore septum	{{Nimitys|kieli=englanti}}
+Nimitys	täsmätuotekäyminen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-minen}}
+Nimitys	homofermentatiivinen käyminen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto|johdostyyppi=-minen|yhdysosamuoto=homo-}}
+Nimitys	homofermentation	{{Nimitys|kieli=englanti}}
+Nimitys	ubikitiini	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	ubichitin	{{Nimitys|kieli=englanti}}
+Nimitys	ulkosyntyinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdyssana|johdostyyppi=-inen}}
+Nimitys	eksogeeninen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdistämätön|johdostyyppi=-inen|yhdysosamuoto=ekso-}}
+Nimitys	exogenic	{{Nimitys|kieli=englanti}}
+Nimitys	unitunikaatti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	unitunicate	{{Nimitys|kieli=englanti}}
+Nimitys	uudelleenjärjestäytyminen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-minen}}
+Nimitys	uudelleenyhdistyminen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-minen}}
+Nimitys	rekombinaatio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	recombination	{{Nimitys|kieli=englanti}}
+Nimitys	vaihtoehtoinen silmukointi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto|johdostyyppi=-nti}}
+Nimitys	alternative splicing	{{Nimitys|kieli=englanti}}
+Nimitys	vaillinaissienet	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	deuteromycetes	{{Nimitys|kieli=englanti}}
+Nimitys	vaimentaja	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	repressori	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	repressor	{{Nimitys|kieli=englanti}}
+Nimitys	vakuoli	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	vacuole	{{Nimitys|kieli=englanti}}
+Nimitys	valejuuri	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=vale-}}
+Nimitys	pseudorrhiza	{{Nimitys|kieli=englanti}}
+Nimitys	valekotelopullo	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=vale-}}
+Nimitys	pseudoteekio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|yhdysosamuoto=pseudo-}}
+Nimitys	pseudothecium	{{Nimitys|kieli=englanti}}
+Nimitys	valelisärihma	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=vale-}}
+Nimitys	pseudoparafyysi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|yhdysosamuoto=pseudo-}}
+Nimitys	pseudoparaphyses	{{Nimitys|kieli=englanti}}
+Nimitys	valerihma	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=vale-}}
+Nimitys	pseudohyyfi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|yhdysosamuoto=pseudo-}}
+Nimitys	pseudohypha	{{Nimitys|kieli=englanti}}
+Nimitys	valesolukko	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|yhdysosamuoto=vale-}}
+Nimitys	pseudoparenkyymi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|yhdysosamuoto=pseudo-}}
+Nimitys	pseudoparenchyma	{{Nimitys|kieli=englanti}}
+Nimitys	valinnainen loinen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	ehdollinen loinen	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	fakultatiivinen parasiitti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	facultative parasite	{{Nimitys|kieli=englanti}}
+Nimitys	valkolaho	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	white rot	{{Nimitys|kieli=englanti}}
+Nimitys	valkolahottaja	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-jA}}
+Nimitys	white rot fungi	{{Nimitys|kieli=englanti}}
+Nimitys	vastinemäkset	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	complementary bases	{{Nimitys|kieli=englanti}}
+Nimitys	vastinjuoste	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana|johdostyyppi=-e}}
+Nimitys	complementary sequence	{{Nimitys|kieli=englanti}}
+Nimitys	verkkolimasienet	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	labyrinthulomycetes	{{Nimitys|kieli=englanti}}
+Nimitys	versatiiliperoksidaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	versatile peroxidase	{{Nimitys|kieli=englanti}}
+Nimitys	vesikkeli	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	vesicle	{{Nimitys|kieli=englanti}}
+Nimitys	vetyperoksidi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	hydrogen peroxide	{{Nimitys|kieli=englanti}}
+Nimitys	viestinvälitysketju	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	signaalinvälitysketju	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	signaalinvälitysreitti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	signalling cascade	{{Nimitys|kieli=englanti}}
+Nimitys	virioni	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}
+Nimitys	virion	{{Nimitys|kieli=englanti}}
+Nimitys	vuotikka	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön|johdostyyppi=-kkA}}
+Nimitys	vyötärökuromaperä	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	blastinen kuromaperä	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	blastic conidium bearing cell	{{Nimitys|kieli=englanti}}
+Nimitys	välikokoiset säikeet	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	välikokoiset filamentit	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	intermediate filaments	{{Nimitys|kieli=englanti}}
+Nimitys	väliseinä	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	septum	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdistämätön}}{{Nimitys|kieli=englanti}}
+Nimitys	väliseinätön	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdyssana}}
+Nimitys	kenosyyttinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdistämätön|johdostyyppi=-inen}}
+Nimitys	coenosytic	{{Nimitys|kieli=englanti}}
+Nimitys	Woroninin kappale	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	Woronin body	{{Nimitys|kieli=englanti}}
+Nimitys	yhteisevoluutio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	koevoluutio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	coevolution	{{Nimitys|kieli=englanti}}
+Nimitys	yhteisliukoinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdyssana}}
+Nimitys	amfifiilinen	{{Nimitys|kieli=suomi|sanamuoto=yhdistämätön|johdostyyppi=-inen|yhdysosamuoto=amfi-}}
+Nimitys	amphiphilic	{{Nimitys|kieli=englanti}}
+Nimitys	yhtymäitiö	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	tsygospori	{{Nimitys|kieli=suomi|sanamuoto=yhdistämätön}}
+Nimitys	zygospore	{{Nimitys|kieli=englanti}}
+Nimitys	yhtymäsienet	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	zygomycetes	{{Nimitys|kieli=englanti}}
+Nimitys	3â€™-pää	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	3â€™-end	{{Nimitys|kieli=englanti}}
+Nimitys	three prime end	{{Nimitys|kieli=englanti}}
+Nimitys	5â€™-pää	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	5â€™-end	{{Nimitys|kieli=englanti}}
+Nimitys	five prime end	{{Nimitys|kieli=englanti}}

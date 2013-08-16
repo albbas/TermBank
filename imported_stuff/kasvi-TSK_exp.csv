@@ -1,0 +1,768 @@
+nimitys%käsite%käännösvastaavuus%kieli%sanaluokka%sanamuoto%perussanatyyppi%johdostyyppi%käyttösuositus%alkuperä
+ainavihanta%ainavihanta%%suomi%adjektiivi; substantiivi%%%#NAME?%%
+ainavihreä%ainavihanta%%suomi%adjektiivi%%%#NAME?%%
+ainavehreä%ainavihanta%%suomi%adjektiivi%%%%vanhentunut%
+ikivihreä%ainavihanta%%suomi%adjektiivi%%%#NAME?%%
+evergreen%ainavihanta%%englanti%%%%%%
+vintergrön%ainavihanta%%ruotsi%%%%%%
+städsegrön%ainavihanta%%ruotsi%%%%%%
+eviggrønn%ainavihanta%%norja%%%%%%
+stedsegrøn%ainavihanta%%tanska%%%%%%
+veturgrønur%ainavihanta%%tanska%%%%%%
+sígrænn%ainavihanta%%islanti%%%%%%
+sempervirens%ainavihanta%%latina%%%%%%
+kaksivuotinen%kaksivuotinen%%suomi%substantiivi%%%#NAME?%%
+bienni%kaksivuotinen%%suomi%substantiivi%%3-tavuinen%%%
+2-vuotinen%kaksivuotinen%%suomi%adjektiivi%%%%%
+biennial%kaksivuotinen%%englanti%%%%%%
+bienn%kaksivuotinen%%ruotsi%%%%%%
+tvåårig%kaksivuotinen%%ruotsi%%%%%%
+bicyklisk%kaksivuotinen%%ruotsi%%%%%%
+bienn%kaksivuotinen%%norja%%%%%%
+toårig%kaksivuotinen%%norja%%%%%%
+bienn%kaksivuotinen%%tanska%%%%%%
+toårig%kaksivuotinen%%tanska%%%%%%
+tveyáraður%kaksivuotinen%%tanska%%%%%%
+tveyára-%kaksivuotinen%%fääri%%%%%%
+tvíiær%kaksivuotinen%%islanti%%%%%%
+ilmitalvehtija%ilmitalvehtija%%suomi%substantiivi%%%#NAME?%%
+fanerofyytti%ilmitalvehtija%%suomi%substantiivi%%%%%
+phanerophyte%ilmitalvehtija%%englanti%%%%%%
+fanerofyt%ilmitalvehtija%%ruotsi%%%%%%
+fanerofytt%ilmitalvehtija%%norja%%%%%%
+fanerofyt%ilmitalvehtija%%tanska%%%%%%
+loftplanta%ilmitalvehtija%%tanska%%%%%%
+loftplanta%ilmitalvehtija%%islanti%%%%%%
+kosmopoliitti%kosmopoliitti%%suomi%adjektiivi%%%%%
+cosmopolitan%kosmopoliitti%%englanti%%%%%%
+kosmopolit%kosmopoliitti%%ruotsi%%%%%%
+kotoperäinen%kotoperäinen%%suomi%adjektiivi%%%#NAME?%%
+endeeminen%kotoperäinen%%suomi%adjektiivi%%%#NAME?%%
+endeemi%kotoperäinen%%suomi%substantiivi%%3-tavuinen%%%
+endemic%kotoperäinen%%englanti%%%%%%
+endemisk (adj)%kotoperäinen%%ruotsi%%%%%%
+endem %kotoperäinen%%ruotsi%%%%%%
+endemisk (adj.)%kotoperäinen%%norja%%%%%%
+endemisme %kotoperäinen%%norja%%%%%%
+endemisk (adj.)%kotoperäinen%%tanska%%%%%%
+endem %kotoperäinen%%tanska%%%%%%
+ílendur%kotoperäinen%%tanska%%%%%%
+innlendur  ílend planta%kotoperäinen%%fääri%%%%%%
+ílent slag %kotoperäinen%%fääri%%%%%%
+einlendur (adj.) einlend planta%kotoperäinen%%islanti%%%%%%
+einlend tegund%kotoperäinen%%islanti%%%%%%
+kuivakkokasvi%kuivakkokasvi%%suomi%substantiivi%%%%%
+kserofyytti%kuivakkokasvi%%suomi%substantiivi%%%%%
+xerophyte%kuivakkokasvi%%englanti%%%%%%
+xerofyt%kuivakkokasvi%%ruotsi%%%%%%
+torrmarksväxt%kuivakkokasvi%%ruotsi%%%%%%
+xerofytt%kuivakkokasvi%%norja%%%%%%
+xerofyt%kuivakkokasvi%%tanska%%%%%%
+tørkeplante%kuivakkokasvi%%tanska%%%%%%
+turrlendisplanta%kuivakkokasvi%%tanska%%%%%%
+þurrkplanta%kuivakkokasvi%%islanti%%%%%%
+kulttuuritulokas%kulttuuritulokas%%suomi%substantiivi%%%#NAME?%%
+antropokori%kulttuuritulokas%%suomi%substantiivi%%%%%
+synantrooppi%kulttuuritulokas%%suomi%substantiivi%%%%%
+hemerokori%kulttuuritulokas%%suomi%substantiivi%%%%%
+anthropochorous%kulttuuritulokas%%englanti%%%%%%
+synanthropic%kulttuuritulokas%%englanti%%%%%%
+anthropochore%kulttuuritulokas%%englanti%%%%%%
+hemerochore%kulttuuritulokas%%englanti%%%%%%
+antropokor%kulttuuritulokas%%ruotsi%%%%%%
+kulturspridd%kulttuuritulokas%%ruotsi%%%%%%
+synantrop%kulttuuritulokas%%ruotsi%%%%%%
+antropokor%kulttuuritulokas%%norja%%%%%%
+antropochor %kulttuuritulokas%%norja%%%%%%
+synantrop%kulttuuritulokas%%norja%%%%%%
+antropokor (introduceret med kulturen)%kulttuuritulokas%%tanska%%%%%%
+synantrop%kulttuuritulokas%%tanska%%%%%%
+røktarinnsløddur%kulttuuritulokas%%tanska%%%%%%
+røktartreytaður%kulttuuritulokas%%fääri%%%%%%
+aðfluttur með ræktun%kulttuuritulokas%%islanti%%%%%%
+ræktunarháður%kulttuuritulokas%%islanti%%%%%%
+laaritalvehtija%laaritalvehtija%%suomi%substantiivi%%%#NAME?%%
+luonnonvarainen%luonnonvarainen%%suomi%adjektiivi%%%#NAME?%%
+native%luonnonvarainen%%englanti%%%%%%
+wild-growing%luonnonvarainen%%englanti%%%%%%
+ursprunglig%luonnonvarainen%%ruotsi%%%%%%
+vildväxande%luonnonvarainen%%ruotsi%%%%%%
+vill%luonnonvarainen%%norja%%%%%%
+viltvoksende%luonnonvarainen%%norja%%%%%%
+vildtvoksende%luonnonvarainen%%tanska%%%%%%
+villvaksandi%luonnonvarainen%%tanska%%%%%%
+villtur%luonnonvarainen%%islanti%%%%%%
+vex villtur%luonnonvarainen%%islanti%%%%%%
+matalatalvehtija%matalatalvehtija%%suomi%substantiivi%%%#NAME?%%
+kamefyytti%matalatalvehtija%%suomi%substantiivi%%%%%
+chamaephyte%matalatalvehtija%%englanti%%%%%%
+chamaeophyte%matalatalvehtija%%englanti%%%%%%
+chamaefyt%matalatalvehtija%%ruotsi%%%%%%
+chamaefytt%matalatalvehtija%%norja%%%%%%
+chamaefyt%matalatalvehtija%%tanska%%%%%%
+jordfladeplante%matalatalvehtija%%tanska%%%%%%
+jarðflataplanta%matalatalvehtija%%tanska%%%%%%
+runn- eða þófaplanta%matalatalvehtija%%islanti%%%%%%
+monivuotinen%monivuotinen%%suomi%adjektiivi%%%#NAME?%%
+perennial%monivuotinen%%englanti%%%%%%
+plurien%monivuotinen%%englanti%%%%%%
+perenn%monivuotinen%%ruotsi%%%%%%
+flerårig%monivuotinen%%ruotsi%%%%%%
+perenn%monivuotinen%%norja%%%%%%
+flerårig%monivuotinen%%norja%%%%%%
+flerårig%monivuotinen%%tanska%%%%%%
+fleiráraður%monivuotinen%%tanska%%%%%%
+fjölær%monivuotinen%%islanti%%%%%%
+muinaistulokas%muinaistulokas%%suomi%substantiivi%%%#NAME?%%
+arkeofyytti%muinaistulokas%%suomi%substantiivi%%%%%
+archaeophyte%muinaistulokas%%englanti%%%%%%
+arkeofyt%muinaistulokas%%ruotsi%%%%%%
+arkeofytt%muinaistulokas%%norja%%%%%%
+arkæofyt%muinaistulokas%%tanska%%%%%%
+fornplanta%muinaistulokas%%tanska%%%%%%
+fornplanta%muinaistulokas%%islanti%%%%%%
+painolastitulokas%painolastitulokas%%suomi%substantiivi%%%#NAME?%%
+ballast plant%painolastitulokas%%englanti%%%%%%
+perenna%perenna%%suomi%substantiivi%%3-tavuinen%%%
+pollakantti%perenna%%suomi%%%%%%
+perennial%perenna%%englanti%%%%%%
+perennial plant%perenna%%englanti%%%%%%
+pollakanth%perenna%%englanti%%%%%%
+perenn%perenna%%ruotsi%%%%%%
+piilotalvehtija%piilotalvehtija%%suomi%substantiivi%%%#NAME?%%
+kryptofyytti%piilotalvehtija%%suomi%substantiivi%%%%%
+geofyytti%piilotalvehtija%%suomi%substantiivi%%%%%
+cryptophyte%piilotalvehtija%%englanti%%%%%%
+geophyte%piilotalvehtija%%englanti%%%%%%
+kryptofyt%piilotalvehtija%%ruotsi%%%%%%
+geofyt%piilotalvehtija%%ruotsi%%%%%%
+geofytt%piilotalvehtija%%norja%%%%%%
+geofyt%piilotalvehtija%%tanska%%%%%%
+jordplante%piilotalvehtija%%tanska%%%%%%
+jarðplanta%piilotalvehtija%%tanska%%%%%%
+jarðplanta%piilotalvehtija%%islanti%%%%%%
+pioneerikasvillisuus%pioneerikasvillisuus%%suomi%substantiivi%%%%%
+pioneerilaji%pioneerilaji%%suomi%substantiivi%%%%%
+pioneer species%pioneerilaji%%englanti%%%%%%
+pionjärart%pioneerilaji%%ruotsi%%%%%%
+puolipiilijä%puolipiilijä%%suomi%substantiivi%%%#NAME?%%
+hemikryptofyytti%puolipiilijä%%suomi%substantiivi%%%%%
+puolipiilotalvehtija%puolipiilijä%%suomi%substantiivi%%%%%
+hemicryptophyte%puolipiilijä%%englanti%%%%%%
+hemikryptofyt%puolipiilijä%%ruotsi%%%%%%
+hemikryptofytt%puolipiilijä%%norja%%%%%%
+hemikryptofyt%puolipiilijä%%tanska%%%%%%
+jordskorpeplante%puolipiilijä%%tanska%%%%%%
+jarðskorpuplanta%puolipiilijä%%tanska%%%%%%
+svarðplanta%puolipiilijä%%islanti%%%%%%
+suolakkokasvi%suolakkokasvi%%suomi%substantiivi%%%%%
+halofyytti%suolakkokasvi%%suomi%substantiivi%%%%%
+halofyyttinen%suolakkokasvi%%suomi%adjektiivi%%%#NAME?%%
+halophyte%suolakkokasvi%%englanti%%%%%%
+halofyt%suolakkokasvi%%ruotsi%%%%%%
+halofytt%suolakkokasvi%%norja%%%%%%
+saltplante%suolakkokasvi%%norja%%%%%%
+halofyt%suolakkokasvi%%tanska%%%%%%
+saltplante%suolakkokasvi%%tanska%%%%%%
+saltplanta%suolakkokasvi%%tanska%%%%%%
+seltuplanta%suolakkokasvi%%islanti%%%%%%
+saltplanta%suolakkokasvi%%islanti%%%%%%
+talventörröttäjä%talventörröttäjä%%suomi%substantiivi%%%#NAME?%%
+vinterståndare%talventörröttäjä%%ruotsi%%%%%%
+talvisiementäjä%talvisiementäjä%%suomi%substantiivi%%%#NAME?%%
+winter seeder%talvisiementäjä%%englanti%%%%%%
+kesäkasvi%kesäkasvi%%suomi%substantiivi%%%%%
+terofyytti%kesäkasvi%%suomi%substantiivi%%%%%
+terophyte%kesäkasvi%%englanti%%%%%%
+therophyte%kesäkasvi%%englanti%%%%%%
+terofyt%kesäkasvi%%ruotsi%%%%%%
+terofytt%kesäkasvi%%norja%%%%%%
+terofyt%kesäkasvi%%tanska%%%%%%
+therofyt%kesäkasvi%%tanska%%%%%%
+enårig%kesäkasvi%%tanska%%%%%%
+ársplanta%kesäkasvi%%tanska%%%%%%
+einær planta%kesäkasvi%%islanti%%%%%%
+tulokas%tulokas%%suomi%substantiivi%%%#NAME?%%
+tulokaslaji%tulokas%%suomi%substantiivi%%%%%
+tulokaskasvi%tulokas%%suomi%substantiivi%%%%%
+vierasperäinen%tulokas%%suomi%adjektiivi%%%#NAME?%%
+vierasperäinen laji%tulokas%%suomi%substantiivi%%%%%
+vieraslaji%tulokas%%suomi%%%%%%
+alien%tulokas%%englanti%%%%%%
+adventive%tulokas%%englanti%%%%%%
+adventiv%tulokas%%ruotsi%%%%%%
+främmande [art]%tulokas%%ruotsi%%%%%%
+adventiv%tulokas%%norja%%%%%%
+fremmed [art]%tulokas%%norja%%%%%%
+indslæbt%tulokas%%tanska%%%%%%
+adventiv%tulokas%%tanska%%%%%%
+fremmant [slag]%tulokas%%tanska%%%%%%
+fremmed [art]%tulokas%%tanska%%%%%%
+innsløddur (adj.)%tulokas%%tanska%%%%%%
+innsløðingur %tulokas%%fääri%%%%%%
+fremmant [slag]%tulokas%%fääri%%%%%%
+aðkominn (adj.)%tulokas%%islanti%%%%%%
+ílendur slæðingur %tulokas%%islanti%%%%%%
+framandi%tulokas%%islanti%%%%%%
+erlendur%tulokas%%islanti%%%%%%
+erlend tegund%tulokas%%islanti%%%%%%
+typensuosija%typensuosija%%suomi%substantiivi%%%#NAME?%%
+nitrophilous%typensuosija%%englanti%%%%%%
+kvävegynnad%typensuosija%%ruotsi%%%%%%
+nitrofil%typensuosija%%norja%%%%%%
+nitrofil%typensuosija%%tanska%%%%%%
+ið krevur køvievni%typensuosija%%tanska%%%%%%
+niturkræfur%typensuosija%%islanti%%%%%%
+uposkasvi%uposkasvi%%suomi%substantiivi%%%%%
+submers växt%uposkasvi%%ruotsi%%%%%%
+vakiintunut tulokas%vakiintunut tulokas%%suomi%substantiivi%%%#NAME?%%
+viljelykarkulainen%viljelykarkulainen%%suomi%substantiivi%%%#NAME?%%
+karkulainen%viljelykarkulainen%%suomi%adjektiivi%%%%%
+escape%viljelykarkulainen%%englanti%%%%%%
+förvildad växt%viljelykarkulainen%%ruotsi%%%%%%
+trädgårdsflykting%viljelykarkulainen%%ruotsi%%%%%%
+forvillet plante%viljelykarkulainen%%norja%%%%%%
+forvildet plante%viljelykarkulainen%%tanska%%%%%%
+útsløddur%viljelykarkulainen%%tanska%%%%%%
+útvilstur%viljelykarkulainen%%fääri%%%%%%
+útsløðingur%viljelykarkulainen%%fääri%%%%%%
+orðinn villtur%viljelykarkulainen%%islanti%%%%%%
+planta sem hefur villst frá garðræktun%viljelykarkulainen%%islanti%%%%%%
+yksivuotinen%yksivuotinen%%suomi%adjektiivi%%%#NAME?%%
+annuelli%yksivuotinen%%suomi%adjektiivi; substantiivi%%4-tavuinen%%%
+1-vuotinen%yksivuotinen%%suomi%adjektiivi%%%#NAME?%%
+annual%yksivuotinen%%englanti%%%%%%
+annuell%yksivuotinen%%ruotsi%%%%%%
+ettårig%yksivuotinen%%ruotsi%%%%%%
+annuell%yksivuotinen%%norja%%%%%%
+ettårig%yksivuotinen%%norja%%%%%%
+annuel%yksivuotinen%%tanska%%%%%%
+enårig%yksivuotinen%%tanska%%%%%%
+ársplanta%yksivuotinen%%tanska%%%%%%
+árs-%yksivuotinen%%fääri%%%%%%
+einær%yksivuotinen%%islanti%%%%%%
+ylitalvinen%ylitalvinen%%suomi%adjektiivi%%%#NAME?%%
+syysyksivuotinen%ylitalvinen%%suomi%adjektiivi%%%#NAME?%%
+overwintering annual%ylitalvinen%%englanti%%%%%%
+autumn-germinating annual%ylitalvinen%%englanti%%%%%%
+winter-annual%ylitalvinen%%englanti%%%%%%
+höstannuell%ylitalvinen%%ruotsi%%%%%%
+vinterannuell%ylitalvinen%%ruotsi%%%%%%
+kulttuurinsuosija%kulttuurinsuosija%%suomi%substantiivi%%%#NAME?%%
+apofyytti%kulttuurinsuosija%%suomi%substantiivi%%%%%
+kulttuurinsuosijakasvi%kulttuurinsuosija%%suomi%substantiivi%%%%%
+hemerofiili%kulttuurinsuosija%%suomi%substantiivi%%%%%
+hemerobi%kulttuurinsuosija%%suomi%substantiivi%%%%%
+apophyte%kulttuurinsuosija%%englanti%%%%%%
+hemerophilous%kulttuurinsuosija%%englanti%%%%%%
+hemerobe%kulttuurinsuosija%%englanti%%%%%%
+apofyt (apofytisk)%kulttuurinsuosija%%ruotsi%%%%%%
+hemerofil%kulttuurinsuosija%%ruotsi%%%%%%
+kulturgynnad%kulttuurinsuosija%%ruotsi%%%%%%
+apofytt (apofytisk)%kulttuurinsuosija%%norja%%%%%%
+hemerofil%kulttuurinsuosija%%norja%%%%%%
+apofyt (apofytisk)%kulttuurinsuosija%%tanska%%%%%%
+hemerofil%kulttuurinsuosija%%tanska%%%%%%
+upprunaplanta sum trívst á røktarjørð%kulttuurinsuosija%%tanska%%%%%%
+sum trívst á røktarjørð%kulttuurinsuosija%%fääri%%%%%%
+innlennd tegund sem þrífst vel á ræktuðu landi%kulttuurinsuosija%%islanti%%%%%%
+allopatrinen%allopatrinen%%suomi%adjektiivi%%%#NAME?%%
+allopatric%allopatrinen%%englanti%%%%%%
+allopatrisk%allopatrinen%%ruotsi%%%%%%
+allopatrisk%allopatrinen%%norja%%%%%%
+allopatrisk%allopatrinen%%tanska%%%%%%
+serøkin%allopatrinen%%tanska%%%%%%
+sérsvæða%allopatrinen%%islanti%%%%%%
+sérlendur%allopatrinen%%islanti%%%%%%
+á aðskildum svæðum%allopatrinen%%islanti%%%%%%
+allopolyploidi%allopolyploidi%%suomi%substantiivi%%%%%
+allopolyploid%allopolyploidi%%englanti%%%%%%
+allopolyploid%allopolyploidi%%ruotsi%%%%%%
+allopolyploid%allopolyploidi%%norja%%%%%%
+allopolyploid%allopolyploidi%%tanska%%%%%%
+blandaður fjølllitil%allopolyploidi%%tanska%%%%%%
+blandaður fjöllitningur%allopolyploidi%%islanti%%%%%%
+allotetraploidi%allotetraploidi%%suomi%substantiivi%%%%%
+allotetraploid%allotetraploidi%%englanti%%%%%%
+allotetraploid%allotetraploidi%%ruotsi%%%%%%
+allotetraploid%allotetraploidi%%norja%%%%%%
+allotetraploid%allotetraploidi%%tanska%%%%%%
+blandaður fjórlitil%allotetraploidi%%tanska%%%%%%
+blandaður fjórlitningur%allotetraploidi%%islanti%%%%%%
+kalkinvaatija%kalkinvaatija%%suomi%substantiivi%%%#NAME?%%
+basicolous%kalkinvaatija%%englanti%%%%%%
+calcicolous%kalkinvaatija%%englanti%%%%%%
+baskrävande%kalkinvaatija%%ruotsi%%%%%%
+kalkkrävande%kalkinvaatija%%ruotsi%%%%%%
+basekrevende%kalkinvaatija%%norja%%%%%%
+kalkkrevende%kalkinvaatija%%norja%%%%%%
+basekrævende%kalkinvaatija%%tanska%%%%%%
+kalkkrævende%kalkinvaatija%%tanska%%%%%%
+lútturvin%kalkinvaatija%%tanska%%%%%%
+kálkturvin%kalkinvaatija%%fääri%%%%%%
+vex í basískum jarðvegi%kalkinvaatija%%islanti%%%%%%
+kalkkræfur%kalkinvaatija%%islanti%%%%%%
+kalkinsuosija%kalkinsuosija%%suomi%substantiivi%%%#NAME?%%
+kalsifiili%kalkinsuosija%%suomi%substantiivi%%%%%
+basiphilous%kalkinsuosija%%englanti%%%%%%
+calciphilous%kalkinsuosija%%englanti%%%%%%
+calciphile%kalkinsuosija%%englanti%%%%%%
+basgynnad%kalkinsuosija%%ruotsi%%%%%%
+kalkgynnad%kalkinsuosija%%ruotsi%%%%%%
+basifil%kalkinsuosija%%norja%%%%%%
+kalsifil%kalkinsuosija%%norja%%%%%%
+kalkelskende%kalkinsuosija%%norja%%%%%%
+baseelskende%kalkinsuosija%%tanska%%%%%%
+kalkelskende%kalkinsuosija%%tanska%%%%%%
+lútfrekur%kalkinsuosija%%tanska%%%%%%
+kálkfrekur%kalkinsuosija%%fääri%%%%%%
+basakær%kalkinsuosija%%islanti%%%%%%
+kalkkær%kalkinsuosija%%islanti%%%%%%
+kalkinkarttaja%kalkinkarttaja%%suomi%substantiivi%%%#NAME?%%
+kalsifobi%kalkinkarttaja%%suomi%substantiivi%%%%%
+calcifuge%kalkinkarttaja%%englanti%%%%%%
+calciphobe%kalkinkarttaja%%englanti%%%%%%
+kalkskyende%kalkinkarttaja%%ruotsi%%%%%%
+kalsifug%kalkinkarttaja%%norja%%%%%%
+kalkskyende%kalkinkarttaja%%norja%%%%%%
+kalkskyende%kalkinkarttaja%%tanska%%%%%%
+kálkfirrin%kalkinkarttaja%%tanska%%%%%%
+kalkfælinn%kalkinkarttaja%%islanti%%%%%%
+satunnaistulokas%satunnaistulokas%%suomi%substantiivi%%%#NAME?%%
+casual%satunnaistulokas%%englanti%%%%%%
+tillfällig (adj.); tillfällig adventiv (noun)%satunnaistulokas%%ruotsi%%%%%%
+tilfeldig (adj.); tilfeldig adventiv (noun)%satunnaistulokas%%norja%%%%%%
+tilfældig (adj.); tilfældig adventiv (noun)%satunnaistulokas%%tanska%%%%%%
+tilvildarligur%satunnaistulokas%%tanska%%%%%%
+hissini %satunnaistulokas%%fääri%%%%%%
+tilviljunarkenndur ([planta sem] vex hvergi að staðaldri)%satunnaistulokas%%islanti%%%%%%
+irtokeijuja%irtokeijuja%%suomi%substantiivi%%%#NAME?%%
+keratofyllidi%irtokeijuja%%suomi%substantiivi%%%%%
+ceratophyllid%irtokeijuja%%englanti%%%%%%
+flytväxt%irtokeijuja%%ruotsi%%%%%%
+flytende langskuddsplante%irtokeijuja%%norja%%%%%%
+flydeplante%irtokeijuja%%tanska%%%%%%
+vandbladsplante%irtokeijuja%%tanska%%%%%%
+flotplanta%irtokeijuja%%tanska%%%%%%
+flotplanta%irtokeijuja%%islanti%%%%%%
+yleinen%yleinen%%suomi%adjektiivi%%%#NAME?%%
+common%yleinen%%englanti%%%%%%
+allmän%yleinen%%ruotsi%%%%%%
+vanlig%yleinen%%norja%%%%%%
+almindelig%yleinen%%tanska%%%%%%
+vanligur%yleinen%%tanska%%%%%%
+algengur%yleinen%%islanti%%%%%%
+kesävihanta%kesävihanta%%suomi%adjektiivi%%%#NAME?%%
+kausivihanta%kesävihanta%%suomi%adjektiivi%%%#NAME?%%
+deciduous%kesävihanta%%englanti%%%%%%
+lövfällande%kesävihanta%%ruotsi%%%%%%
+sommargrön%kesävihanta%%ruotsi%%%%%%
+lauvfellende%kesävihanta%%norja%%%%%%
+løvfældende%kesävihanta%%tanska%%%%%%
+leyvfellandi%kesävihanta%%tanska%%%%%%
+sumargrænn%kesävihanta%%islanti%%%%%%
+päivänvalossa kukkiva%päivänvalossa kukkiva%%suomi%adjektiivi%%%#NAME?%%
+diurnaali kasvi%päivänvalossa kukkiva%%suomi%substantiivi%%%%%
+diurnaalinen kasvi%päivänvalossa kukkiva%%suomi%substantiivi%%%%%
+diurnal%päivänvalossa kukkiva%%englanti%%%%%%
+dagblommande%päivänvalossa kukkiva%%ruotsi%%%%%%
+dagblomstrende%päivänvalossa kukkiva%%norja%%%%%%
+dag-%päivänvalossa kukkiva%%tanska%%%%%%
+dagsblómandi%päivänvalossa kukkiva%%tanska%%%%%%
+birtuháður%päivänvalossa kukkiva%%islanti%%%%%%
+uhanalainen%uhanalainen%%suomi%adjektiivi%%%#NAME?%%
+endangered%uhanalainen%%englanti%%%%%%
+threatened%uhanalainen%%englanti%%%%%%
+hotad%uhanalainen%%ruotsi%%%%%%
+truet%uhanalainen%%norja%%%%%%
+truet%uhanalainen%%tanska%%%%%%
+hóttur%uhanalainen%%tanska%%%%%%
+í hættu%uhanalainen%%islanti%%%%%%
+satunnainen%satunnainen%%suomi%adjektiivi%%%#NAME?%%
+lyhytaikainen%satunnainen%%suomi%adjektiivi%%%#NAME?%%
+efemeerinen%satunnainen%%suomi%adjektiivi%%%#NAME?%%
+satunnaiskasvi%satunnainen%%suomi%%%%%%
+ephemeral%satunnainen%%englanti%%%%%%
+efemär%satunnainen%%ruotsi%%%%%%
+flyktig%satunnainen%%ruotsi%%%%%%
+efemær%satunnainen%%norja%%%%%%
+tilfeldig%satunnainen%%norja%%%%%%
+efemer%satunnainen%%tanska%%%%%%
+ephemer%satunnainen%%tanska%%%%%%
+stuttlívaður%satunnainen%%tanska%%%%%%
+skammlífur (noun: skammlíf planta)%satunnainen%%islanti%%%%%%
+maanpäällinen%maanpäällinen%%suomi%adjektiivi%%%#NAME?%%
+epigeeinen%maanpäällinen%%suomi%adjektiivi%%%#NAME?%%
+epigeal%maanpäällinen%%englanti%%%%%%
+epigeisk%maanpäällinen%%ruotsi%%%%%%
+overjordisk%maanpäällinen%%norja%%%%%%
+epigeisk%maanpäällinen%%norja%%%%%%
+epigæisk%maanpäällinen%%tanska%%%%%%
+omanjarðar%maanpäällinen%%tanska%%%%%%
+oman jarðar%maanpäällinen%%fääri%%%%%%
+ofanjarðar%maanpäällinen%%islanti%%%%%%
+päällyskasvi%päällyskasvi%%suomi%substantiivi%%%%%
+päällysvieras%päällyskasvi%%suomi%%%%%%
+epifyytti%päällyskasvi%%suomi%substantiivi%%%%%
+epiphyte%päällyskasvi%%englanti%%%%%%
+epifyt%päällyskasvi%%ruotsi%%%%%%
+epifytt%päällyskasvi%%norja%%%%%%
+epifyt%päällyskasvi%%tanska%%%%%%
+ásæta%päällyskasvi%%tanska%%%%%%
+ásæta%päällyskasvi%%islanti%%%%%%
+kerran kukkiva%kerran kukkiva%%suomi%adjektiivi%%%#NAME?%%
+hapaksanttinen%kerran kukkiva%%suomi%adjektiivi%%%#NAME?%%
+hapaksantti%kerran kukkiva%%suomi%substantiivi%%4-tavuinen%%%
+hapaxanthic%kerran kukkiva%%englanti%%%%%%
+hapaxanthous plant%kerran kukkiva%%englanti%%%%%%
+hapaxantisk%kerran kukkiva%%ruotsi%%%%%%
+hapaxant%kerran kukkiva%%ruotsi%%%%%%
+en gång blommande%kerran kukkiva%%ruotsi%%%%%%
+monocyklisk%kerran kukkiva%%norja%%%%%%
+hapaksant%kerran kukkiva%%tanska%%%%%%
+hapaksantisk%kerran kukkiva%%tanska%%%%%%
+sum blómar eina ferð%kerran kukkiva%%tanska%%%%%%
+blómstrar einu sinni%kerran kukkiva%%islanti%%%%%%
+ilmaversoinen%ilmaversoinen%%suomi%adjektiivi%%%#NAME?%%
+helofyytti%ilmaversoinen%%suomi%substantiivi%%%%%
+helophyte%ilmaversoinen%%englanti%%%%%%
+helofyt%ilmaversoinen%%ruotsi%%%%%%
+sumpplante%ilmaversoinen%%norja%%%%%%
+helofyt%ilmaversoinen%%tanska%%%%%%
+mýriplanta%ilmaversoinen%%tanska%%%%%%
+fenjaplanta%ilmaversoinen%%islanti%%%%%%
+vesikasvi%vesikasvi%%suomi%substantiivi%%%%%
+hydrofyytti%vesikasvi%%suomi%substantiivi%%%%%
+hydrophyte%vesikasvi%%englanti%%%%%%
+vattenväxt%vesikasvi%%ruotsi%%%%%%
+vannplante%vesikasvi%%norja%%%%%%
+hydrofyt%vesikasvi%%tanska%%%%%%
+vatnplanta%vesikasvi%%tanska%%%%%%
+vatnaplanta%vesikasvi%%islanti%%%%%%
+välinpitämätön%välinpitämätön%%suomi%adjektiivi%%%#NAME?%%
+indifferentti%välinpitämätön%%suomi%adjektiivi%%%%%
+indifferent%välinpitämätön%%englanti%%%%%%
+indifferent%välinpitämätön%%ruotsi%%%%%%
+indifferent%välinpitämätön%%norja%%%%%%
+indifferent%välinpitämätön%%tanska%%%%%%
+#NAME?%välinpitämätön%%tanska%%%%%%
+stendur á sama%välinpitämätön%%islanti%%%%%%
+lajinsisäinen%lajinsisäinen%%suomi%adjektiivi%%%#NAME?%%
+infraspecific%lajinsisäinen%%englanti%%%%%%
+infraspecifik%lajinsisäinen%%ruotsi%%%%%%
+infraspesifik%lajinsisäinen%%norja%%%%%%
+infraspecifik%lajinsisäinen%%tanska%%%%%%
+lægri enn%lajinsisäinen%%tanska%%%%%%
+undir-%lajinsisäinen%%fääri%%%%%%
+innan tegundar%lajinsisäinen%%islanti%%%%%%
+lægri en%lajinsisäinen%%islanti%%%%%%
+undir-%lajinsisäinen%%islanti%%%%%%
+tahaton tulokas%tahaton tulokas%%suomi%substantiivi%%%#NAME?%%
+unintentionally brought in%tahaton tulokas%%englanti%%%%%%
+inkommen (unintentionally)%tahaton tulokas%%ruotsi%%%%%%
+införd %tahaton tulokas%%ruotsi%%%%%%
+inkommet (unintentionally)%tahaton tulokas%%norja%%%%%%
+innført %tahaton tulokas%%norja%%%%%%
+introduceret; indslæbt (unintentionally)%tahaton tulokas%%tanska%%%%%%
+indført %tahaton tulokas%%tanska%%%%%%
+innsløddur%tahaton tulokas%%tanska%%%%%%
+aðfluttur%tahaton tulokas%%islanti%%%%%%
+innfluttur%tahaton tulokas%%islanti%%%%%%
+irtokelluja%irtokelluja%%suomi%substantiivi%%%#NAME?%%
+lemnidi%irtokelluja%%suomi%substantiivi%%3-tavuinen%%%
+lemnid%irtokelluja%%englanti%%%%%%
+lemnide%irtokelluja%%englanti%%%%%%
+vattenyteväxt%irtokelluja%%ruotsi%%%%%%
+lemnid%irtokelluja%%ruotsi%%%%%%
+flyteplante%irtokelluja%%norja%%%%%%
+flydebladsplante%irtokelluja%%tanska%%%%%%
+rótleys flotplanta%irtokelluja%%tanska%%%%%%
+rótlausar flotplanta%irtokelluja%%islanti%%%%%%
+yfirboroðsflotplanta%irtokelluja%%islanti%%%%%%
+paikallinen%paikallinen%%suomi%adjektiivi%%%#NAME?%%
+local%paikallinen%%englanti%%%%%%
+lokal (adj.)%paikallinen%%ruotsi%%%%%%
+bunden till visst område%paikallinen%%ruotsi%%%%%%
+vanlig inom visst område%paikallinen%%ruotsi%%%%%%
+lokal%paikallinen%%norja%%%%%%
+lokal%paikallinen%%tanska%%%%%%
+staðbundin%paikallinen%%tanska%%%%%%
+staðbundinn%paikallinen%%islanti%%%%%%
+luontainen%luontainen%%suomi%adjektiivi%%%#NAME?%%
+native%luontainen%%englanti%%%%%%
+inhemsk%luontainen%%ruotsi%%%%%%
+hjemlig%luontainen%%norja%%%%%%
+hjemmehørende%luontainen%%tanska%%%%%%
+upprunaligur%luontainen%%tanska%%%%%%
+innlendur%luontainen%%islanti%%%%%%
+kotiutunut%kotiutunut%%suomi%adjektiivi; substantiivi; verbi%%%#NAME?%%
+naturalized%kotiutunut%%englanti%%%%%%
+naturaliserad%kotiutunut%%ruotsi%%%%%%
+naturalisert%kotiutunut%%norja%%%%%%
+naturaliseret%kotiutunut%%tanska%%%%%%
+atlagaður%kotiutunut%%tanska%%%%%%
+ílendur%kotiutunut%%islanti%%%%%%
+uustulokas%uustulokas%%suomi%substantiivi%%%#NAME?%%
+neofyytti%uustulokas%%suomi%substantiivi%%%%%
+nuori tulokas%uustulokas%%suomi%substantiivi%%%%%
+neophyte%uustulokas%%englanti%%%%%%
+neofyt%uustulokas%%ruotsi%%%%%%
+neofytt%uustulokas%%norja%%%%%%
+neofyt%uustulokas%%tanska%%%%%%
+nývøkstur%uustulokas%%tanska%%%%%%
+nýkomin planta%uustulokas%%islanti%%%%%%
+öisin kukkiva%öisin kukkiva%%suomi%adjektiivi%%%#NAME?%%
+nocturnal%öisin kukkiva%%englanti%%%%%%
+natt-%öisin kukkiva%%ruotsi%%%%%%
+nattblommande%öisin kukkiva%%ruotsi%%%%%%
+nattblomstrende%öisin kukkiva%%norja%%%%%%
+nat-%öisin kukkiva%%tanska%%%%%%
+náttar-%öisin kukkiva%%tanska%%%%%%
+sum blómar um náttina%öisin kukkiva%%fääri%%%%%%
+blómstrar að nóttu%öisin kukkiva%%islanti%%%%%%
+tilapäinen%tilapäinen%%suomi%adjektiivi%%%#NAME?%%
+occasional%tilapäinen%%englanti%%%%%%
+tillfällig%tilapäinen%%ruotsi%%%%%%
+tilfeldig%tilapäinen%%norja%%%%%%
+tilfældig%tilapäinen%%tanska%%%%%%
+tilvildarligur%tilapäinen%%tanska%%%%%%
+tilfallandi%tilapäinen%%fääri%%%%%%
+tilviljunarkenndur%tilapäinen%%islanti%%%%%%
+sotatulokas%sotatulokas%%suomi%substantiivi%%%#NAME?%%
+polemokorinen%sotatulokas%%suomi%adjektiivi%%%#NAME?%%
+polemokori%sotatulokas%%suomi%substantiivi%%%%%
+polemochore%sotatulokas%%englanti%%%%%%
+polemochorous%sotatulokas%%englanti%%%%%%
+krigstidsinkomling%sotatulokas%%ruotsi%%%%%%
+polemokor%sotatulokas%%ruotsi%%%%%%
+polemokor%sotatulokas%%norja%%%%%%
+polemochor%sotatulokas%%norja%%%%%%
+indslæbt i krigstid%sotatulokas%%tanska%%%%%%
+polemokor%sotatulokas%%tanska%%%%%%
+er sløddur inn í krígstíð%sotatulokas%%tanska%%%%%%
+stríðstímaslæðingur%sotatulokas%%islanti%%%%%%
+alkuperäinen%alkuperäinen%%suomi%adjektiivi%%%#NAME?%%
+> primary%alkuperäinen%%englanti%%%%%%
+indigenous%alkuperäinen%Osittainen vastaavuus: suppeampi käsite%englanti%%%%%%
+> primär%alkuperäinen%%ruotsi%%%%%%
+indigen%alkuperäinen%Osittainen vastaavuus: suppeampi käsite%ruotsi%%%%%%
+ursprunglig%alkuperäinen%%ruotsi%%%%%%
+> primær%alkuperäinen%%norja%%%%%%
+indigen%alkuperäinen%Osittainen vastaavuus: suppeampi käsite%norja%%%%%%
+stedegen%alkuperäinen%%norja%%%%%%
+> primær%alkuperäinen%%tanska%%%%%%
+indigen%alkuperäinen%Osittainen vastaavuus: suppeampi käsite%tanska%%%%%%
+oprindelig%alkuperäinen%%tanska%%%%%%
+fyrstligur%alkuperäinen%%tanska%%%%%%
+fyrstrunnin%alkuperäinen%%fääri%%%%%%
+upprunaligur%alkuperäinen%%fääri%%%%%%
+upprunalegur%alkuperäinen%%islanti%%%%%%
+innlendur%alkuperäinen%%islanti%%%%%%
+harvinainen%harvinainen%%suomi%adjektiivi%%%#NAME?%%
+rare%harvinainen%%englanti%%%%%%
+sällsynt%harvinainen%%ruotsi%%%%%%
+sjelden%harvinainen%%norja%%%%%%
+sjælden%harvinainen%%tanska%%%%%%
+sjáldsamur%harvinainen%%tanska%%%%%%
+sjaldgæfur%harvinainen%%islanti%%%%%%
+jäänne%jäänne%%suomi%substantiivi%%2-tavuinen e-loppuinen%%%
+relikti%jäänne%%suomi%substantiivi%%3-tavuinen%%%
+reliktilaji%jäänne%%suomi%substantiivi%%%%%
+jäännelaji%jäänne%%suomi%substantiivi%%%%%
+relict %jäänne%%englanti%%%%%%
+relic%jäänne%%englanti%%%%%%
+relikt%jäänne%%ruotsi%%%%%%
+rest%jäänne%%ruotsi%%%%%%
+-lämning%jäänne%%ruotsi%%%%%%
+#NAME?%jäänne%%norja%%%%%%
+relikt%jäänne%%tanska%%%%%%
+levning%jäänne%%tanska%%%%%%
+eftirleivd%jäänne%%tanska%%%%%%
+leivd%jäänne%%fääri%%%%%%
+leifar%jäänne%%islanti%%%%%%
+vakinainen%vakinainen%%suomi%adjektiivi%%%#NAME?%%
+vakinaistunut%vakinainen%%suomi%adjektiivi%%%#NAME?%%
+vakiintunut%vakinainen%%suomi%adjektiivi%%%#NAME?%%
+resident%vakinainen%%englanti%%%%%%
+bofast%vakinainen%%ruotsi%%%%%%
+etablert%vakinainen%%norja%%%%%%
+etableret%vakinainen%%tanska%%%%%%
+búfastur%vakinainen%%tanska%%%%%%
+ílendur%vakinainen%%islanti%%%%%%
+varjokasvi%varjokasvi%%suomi%substantiivi%%%%%
+sciophyte%varjokasvi%%englanti%%%%%%
+skiophyte%varjokasvi%%englanti%%%%%%
+skuggväxt%varjokasvi%%ruotsi%%%%%%
+skyggeplante%varjokasvi%%norja%%%%%%
+skyggeplante%varjokasvi%%tanska%%%%%%
+skuggaplanta%varjokasvi%%tanska%%%%%%
+skuggaplanta%varjokasvi%%islanti%%%%%%
+toissijainen%toissijainen%%suomi%adjektiivi%%%#NAME?%%
+secondary%toissijainen%%englanti%%%%%%
+sekundär%toissijainen%%ruotsi%%%%%%
+sekundær%toissijainen%%norja%%%%%%
+sekundær%toissijainen%%tanska%%%%%%
+annarligur%toissijainen%%tanska%%%%%%
+síðari tíma%toissijainen%%islanti%%%%%%
+kulttuurivaikutteinen%kulttuurivaikutteinen%%suomi%adjektiivi%%%#NAME?%%
+seminatural%kulttuurivaikutteinen%%englanti%%%%%%
+natur-%kulttuurivaikutteinen%%ruotsi%%%%%%
+naturnära%kulttuurivaikutteinen%%ruotsi%%%%%%
+seminaturlig%kulttuurivaikutteinen%%norja%%%%%%
+halvnaturlig%kulttuurivaikutteinen%%tanska%%%%%%
+hálvnatúrligur%kulttuurivaikutteinen%%tanska%%%%%%
+hálfnáttúrulegur%kulttuurivaikutteinen%%islanti%%%%%%
+sama-alueinen%sama-alueinen%%suomi%adjektiivi%%%#NAME?%%
+sympatrinen%sama-alueinen%%suomi%adjektiivi%%%#NAME?%%
+sympatric%sama-alueinen%%englanti%%%%%%
+sympatrisk%sama-alueinen%%ruotsi%%%%%%
+sympatrisk%sama-alueinen%%norja%%%%%%
+sympatrisk%sama-alueinen%%tanska%%%%%%
+samøkin%sama-alueinen%%tanska%%%%%%
+samsvæða%sama-alueinen%%islanti%%%%%%
+patjakasvi%patjakasvi%%suomi%substantiivi%%%%%
+cushion plant%patjakasvi%%englanti%%%%%%
+kuddväxt%patjakasvi%%ruotsi%%%%%%
+epiliittinen%epiliittinen%%suomi%adjektiivi%%%#NAME?%%
+saksikolinen%epiliittinen%%suomi%adjektiivi%%%#NAME?%%
+epilithic%epiliittinen%%englanti%%%%%%
+saxicola%epiliittinen%%englanti%%%%%%
+alkuperäiskasvi%alkuperäiskasvi%%suomi%substantiivi%%%%%
+aluskasvillisuus%aluskasvillisuus%%suomi%substantiivi%%%%%
+pintakasvillisuus%aluskasvillisuus%%suomi%substantiivi%%%%%
+avainlaji%avainlaji%%suomi%substantiivi%%%%%
+key species%avainlaji%%englanti%%%%%%
+keystone species%avainlaji%%englanti%%%%%%
+direktiivilaji%direktiivilaji%%suomi%substantiivi%%%%%
+dyynikasvillisuus%dyynikasvillisuus%%suomi%substantiivi%%%%%
+harjukasvillisuus%harjukasvillisuus%%suomi%substantiivi%%%%%
+esker vegetation%harjukasvillisuus%%englanti%%%%%%
+kulttuurinkarttaja%kulttuurinkarttaja%%suomi%substantiivi%%%#NAME?%%
+hemerofobi%kulttuurinkarttaja%%suomi%substantiivi%%%%%
+kulttuurinkarttajakasvi%kulttuurinkarttaja%%suomi%substantiivi%%%%%
+hemerophobe%kulttuurinkarttaja%%englanti%%%%%%
+kesäpuu%kesäpuu%%suomi%substantiivi%%%%%
+myöhäispuu%kesäpuu%%suomi%substantiivi%%%%%
+summer wood%kesäpuu%%englanti%%%%%%
+kevätpuu%kevätpuu%%suomi%substantiivi%%%%%
+varhaispuu%kevätpuu%%suomi%substantiivi%%%%%
+spring wood%kevätpuu%%englanti%%%%%%
+kosteikkokasvi%kosteikkokasvi%%suomi%substantiivi%%%%%
+hygrofyytti%kosteikkokasvi%%suomi%substantiivi%%%#NAME?%%
+hygrophyte%kosteikkokasvi%%englanti%%%%%%
+lyhyenpäivänkasvi%lyhyenpäivänkasvi%%suomi%substantiivi%%%%%
+lyhyen päivän kasvi%lyhyenpäivänkasvi%%suomi%substantiivi%%%%%
+short-day plant%lyhyenpäivänkasvi%%englanti%%%%%%
+mesofyytti%mesofyytti%%suomi%substantiivi%%%%%
+mesophyte%mesofyytti%%englanti%%%%%%
+piennarkasvi%piennarkasvi%%suomi%substantiivi%%%%%
+edge plant%piennarkasvi%%englanti%%%%%%
+pitkänpäivänkasvi%pitkänpäivänkasvi%%suomi%substantiivi%%%%%
+pitkän päivän kasvi%pitkänpäivänkasvi%%suomi%substantiivi%%%%%
+long-day plant%pitkänpäivänkasvi%%englanti%%%%%%
+päiväneutraali%päiväneutraali%%suomi%substantiivi%%%%%
+day-neutral plant%päiväneutraali%%englanti%%%%%%
+rantakasvillisuus%rantakasvillisuus%%suomi%substantiivi%%%%%
+typensuosijakasvi%typensuosijakasvi%%suomi%substantiivi%%%%%
+vastuulaji%vastuulaji%%suomi%substantiivi%%%%%
+alloktoninen%alloktoninen%%suomi%adjektiivi%%%#NAME?%%
+allochthonous%alloktoninen%%englanti%%%%%%
+amfitooppinen%amfitooppinen%%suomi%adjektiivi%%%#NAME?%%
+amphitopic%amfitooppinen%%englanti%%%%%%
+allotooppinen%allotooppinen%%suomi%adjektiivi%%%#NAME?%%
+allotopic%allotooppinen%%englanti%%%%%%
+bioindikaattori%bioindikaattori%%suomi%substantiivi%%%%%
+bioindicator%bioindikaattori%%englanti%%%%%%
+biologinen laji%biologinen laji%%suomi%substantiivi%%%%%
+species%biologinen laji%%englanti%%%%%%
+biological species%biologinen laji%%englanti%%%%%%
+biomarkkeri%biomarkkeri%%suomi%substantiivi%%%%%
+biomarker%biomarkkeri%%englanti%%%%%%
+bipolaarinen%bipolaarinen%%suomi%adjektiivi%%%#NAME?%%
+bipolar%bipolaarinen%%englanti%%%%%%
+boreoalpiininen%boreoalpiininen%%suomi%adjektiivi%%%#NAME?%%
+boreoalpine%boreoalpiininen%%englanti%%%%%%
+valtalaji%valtalaji%%suomi%substantiivi%%%%%
+dominanttilaji%valtalaji%%suomi%substantiivi%%%#NAME?%%
+dominant species%valtalaji%%englanti%%%%%%
+dormantti%dormantti%%suomi%substantiivi%%3-tavuinen%%%
+dormant%dormantti%%englanti%%%%%%
+eksoottinen%eksoottinen%%suomi%adjektiivi%%%#NAME?%%
+exotic%eksoottinen%%englanti%%%%%%
+epifylli%epifylli%%suomi%substantiivi%%%%%
+epiphyll%epifylli%%englanti%%%%%%
+epipeelinen%epipeelinen%%suomi%adjektiivi%%%#NAME?%%
+epipelic%epipeelinen%%englanti%%%%%%
+erotuslaji%erotuslaji%%suomi%substantiivi%%%%%
+separation species%erotuslaji%%englanti%%%%%%
+pakolaislaji%pakolaislaji%%suomi%substantiivi%%%%%
+fugitiivinen laji%pakolaislaji%%suomi%substantiivi%%%%%
+fugitive species%pakolaislaji%%englanti%%%%%%
+generalisti%generalisti%%suomi%substantiivi%%%%%
+generalist%generalisti%%englanti%%%%%%
+halobiontti%halobiontti%%suomi%substantiivi%%%%%
+halobiont%halobiontti%%englanti%%%%%%
+halofiili%halofiili%%suomi%substantiivi%%%%%
+halofiilinen%halofiili%%suomi%adjektiivi%%%#NAME?%%
+halophilic%halofiili%%englanti%%%%%%
+hemeradiafori%hemeradiafori%%suomi%substantiivi%%%%%
+hemeradiaphore%hemeradiafori%%englanti%%%%%%
+hemiedafinen%hemiedafinen%%suomi%adjektiivi%%%#NAME?%%
+hemiedaphic%hemiedafinen%%englanti%%%%%%
+hydrobiontti%hydrobiontti%%suomi%substantiivi%%%%%
+hydrobiont%hydrobiontti%%englanti%%%%%%
+vesihakuinen%vesihakuinen%%suomi%adjektiivi; substantiivi%%%#NAME?%%
+hydrofiili%vesihakuinen%%suomi%adjektiivi; substantiivi%%%%%
+hydrophil%vesihakuinen%%englanti%%%%%%
+hydrofobi%hydrofobi%%suomi%substantiivi%%%#NAME?%%
+hydrophobe%hydrofobi%%englanti%%%%%%
+hygrofiili%hygrofiili%%suomi%substantiivi%%%#NAME?%%
+hygrophilic organism%hygrofiili%%englanti%%%%%%
+ilmentäjälaji%ilmentäjälaji%%suomi%substantiivi%%%%%
+opaslaji%ilmentäjälaji%%suomi%substantiivi%%%%%
+indikaattorilaji%ilmentäjälaji%%suomi%substantiivi%%%%%
+indicator species%ilmentäjälaji%%englanti%%%%%%
+kasmofyytti%kasmofyytti%%suomi%substantiivi%%%%%
+chasmophyte%kasmofyytti%%englanti%%%%%%
+komofyytti%komofyytti%%suomi%substantiivi%%%%%
+chomophyte%komofyytti%%englanti%%%%%%
+vakiolaji%vakiolaji%%suomi%substantiivi%%%%%
+konstanttilaji%vakiolaji%%suomi%substantiivi%%%%%
+constant species%vakiolaji%%englanti%%%%%%
+koprofiili%koprofiili%%suomi%substantiivi%%%%%
+koprofiilinen%koprofiili%%suomi%adjektiivi%%%#NAME?%%
+coprophilic%koprofiili%%englanti%%%%%%
+coprophilous%koprofiili%%englanti%%%%%%
+kronolaji%kronolaji%%suomi%substantiivi%%%%%
+chronospecies%kronolaji%%englanti%%%%%%
+viljelyjäänne%viljelyjäänne%%suomi%substantiivi%%%%%
+litofyytti%litofyytti%%suomi%substantiivi%%%%%
+lithophyte%litofyytti%%englanti%%%%%%
+myllykasvi%myllykasvi%%suomi%substantiivi%%%%%
+mill plant%myllykasvi%%englanti%%%%%%
+niukkaravinteinen%niukkaravinteinen%%suomi%adjektiivi%%%#NAME?%%
+oligotrofinen%niukkaravinteinen%%suomi%adjektiivi%%%#NAME?%%
+oligotrophic%niukkaravinteinen%%englanti%%%%%%
+näringsfattig%niukkaravinteinen%%ruotsi%%%%%%
+næringsfattig%niukkaravinteinen%%norja%%%%%%
+oligotrof%niukkaravinteinen%%norja%%%%%%
+næringsfattig%niukkaravinteinen%%tanska%%%%%%
+oligotrof%niukkaravinteinen%%tanska%%%%%%
+føðslulítil%niukkaravinteinen%%tanska%%%%%%
+næringarsnauður%niukkaravinteinen%%islanti%%%%%%
+rýr%niukkaravinteinen%%islanti%%%%%%
+kalliokasvi%kalliokasvi%%suomi%substantiivi%%%#NAME?%%
+petrofyytti%kalliokasvi%%suomi%substantiivi%%%%%
+petrophyte%kalliokasvi%%englanti%%%%%%
+polyterminen%polyterminen%%suomi%adjektiivi%%%#NAME?%%
+polythermic%polyterminen%%englanti%%%%%%
+typologinen laji%typologinen laji%%suomi%substantiivi%%%%%
+morfologinen laji%typologinen laji%%suomi%%%%%%
+feneettinen laji%typologinen laji%%suomi%%%%%%
+typologic species%typologinen laji%%englanti%%%%%%
+vastinlaji%vastinlaji%%suomi%substantiivi%%%%%
+vikariantti%vastinlaji%%suomi%substantiivi%%%%%
+vicarious species%vastinlaji%%englanti%%%%%%
+vicariant%vastinlaji%%englanti%%%%%%
+satelliittilaji%satelliittilaji%%suomi%BS2001%%yhdyssana%%%
+satellite species%satelliittilaji%%englanti%%%%%%

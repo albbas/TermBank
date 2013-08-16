@@ -1,0 +1,62 @@
+käsite%käsitesuhde%lähikäsite
+käsite%%tarkoite
+käsite%%termi
+käsite%%symboli
+käsite%%semanttinen kolmio
+käsitteen ala%%alakäsite
+käsitteen ala%%käsitteen sisältö
+käsitteen sisältö%%käsitteen ala
+käsitepiirre%%käsite
+erottava piirre%%käsitepiirre
+yleiskäsite%%yksilökäsite
+yksilökäsite%%yleiskäsite
+yläkäsite%%alakäsite
+alakäsite%%yläkäsite
+koostumussuhteinen yläkäsite%%koostumussuhteinen alakäsite
+koostumussuhteinen alakäsite%%koostumussuhteinen yläkäsite
+vieruskäsite%%yläkäsite
+vieruskäsite%%alakäsite
+käsitekenttä%%käsitejärjestelmä
+hierarkiasuhde%%koostumussuhde
+hierarkiasuhde%%funktiosuhde
+koostumussuhde%%koostumussuhteinen yläkäsite
+koostumussuhde%%koostumussuhteinen alakäsite
+koostumussuhde%%hierarkiasuhde
+koostumussuhde%%funktiosuhde
+funktiosuhde%%aikasuhde
+funktiosuhde%%syysuhde
+määritelmä%%sisältömääritelmä
+määritelmä%%joukkomääritelmä
+sisältömääritelmä %%joukkomääritelmä
+joukkomääritelmä %%sisältömääritelmä
+kehämääritelmä%%sisäinen kehämääritelmä
+kehämääritelmä%%ulkoinen kehämääritelmä
+sisäinen kehämääritelmä%%ulkoinen kehämääritelmä
+ulkoinen kehämääritelmä%%sisäinen kehämääritelmä
+erisnimi (terminologiaoppi)%%termi
+erisnimi (terminologiaoppi)%%erisnimi
+yhdistämätön termi%%yhdistämätön sana
+johdostermi%%johdos
+sanaliittotermi%%sanaliitto
+yhdyssanatermi%%yhdyssana
+suositeltava termi%%sallittava termi
+hylättävä termi%%suositeltava termi
+vanhentunut termi%%suositeltava termi
+vanhentunut termi%%sallittava termi
+lainatermi%%lainasana
+termittäminen%%yleiskielistäminen
+yleiskielistyminen%%termittäminen
+vastaavuus%%antonymia
+mononymia%%monosemia
+mononymia%%homonymia
+monosemia%%mononymia
+monosemia%%polysemia
+nimistö (terminologiaoppi)%%termistö
+sanastotyö%%terminologiaoppi
+termitietuemalli%%termitietue
+selite%%määritelmä
+systemaattinen järjestys%%aakkosjärjestys
+aakkosjärjestys%%systemaattinen järjestys
+yhdistelmäjärjestys%%aakkosjärjestys
+yhdistelmäjärjestys%%systemaattinen järjestys
+terminologinen sanasto%%termistö

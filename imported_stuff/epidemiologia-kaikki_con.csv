@@ -1,0 +1,1695 @@
+lähdeaineistotunnus%käsite%määritelmä%selite%lähteet%luokka%lisätiedot%tieteellinen nimi
+1%aborttiluku%%%%%%
+2%aborttitiheys%%%%%%
+3%absoluuttinen riski%%%%%%
+4%absoluuttinen vaikutus%%%%%%
+5%absoluuttisen riskin vähenemä%%%%%%
+6%adaptaatio%%%%%%
+7%adaptoituminen%%%%%%
+8%additiivinen malli%%%%%%
+9%ADL-asteikko%%%%%%
+10%aggregointiharha%%%%%%
+11%aiennus%%%%%%
+12%aiheuttaja (taudin)%%%%%%
+13%aika-paikkaryväs%%%%%%
+14%aikaistus%%%%%%
+15%aikaistusharha%%%%%%
+16%aikaryväs%%%%%%
+17%aikasarja%%%%%%
+18%aikatrendi%%%%%%
+19%aineeton kustannus%%%%%%
+20%aineisto%%%%%%
+21%aineiston louhinta%%%%%%
+22%aineiston puhdistus%%%%%%
+23%aineiston ruoppaus%%%%%%
+24%aineiston tiivistäminen%%%%%%
+25%ajallinen kehityssuunta%%%%%%
+26%ajallinen ryvästymä%%%%%%
+27%ajallis-paikallinen ryvästymä%%%%%%
+28%ajautuminen%%%%%%
+29%ajoitus%%%%%%
+30%aktiivielinajanodote%%%%%%
+31%aktiivisen elinajan odote%%%%%%
+32%aktuaarimenetelmä%%%%%%
+33%aktuaarimenetelmällä laadittu taulu%%%%%%
+34%aktuaarimenetelmällä laskettu tiheysluku%%%%%%
+35%aktuaarin tiheysluku%%%%%%
+36%aktuaaritaulu%%%%%%
+37%aktuaaritiheys%%%%%%
+38%akuutti%%%%%%
+39%alfataso%%%%%%
+40%alfavirhe%%%%%%
+41%alikohortti%%%%%%
+42%aliraportointi%%%%%%
+43%alkukohortti%%%%%%
+44%allokaatioharha%%%%%%
+45%allokaation naamiointi%%%%%%
+46%altiste%%%%%%
+47%altistuksen arviointi%%%%%%
+48%altistuksen pienentäminen%%%%%%
+49%altistuksen propensiteetti%%%%%%
+50%altistuminen%%%%%%
+51%altistumisen vetosuhde%%%%%%
+52%altistumisjako%%%%%%
+53%altistumisjakojen suhde%%%%%%
+54%altistunut%%%%%%
+55%altistus%%%%%%
+56%altistuslakkokoe%%%%%%
+57%altistusraja%%%%%%
+58%alttius%%%%%%
+59%alttiuslähtöinen tutkimus%%%%%%
+60%alueotanta%%%%%%
+61%analyyttinen epidemiologia%%%%%%
+62%analyyttinen tutkimus%%%%%%
+63%analyyttinen validiteetti%%%%%%
+64%annos%%%%%%
+65%annos-vaikutussuhde%%%%%%
+66%annos-vastesuhde%%%%%%
+67%antagonismi%%%%%%
+68%Apgar-pistemäärä%%%%%%
+69%aritmeettinen keskiarvo%%%%%%
+70%arkitoimintakyvyn asteikko%%%%%%
+71%Armitagen-Dollin malli%%%%%%
+72%asetelma%%%%%%
+73%asetelmaharha%%%%%%
+74%asetelmamuuttuja%%%%%%
+75%asetelmavaikutus%%%%%%
+76%asetelmien välinen synteesi%%%%%%
+77%aste%%%%%%
+78%asymptoottinen menetelmä%%%%%%
+79%attenuaatio%%%%%%
+80%auditointi%%%%%%
+81%avoin väestö%%%%%%
+82%Bayes-tilastotiede%%%%%%
+83%bayesiläinen tilastotiede%%%%%%
+84%Bayesin kaava%%%%%%
+85%Bayesin lause%%%%%%
+86%beetavirhe%%%%%%
+87%Berksonin harha%%%%%%
+88%Bernoullin jakauma%%%%%%
+89%binaarinen muuttuja%%%%%%
+90%binomijakauma%%%%%%
+91%biologinen ilmaisin%%%%%%
+92%biologinen uskottavuus%%%%%%
+93%biomarkkeri%%%%%%
+94%biometria%%%%%%
+95%biostatistiikka%%%%%%
+96%BMI%%%%%%
+97%bonferronin korjaus%%%%%%
+98%bootstrap-menetelmä%%%%%%
+99%bruttouusiutumisluku%%%%%%
+100%CONSORT-lausuma%%%%%%
+101%Coxin malli%%%%%%
+102%cusum-menetelmä%%%%%%
+103%data%%%%%%
+104%datakanta%%%%%%
+105%datareduktio%%%%%%
+106%deduktio%%%%%%
+107%demografia%%%%%%
+108%determinaatiokerroin%%%%%%
+109%determinantti%%%%%%
+110%diagnoosi%%%%%%
+111%diagnoosiepäilyharha%%%%%%
+112%diagnostinen testi%%%%%%
+113%diagnostisen intensiteetin harha%%%%%%
+114%differentiaalinen%%%%%%
+115%dikotominen muuttuja%%%%%%
+116%diskonttauskorko%%%%%%
+117%diskordantti%%%%%%
+118%diskreetti muuttuja%%%%%%
+119%dispersio%%%%%%
+120%DMF-indeksi%%%%%%
+121%dominoiva%%%%%%
+122%DRG-ryhmittely%%%%%%
+123%DSM%%%%%%
+124%dummy-muuttuja%%%%%%
+125%dynaaminen väestö%%%%%%
+126%edustava otos%%%%%%
+127%eettinen toimikunta%%%%%%
+128%ehdollinen todennäköisyys%%%%%%
+129%ehkäisty osuus%%%%%%
+130%ehkäisyhyöty%%%%%%
+131%ehkäisykoe%%%%%%
+132%ehkäisyosuus altistuneilla%%%%%%
+133%ehkäisyosuus väestössä%%%%%%
+134%ei-eriävä virheluokittelu%%%%%%
+135%ei-havaittavan vaikutuksen taso%%%%%%
+136%ekologinen analyysi%%%%%%
+137%ekologinen harha%%%%%%
+138%ekologinen korrelaatio%%%%%%
+139%ekologinen taso%%%%%%
+140%ekologinen tutkimus%%%%%%
+141%ekologinen virhepäätelmä%%%%%%
+142%ekologinen yhteys%%%%%%
+143%eksploratiivinen tutkimus%%%%%%
+144%ekspressiviteetti%%%%%%
+145%eksternaliteetit%%%%%%
+146%ekstrapolaatio%%%%%%
+147%ekstrapoloida%%%%%%
+148%ekvivalenssitestit%%%%%%
+149%elinaika-analyysi%%%%%%
+150%elinaikaodote%%%%%%
+151%elinaikatutkimus%%%%%%
+152%elinajan mallitaulu%%%%%%
+153%elinajan taulu%%%%%%
+154%elinajan taulun kantaluku%%%%%%
+155%elinajanodote%%%%%%
+156%elinajanodote syntymähetkellä%%%%%%
+157%elinajanodote vamman kanssa%%%%%%
+158%elinajantaulu%%%%%%
+159%elinikäinen riski%%%%%%
+160%elossaolo-osuus%%%%%%
+161%elossaoloanalyysi%%%%%%
+162%elossaolofunktio%%%%%%
+163%elossaolokäyrä%%%%%%
+164%elossaolon laadun tutkimus%%%%%%
+165%elossaolosuhde%%%%%%
+166%elossaolotutkimus%%%%%%
+167%eläinaika%%%%%%
+168%eläinlääkärin tekemä kansanterveystyö%%%%%%
+169%eläinmalli%%%%%%
+170%elämänkaariepidemiologia%%%%%%
+171%elämänlaatu%%%%%%
+172%elävän synnytys%%%%%%
+173%elävänä syntyminen%%%%%%
+174%empiirinen%%%%%%
+175%ennakkotodennäköisyys%%%%%%
+176%ennenaikainen synnytys%%%%%%
+177%ennustaa%%%%%%
+178%ennustaminen%%%%%%
+179%ennuste%%%%%%
+180%ennustearvo%%%%%%
+181%ennustetekijä%%%%%%
+182%ennustevaliditeetti%%%%%%
+183%ensikontakti%%%%%%
+184%ensitapaus%%%%%%
+185%epideeminen%%%%%%
+186%epidemia%%%%%%
+187%epidemia eläinpopulaatiossa%%%%%%
+188%epidemiakuvaaja%%%%%%
+189%epidemiakynnys%%%%%%
+190%epidemiakäyrä%%%%%%
+191%epidemioiden varhaistunnistus%%%%%%
+192%epidemiologi%%%%%%
+193%epidemiologia%%%%%%
+194%epidemiologinen johdonmukaisuus%%%%%%
+195%epidemiologinen koherenssi%%%%%%
+196%epidemiologisen muuntumisen teoria%%%%%%
+197%epidemiologisen transition teoria%%%%%%
+198%episodi%%%%%%
+199%episoditiheys%%%%%%
+200%epitsoottinen%%%%%%
+201%epitsotia%%%%%%
+202%epäjatkuva muuttuja%%%%%%
+203%epäkokeellinen epidemiologia%%%%%%
+204%epäkokeellinen tutkimus%%%%%%
+205%epänormaali reaktio%%%%%%
+206%epäsuora kontakti%%%%%%
+207%epäsuora korjaus%%%%%%
+208%epäsuora kosketus%%%%%%
+209%epäsuora riippuvuus%%%%%%
+210%epäsuora vakiointi%%%%%%
+211%epäsuora vakiointi%%%%%%
+212%epäsuora yhteys%%%%%%
+213%epäsuorat kustannukset%%%%%%
+214%epäsymmetrinen riippuvuus%%%%%%
+215%epäsymmetrinen yhteys%%%%%%
+216%epävarmuuden tasapaino%%%%%%
+217%erhe%%%%%%
+218%erhekerroin%%%%%%
+219%erhemarginaali%%%%%%
+220%erilainen%%%%%%
+221%Gloverin ilmiö%%%%%%
+222%erityispiirre%%%%%%
+223%eriävä%%%%%%
+224%eriävä virheluokittelu%%%%%%
+225%erottelu%%%%%%
+226%erotteluanalyysi%%%%%%
+227%erottelukyky%%%%%%
+228%ero%%%%%%
+229%erotus-%%%%%%
+230%eräkato%%%%%%
+231%esiinkaivu%%%%%%
+232%esiinkaivuharha%%%%%%
+233%esiintymistiheys%%%%%%
+234%esiintyvyyden mitta%%%%%%
+235%esiintyvyys%%%%%%
+236%esiintyvyysluku%%%%%%
+237%esiintyvyyssuure%%%%%%
+238%esikliininen löydettävyysaika%%%%%%
+239%esitutkimus%%%%%%
+240%estimaatti%%%%%%
+241%estimaattori%%%%%%
+242%estimointi%%%%%%
+243%etiologia%%%%%%
+244%etiologinen%%%%%%
+245%etiologinen epidemiologia%%%%%%
+246%etiologinen osuus altistuneilla%%%%%%
+247%etiologinen osuus väestössä%%%%%%
+248%etiologinen tutkimus%%%%%%
+249%etninen ryhmä%%%%%%
+250%eturistiriita%%%%%%
+251%evaluaatio%%%%%%
+252%Evansin postulaatit%%%%%%
+253%faktori%%%%%%
+254%faktorianalyysi%%%%%%
+255%familiaalinen tauti%%%%%%
+256%farmakoepidemiologia%%%%%%
+257%Farrin epidemialait%%%%%%
+258%fenotyyppi%%%%%%
+259%fraktiili%%%%%%
+260%frekvenssi%%%%%%
+261%frekvenssijakauma%%%%%%
+262%frekvenssikaltaistus%%%%%%
+263%frekvenssitaulu%%%%%%
+264%funktio%%%%%%
+265%funnel-kuvio%%%%%%
+266%gaussin jakauma%%%%%%
+267%geenien yhteisvaikutus%%%%%%
+268%geenikohta%%%%%%
+269%geenin ja ympäristön yhteisvaikutus%%%%%%
+270%geneettinen epidemiologia%%%%%%
+271%geneettinen kytkentä%%%%%%
+272%geneettinen penetranssi%%%%%%
+273%genotyypin virheluokittelu%%%%%%
+274%genotyyppi%%%%%%
+275%geometrinen keskiarvo%%%%%%
+276%gestaatioajan pituus%%%%%%
+277%gestaatioikä%%%%%%
+278%Gibbsin poimija%%%%%%
+279%gini-kerroin%%%%%%
+280%GIS-paikkatietojärjestelmä%%%%%%
+281%Gloverin ilmiö%%%%%%
+282%Gompertzin kuolleisuusmalli%%%%%%
+283%Gompertzin-Makehamin kuolleisuusmalli%%%%%%
+284%haastattelijaharha%%%%%%
+285%haitattoman elämän kesto-odote%%%%%%
+286%haitta%%%%%%
+287%haittapainotetut elinvuodet%%%%%%
+288%haittavaikutus%%%%%%
+289%hajanainen%%%%%%
+290%hajonta%%%%%%
+291%hajontaluku%%%%%%
+292%hajontamitta%%%%%%
+293%hallinta%%%%%%
+294%halo-vaikutus%%%%%%
+295%hardyn-weinbergin laki%%%%%%
+296%harha%%%%%%
+297%harhaanjohtava%%%%%%
+298%harhaanjohtava riippuvuus%%%%%%
+299%harhaanjohtava yhteys%%%%%%
+300%harhainen%%%%%%
+301%harhaton%%%%%%
+302%harhattomuus%%%%%%
+303%harmoninen keskiarvo%%%%%%
+304%harvinaisen taudin oletus%%%%%%
+305%hasardi%%%%%%
+306%hasardiero%%%%%%
+307%hasardikertymä%%%%%%
+308%hasardisuhde%%%%%%
+309%hatara näyttö%%%%%%
+310%havaintoon perustuva%%%%%%
+311%havaintotutkimus%%%%%%
+312%havaitsijaharha%%%%%%
+313%havaitsijavaihtelu%%%%%%
+314%havaittu elossaolo-osuus%%%%%%
+315%havaittu tapausmäärä%%%%%%
+316%hawthornen vaikutus%%%%%%
+317%hedelmällisyys (piilevä)%%%%%%
+318%hedelmällisyys (havaittava)%%%%%%
+319%hedelmällisyysluku%%%%%%
+320%hedelmällisyyssuhde%%%%%%
+321%henkilöaika%%%%%%
+322%henkilöaikamenetelmä%%%%%%
+323%henkilövuosi%%%%%%
+324%heritabiliteetti%%%%%%
+325%herkkyys%%%%%%
+326%herkkyysanalyysi%%%%%%
+327%heterogeenisuustesti%%%%%%
+328%hiertyminen%%%%%%
+329%hiertymisharha%%%%%%
+330%Hillin ohjenuorat kausaalipäättelylle%%%%%%
+331%hillintä%%%%%%
+332%historiallinen kohortti%%%%%%
+333%historiallinen tutkimus%%%%%%
+334%historiallinen verrokki%%%%%%
+335%hoitoaihesekoittuneisuus%%%%%%
+336%hoitoaikeen mukainen analyysi%%%%%%
+337%hoitoilmoitusrekisteri%%%%%%
+338%hoitokoe%%%%%%
+339%hoitomyöntyvyys%%%%%%
+340%hoitoon liittyvä infektio%%%%%%
+341%hoitoteho%%%%%%
+342%huoltosuhde%%%%%%
+343%huomiotta jätetty muuttuja%%%%%%
+344%hylkäämiserhe%%%%%%
+345%hyperendeeminen tauti%%%%%%
+346%hypergeometrinen jakauma%%%%%%
+347%hypoteesi%%%%%%
+348%hypoteesin testaus%%%%%%
+349%hyväksymiserhe%%%%%%
+350%hyväksymisotanta%%%%%%
+351%hyväksyttävä riski%%%%%%
+352%hyöty%%%%%%
+353%hyöty-kustannussuhde%%%%%%
+354%hyötypohjainen yksikkö%%%%%%
+355%hävittäminen (taudin)%%%%%%
+356%iatrogeeninen%%%%%%
+357%id-numero%%%%%%
+358%i'ittäinen%%%%%%
+359%ikä-aika-kohorttianalyysi%%%%%%
+360%ikä-sukupuolipyramidi%%%%%%
+361%ikäryhmittäinen%%%%%%
+362%ikävakiointi%%%%%%
+363%ilmaantumiskertymien suhde%%%%%%
+364%ilmaantumiskertymä%%%%%%
+365%ilmaantumisosuuksien erotus%%%%%%
+366%ilmaantumisosuuksien suhde%%%%%%
+367%ilmaantumisosuus%%%%%%
+368%ilmaantumisosuus%%%%%%
+369%ilmaantumistaajuuksien suhde%%%%%%
+370%ilmaantumistaajuus%%%%%%
+371%ilmaantumistiheyksien suhde%%%%%%
+372%ilmaantumistiheys%%%%%%
+373%ilmaantuvuuksien kerroinsuhde%%%%%%
+374%ilmaantuvuuksien vetosuhde%%%%%%
+375%ilmaantuvuus%%%%%%
+376%ilmaantuvuustutkimus%%%%%%
+377%ilmaisin%%%%%%
+378%ilmateitse tarttuva infektio%%%%%%
+379%ilmenemisriski%%%%%%
+380%ilmenevyys%%%%%%
+381%ilmiasu%%%%%%
+382%ilmivaliditeetti%%%%%%
+383%ilmoitettava tauti%%%%%%
+384%imeväiskuolleisuus(luku)%%%%%%
+385%immunisaatio%%%%%%
+386%immuniteetti%%%%%%
+387%immunogeenisyys%%%%%%
+388%impakti%%%%%%
+389%impaktikerroin%%%%%%
+390%impaktin mitta%%%%%%
+391%impaktiosuus%%%%%%
+392%imputointi%%%%%%
+393%indeksi%%%%%%
+394%indeksiryhmä%%%%%%
+395%indeksitapaus%%%%%%
+396%indikaattorimuuttuja%%%%%%
+397%induktio%%%%%%
+398%induktioaika%%%%%%
+399%induktiojakso%%%%%%
+400%indusoitu tapaus%%%%%%
+401%infektiivinen%%%%%%
+402%infektiivisyys%%%%%%
+403%infektio%%%%%%
+404%infektiofokus%%%%%%
+405%infektiogradientti%%%%%%
+406%infektion aiheuttamiskyky%%%%%%
+407%infektion aiheuttava%%%%%%
+408%infektion latenttijakso%aika tai jakso tartunnasta tartuttavuuteen%%%%%
+409%infektion leviäminen%%%%%%
+410%infektion reservoaari%%%%%%
+411%infektion säilymö%%%%%%
+412%infektionlähde%%%%%%
+413%infektiopesäke%%%%%%
+414%infektiosairaus%%%%%%
+415%infektiotauti%%%%%%
+416%infektoiva%%%%%%
+417%informaatioharha%%%%%%
+418%inkubaatioaika%%%%%%
+419%inkubaatiojakso%%%%%%
+420%input%%%%%%
+421%inseptiotiheys%%%%%%
+422%insidenssi%%%%%%
+423%instrumenttiharha%%%%%%
+424%instrumenttimuuttuja%%%%%%
+425%intensiteetti%%%%%%
+426%intensiteettien suhde%%%%%%
+427%intensiteettisuhde%%%%%%
+428%intensiteettiero%%%%%%
+429%intensiteettikertymä%%%%%%
+430%interaktio%%%%%%
+431%interpoloida%%%%%%
+432%interpolointi%%%%%%
+433%interventio%%%%%%
+434%interventioindeksi%%%%%%
+435%interventiotutkimus%%%%%%
+436%intraclass-korrelaatio%%%%%%
+437%isäntä%%%%%%
+438%itsenäinen vaikutus%%%%%%
+439%itsevalinta%%%%%%
+440%ITT-analyysi%%%%%%
+441%itämisaika%%%%%%
+442%itämisjakso%%%%%%
+443%jackknife-menetelmä%%%%%%
+444%jakauma%%%%%%
+445%jakauman vaihteluväli%%%%%%
+446%jakaumasta riippumaton menetelmä%%%%%%
+447%jaksollisuus%%%%%%
+448%jatkuva muuttuja%%%%%%
+449%jatkuvan lähteen epidemia%%%%%%
+450%johdonmukaisuus%%%%%%
+451%joukkoseulonta%%%%%%
+452%julkaisuharha%%%%%%
+453%juuri%%%%%%
+454%juuriminen%%%%%%
+455%juurruttaminen%%%%%%
+456%jäljitys%%%%%%
+457%jälkitodennäköisyys%%%%%%
+458%järjestelmällinen katsaus%%%%%%
+459%järjestetty lukujoukko%%%%%%
+460%järjestysasteikko%%%%%%
+461%jäännössekoittuneisuus%%%%%%
+462%kaavio%%%%%%
+463%kaksi- tai moniulotteinen lukumäärätaulu%%%%%%
+464%kaksiarvoinen muuttuja%%%%%%
+465%kaksiasteotanta%%%%%%
+466%kaksisuuntainen testi%%%%%%
+467%kaksitahoinen testi%%%%%%
+468%kaksivaiheinen otanta%%%%%%
+469%kaksoisnaamioitu koe%%%%%%
+470%kaksoissokkokoe%%%%%%
+471%kaksostutkimus%%%%%%
+472%kalastelu%%%%%%
+473%kalibrointi%%%%%%
+474%kaliiperikaltaistus%%%%%%
+475%kaltaistettu tutkimus%%%%%%
+476%kaltaistettu verrokki%%%%%%
+477%kaltaistus%%%%%%
+478%kaltaisvertailu%%%%%%
+479%kansainvälinen tautiluokitus%%%%%%
+480%kansanryhmä%%%%%%
+481%kansanterveystiede%%%%%%
+482%kantaisäntä%%%%%%
+483%kantaja (oireeton)%%%%%%
+484%Kaplanin-Meierin estimaatti%%%%%%
+485%Kaplanin-Meierin menetelmä%%%%%%
+486%kappa-kerroin%%%%%%
+487%karkea%%%%%%
+488%karsinogeeni%%%%%%
+489%karsinogeneesi%%%%%%
+490%kartoitus%%%%%%
+491%kartoitusmenetelmät%%%%%%
+492%kartoitusväline%%%%%%
+493%kasvukäyrä%%%%%%
+494%kategoria%%%%%%
+495%katkaisupiste%%%%%%
+496%katoharha%%%%%%
+497%kattavuus%%%%%%
+498%kausaalidiagrammi%%%%%%
+499%kausaalikuvio%%%%%%
+500%kausaalipäättely%%%%%%
+501%kausaalitutkimus%%%%%%
+502%kausaaliverkko%%%%%%
+503%kausaliteetti%%%%%%
+504%kausivaihtelu%%%%%%
+505%kehittyminen%%%%%%
+506%kehitys- ja elämänkaariepidemiologia%%%%%%
+507%kelpoisuus%%%%%%
+508%kelpoisuusehdot%%%%%%
+509%kelpoisuuskriteerit%%%%%%
+510%kenttäepidemiologia%%%%%%
+511%kenttäkartoitus%%%%%%
+512%kenttäkoe%%%%%%
+513%kenttätutkimus%%%%%%
+514%kerroinsuhde%%%%%%
+515%kertymäfunktio%%%%%%
+516%kertymäosuus%%%%%%
+517%kertyvän summan laadunvalvontamenetelmä%%%%%%
+518%keskeytyssääntö%%%%%%
+519%keskiarvo%%%%%%
+520%keskihajonta%%%%%%
+521%keskimääräinen%%%%%%
+522%keskimääräinen elinaika%%%%%%
+523%keskimääräinen elinajanodote%%%%%%
+524%keskimääräinen kustannus%%%%%%
+525%keskiverto%%%%%%
+526%keskivirhe%%%%%%
+527%keskiväestö%%%%%%
+528%kestoharha%%%%%%
+529%kiinteä kustannus%%%%%%
+530%kiinteä tekijä%%%%%%
+531%kiinteä vaikutus%%%%%%
+532%kiintiöotanta%%%%%%
+533%kilpaileva riski%%%%%%
+534%kilpaileva syy%%%%%%
+535%kliininen epidemiologia%%%%%%
+536%kliininen koe%%%%%%
+537%kliininen merkittävyys%%%%%%
+538%kliininen päätösanalyysi%%%%%%
+539%klinimetria%%%%%%
+540%klusteri%%%%%%
+541%klusteroituminen%%%%%%
+542%Kochin kausaliteettipostulaatit%%%%%%
+543%koe%%%%%%
+544%koehaara%%%%%%
+545%koelinja%%%%%%
+546%koeprofiili%%%%%%
+547%koettu tarve%%%%%%
+548%kohdentuneisuus%%%%%%
+549%kohdepopulaatio%%%%%%
+550%kohdeväestö%%%%%%
+551%koherenssi%%%%%%
+552%kohina%%%%%%
+553%kohortti%%%%%%
+554%kohorttianalyysi%%%%%%
+555%kohorttitutkimus%%%%%%
+556%kohorttivaikutus%%%%%%
+557%kokeellinen epidemiologia%%%%%%
+558%kokeellinen tutkimus%%%%%%
+559%kokeen vuokaavio%%%%%%
+560%kokeenomainen tutkimus%%%%%%
+561%kokeilu%%%%%%
+562%kokeilumalli%%%%%%
+563%kokemusperäinen%%%%%%
+564%kokonaishedelmällisyysluku%%%%%%
+565%kokonaistutkimus%%%%%%
+566%kollineaarisuus%%%%%%
+567%kolmoisnaamioitu%%%%%%
+568%kolmoissokko%%%%%%
+569%kolonisaatio%%%%%%
+570%konkordanssi%%%%%%
+571%konkordanssikerroin%%%%%%
+572%konkordantti%%%%%%
+573%konsensusvaliditeetti%%%%%%
+574%kontakti%%%%%%
+575%kontaminaatio%%%%%%
+576%kontekstuaalianalyysi%%%%%%
+577%kontekstuaalinen vaikutus%%%%%%
+578%kontingenssitaulu%%%%%%
+579%kontrafaktuaalinen%%%%%%
+580%kontrolli%%%%%%
+581%koodaus%%%%%%
+582%koodi%%%%%%
+583%koontialue%%%%%%
+584%koontiväestö%%%%%%
+585%korjaus%%%%%%
+586%korrelaatio%%%%%%
+587%korrelaatiokerroin%%%%%%
+588%kosketus%%%%%%
+589%kotitaloustiedustelu%%%%%%
+590%kotoperäinen tapaus%%%%%%
+591%kovariaatti%%%%%%
+592%kovarianssi%%%%%%
+593%kriittinen aikaikkuna%%%%%%
+594%kriteeristandardi%%%%%%
+595%kriteerivaliditeetti%%%%%%
+596%kronobiologia%%%%%%
+597%krooninen%%%%%%
+598%kultainen standardi%%%%%%
+599%kulttuurien välinen tutkimus%%%%%%
+600%kumulatiivinen hasardi%%%%%%
+601%kumulatiivinen ilmaantumissuhde%%%%%%
+602%kumulatiivinen ilmaantuvuus%%%%%%
+603%kumulatiivinen intensiteetti%%%%%%
+604%kumulatiivinen kuolleisuustiheys%%%%%%
+605%kumulatiivinen riskitiheys%%%%%%
+606%kumulatiivinen tiheys%%%%%%
+607%kunto (fyysinen)%%%%%%
+608%kuolemansyy%%%%%%
+609%kuolemansyyn vakioitu osuussuhde%%%%%%
+610%kuolemansyypuhdistettu elinajan taulu%%%%%%
+611%kuolevuus%%%%%%
+612%kuolinikä%%%%%%
+613%kuolinsyy%%%%%%
+614%kuolleen synnytys%%%%%%
+615%kuolleena syntyminen%%%%%%
+616%kuolleena syntynyt%%%%%%
+617%kuolleisuuden riskitiheys%%%%%%
+618%kuolleisuus%%%%%%
+619%kuolleisuus- ja eloonjäämistaulu%%%%%%
+620%kuolleisuusintensiteetti%%%%%%
+621%kuolleisuuskertymä%%%%%%
+622%kuolleisuusluku%%%%%%
+623%kuolleisuusosuus%%%%%%
+624%kuolleisuustiheys%%%%%%
+625%kustannus-hyötyanalyysi%%%%%%
+626%kustannus-utiliteettianalyysi%%%%%%
+627%kustannus-vaikuttavuusanalyysi%%%%%%
+628%kustannusvaikuttavuus%%%%%%
+629%kuva%%%%%%
+630%kuvaileva epidemiologia%%%%%%
+631%kuvaileva tutkimus%%%%%%
+632%kuvio%%%%%%
+633%kvantiili%%%%%%
+634%kvartiili%%%%%%
+635%kvartiiliväli%%%%%%
+636%kvasikoe%%%%%%
+637%kynnysannos%%%%%%
+638%kynnysarvo%%%%%%
+639%kysely%%%%%%
+640%kyselylomake%%%%%%
+641%kytkentä (geneettinen)%%%%%%
+642%käsitevaliditeetti%%%%%%
+643%käsittely%%%%%%
+644%käynnistäminen%%%%%%
+645%käyttäytymisepidemia%%%%%%
+646%käyttäytymisriskitekijä%%%%%%
+647%käyttäytymisvaaratekijä%%%%%%
+648%käänteissekoittuneisuus%%%%%%
+649%laaduntarkastus%%%%%%
+650%laajennettu koe%%%%%%
+651%laajennettu perhe%%%%%%
+652%laatikko-janakuvio%%%%%%
+653%laatupainotettu elinaika%%%%%%
+654%laatupainotettu elinajanodote%%%%%%
+655%laitevirhe%%%%%%
+656%lapsikuolleisuus%%%%%%
+657%lapsikuolleisuusluku%%%%%%
+658%latenttiaika%%%%%%
+659%latenttiluokka-analyysi%%%%%%
+660%latenttivaihe%%%%%%
+661%laumaimmuniteetti%%%%%%
+662%laumaimmuniteettikynnys%%%%%%
+663%leviäminen yhteisen kuljettimen kautta%%%%%%
+664%leviämisen estäminen%%%%%%
+665%painoindeksi%%%%%%
+666%liikakaltaistus%%%%%%
+667%liikakorjaus%%%%%%
+668%liikavakiointi%%%%%%
+669%likiarvoinen menetelmä%%%%%%
+670%linkkuveitsimenetelmä%%%%%%
+671%lisäkustannus%%%%%%
+672%lisäriski%%%%%%
+673%lisäsairastavuus%%%%%%
+674%lisätiheys%%%%%%
+675%liukuva keskiarvo%%%%%%
+676%lod-pistemäärä%%%%%%
+677%log-lineaarinen malli%%%%%%
+678%log-normaalijakauma%%%%%%
+679%log-uskottavuusfunktio%%%%%%
+680%logistinen malli%%%%%%
+681%logistinen regressio%%%%%%
+682%logit-malli%%%%%%
+683%logit-muunnos%%%%%%
+684%logitti%%%%%%
+685%lohkoittainen satunnaistus%%%%%%
+686%lohkosatunnaistus%%%%%%
+687%loistartunta%%%%%%
+688%lokero%%%%%%
+689%lokus%%%%%%
+690%lopettamiskoe%%%%%%
+691%lopputulokset%%%%%%
+692%lopputulostapahtuma%%%%%%
+693%lopullinen hedelmällisyysluku%%%%%%
+694%LR-testi%%%%%%
+695%lukumäärä%%%%%%
+696%lukumääräjakauma%%%%%%
+697%lukumäärätaulu%%%%%%
+698%lumevaikutus%%%%%%
+699%lumipallo-otanta%%%%%%
+700%luokittelu%%%%%%
+701%luokitteluasteikko%%%%%%
+702%luokitteluvirhe%%%%%%
+703%luokitus%%%%%%
+704%luokka%%%%%%
+705%luokkamuuttuja%%%%%%
+706%luokkaväli%%%%%%
+707%luonnonkoe%%%%%%
+708%luottamuksellisuus%%%%%%
+709%luottamusrajat%%%%%%
+710%luottamusväli%%%%%%
+711%lyhyen kaavan elämänlaatuasteikko%%%%%%
+712%lähdeväestö%%%%%%
+713%lähdökki%%%%%%
+714%lähitapaus%%%%%%
+715%lähtökohortti%%%%%%
+716%lähtötilanne%%%%%%
+717%lääke-epidemiologia%%%%%%
+718%lääketieteellinen auditointi%%%%%%
+719%lääketieteellinen tilastotiede%%%%%%
+720%löytäminen%%%%%%
+721%löytämisharha%%%%%%
+722%maailmanlaajuiden epidemia%%%%%%
+723%malli%%%%%%
+724%mallin määrittely%%%%%%
+725%mallin sovitus%%%%%%
+726%mallinnus%%%%%%
+727%Mantelin trenditesti%%%%%%
+728%Mantelin-Haenszelin estimaattori%%%%%%
+729%Mantelin-Haenszelin testi%%%%%%
+730%Markovin malli%%%%%%
+731%Markovin prosessi%%%%%%
+732%matriksi%%%%%%
+733%mediaani%%%%%%
+734%Mendel-satunnaistus%%%%%%
+735%menetettyjen elinvuosien odote%%%%%%
+736%menetetyt elinvuodet%%%%%%
+737%merkintä-takaisinpyyntimenetelmä%%%%%%
+738%merkitsevyys%%%%%%
+739%merkitsevyystesti%%%%%%
+740%merkitsevä%%%%%%
+741%merkkiaine%%%%%%
+742%meta-analyysi%%%%%%
+743%metsikkökuvio%%%%%%
+744%mielivaltainen näyte%%%%%%
+745%Millin päättelysäännöt%%%%%%
+746%mitta-asteikko%%%%%%
+747%mittapuu%%%%%%
+748%mittauksen validiteetti%%%%%%
+749%mittausharha%%%%%%
+750%mittausvirhe%%%%%%
+751%molekyyliepidemiologia%%%%%%
+752%monen selittäjän logistinen malli%%%%%%
+753%monen selittäjän regressiomalli%%%%%%
+754%moniasteinen otanta%%%%%%
+755%moniastemalli%%%%%%
+756%moniasteotanta%%%%%%
+757%moniluokkainen%%%%%%
+758%monimuuttuja-analyysi%%%%%%
+759%moniseulonta%%%%%%
+760%monisyisyys%%%%%%
+761%monitasoanalyysi%%%%%%
+762%monitasomalli%%%%%%
+763%monitekijäinen etiologia%%%%%%
+764%monitekijäriski%%%%%%
+765%monivaiheinen otanta%%%%%%
+766%monivaiheseulonta%%%%%%
+767%monivertailumenetelmä%%%%%%
+768%Monte Carlo -tutkimus%%%%%%
+769%moodi%%%%%%
+770%muistiharha%%%%%%
+771%mukauttaminen%%%%%%
+772%mukautuminen%%%%%%
+773%mukavuusotos%%%%%%
+774%multikollineaarisuus%%%%%%
+775%multinomijakauma%%%%%%
+776%multiplikatiivinen malli%%%%%%
+777%muovaaminen%%%%%%
+778%muovaus%%%%%%
+779%muovautuminen%%%%%%
+780%muualta tuotu tapaus%%%%%%
+781%muutosnopeus%%%%%%
+782%muuttuja%%%%%%
+783%myyntiluvan jälkeinen seuruu%%%%%%
+784%myöhäinen äitiyskuolema%%%%%%
+785%myöhäisneonataalikuolleisuus%%%%%%
+786%myöntyvyys%%%%%%
+787%määre%%%%%%
+788%naamiointi%%%%%%
+789%naamioitu koe%%%%%%
+790%naamioitu tutkimus%%%%%%
+791%naapurustoverrokit%%%%%%
+792%negatiivinen ennustearvo%%%%%%
+793%negatiivinen sekoittuneisuus%%%%%%
+794%negatiivisen testituloksen ennustearvo%%%%%%
+795%negatiivisen testituloksen uskottavuusosamäärä%%%%%%
+796%nelikenttätaulu%%%%%%
+797%neonataalijakso%%%%%%
+798%neonataalikausi%%%%%%
+799%neonataalikuolleisuus%%%%%%
+800%nettoelossaolo%%%%%%
+801%nettouusiutumisluku%%%%%%
+802%nettovälttö%%%%%%
+803%nimittäjä%%%%%%
+804%NNH-luku%%%%%%
+805%NNS-luku%%%%%%
+806%NNT-luku%%%%%%
+807%nollahypoteesi%%%%%%
+808%nominaaliasteikko%%%%%%
+809%nopea epidemiologinen arviointi%%%%%%
+810%normaalijakauma%%%%%%
+811%noudattaminen%%%%%%
+812%numeronsuosiminen%%%%%%
+813%numeronsuosimisharha%%%%%%
+814%näennäinen%%%%%%
+815%näennäinen riippuvuus%%%%%%
+816%näennäinen yhteys%%%%%%
+817%näennäiskoe%%%%%%
+818%näyte%%%%%%
+819%näyttöön perustuva hoito%%%%%%
+820%näyttöön perustuva kansanterveystyö%%%%%%
+821%näyttöön perustuva lääketiede%%%%%%
+822%näyttöön perustuva terveydenhuolto%%%%%%
+823%näytön hierarkia%%%%%%
+824%odotettu elossaolo-osuus%%%%%%
+825%odotettu tapausmäärä%%%%%%
+826%oheissairastavuus%%%%%%
+827%ohjearvo%%%%%%
+828%oikea negatiivinen%%%%%%
+829%oikea positiivinen%%%%%%
+830%oikeellisuus%%%%%%
+831%oikeiden negatiivisten osuus%%%%%%
+832%oikeiden positiivisten osuus%%%%%%
+833%oireeton infektio%%%%%%
+834%oireeton tauti%%%%%%
+835%onnettomuus%%%%%%
+836%opportunistinen infektio%%%%%%
+837%ordinaaliasteikko%%%%%%
+838%osakohortti%%%%%%
+839%osallistumaton%%%%%%
+840%osallistumaton%%%%%%
+841%osallistumattomuus%%%%%%
+842%osallistumattomuusharha%%%%%%
+843%osallistuminen%%%%%%
+844%osallistumisaste%%%%%%
+845%osallistumisosuus%%%%%%
+846%osallistuvuus%%%%%%
+847%osamäärä%%%%%%
+848%osite%%%%%%
+849%ositekohtainen%%%%%%
+850%ositettu analyysi%%%%%%
+851%ositettu otanta%%%%%%
+852%ositettu satunnaistus%%%%%%
+853%osittaminen%%%%%%
+854%ositteet%%%%%%
+855%ositteittainen%%%%%%
+856%ositus%%%%%%
+857%osoitinmuuttuja%%%%%%
+858%osoittaja%%%%%%
+859%osuus%%%%%%
+860%osuvuus%%%%%%
+861%otanta%%%%%%
+862%otantaharha%%%%%%
+863%otantakehikko%%%%%%
+864%otantavaihtelu%%%%%%
+865%otantavirhe%%%%%%
+866%otos%%%%%%
+867%otoskoko%%%%%%
+868%otoskoon määrittäminen%%%%%%
+869%oudokki%%%%%%
+870%outo havainto%%%%%%
+871%p-arvo%%%%%%
+872%paikka%%%%%%
+873%painoindeksi%%%%%%
+874%painotettu keskiarvo%%%%%%
+875%painotettu otos%%%%%%
+876%palautumaton vuokaavio%%%%%%
+877%pandeeminen%%%%%%
+878%pandemia%%%%%%
+879%paneelitutkimus%%%%%%
+880%panos%%%%%%
+881%parametri%%%%%%
+882%parametrinen%%%%%%
+883%parametriton%%%%%%
+884%pariteetti%%%%%%
+885%parittaiset otokset%%%%%%
+886%pariutetut otokset%%%%%%
+887%pariuttaminen%%%%%%
+888%pearsonin tulomomenttikorrelaatiokerroin%%%%%%
+889%peitto%%%%%%
+890%peittävyys%%%%%%
+891%penetranssi%%%%%%
+892%perhe%%%%%%
+893%perheessä tarttuva tauti%%%%%%
+894%perhetutkimus%%%%%%
+895%perimäosuus%%%%%%
+896%perinataalikausi%%%%%%
+897%perinataalikuolleisuus%%%%%%
+898%perinnöllinen%%%%%%
+899%perinnöllinen ilmenemisriski%%%%%%
+900%perinnöllinen penetranssi%%%%%%
+901%perinnöllisyysseulonta%%%%%%
+902%periodivaikutus%%%%%%
+903%periytyvien tautien seulonta%%%%%%
+904%periytyvä tauti%%%%%%
+905%persentiili%%%%%%
+906%peruskuolemansyy%%%%%%
+907%peruskuolinsyy%%%%%%
+908%perustartuttavuusluku%%%%%%
+909%perustaso%%%%%%
+910%perusuusiutumisluku%%%%%%
+911%pesäke (taudin)%%%%%%
+912%pienhiukkanen%%%%%%
+913%pienin kliinisesti tärkeä ero%%%%%%
+914%piilevä heterogeenisuus%%%%%%
+915%piilevä infektio%%%%%%
+916%piilevä vastustuskyvyn muodostuminen%%%%%%
+917%piiloimmunisaatio%%%%%%
+918%piirre%%%%%%
+919%pilottitutkimus%%%%%%
+920%pistekuvio%%%%%%
+921%pitkittäinen tutkimus%%%%%%
+922%pitkittäistutkimus%%%%%%
+923%pitkäaikainen%%%%%%
+924%pituusharha%%%%%%
+925%plasebovaikutus%%%%%%
+926%PMR-luku%%%%%%
+927%pohjaväestö%%%%%%
+928%poikittaistutkimus%%%%%%
+929%poikkeava havainto%%%%%%
+930%poissonin jakauma%%%%%%
+931%poissonin regressio%%%%%%
+932%poissulkeminen%%%%%%
+933%poissulkutesti%%%%%%
+934%poistaminen%%%%%%
+935%poistettu%%%%%%
+936%poistoilmoitusrekisteri%%%%%%
+937%poistuminen%%%%%%
+938%poistunut%%%%%%
+939%polkuanalyysi%%%%%%
+940%polytominen%%%%%%
+941%ponderaali-indeksi%%%%%%
+942%populaatio%%%%%%
+943%populaatiodynamiikka%%%%%%
+944%positiivinen ennustearvo%%%%%%
+945%positiivisen testituloksen ennustearvo%%%%%%
+946%positiivisen testituloksen uskottavuusosamäärä%%%%%%
+947%posterioritodennäköisyys%%%%%%
+948%postneonataalikuolleisuus%%%%%%
+949%potentiaalisesti menetettyjen elinvuosien määrä%%%%%%
+950%potentiaalisesti menetetyt elinvuodet%%%%%%
+951%potentiaalisten vasteiden malli%%%%%%
+952%potilasasiakirja%%%%%%
+953%pragmaattinen koe%%%%%%
+954%pragmaattinen tutkimus%%%%%%
+955%prevalenssi%%%%%%
+956%prevalenssivaranto%%%%%%
+957%primäärikontakti%%%%%%
+958%primaaritapaus%%%%%%
+959%prioritodennäköisyys%%%%%%
+960%probandi%%%%%%
+961%prognoosi%%%%%%
+962%propensiteetti%%%%%%
+963%propensiteettipistemäärä%%%%%%
+964%prosenttipiste%%%%%%
+965%prospektiivinen tutkimus%%%%%%
+966%protokolla%%%%%%
+967%psykiatristen häiriöiden luokitusjärjestelmä%%%%%%
+968%puhdistusjakso%%%%%%
+969%puuttuvien tietojen korvaaminen%%%%%%
+970%pätevöittäminen%%%%%%
+971%pääisäntä%%%%%%
+972%pääkomponenttianalyysi%%%%%%
+973%päättely%%%%%%
+974%päätösanalyysi%%%%%%
+975%päätöspuu%%%%%%
+976%Quetelet'n indeksi%%%%%%
+977%rajaaminen%%%%%%
+978%rajakustannus%%%%%%
+979%rajapiste%%%%%%
+980%rajatuloestimaatti%%%%%%
+981%rajatulomenetelmä%%%%%%
+982%rakenteeltaan vakaa väestö%%%%%%
+983%raportointiharha%%%%%%
+984%raskauden kesto%%%%%%
+985%raskaudenkeskeytysluku%%%%%%
+986%raskaudenkeskeytystiheys%%%%%%
+987%raskauksien lukumäärä%%%%%%
+988%raskauteen liittyvä kuolema%%%%%%
+989%regressio%%%%%%
+990%regressioanalyysi%%%%%%
+991%regressiomalli%%%%%%
+992%rekisteri (rekisteriaineisto)%%%%%%
+993%rekisteri (laitos)%%%%%%
+994%rekisterien yhdistäminen%%%%%%
+995%rekisteripohjainen tapaus-verrokkitutkimus%%%%%%
+996%rekisteröinti%%%%%%
+997%reliabiliteetti%%%%%%
+998%replikaatio%%%%%%
+999%resessiivinen%%%%%%
+1000%retrospektiivinen tutkimus%%%%%%
+1001%riippumaton muuttuja%%%%%%
+1002%riippumattomat tapahtumat%%%%%%
+1003%riippumattomuus%%%%%%
+1004%riippuva muuttuja%%%%%%
+1005%riippuvuuden voimakkuus%%%%%%
+1006%riippuvuus%%%%%%
+1007%riippuvuusluku%%%%%%
+1008%riippuvuusmitta%%%%%%
+1009%riittävä syy%%%%%%
+1010%riski%%%%%%
+1011%riski-hyötyanalyysi%%%%%%
+1012%riski-hyötysuhde%%%%%%
+1013%riskianalyysi%%%%%%
+1014%riskiero%%%%%%
+1015%riskijakso%%%%%%
+1016%riskikertymä%%%%%%
+1017%riskille altis väestö%%%%%%
+1018%riskimarkkeri%%%%%%
+1019%riskin estimointi%%%%%%
+1020%riskin evaluointi%%%%%%
+1021%riskin ja hyödyn suhde%%%%%%
+1022%riskin osoitin%%%%%%
+1023%riskinalainen väestö%%%%%%
+1024%riskinarviointi%%%%%%
+1025%riskiosuus%%%%%%
+1026%riskiosuus altistuneilla%%%%%%
+1027%riskiosuus väestössä%%%%%%
+1028%riskisuhde%%%%%%
+1029%riskitekijä%%%%%%
+1030%riskitekijä%%%%%%
+1031%riskitiheyksien suhde%%%%%%
+1032%riskitiheys%%%%%%
+1033%riskitiheysero%%%%%%
+1034%riskitiheyssuhde%%%%%%
+1035%riskiväestö%%%%%%
+1036%ristiintartunta%%%%%%
+1037%ristikkäisasetelma%%%%%%
+1038%ristikkäiskoe%%%%%%
+1039%ristitulosuhde%%%%%%
+1040%robusti%%%%%%
+1041%ROC-käyrä%%%%%%
+1042%rokoteteho%%%%%%
+1043%rokottaminen%%%%%%
+1044%rokotteen vaikutus ihanneoloissa%%%%%%
+1045%rokotus%%%%%%
+1046%ruokafrekvenssilomake%%%%%%
+1047%rutiinisovellettavuusmalli%%%%%%
+1048%ryhmiinjaon harha%%%%%%
+1049%ryhmiinjaon naamiointi%%%%%%
+1050%ryhmittelyanalyysi%%%%%%
+1051%ryhmäkaltaistus%%%%%%
+1052%ryhmätaso%%%%%%
+1053%ryväs%%%%%%
+1054%ryväsotanta%%%%%%
+1055%ryvästaso%%%%%%
+1056%ryvästymä%%%%%%
+1057%ryvästyminen%%%%%%
+1058%saarekepopulaatio%%%%%%
+1059%sadannespiste%%%%%%
+1060%sairaala-aineiston valintaharha%%%%%%
+1061%sairaalaepidemiologia%%%%%%
+1062%sairaalainfektio%%%%%%
+1063%sairaalapohjainen tapaus-verrokkitutkimus%%%%%%
+1064%sairaalaverrokki%%%%%%
+1065%sairastavuus%%%%%%
+1066%sairastavuusajan lyheneminen%%%%%%
+1067%sairastavuusluku%%%%%%
+1068%sairastumisen intensiteetti%%%%%%
+1069%sairastuvuus%%%%%%
+1070%sairastuvuusluku%%%%%%
+1071%sairaus%%%%%%
+1072%sairausepisodi%%%%%%
+1073%sairausjakso%%%%%%
+1074%sairauskertomus%%%%%%
+1075%sairauskäyttäytyminen%%%%%%
+1076%sairauslähtöinen tutkimus%%%%%%
+1077%salassapito%%%%%%
+1078%samanaikainen interventio%%%%%%
+1079%satunnainen jako%%%%%%
+1080%satunnaiseen numeroon soittaminen%%%%%%
+1081%satunnaiskulku%%%%%%
+1082%satunnaismuuttuja%%%%%%
+1083%satunnaisotanta%%%%%%
+1084%satunnaisotos%%%%%%
+1085%satunnaisprosessi%%%%%%
+1086%satunnaissimulaatiokoe%%%%%%
+1087%satunnaistaminen%%%%%%
+1088%satunnaistekijä%%%%%%
+1089%satunnaistettu vertailukoe%%%%%%
+1090%satunnaistus%%%%%%
+1091%satunnaisvaihtelu%%%%%%
+1092%satunnaisvaikutus%%%%%%
+1093%satunnaisvirhe%%%%%%
+1094%satunnaisyhteys%%%%%%
+1095%sekamalli%%%%%%
+1096%sekoitemalli%%%%%%
+1097%sekoittaja%%%%%%
+1098%sekoittava muuttuja%%%%%%
+1099%sekoittava tekijä%%%%%%
+1100%sekoittuneisuuden hallinta%%%%%%
+1101%sekoittuneisuus%%%%%%
+1102%sekoittuneisuusharha%%%%%%
+1103%sekundaarikontakti%%%%%%
+1104%sekvenssianalyysi%%%%%%
+1105%selitettävä muuttuja%%%%%%
+1106%selittävä koe%%%%%%
+1107%selittävä muuttuja%%%%%%
+1108%selittävä tekijä%%%%%%
+1109%selittävä tutkimus%%%%%%
+1110%selvitys%%%%%%
+1111%sensitiivisyys%%%%%%
+1112%sensurointi%%%%%%
+1113%sensuroitu%%%%%%
+1114%sensuroituminen%%%%%%
+1115%sensuroitunut%%%%%%
+1116%seroepidemiologia%%%%%%
+1117%seulasaalis%%%%%%
+1118%seulonta%%%%%%
+1119%seulontatesti%%%%%%
+1120%seulontatestin kynnysarvo%%%%%%
+1121%seulontaväli%%%%%%
+1122%seurannasta kadonnut%%%%%%
+1123%seuranta%%%%%%
+1124%seurantaohjelma%%%%%%
+1125%seuraus%%%%%%
+1126%seuruu%%%%%%
+1127%seuruusta kadonnut%%%%%%
+1128%seuruututkimus%%%%%%
+1129%SF36-asteikko%%%%%%
+1130%siirtolaistutkimus%%%%%%
+1131%siirtymäparametri%%%%%%
+1132%siirtävä isäntä%%%%%%
+1133%sikiöajan kesto%%%%%%
+1134%sikiöikä%%%%%%
+1135%sikiökuolema%%%%%%
+1136%sikiökuolintodistus%%%%%%
+1137%sikiökuolleisuus%%%%%%
+1138%sikiökuolleisuusluku%%%%%%
+1139%sikiökuolleisuussuhde%%%%%%
+1140%silotus%%%%%%
+1141%simpsonin paradoksi%%%%%%
+1142%SIR-luku%%%%%%
+1143%sirontakuvio%%%%%%
+1144%sisarusverrokki%%%%%%
+1145%sisäinen asetelma%%%%%%
+1146%sisäinen tapaus-verrokkitutkimus%%%%%%
+1147%sisäinen validiteetti%%%%%%
+1148%sisäkorrelaatio%%%%%%
+1149%sisältövaliditeetti%%%%%%
+1150%skenaariopohjainen terveysriskin arviointi%%%%%%
+1151%SMR-luku%%%%%%
+1152%sokkokoe%%%%%%
+1153%sokkotutkimus%%%%%%
+1154%sokkoutus%%%%%%
+1155%soluväliaine%%%%%%
+1156%sopeuttaminen%%%%%%
+1157%sopeutuminen%%%%%%
+1158%sopusoinnussa oleva%%%%%%
+1159%sopusointu%%%%%%
+1160%sosiaaliepidemiologia%%%%%%
+1161%sosiaaliluokka%%%%%%
+1162%sosiaalilääketiede%%%%%%
+1163%sosiaaliset hyödyt ja haitat%%%%%%
+1164%sosioekonominen asema%%%%%%
+1165%sosioekonominen luokitus%%%%%%
+1166%sovellettu epidemiologia%%%%%%
+1167%soveltuvuus (genet.)%%%%%%
+1168%sovitteen hyvyys%%%%%%
+1169%sovitteen hyvyystesti%%%%%%
+1170%spatiaalinen%%%%%%
+1171%spatiaalinen epidemiologia%%%%%%
+1172%spektriharha%%%%%%
+1173%spesifisyys%%%%%%
+1174%sporadinen%%%%%%
+1175%stabiili väestö%%%%%%
+1176%standardi%%%%%%
+1177%standardointi%%%%%%
+1178%stationaarinen väestö%%%%%%
+1179%stokastinen prosessi%%%%%%
+1180%SU-estimaatti%%%%%%
+1181%SU-menetelmä%%%%%%
+1182%subkliininen infektio%%%%%%
+1183%subkliininen tauti%%%%%%
+1184%suhde%%%%%%
+1185%suhdeasteikko%%%%%%
+1186%suhdeluku%%%%%%
+1187%suhteellinen elossaolo%%%%%%
+1188%suhteellinen elossaolo-osuus%%%%%%
+1189%suhteellinen lisäriski%%%%%%
+1190%suhteellinen osuus%%%%%%
+1191%suhteellinen riski%%%%%%
+1192%suhteellinen selviytyminen%%%%%%
+1193%suhteellinen tiheys%%%%%%
+1194%suhteellinen vaikutus%%%%%%
+1195%suhteellinen vetokerroin%%%%%%
+1196%suhteellinen ylimääräriski%%%%%%
+1197%suhteellisen riskin pieneneminen%%%%%%
+1198%suhteellisten hasardien malli%%%%%%
+1199%suku%%%%%%
+1200%sukupolvivaikutus%%%%%%
+1201%sukupolviväli (infektion)%%%%%%
+1202%sukupuolikohtainen%%%%%%
+1203%sukututkimus%%%%%%
+1204%suljettu väestö%%%%%%
+1205%suora kontakti%%%%%%
+1206%suora korjaus%%%%%%
+1207%suora kosketus%%%%%%
+1208%suora riippuvuus%%%%%%
+1209%suora vakiointi%%%%%%
+1210%suora yhteys%%%%%%
+1211%suppilokuvio%%%%%%
+1212%suppressoiva muuttuja%%%%%%
+1213%survey-instrumentti%%%%%%
+1214%survey-menetelmät%%%%%%
+1215%survey-tutkimus%%%%%%
+1216%suunnitelma%%%%%%
+1217%suurimman uskottavuuden estimaatti%%%%%%
+1218%suurimman uskottavuuden menetelmä%%%%%%
+1219%suurin sallittu altistus%%%%%%
+1220%suurin sallittu pitoisuus%%%%%%
+1221%suurperhe%%%%%%
+1222%suurten otosten menetelmä%%%%%%
+1223%suvuittainen kasautuminen%%%%%%
+1224%suvuittainen ryvästyminen%%%%%%
+1225%suvuttainen tauti%%%%%%
+1226%sydän- ja verisuonitautien epidemiologia%%%%%%
+1227%syitä koskeva%%%%%%
+1228%syklisyys%%%%%%
+1229%symmetrinen riippuvuus%%%%%%
+1230%symmetrinen yhteys%%%%%%
+1231%synergia%%%%%%
+1232%synnynnäinen poikkeavuus%%%%%%
+1233%synnynnäisiä epämuodostumia aiheuttava tekijä%%%%%%
+1234%synnytyskertojen lukumäärä%%%%%%
+1235%synnytysväli%%%%%%
+1236%syntymäjärjestys%%%%%%
+1237%syntymäkohortti%%%%%%
+1238%syntymäkohorttianalyysi%%%%%%
+1239%syntymäpaino%%%%%%
+1240%syntymätodistus%%%%%%
+1241%syntyvyysluku%%%%%%
+1242%systemaattinen katsaus%%%%%%
+1243%systemaattinen virhe%%%%%%
+1244%syy-%%%%%%
+1245%syyketjun osa%%%%%%
+1246%syykohtainen%%%%%%
+1247%syyksilukuosuus%%%%%%
+1248%syyksilukuosuus altistuneilla%%%%%%
+1249%syyksilukuosuus väestössä%%%%%%
+1250%syyoppi%%%%%%
+1251%syy-seurauskuvio%%%%%%
+1252%syy-seurauspäättely%%%%%%
+1253%syy-seuraussuhde%%%%%%
+1254%syy-seuraustutkimus%%%%%%
+1255%syytutkimus%%%%%%
+1256%syöpäepidemiologia%%%%%%
+1257%syöpärekisteri%%%%%%
+1258%syöpää aiheuttava aine%%%%%%
+1259%syöte%%%%%%
+1260%syövän synty%%%%%%
+1261%säilymö (infektion)%%%%%%
+1262%säästeliäisyys (tilastollisen mallin)%%%%%%
+1263%t-jakauma %%%%%%
+1264%t-testi %%%%%%
+1265%taajuus%%%%%%
+1266%tahrautuminen%%%%%%
+1267%tapahtuma%%%%%%
+1268%tapahtumahistoria-analyysi%%%%%%
+1269%tapahtumatiheys%%%%%%
+1270%tapaturma%%%%%%
+1271%tapauksiin rajoittuva tutkimus%%%%%%
+1272%tapaus%%%%%%
+1273%tapaus-aikavertailututkimus%%%%%%
+1274%tapaus-kohorttiotanta%%%%%%
+1275%tapaus-kohorttitutkimus%%%%%%
+1276%tapaus-peilausasetelma%%%%%%
+1277%tapaus-pohjaotanta%%%%%%
+1278%tapaus-pohjatutkimus%%%%%%
+1279%tapaus-ristikkäistutkimus%%%%%%
+1280%tapaus-tapaustutkimus%%%%%%
+1281%tapaus-vaihtovuorotutkimus%%%%%%
+1282%tapaus-verrokkiotanta%%%%%%
+1283%tapaus-verrokkitutkimus%%%%%%
+1284%case-base study%%%%%%
+1285%tapaus-verrokkitutkimus käyttäen vanhempia verrokkeina%%%%%%
+1286%tapaushistoriatutkimus%%%%%%
+1287%tapauskirjoindeksi%%%%%%
+1288%tapausluokitus%%%%%%
+1289%tapauslähtöinen tutkimus%%%%%%
+1290%tapausmääritelmä%%%%%%
+1291%tapausmäärä%%%%%%
+1292%tapausriippumattomuus%%%%%%
+1293%tapaussarja%%%%%%
+1294%tapausten etsintä%%%%%%
+1295%tapausten kuolleisuusosuus%%%%%%
+1296%tapausten löytäminen%%%%%%
+1297%tapaustutkimus%%%%%%
+1298%tapausylimäärä%%%%%%
+1299%tappavuus%%%%%%
+1300%tappio-odote%%%%%%
+1301%tappion odotusarvo%%%%%%
+1302%tarkentuvuus (tilastotiede)%%%%%%
+1303%tarkistusnumero%%%%%%
+1304%tarkkailu%%%%%%
+1305%tarkkailuohjelma%%%%%%
+1306%tarkkuus (mittauksen tai estimoinnin)%%%%%%
+1307%tarpeiden arviointi%%%%%%
+1308%tarttuva%%%%%%
+1309%tarttuvuus%%%%%%
+1310%tarttuvuusjakso%%%%%%
+1311%tartunnan epäsuora leviäminen%%%%%%
+1312%tartunnan levittäjä välittäjä%%%%%%
+1313%tartunnan leviäminen%%%%%%
+1314%tartunnan suora leviäminen%%%%%%
+1315%tartunnan välittäjä%%%%%%
+1316%tartunnanlähde%%%%%%
+1317%tartunta%%%%%%
+1318%tartunta äidistä sikiöön%%%%%%
+1319%tartunta äidistä vastasyntyneeseen%%%%%%
+1320%tartunta-alttius%%%%%%
+1321%tartuntaintensiteetti%%%%%%
+1322%tartuntaparametri%%%%%%
+1323%tartuntatauti%%%%%%
+1324%tartuntatiheys%%%%%%
+1325%tartuttavuus%%%%%%
+1326%tartuttavuusjakso%%%%%%
+1327%tasoitus%%%%%%
+1328%tasojen välinen harha%%%%%%
+1329%tasojen välinen interaktio%%%%%%
+1330%tasojen välinen vaikutus%%%%%%
+1331%taudin harvinaisuuden oletus%%%%%%
+1332%taudin luonnollinen kulku%%%%%%
+1333%taudinaiheuttaja%%%%%%
+1334%taudinaiheuttamiskyky%%%%%%
+1335%taudinmääritys%%%%%%
+1336%taustataso (esiintyvyyden)%%%%%%
+1337%tauti%%%%%%
+1338%tautien luokittelu%%%%%%
+1339%tautikartoitus%%%%%%
+1340%tautikirjo%%%%%%
+1341%tautiluokitus%%%%%%
+1342%tautimalli%%%%%%
+1343%tautitapaus%%%%%%
+1344%tautitapaus (elävä)%%%%%%
+1345%tautitapaus (ilmaantuva)%%%%%%
+1346%tautitapaus (oleva)%%%%%%
+1347%tautitapaus (uusi)%%%%%%
+1348%teho%%%%%%
+1349%tehokkuus (terveystaloustiede)%%%%%%
+1350%tehokkuus (estimaattorin)%%%%%%
+1351%tehollinen otoskoko%%%%%%
+1352%tehollinen väkiluku%%%%%%
+1353%tekijä%%%%%%
+1354%tekijäkoe%%%%%%
+1355%teoreettinen epidemiologia%%%%%%
+1356%teratogeeni%%%%%%
+1357%terve työntekijä -vaikutus%%%%%%
+1358%terveenä eletyt vuodet%%%%%%
+1359%terveet elinvuodet%%%%%%
+1360%terveiden elinvuosien odote%%%%%%
+1361%terveiden vuosien vastineet%%%%%%
+1362%terveyden edistäminen%%%%%%
+1363%terveyden osoitin%%%%%%
+1364%terveydenhuollon aiheuttama%%%%%%
+1365%terveydenhuollon menetelmien arviointi%%%%%%
+1366%terveydenhuoltojärjestelmän tutkimus%%%%%%
+1367%terveydenhuoltopalvelut%%%%%%
+1368%terveydentilaindeksi%%%%%%
+1369%terveysindeksi%%%%%%
+1370%terveyskartoitus%%%%%%
+1371%terveyskäyttäytyminen%%%%%%
+1372%terveysmittari%%%%%%
+1373%terveyspainotettu elinajanodote%%%%%%
+1374%terveyspalvelut%%%%%%
+1375%terveyspalvelututkimus%%%%%%
+1376%terveysriskin arviointi%%%%%%
+1377%terveystilasto%%%%%%
+1378%terveystutkimus%%%%%%
+1379%terveysuhan tunnistaminen%%%%%%
+1380%terveysuhka%%%%%%
+1381%testin kohdentuneisuus%%%%%%
+1382%testin koko%%%%%%
+1383%testin spesifisyys%%%%%%
+1384%testisuure%%%%%%
+1385%tietoinen suostumus%%%%%%
+1386%tietokanta%%%%%%
+1387%tietuekytkentä%%%%%%
+1388%tiheys%%%%%%
+1389%tiheysero%%%%%%
+1390%tiheysotanta%%%%%%
+1391%tiheyspoiminta%%%%%%
+1392%tiheyssuhde%%%%%%
+1393%tilasto%%%%%%
+1394%tilastollinen malli%%%%%%
+1395%tilastollinen merkitsevyys%%%%%%
+1396%tilastollinen päättely%%%%%%
+1397%tilastollinen testi%%%%%%
+1398%tilastollinen virhe%%%%%%
+1399%tilastollisen parametrin arvio%%%%%%
+1400%tilastollisen parametrin arviointi%%%%%%
+1401%tilastollisen parametrin arviointifunktio%%%%%%
+1402%tilastotiede%%%%%%
+1403%todennäköisyys%%%%%%
+1404%todennäköisyysjakauma%%%%%%
+1405%todennäköisyysotos%%%%%%
+1406%todennäköisyystiheys%%%%%%
+1407%toimeenpano%%%%%%
+1408%toimenpide%%%%%%
+1409%toiminnan arviointi%%%%%%
+1410%toimintakyky%%%%%%
+1411%toimintakykyisen elämän kesto-odote%%%%%%
+1412%toimintakykypainotetut elinvuodet%%%%%%
+1413%toimintarajoite%%%%%%
+1414%toisen polven ilmaantumisosuus%%%%%%
+1415%toisen polven kontakti%%%%%%
+1416%toisen polven kosketus%%%%%%
+1417%toistaminen%%%%%%
+1418%toistettavuus%%%%%%
+1419%toistopyyntimenetelmä%%%%%%
+1420%toistotarkkuus%%%%%%
+1421%toistuvuus%%%%%%
+1422%torjunta%%%%%%
+1423%tosiaikainen%%%%%%
+1424%toteaminen%%%%%%
+1425%toteamisharha%%%%%%
+1426%toteutettavuustutkimus%%%%%%
+1427%toteutumataulu%%%%%%
+1428%toteutus%%%%%%
+1429%tulos%%%%%%
+1430%tulosmuuttuja%%%%%%
+1431%tunkeilematon mittausmenetelmä%%%%%%
+1432%tunnistaminen%%%%%%
+1433%tunnistamisharha%%%%%%
+1434%tunnistenumero%%%%%%
+1435%tunnusluku%%%%%%
+1436%turvamarginaali%%%%%%
+1437%tutkimusasetelma%%%%%%
+1438%tutkimushenkilö%%%%%%
+1439%tutkimuskaavio%%%%%%
+1440%tutkimuskäsikirja%%%%%%
+1441%tutkimuspohja%%%%%%
+1442%tutkimuspopulaatio%%%%%%
+1443%tutkimusrunko%%%%%%
+1444%tutkimusväestö%%%%%%
+1445%typistetty%%%%%%
+1446%typistyminen%%%%%%
+1447%typistynyt%%%%%%
+1448%typistys%%%%%%
+1449%tyypin I virhe%%%%%%
+1450%tyypin II virhe%%%%%%
+1451%tyyppiarvo%%%%%%
+1452%työ-altistematriisi%%%%%%
+1453%työterveys%%%%%%
+1454%työterveysepidemiologia%%%%%%
+1455%täydellisen datan havaintoyksikköjen osuus%%%%%%
+1456%täysiaikainen synnytys%%%%%%
+1457%uhkaavat infektiotaudit%%%%%%
+1458%ulkoinen itämisaika%%%%%%
+1459%ulkoinen validiteetti%%%%%%
+1460%upotettu asetelma%%%%%%
+1461%upotettu tapaus-verrokkitutkimus%%%%%%
+1462%uskottavuus (tilastot.)%%%%%%
+1463%uskottavuusfunktio%%%%%%
+1464%uskottavuusfunktion logaritmi%%%%%%
+1465%uskottavuusosamäärä%%%%%%
+1466%uskottavuusosamäärätesti%%%%%%
+1467%utiliteetti%%%%%%
+1468%utiliteettiin pohjautuva yksikkö%%%%%%
+1469%uusien tapausten määrä%%%%%%
+1470%uusittavuus%%%%%%
+1471%uusiutumisriski%%%%%%
+1472%vaara%%%%%%
+1473%vaaran osoitin%%%%%%
+1474%vaaratekijä%%%%%%
+1475%vahvistaminen%%%%%%
+1476%vaiheen I koe%%%%%%
+1477%vaiheen II koe%%%%%%
+1478%vaiheen III koe%%%%%%
+1479%vaihtoehtoinen hypoteesi%%%%%%
+1480%vaihtoehtoiskustannus%%%%%%
+1481%vaihtovuoroasetelma%%%%%%
+1482%vaihtovuorokoe%%%%%%
+1483%vaikuttavuus%%%%%%
+1484%vaikutukseltaan vakioimaton muuttuja%%%%%%
+1485%vaikutuksen koko%%%%%%
+1486%vaikutuksen mitta%%%%%%
+1487%vaikutuksen mukainen koodaus%%%%%%
+1488%vaikutuksen muovaaja%%%%%%
+1489%vaikutuksen muovautuminen%%%%%%
+1490%vaikutuksen suuruus%%%%%%
+1491%vaikutus%%%%%%
+1492%vaikutus%%%%%%
+1493%vaikutus ihanneoloissa%%%%%%
+1494%vaikutus käytännön elämässä%%%%%%
+1495%vaikutusmitta%%%%%%
+1496%vaikutussuure%%%%%%
+1497%vaikutusta muovaava muuttuja%%%%%%
+1498%vaikutusten rikastuminen%%%%%%
+1499%vaimeneminen%%%%%%
+1500%vaimentaminen%%%%%%
+1501%vajavuus%%%%%%
+1502%vakaa väestö%%%%%%
+1503%vakioimaton%%%%%%
+1504%vakiointi%%%%%%
+1505%vakioitu ilmaantuvuussuhde%%%%%%
+1506%vakioitu kuolleisuussuhde%%%%%%
+1507%vakioitu sairastuvuussuhde%%%%%%
+1508%vakioitujen tiheyksien suhde%%%%%%
+1509%vakioväestö%%%%%%
+1510%validiteetti%%%%%%
+1511%validiteetti%%%%%%
+1512%validointi%%%%%%
+1513%validointitutkimus%%%%%%
+1514%valikoituminen%%%%%%
+1515%valikoitumisharha%%%%%%
+1516%valinta%%%%%%
+1517%valintaharha%%%%%%
+1518%vallitsemisosuuksien suhde%%%%%%
+1519%vallitsemisosuus%%%%%%
+1520%vallitseva%%%%%%
+1521%vallitsevuuden mitta%%%%%%
+1522%vallitsevuuksien vetosuhde%%%%%%
+1523%vallitsevuus%%%%%%
+1524%vallitsevuussuhde%%%%%%
+1525%vallitsevuussuure%%%%%%
+1526%vallitsevuustutkimus%%%%%%
+1527%vallitsevuusvaranto%%%%%%
+1528%valvonta%%%%%%
+1529%valvontaohjelma%%%%%%
+1530%vamma%%%%%%
+1531%vammattoman elinajan odote%%%%%%
+1532%vapausasteet%%%%%%
+1533%varhaisneonataalikauden kuolleisuus%%%%%%
+1534%varhaistoteaminen%%%%%%
+1535%varhaisvaroitusjärjestelmä%%%%%%
+1536%varhennus%%%%%%
+1537%varhennusharha%%%%%%
+1538%variaatiokerroin%%%%%%
+1539%varianssi%%%%%%
+1540%varianssianalyysi%%%%%%
+1541%varianssin käänteisluku%%%%%%
+1542%varmentaminen%%%%%%
+1543%varmistustesti%%%%%%
+1544%varsinainen isäntä%%%%%%
+1545%vastaamaton (kyselyyn)%%%%%%
+1546%vastaamattomuus (kyselyyn)%%%%%%
+1547%vastakaltaistus%%%%%%
+1548%vastausharha%%%%%%
+1549%vastavaikutus%%%%%%
+1550%vaste%%%%%%
+1551%vasteet%%%%%%
+1552%vastelähtöinen tutkimus%%%%%%
+1553%vastemuuttuja%%%%%%
+1554%vastustuskyky%%%%%%
+1555%vastustuskyvyn muodostuminen%%%%%%
+1556%vastustusohjelma (eläinlääket.)%%%%%%
+1557%vaurio%%%%%%
+1558%vedonlyöntikerroin%%%%%%
+1559%vedonlyöntikertoimien suhde%%%%%%
+1560%vektori%%%%%%
+1561%vektorivälitteinen infektio%%%%%%
+1562%verrannollisten intensiteettien malli%%%%%%
+1563%verrannollisten riskitiheyksien malli%%%%%%
+1564%verrokki%%%%%%
+1565%vertaileva kuolleisuussuhde%%%%%%
+1566%vertaileva tutkimus%%%%%%
+1567%vertailtava%%%%%%
+1568%vertailtavuus%%%%%%
+1569%vertailukelpoinen%%%%%%
+1570%vertailukelpoisuus%%%%%%
+1571%vertailuparametri%%%%%%
+1572%vertailuryhmä%%%%%%
+1573%vertailuväestö%%%%%%
+1574%vertailuyksilö%%%%%%
+1575%vertikaalinen leviäminen%%%%%%
+1576%veto%%%%%%
+1577%vetokerroin%%%%%%
+1578%vetokertoimien suhde%%%%%%
+1579%vetosuhde%%%%%%
+1580%vetäytyminen%%%%%%
+1581%vetäytynyt%%%%%%
+1582%vieras havainto%%%%%%
+1583%vihjenäyttö%%%%%%
+1584%viiteväestö%%%%%%
+1585%vino jakauma%%%%%%
+1586%virhe%%%%%%
+1587%virhekerroin%%%%%%
+1588%virheluokittelu%%%%%%
+1589%virheluokitteluharha%%%%%%
+1590%virhemarginaali%%%%%%
+1591%virulenssi%%%%%%
+1592%voima%%%%%%
+1593%vuodenaikavaihtelu%%%%%%
+1594%vuokaavio%%%%%%
+1595%väentiheys%%%%%%
+1596%väestö%%%%%%
+1597%väestödynamiikka%%%%%%
+1598%väestökokemus%%%%%%
+1599%väestölaskenta%%%%%%
+1600%väestöloukku%%%%%%
+1601%väestön ikääntyminen%%%%%%
+1602%väestön kasvunopeus%%%%%%
+1603%väestölaskenta-alue%%%%%%
+1604%väestönmuutostilastot%%%%%%
+1605%väestöntiheys%%%%%%
+1606%väestöpohjainen%%%%%%
+1607%väestöseulonta%%%%%%
+1608%väestötiede%%%%%%
+1609%väestöön pohjautuva%%%%%%
+1610%väistyvä%%%%%%
+1611%väli-isäntä%%%%%%
+1612%väliestimaatti%%%%%%
+1613%väliestimaattori%%%%%%
+1614%väliintuleva muuttuja%%%%%%
+1615%väliintuleva syy%%%%%%
+1616%välillinen kontakti%%%%%%
+1617%välillinen kosketus%%%%%%
+1618%välillinen kustannus%%%%%%
+1619%välillinen riippuvuus%%%%%%
+1620%välillinen yhteys%%%%%%
+1621%välillinen äitiyskuolema%%%%%%
+1622%välimatka-asteikko%%%%%%
+1623%välisyöpä%%%%%%
+1624%välitön kontakti%%%%%%
+1625%välitön kosketus%%%%%%
+1626%välitön kustannus%%%%%%
+1627%välitön riippuvuus%%%%%%
+1628%välitön yhteys%%%%%%
+1629%välittävä muuttuja%%%%%%
+1630%vältetty kustannus%%%%%%
+1631%välttämätön ja riittävä syy%%%%%%
+1632%välttöaika-analyysi%%%%%%
+1633%välttöfunktio%%%%%%
+1634%välttökäyrä%%%%%%
+1635%välttöosuus%%%%%%
+1636%välttöosuussuhde%%%%%%
+1637%välttötaulu%%%%%%
+1638%väärien negatiivisten osuus%%%%%%
+1639%väärien positiivisten osuus%%%%%%
+1640%väärinluokittelu%%%%%%
+1641%väärä negatiivinen%%%%%%
+1642%väärä positiivinen%%%%%%
+1643%weibullin malli%%%%%%
+1644%ydinperhe%%%%%%
+1645%yhden havaintoyksikön tutkimus%%%%%%
+1646%yhden lähteen epidemia%%%%%%
+1647%yhden potilaan koe%%%%%%
+1648%yhdenmukaisuus%%%%%%
+1649%yhdistelmäindeksi%%%%%%
+1650%yhdistäminen (rekisterien)%%%%%%
+1651%yhdysvaikutus%%%%%%
+1652%yhtähyvyystestit%%%%%%
+1653%yhteensopiva%%%%%%
+1654%yhteensopivuus%%%%%%
+1655%yhteensopivuustesti%%%%%%
+1656%yhteiskuntaluokka%%%%%%
+1657%yhteisö%%%%%%
+1658%yhteisödiagnoosi%%%%%%
+1659%yhteisölääketiede%%%%%%
+1660%yhteisötason koe%%%%%%
+1661%yhteissekoittuneisuus%%%%%%
+1662%yhteisvaikutus%%%%%%
+1663%yhteyden mitta%%%%%%
+1664%yhteyden voimakkuus%%%%%%
+1665%yhteys%%%%%%
+1666%yhtäläinen virheluokittelu%%%%%%
+1667%yhtäpitävyyden mitta%%%%%%
+1668%yhtäpitävyys%%%%%%
+1669%yhtäpitävyyskerroin%%%%%%
+1670%yhtäpitävä%%%%%%
+1671%yksikkökato%%%%%%
+1672%yksisuuntainen testi%%%%%%
+1673%yksittäinen%%%%%%
+1674%yleinen hedelmällisyysluku%%%%%%
+1675%yleistettävyys%%%%%%
+1676%yleistetyt lineaariset mallit%%%%%%
+1677%yleisväestö%%%%%%
+1678%yliaikainen synnytys%%%%%%
+1679%ylikaltaistus%%%%%%
+1680%ylikorjaus%%%%%%
+1681%ylimääräosuus%%%%%%
+1682%ylimääräosuus altistuneilla%%%%%%
+1683%ylimääräosuus väestössä%%%%%%
+1684%ylivakiointi%%%%%%
+1685%ympäristöepidemiologia%%%%%%
+1686%ympäristön terveysvaikutusten arviointi%%%%%%
+1687%ympäristön tupakansavu%%%%%%
+1688%ympäristöyliherkkyys%%%%%%
+1689%youdenin indeksi%%%%%%
+1690%zoonoosi%%%%%%
+1691%äitiyskuolema%%%%%%
+1692%äitiyskuolleisuus%%%%%%
+1693%äkillinen%%%%%%
+1694%2x2-taulu%%%%%%

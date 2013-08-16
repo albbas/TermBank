@@ -1,0 +1,4211 @@
+pagename=Kieliteknologia:aakkosto
+{{Käsite
+|määritelmä=sovittu merkkien joukko, jonka merkeistä muodostetaan merkkijonoja
+|selite=Formaalien kielten aakkosto voi koostua paitsi kirjaimista, myös mielivaltaisista muista symboleista.  Aakkoston oletetaan yleensä olevan äärellinen.  Aakkosto koostuu aakkosista.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=aakkosto (formaalin kielen)
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=alphabet
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=alfabet
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:merkki
+|käsitesuhde=osa
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:merkkijono
+|käsitesuhde=vieruskäsite
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:automaatti
+|käsitesuhde=kokonaisuus
+}}
+pagename=Kieliteknologia:affiksi
+{{Käsite
+|määritelmä=sanan vartaloon liittyvä [[Kieliteknologia:morfi|morfi]] (tai [[Kieliteknologia:morfeemi|morfeemi]]), jollaisen avulla voidaan (mahdollisesti yhdessä muiden affiksien avulla) muodostaa uusia [[Kieliteknologia:vartalo|vartaloita]] tai [[Kieliteknologia:sananmuoto|sananmuotoja]]
+|selite=Affiksit ovat sidonnaisia morfeja (tai morfeemeja), jotka eivät siis esiinny yksistään, vaan edellyttävät juurimorfin (tai -morfeemin) mukanaoloa.  Affiksit ovat tavallisesti joko päätteitä tai etuliitteitä, mutta joissakin kielissä esim. infiksejä tai interdigitaation kautta sananjuuren seassa.  Affiksit muuntavat merkitystä esimerkiksi genetiiviä osoittava liite lisää omistajuuden merkitykseen.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=affix
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:morfi
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:morfeemi
+}}
+pagename=Kieliteknologia:aktiivinen kaari
+{{Käsite
+|tarkistettu=Y
+|lähdeaineistotunnus=KT_03_2012
+|käsite=aktiivinen kaari
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=active edge
+|käyttösuositus=suositeltu
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|otsikossa=Y
+|nimitys=aktiivinen kaari
+|käyttösuositus=suositeltu
+}}
+pagename=Kieliteknologia:aktiivinen taulukkojäsennys
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=aktiivinen taulukkojäsennys
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=active chart parsing
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=aktiivinen taulukkojäsennys
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:alkio
+{{Käsite
+|tarkistettu=Y
+|lähdeaineistotunnus=KT_03_2012
+|käsite=alkio
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=element
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=alkio
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=saksa
+|nimitys=Element
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=élément
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=element
+|otsikossa=N
+}}
+pagename=Kieliteknologia:alkutila
+{{Käsite
+|määritelmä=[[Kieliteknologia:tila|tila]], jossa [[Kieliteknologia:automaatti|automaatti]] on aloittaessaan toimintansa
+|selite=Automaatin tiloista se, jossa automaatti on ennen, kuin se aloittaa syötteen lukemisen tms.  Deterministisessä automaatissa on tasan yksi alkutila.
+|tarkistettu=Y
+|luokka=Kieliteknologia
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=alkutila
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=start state
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=alkutila
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=starttillstånd
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=saksa
+|nimitys=Anfangszustand
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=état initial
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:tila
+|käsitesuhde=yläkäsite
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:lopputila
+|käsitesuhde=vieruskäsite
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:automaatti
+|käsitesuhde=osa
+}}
+pagename=Kieliteknologia:annotointi
+{{Käsite
+|määritelmä=Tekstin varustaminen [[Kielitiede:kielioppi|kieliopillisilla]] tunnuksilla.
+|tarkistettu=Y
+|lähdeaineistotunnus=KT_03_2012
+|käsite=annotointi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=annotation
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|otsikossa=Y
+|nimitys=annotointi
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=annotering
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|otsikossa=Y
+|nimitys=varustaminen kieliopillisilla koodeilla
+}}
+pagename=Kieliteknologia:asiantuntijajärjestelmä
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=asiantuntijajärjestelmä
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=expert system
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=asiantuntijajärjestelmä
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:attribuutti
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=attribuutti
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=attribute
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=attribuutti
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=ominaisuus
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:attribuutti - arvo pari
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=attribuutti - arvo pari
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=attribute value pair
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=attribuutti - arvo pari
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:automaatti
+{{Käsite
+|määritelmä=abstrakti kone, joka voi ratkaista tai suorittaa erilaisia tehtäviä
+|selite=Kieliteknologian ja tietojenkäsittelyn automaatit ovat kuviteltuja matemaattisia koneita, jotka hyväksyvät tai hylkäävät merkkijonoja, muuntavat niitä tai suorittavat muunlaista yksinkertaista laskentaa.  Automaatteja on monenlaisia: [[Kieliteknologia:äärellinen automaatti|äärellisiä automaatteja]], pinoautomaatteja, Turingin koneita, puuautomaatteja jne.  Automaatit voivat olla [[Kieliteknologia:deterministinen|deterministisiä]] tai [[Kieliteknologia:epädeterministinen|epädeterministisiä]].
+|tarkistettu=Y
+|ilmiön kuvaus=N
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=automaton
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=automat
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:äärellinen automaatti
+|käsitesuhde=alakäsite
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:äärellinen transduktori
+|käsitesuhde=alakäsite
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:pinoautomaatti
+|käsitesuhde=alakäsite
+}}
+pagename=Kieliteknologia:avusteinen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=avusteinen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=assisted
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=avusteinen
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=stödd
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=assisté par
+|kieli=ranska
+}}
+pagename=Kieliteknologia:determinismi
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=determinismi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=determinism
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=determinismi
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:determinisointi (automaatin)
+{{Käsite
+|määritelmä=[[Kieliteknologia:epädeterministinen|epädeterministisen]] automaatin muuntaminen vastaavaksi [[Kieliteknologia:deterministinen|deterministiseksi]] [[Kieliteknologia:automaatti|automaatiksi]]
+|selite=Esimerkiksi [[Kieliteknologia:epädeterministinen_äärellinen_automaatti|epädeterministinen äärellinen automaatti]] voidaan aina muuntaa tietokoneohjelmalla mekaanisesti [[Kieliteknologia:deterministinen_äärellinen_automaatti|deterministiseksi äärelliseksi automaatiksi]], joka hyväksyy ja hylkää täsmälleen samat merkkijonot kuin alkuperäinen automaatti.  Sama voidaan tehdä äärellisillä transduktoreilla.  Deterministisen automaatin käyttäminen on yleensä paljon tehokkaampaa kuin epädeterministisen.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=determinisointi (automaatin)
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=determinization (of an automaton)
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=determinisointi (automaatin determinisointi)
+|otsikossa=N
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:deterministinen
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:epädeterministinen
+}}
+pagename=Kieliteknologia:deterministinen
+{{Käsite
+|määritelmä=sellainen ([[Kieliteknologia:automaatti|automaatti]], [[Kieliteknologia:jäsennin|jäsennin]] tai algoritmi), joka pystyy joka askeleella valitsemaan oikean jatkovaihtoehdon
+|selite=Deterministinen automaatti, jäsennin tai algoritmi ei joudu arvaamaan, mitä polkua pitäisi jatkaa, ei peruuttamaan jo tekemäänsä valintaa eikä käsittele varan vuoksi rinnan eri vaihtoehtoja.  Deterministisen vastakohta on [[Kieliteknologia:epädeterministinen|epädeterministinen]].
+|tarkistettu=Y
+|luokka=Kieliteknologia
+|ilmiön kuvaus=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=deterministinen
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=deterministic
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:epädeterministinen
+|käsitesuhde=vastakohta
+}}
+pagename=Kieliteknologia:deterministinen äärellinen automaatti
+{{Käsite
+|määritelmä=äärelliseen määrään tiloja ja tilojen välisiin tilasiirtymiin perustuva yksinkertainen deterministinen abstrakti kone, joka hyväksyy tai hylkää merkkijonoja
+|selite=Äärellisiä automaatteja voidaan pitää yksinkertaisimpina mekanismeina, joiden avulla voidaan määritellä ei-triviaaleja merkkijonojen joukkoja. Äärellisten automaattien tunnistamat merkkijonojen joukot ovat säännöllisiä kieliä.  Deterministisissä automaateissa jokainen automaatin askel on yksiselitteinen, siis automaatti voi kussakin vaiheessa olla vain yhdessä tilassa ja sille ei ole missään tilassa tarjolla useampia kuin yksi siirtymä.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=deterministinen äärellinen automaatti
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=deterministic finite-state automaton
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=deterministic finite-state machine
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=deterministinen äärellinen automaatti
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=ändlig automat
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=deterministinen äärellistilainen automaatti
+|käyttösuositus=ehdotettu
+|otsikossa=N
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:äärellinen automaatti
+|käsitesuhde=yläkäsite
+}}
+pagename=Kieliteknologia:dokumenttien luokittelu
+{{Käsite
+|määritelmä=viestien tms. dokumenttien osoittaminen ennalta määriteltyihin luokkiin sisältönsä perusteella
+|selite=Menetelmät dokumenttien luokittelemiseksi perustuvat yleensä sanojen esiintymisfrekvensseihin.  Luokat voivat vastata aihepiirejä, ne voivat määrätä tahon, jonka käsiteltäväksi viesti ohjataan tai sen, pidetäänkö viestiä roskapostina vai asiallisena sähköpostina.  Tekstin kielen tunnistamisen jotkut menetelmät ovat samankaltaisia kuin dokumenttien luokittelun menetelmät.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=dokumenttien luokittelu
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=document classification
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=dokumenttien luokittelu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=dokumentklassificering
+|otsikossa=N
+}}
+pagename=Kieliteknologia:dynaaminen optimointi
+{{Käsite
+|määritelmä=eräs hyvin osittuviin ja paljon päällekkäisiä osatehtäviä sisältäviin ongelmiin soveltuva ratkaisumenetelmä
+|selite=Dynaamista optimointia käytetään mm. lyhimpien tai tietyn kriteerin mukaan optimaalisten polkujen löytämiseksi.  Usein parhaan löytämisessä voidaan valtavasta määrästä vaihtoehtoisia polkuja unohtaa enin osa (jatkamalla vain parasta vaihtoehtoa) tai erityisesti olla laskematta esim. tähänastisen osuuden vaihtoehtoja uudestaan (koska alkuosan todennäköisyys on sama jatkosta riippumatta).
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=dynaaminen optimointi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=dynamic programming
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=dynaaminen optimointi
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:optimointi
+|käsitesuhde=yläkäsite
+}}
+pagename=Kieliteknologia:epsilon-siirtymä
+{{Käsite
+|määritelmä=[[Kieliteknologia:automaatti|automaatin]] [[Kieliteknologia:siirtymä|siirtymä]], joka ei kuluta (eikä tulosta) yhtään syöttömerkkiä
+|selite=[[Kieliteknologia:äärellinen_automaatti|Äärellisen automaatin]] tavalliset siirtymät kuluttavat syötteestä täsmälleen yhden merkin.  Epsilon siirtymä ei puolestaan kuluta yhtään syöttömerkkiä, mutta vie kuitenkin (valinnaisesti) automaatin siirtymän osoittamaan uuteen [[Kieliteknologia:tila|tilaan]].  Epsilon-siirtymiä sisältävät automaatit ovat sen vuoksi aina [[Kieliteknologia:epädeterministinen|epädeterministisiä]].  Epsilon on [[Kieliteknologia:tyhjä_merkkijono|tyhjän merkkijonon]] symboli.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=epsilon-siirtymä
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=epsilon-transition
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=epsilon-siirtymä
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=tyhjä siirtymä
+|otsikossa=N
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:siirtymä
+|käsitesuhde=yläkäsite
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:tyhjä_merkkijono
+|käsitesuhde=osakäsite
+}}
+pagename=Kieliteknologia:epädeterministinen
+{{Käsite
+|määritelmä=sellainen ([[Kieliteknologia:automaatti|automaatti]], [[Kieliteknologia:jäsennin|jäsennin]] tai algoritmi), joka ei joka askeleellaan pysty valitsemaan oikeaa jatkovaihtoehtoa
+|selite=Epädeterministinen (automaatti, jäsennin tai algoritmi) joutuu arvaamaan, peruuttamaan jo tehtyjä valintoja tai käsittelemään rinnan eri vaihtoehtoja, koska se ei (käsittelyn ollessa kesken) aina pysty valitsemaan oikeaan lopputulokseen johtavaa vaihtoehtoa.  Epädeterministisen automaatin sanotaan hyväksyvän syötteen, jos se hyväksyisi sen jotakin arvausten polkua pitkin.
+|tarkistettu=Y
+|luokka=Kieliteknologia
+|ilmiön kuvaus=N
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=non-deterministic
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=non déterministe
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=epädeterministinen
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=icke-deterministisk
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:deterministinen
+|käsitesuhde=vastakohta
+}}
+pagename=Kieliteknologia:epädeterministinen automaatti
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=epädeterministinen automaatti
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=nondeterministic automaton
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=epädeterministinen automaatti
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=icke-deterministisk automat
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:epädeterministinen äärellinen automaatti
+{{Käsite
+|määritelmä=[[Kieliteknologia:äärellinen_automaatti|äärellinen automaatti]], joka ei ole [[Kieliteknologia:deterministinen|deterministinen]]
+|selite=Epädeterministinen automaatti joutuu tunnistaessaan kokeilemaan eri siirtymiä ja se voisi siten samalla syötteellä olla useammassa kuin yhdessä [[Kieliteknologia:tila|tilassa]].  Äärellinen automaatti on [[Kieliteknologia:epädeterministinen|epädeterministinen]], jos sen jostakin tilasta lähtee samalla merkillä useampia kuin yksi siirtymä tai jos siinä on ns. [[Kieliteknologia:epsilon-siirtymä|epsilon-siirtymiä]].  Joskus sallitaan äärelliselle automaatille useampia kuin yksi [[Kieliteknologia:alkutila|alkutila]], jolloin automaatista tulee myös epädeterministinen.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=non-deterministic finite-state automaton
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:äärellinen_automaatti
+|käsitesuhde=yläläsite
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:deterministinen_äärellinen_automaatti
+|käsitesuhde=vastakohta
+}}
+pagename=Kieliteknologia:esitysmuoto
+{{Käsite
+|määritelmä=kielellisen yksikön vastine tietyn kieliopillisen mallin tai teorian puitteissa  
+|selite=Esimerkiksi sananmuodolla voi olla foneeminen esitysmuoto, joka koostuu jonosta foneemeja sekä morfofoneeminen esitysmuoto, joka koostuu jonosta abstraktimpia yksiköitä, eli jonosta morfofoneemeja.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=esitysmuoto
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=representation
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=esitysmuoto
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:etäisyys
+{{Käsite
+|määritelmä=todellinen tai abstrakti välimatka kahden pisteen tai muun yksikön, esim. sanojen välillä
+|selite=Etäisyydeksi kelpuutetaan yleensä sellaisia mittoja, joissa yksikön etäisyys itseensä on 0 ja muihin jotakin positiivista. Mieluusti myös ns. kolmioepäyhtälö saisi toteutua, ts. etäisyys (A,C) olisi aina enintään yhtäsuuri kuin etäisyyksien (A,B) ja (B,C) summa.  Kieliteknologiassa käytetään erilaisia frekvensseistä ym. johdettuja etäisyysmittoja, jotka perustuvat siihen, kuinka samanlaisissa ympäristöissä sanat esiintyvät.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=etäisyys
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=distance
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=etäisyys
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:formaali kieli
+{{Käsite
+|määritelmä=merkkijonojen joukko
+|selite=Merkkijonojen joukot ovat formaaleja kieliä.  Joukkoja voidaan määritellä eri tavoin: luettelemalla, antamalla automaatti, joka luettelee tai tunnistaa joukon merkkijono tai vaikka tietokoneohjelman avulla.  Yksinkertaisina pidetään ns. säännöllisiä joukkoja, jollaisia äärelliset automaatit määrittelevät.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=formaali kieli
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=formal language
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=formaali kieli
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=formellt språk
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=langage formel
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=merkkijonojen joukko
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:merkkijono
+|käsitesuhde=osa
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:säännöllinen_joukko
+|käsitesuhde=alakäsite
+}}
+pagename=Kieliteknologia:funktionaalisuus
+{{Käsite
+|määritelmä=relaation ominaisuus, kun siinä on kaikille syötteille enintään yksi mahdollinen tuloste
+|selite=[[Kieliteknologia:äärellinen transduktori|Äärellisen transduktori]] (FST) määrittelee [[Kieliteknologia:relaatio|relaation]], joka suhteuttaa syötteenä olevat [[Kieliteknologia:merkkijono|merkkijonot]] kutakin vastaavaan tulosteena olevaan merkkijonoon.  FST:n sanotaan olevan funktionaalinen, jos sen määrittelemä relaatio on [[Kieliteknologia:yksiselitteinen|yksiselitteinen]], siten että mitään syötemerkkijonoa ei vastaa kaksi eri tulosmerkkijonoa. 
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=funktionaalisuus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=functionality
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=funktionaalisuus
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:yksiselitteinen
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:moniselitteinen
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:äärellinen transduktori
+}}
+pagename=Kieliteknologia:generalisaatio
+{{Käsite
+|määritelmä=operaatio, joka tuottaa kahdesta (esim. piirrerakenteina esitettyjen) vaatimusten yhteiset vaatimukset sisätltävän kohteen
+|selite=Generalisaatio on unifikaatiota vastaava piirrerakenteita koskeva toinen operaatio.  Esimerkiksi piirrerakenteet kuvaavat joukkoja vaatimuksia.  Generalisaation tuloksena on rakenne, jossa on kummallekin operandille yhteiset piirrerakenteen osat. Generalisaatio-operaatio onnistuu aina (päinvastoin kuin unifikaatio, joka ei aina ole mahdollinen).
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=generalisaatio
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=generalization
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=generalisaatio
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:unifikaatio
+}}
+pagename=Kieliteknologia:generointi
+{{Käsite
+|määritelmä=[[Kieliteknologia:jäsentäminen|jäsentämiselle]] käänteinen operaatio, jossa allolevasta rakenteesta tms. tuotetaan virke tai sananmuoto
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=generointi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=generation
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=generointi
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=tuottaminen
+|otsikossa=N
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:jäsentäminen
+}}
+pagename=Kieliteknologia:GPSG
+{{Käsite
+|määritelmä=eräs yleistetty lausekerakennekieliopin teoria
+|selite=Gerald Gazdarin esittämä kontekstista riippumattoman toisinkirjoituskieliopin yleistys, jossa vähemmällä määrällä sääntöjä voidaan kuvata kontekstista riippumaton kielioppi käyttäen mm. metasääntöjä.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=GPSG
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=GPSG
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=generalized phrase structure grammar
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=yleistetty lausekerakennekielioppi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:hakuvartalo
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=hakuvartalo
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=search stem
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=hakuvartalo
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:hila
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=hila
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=lattice
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=hila
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:hukkasana
+{{Käsite
+|määritelmä=hyödyttömäksi katsottu [[Kieliteknologia:sananmuoto|sananmuoto]], joka suljetaan käsittelyn ulkopuolelle
+|selite=Hukkasanojen luetteloita on joskus käytetty esim. [[Kieliteknologia:tiedonhaku|tiedonhaussa]] tilan säästämiseksi tai käsittelyn nopeuttamiseksi.  Hukkasanoina on usein pidetty yleisimpiä kieliopillisia sanoja (kuten "a", "the", "in") joilla katsotaan olevan vain vähän sisältöä.  
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=hukkasana
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=stop word
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=hukkasana
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:tiedonhaku
+}}
+pagename=Kieliteknologia:ilmaus
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=ilmaus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=ilmaus
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:indeksitermi
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=indeksitermi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=index term
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=indeksitermi
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=indexterm
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:indeksointi
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=indeksointi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=indexing
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=indeksointi
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=indexering
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:inferenssi
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=inferenssi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=inference
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=inferenssi
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=päättely
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:joukko
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=joukko
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=set
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=joukko
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=mängd
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=ensemble
+|kieli=ranska
+}}
+pagename=Kieliteknologia:jäljellä olevien tehtävien luettelo
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=jäljellä olevien tehtävien luettelo
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=agenda
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=jäljellä olevien tehtävien luettelo
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:jäsennin
+{{Käsite
+|määritelmä=tietokoneohjelma, joka lisää kielelliseen ilmaukseen kieliopillista tai rakennetta koskevaa tietoa
+|selite=Esimerkiksi lauseenjäsennin lisää syntaktista rakennetietoa ja morfologinen jäsennin sananmuotojen kieliopillisia muotoa ja perusmuotoa koskevaa tietoa.
+|tarkistettu=Y
+|luokka=Kieliteknologia
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=jäsennin
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=parser
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=jäsennin
+|käyttösuositus=suositeltu
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=parseur
+|käyttösuositus=ehdotettu
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=parser
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:jäsentäminen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=jäsentäminen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=parsing
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=jäsentäminen
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=parsning
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=analyse
+|kieli=ranska
+}}
+{{Liittyvä nimitys
+|nimitys=parsage
+|kieli=ranska
+}}
+pagename=Kieliteknologia:kaari
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=kaari
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=edge
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=kaari
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:kaksitasomorfologia
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=kaksitasomorfologia
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=two-level morphology
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=kaksitasomorfologia
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=tvånivåmorfologi
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:kaksitasosääntö
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=kaksitasosääntö
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=two-level rule
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=kaksitasosääntö
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=tvånivåregel
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:karteesinen tulo
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=karteesinen tulo
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=cartesian product
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=karteesinen tulo
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=kartesisk produkt
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=Kartesisches Produkt
+|kieli=saksa
+}}
+{{Liittyvä nimitys
+|nimitys=produit cartésien
+|kieli=ranska
+}}
+pagename=Kieliteknologia:kategoria
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=kategoria
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=category
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=kategoria
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:keksimismenetelmä
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=keksimismenetelmä
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=discovery procedure
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=keksimismenetelmä
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=upptäcktsprocedur
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=procédure de découverte
+|kieli=ranska
+}}
+pagename=Kieliteknologia:kieliopillinen sana
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=kieliopillinen sana
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=grammatical word
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=kieliopillinen sana
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=formord
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=funktionsord
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:kieliopillisuuden tarkistaminen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=kieliopillisuuden tarkistaminen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=grammar checking
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=kieliopillisuuden tarkistaminen
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:kieliteknologia
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=kieliteknologia
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=language technology
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=kieliteknologia
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=språkteknologi
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=human language technology
+|kieli=englanti
+}}
+pagename=Kieliteknologia:kirjoittajan tunnistaminen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=kirjoittajan tunnistaminen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=authorship attribution
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=kirjoittajan tunnistaminen
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:Kleenen plus
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=Kleenen plus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=Kleene-plus
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=Kleenen plus
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:Kleenen tähti
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=Kleenen tähti
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=Kleene star
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=Kleenen tähti
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=Kleene-stjärna
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=Kleene-Stern
+|kieli=saksa
+}}
+{{Liittyvä nimitys
+|nimitys=étoile de Kleene
+|kieli=ranska
+}}
+pagename=Kieliteknologia:kohdistus
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=kohdistus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=alignment
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=kohdistus
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:kokoava jäsentäminen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=kokoava jäsentäminen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=bottom-up parsing
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=kokoava jäsentäminen
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:komentosarja
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=komentosarja
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=script
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=komentosarja
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:kompetenssi
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=kompetenssi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=competence
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=kompetenssi
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=kompetens
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=förmåga
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:komplementti
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=komplementti
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=complement
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=komplementti
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=komplement
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=fyllnadsled
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:kompositionaalisuus
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=kompositionaalisuus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=compositionality
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=kompositionaalisuus
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:konekäännös
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=konekäännös
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=machine translation
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=konekäännös
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=MT
+|kieli=englanti
+}}
+pagename=Kieliteknologia:korpus
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=korpus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=corpus
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=korpus
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:kuvaus
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=kuvaus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=mapping
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=kuvaus
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=mappning
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=function
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=funktio
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:käyttöliittymä
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=käyttöliittymä
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=user interface
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=käyttöliittymä
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=användargränssnitt
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=Benutzeroberfläche
+|kieli=saksa
+}}
+{{Liittyvä nimitys
+|nimitys=interface utilisateur
+|kieli=ranska
+}}
+{{Liittyvä nimitys
+|nimitys=interface opérateur
+|kieli=ranska
+}}
+pagename=Kieliteknologia:käännösmuisti
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=käännösmuisti
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=translation memory
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=käännösmuisti
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:kääntäminen (kielen)
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=kääntäminen (kielen)
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=translation
+|kieli=englanti
+}}
+pagename=Kieliteknologia:laskennallinen vaativuus
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=laskennallinen vaativuus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=computational complexity
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=laskennallinen vaativuus
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=laskennallinen kompleksisuus
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:lauseenjäsennin
+{{Käsite
+|määritelmä=Tietokoneohjelma, joka analysoi luonnolliskielistä tekstiä ja päättelee virkkeiden osien keskenäisiä lauseopillisia suhteita (kuten pääsanoja ja määritteitä) ja virkkeen rakennetta.
+|tarkistettu=Y
+|lisätiedot=http://en.wikipedia.org/wiki/Parsing
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=lauseenjäsennin
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=syntactic parser
+|käyttösuositus=suositeltu
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=lauseenjäsennin
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=syntaktinen jäsennin
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:lauseke (formaalissa järjestelmässä)
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=lauseke (formaalissa järjestelmässä)
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=expression
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=lauseke
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:leikkaus
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=leikkaus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=intersection
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=leikkaus
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=intersektion
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=Durchschnitt
+|kieli=saksa
+}}
+{{Liittyvä nimitys
+|nimitys=skärningspunkt
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:lekseemi
+{{Käsite
+|määritelmä=yksikkö, joka sisältää tietoa (sanan) sanaluokasta, taipumisesta, syntaktisista ja/tai semanttisista ominaisuuksista
+|selite=[[Kieliteknologia:leksikko|Leksikko]] koostuu lekseemeistä.  Lekseemistä voidaan muodostaa toisia lekseemejä [[Kieliteknologia:johtaminen|johtamalla]] (esim. istua -> istuskella) tai tekemällä [[Kieliteknologia:yhdyssana|yhdyssanoja]] (esim. kärpänen + virus -> kärpäsvirus).  Lekseemeistä voidaan muodostaa taivuttamalla [[Kieliteknologia:sananmuoto|sananmuotoja]] (esim. verkko -> verkkoihimme).
+|tarkistettu=Y
+|ilmiön kuvaus=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=lekseemi
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=lexeme
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=lexem
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=saksa
+|nimitys=Lexem
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=lexème
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=hakusana
+|käyttösuositus=harvinainen
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:lemma
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:sananmuoto
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:sane
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:leksikko
+|käsitesuhde=kokonaisuus
+}}
+pagename=Kieliteknologia:leksikko
+{{Käsite
+|määritelmä=kielen [[Kieliteknologia:lekseemi|lekseemien]] tai [[Kieliteknologia:morfeemi|morfeemien]] muodostama sanakirjan kaltainen kokonaisuus
+|selite=Leksikko kuvaa kielen [[Kieliteknologia:lekseemi|lekseemit]] esim. luettelemalla ne tai luettelemalla eri tyyppisiä morfeemeja ja säännöt sananmuotojen muodostamiseksi niiden avulla.  Kieliteknologisissa sovelluksissa leksikko voi olla suppeampikin ja sisältää niukasti tietoja.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=leksikko
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=sanakirja
+|käyttösuositus=vältettävä
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=lexicon
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=saksa
+|nimitys=Lexikon
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=lexikon
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:leveyssuuntainen (haku tai jäsennys)
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=leveyssuuntainen (haku tai jäsennys)
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=breadth-first (search or parsing)
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=leveyssuuntainen (haku tai jäsennys)
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:lopputila
+{{Käsite
+|määritelmä=[[Kieliteknologia:automaatti|automaatin]] [[Kieliteknologia:tila|tila]], johon päätyessään se hyväksyy syötteen
+|selite=Automaatin tiloista osa merkitään lopputiloiksi.  Alkutilakin voi olla lopputila.  Jos automaatti on pystynyt siirtymään joka askeleella ja se on syötteen loppuessa jossakin lopputiloistaan, sen katsotaan hyväksyneen syötteen.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=lopputila
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=final state
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=lopputila
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=finaltillstånd
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=état final
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=état terminal
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=saksa
+|nimitys=Endzustand
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:tila
+|käsitesuhde=yläkäsite
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:automaatti
+|käsitesuhde=osa
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:alkutila
+|käsitesuhde=vieruskäsite
+}}
+pagename=Kieliteknologia:luonnollinen luku
+{{Käsite
+|määritelmä=ei-negatiivinen kononaisluku
+|selite=Luonnollisia lukuja ovat 0, 1, 2, 3, jne.  Luonnollisten lukujen symbolina käytetään (ääriviivoilla piirrettyä) lihavoitua N-kirjainta. Aiemmin matematiikassa oli tapana aloittaa luonnolliset luvut ykkösestä, nykyään siis nollasta.  Ks. Wikipedian luonnollista lukua käsittelevä artikkeli: http://fi.wikipedia.org/wiki/Luonnollinen_luku.
+|tarkistettu=Y
+|luokka=Kieliteknologia
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=luonnollinen luku
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=natural number
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=luonnollinen luku
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=naturligt tal
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=saksa
+|nimitys=natürliche Zahl
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=nombre naturel
+|otsikossa=N
+}}
+{{Lähikäsite}}
+pagename=Kieliteknologia:malline
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=malline
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=template
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=malline
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=mall
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=sapluuna
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:Markovin malli
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=Markovin malli
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=Markov model
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=Markovin malli
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=Markovmodell
+|kieli=saksa
+}}
+{{Liittyvä nimitys
+|nimitys=modèle de Markov
+|kieli=ranska
+}}
+pagename=Kieliteknologia:Markovin piilomalli
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=Markovin piilomalli
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=hidden Markov model
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=Markovin piilomalli
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=dold Markovmodell
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=modèle de Markov caché
+|kieli=ranska
+}}
+{{Liittyvä nimitys
+|nimitys=HMM
+|kieli=englanti
+}}
+pagename=Kieliteknologia:merkintä
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=merkintä
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=entry
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=merkintä
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:merkkaus
+{{Käsite
+|määritelmä=tekstin varustaminen sen rakennetta kuvaavilla merkinnöillä
+|selite=Yleisin merkkauskieli lienee XML[http://www.w3.org/XML/], joka avulla voi määritellä erilaisiin kohteisiin soveltuvia merkkauskäytäntöjä.  Tällaisista tavallisin ovat XHTML ja HTML, joita käytetään verkkosivujen merkkauksessa.  Merkkauskella annetaan dokumentin sisällölle rakennetta ja sen osille tiettyjä tulkintoja.  Kielellisten aineistojen tärkein merkkauskieli lienee XML:n sovellus TEI eli Text Encoding Initiativen[http://www.tei-c.org/index.xml] määrittelemät merkkaustavat.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=merkkaus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=mark-up
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=merkkaus
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=uppmärkning
+|otsikossa=N
+}}
+pagename=Kieliteknologia:merkki
+{{Käsite
+|määritelmä=johonkin [[Kieliteknologia:aakkosto|aakkostoon]] kuuluva symboli
+|selite=Merkeistä voidaan muodostaa [[Kieliteknologia:merkkijono|merkkijonoja]].  [[Kieliteknologia:formaali_kieli|Formaalin kielen]] aakkosto on merkkien joukko.  Merkit voivat olla mitä tahansa symboleja, mutta usein esimerkiksi kirjaimia ja välimerkkejä.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=merkki
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=aakkonen
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=character
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=tecken
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:merkkijono
+|käsitesuhde=kokonaisuus
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:aakkosto
+|käsitesuhde=kokonaisuus
+}}
+pagename=Kieliteknologia:merkki leima
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=merkki leima
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=tag
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=tagg
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=merkki leima
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:merkkijono
+{{Käsite
+|määritelmä=tietyn [[Kieliteknologia:aakkosto|aakkoston]] merkeistä koostuva jono
+|selite=Merkkijonossa voi olla nolla, yksi tai useampia [[Kieliteknologia:merkki|merkkejä]], kuitenkin äärellinen määrä. Esimerkiksi sananmuodot ovat merkkijonoja. Merkkijonojen joukkoja kutsutaan myös [[Kieliteknologia:formaali_kieli|formaaleiksi kieliksi]].
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=merkkijono
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=string
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=merkkijono
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=sträng
+|otsikossa=N
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:formaali_kieli
+|käsitesuhde=kokonaisuus
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:aakkosto
+|käsitesuhde=vieruskäsite
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:merkki
+|käsitesuhde=osa
+}}
+pagename=Kieliteknologia:mikä tahansa merkki
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=mikä tahansa merkki
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=any symbol
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=mikä tahansa merkki
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:minimointi (automaatin)
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=minimointi (automaatin)
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=minimization (of an automaton)
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=minimointi
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:mitta
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=mitta
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=measure
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=mitta
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=mått
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:moniselitteisyys
+{{Käsite
+|määritelmä=ilmiö, jossa kielellisellä yksiköllä tai ilmaukskella on useampia kuin yksi tulkinta
+|selite=Moniselitteisyyttä voi ilmetä [[Kieliteknologia:sananmuoto|sananmuodoissa]] (kuten 'alusta' tai 'hauista'), lauseopillisissa rakenteissa (kuten 'villit koirat ja kanit').  
+|tarkistettu=Y
+|ilmiön kuvaus=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=moniselitteisyys
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=ambiguity
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=mångtydighet
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=flertydighet
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=ambiguitet
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=dubbeltydighet
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=tvetydighet
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=saksa
+|nimitys=Mehrdeutigkeit
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=ambiguïté
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:ykseselitteisyys
+}}
+pagename=Kieliteknologia:morfeemi
+{{Käsite
+|määritelmä=kielen pienin merkitystä kantava yksikkö
+|selite=Morfologisen analyysin abstrakti käsite, joka yhdistää samankaltaiset ja samanmerkityksiset eri [[Kieliteknologia:allomorfi|allomorfit]]. Esim. inessiivin pääte katsotaan morfeemiksi (joka merkitsee jonkin sisällä olemista) ja sillä on kaksi keskenään samankaltaista allomorfia: "ssa" ja "ssä".
+|tarkistettu=Y
+|ilmiön kuvaus=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=morfeemi
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=morpheme
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=morfem
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=saksa
+|nimitys=Morphem
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=morphème
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:morfi
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:allomorfi
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:leksikko
+|käsitesuhde=kokonaisuus
+}}
+pagename=Kieliteknologia:morfi
+{{Käsite
+|määritelmä=tekstissä tai puheessa esiintyvä pienin (kirjaimista tai [[Kieliteknologia:foneemi|foneemeista]] koostuva) merkitystä kantava yksikkö
+|selite=Morfit voidaan löytää jakamalla [[Kieliteknologia:sananmuoto|sananmuotoja]] merkitykseltään tunnistettavissa oleviin osiinsa, kuten sananjuuriin, sananjohtimiin ja taivutusmuotoihin liittyviin [[Kieliteknologia:affiksi|affikseihin]].  Esimerkiksi sananmuoto ''istuskelusta'' voitaisiin jakaa morfeiksi ''istu+skel+u+sta'', missä olisi [[Kieliteknologia:juuri|sanan juuri]] ''istu'', [[Kieliteknolofia;johdin|johdin]] ''skel'', toinen johdin ''u'' ja sijapääte ''sta''. [[Kieliteknologia:morfeemi|Morfeemien]] voidaan ajatella olevan samaa tarkoittavien morfien kokonaisuuksia. siten esimerkiksi morfi ''u'' ja vastaavasti morfi ''y'' edustavat samaa johdinta, jolla tehdään verbilekseemistä substantiivilekseemi.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=morfi
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=morph
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=morf
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=saksa
+|nimitys=Morph
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=morphe
+|otsikossa=N
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:morfeemi
+}}
+pagename=Kieliteknologia:muu merkki
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=muu merkki
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=other symbol
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=muu merkki
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:määrittää
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=määrittää
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=modify
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=määrittää
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:nimetty kohde
+{{Käsite
+|määritelmä=teksteissä esiintyvä yhdestä tai useammasta sanasta koostuva ilmaus, joka viittaa tunnistettavissa olevaan kohteeseen
+|selite=Nimettyjä kohteita voivat olla henkilöt, paikat, organisaatiot jne.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=nimetty kohde
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=named entity
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=nimetty kohde
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:numeromerkki
+{{Käsite
+|määritelmä=[[Kieliteknologia:merkki|merkki]], jolla esitetään lukuja
+|selite=Tavallisia kymmenjärjestelmän lukuja esitetään numeromerkeillä 0, 1, 2, 3, 4, 5, 6, 7, 8 ja 9, joita peräkkäin asettelemalla voidaan ilmaista kaikenlaisia lukuarvoja, esimerkiksi 1914.  Esimerkiksi binääriluvut esitetään kahat numeromerkkiä (0 ja 1) käyttäen.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=numeromerkki
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=digit
+|käyttösuositus=suositeltu
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=numeromerkki
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=siffra
+|otsikossa=N
+}}
+pagename=Kieliteknologia:oikeinkirjoituksen korjaus
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=oikeinkirjoituksen korjaus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=spelling correction
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=oikeinkirjoituksen korjaus
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:oikeinkirjoituksen tarkistus
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=oikeinkirjoituksen tarkistus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=spelling checking
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=oikeinkirjoituksen tarkistus
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=stavningskontroll
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:oletusarvo
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=oletusarvo
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=default value
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=oletusarvo
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:operaattori
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=operaattori
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=operator
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=operaattori
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:optimointi
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=optimointi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=optimization
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=optimointi
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=programming
+|kieli=englanti
+}}
+pagename=Kieliteknologia:periminen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=periminen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=inheritance
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=periminen
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:peruuttaa
+{{Käsite
+|määritelmä=palata epädeterministisen laskennan aikaisempiin valintoihin uuden, kenties paremman vaihtoehdon löytämiseksi
+|selite=Tietokoneohjelma joutuu peruuttamaan, jos ratkaisua ei ole löytynyt, eikä laskentaa voi jatkaa.  Peruutusta käyttämällä voidaan käydä lävitse eri vaihtoehtoja vuoron perään.  Hahmonsovituksessa ja logiikkaohjelmoinnissa (kuten Prolog-ohjelmointikielessä) käytetään peruutusta osana ratkaisun etsimistä. [[Kieliteknologia:epädeterministinen|Epädeterministiset]] jäsennysmenetelmät kokeilevat hypoteeseja järjestelmällisesti ja peruuttavat huonoksi osoitauvan kohdalla ja jatkavat edellisestä valintakohdasta.  Peruutus voi joskus olla hyvin tehotonta eli johtaa hyvin monien yhdistelmien läpikäyntiin.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=backtrack
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:peruutus
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=peruutus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=backtracking
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=peruutus
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:peräkkäinasettelu
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=peräkkäinasettelu
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=concatenation
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=peräkkäinasettelu
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=konkatenaatio
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:pinoautomaatti
+{{Käsite
+|määritelmä=automaatti, johon on äärellisen tilamekanismin lisäksi liitetty pino siten, että siirtymien yhteydessä voidaan symboleja painaa pinoon tai ottaa pinon päältä
+|selite=Pinoautomaatti poikkeaa äärellistilaisesta automaatista siten, että sillä on tilan lisäksi pinomuisti, jonne automaatti voi painaa käsittelyn kuluessa symboleja ja toisaalta tarkastella päälimmäistä symbolia ratkaistessaan, minkä askelen se seuraavaksi tekee.  Pinomekanismilla automaatti hallitsee ns. keskeisupotukset.  Pinoautomaateilla voidaan tunnistaa tai tuottaa [[Kieliteknologia:kontekstista riippumaton|kontekstista riippumattomat]] [[Kieliteknologia:formaali kieli|formaalit kielet]].  Pinoautomaatti voi olla [[Kieliteknologia:deterministinen|deterministinen]] tai [[Kieliteknologia:epädeterministinen|epädeterministinen]].
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=pinoautomaatti
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=pushdown automaton
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=pinoautomaatti
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:äärellinen automaatti
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:automaatti
+|käsitesuhde=yläkäsite
+}}
+pagename=Kieliteknologia:pintamerkki
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=pintamerkki
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=surface character
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=pintamerkki
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:pintamuoto
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=pintamuoto
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=surface form
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=pintamuoto
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:pisteellä varustettu toisinkirjoitussääntö
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=pisteellä varustettu toisinkirjoitussääntö
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=dotted rule
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=pisteellä varustettu toisinkirjoitussääntö
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:poikkeava havainto
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=poikkeava havainto
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=outlier
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=poikkeava havainto
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:produsoiva jäsentäminen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=produsoiva jäsentäminen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=top-down parsing
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=produsoiva jäsentäminen
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:puheentunnistus
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=puheentunnistus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=speech recognition
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=puheentunnistus
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=taligenkänning
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=Spracherkennung
+|kieli=saksa
+}}
+{{Liittyvä nimitys
+|nimitys=reconnaissance vocale
+|kieli=ranska
+}}
+pagename=Kieliteknologia:puhekäyttöliittymä
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=puhekäyttöliittymä
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=speech interface
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=puhekäyttöliittymä
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=talgränssnitt
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=voice interface
+|kieli=englanti
+}}
+pagename=Kieliteknologia:puhesynteesi
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=puhesynteesi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=speech synthesis
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=puhesynteesi
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=talsyntes
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=Sprachsynthese
+|kieli=saksa
+}}
+{{Liittyvä nimitys
+|nimitys=synthèse de la parole
+|kieli=ranska
+}}
+{{Liittyvä nimitys
+|nimitys=text-to-speech
+|kieli=englanti
+}}
+pagename=Kieliteknologia:pätkä
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=pätkä
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=chunk
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=pätkä
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:pätkäjäsennys
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=pätkäjäsennys
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=chunk parsing
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=pätkäjäsennys
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:pääsana
+{{Käsite
+|määritelmä=lausekkeen tärkein sana, jota sen mahdolliset muut sanat määrittävät
+|selite=Lausekkeen kategoria (kuten sanaluokka) on usein sen pääsanan kategoria, kun taas määritteet voivat olla eri kategoriaisia.  Suppeamman lausekkeen pääsana voi puolestaan olla laajempien lausekkeen määrite.  (Pääsanan ja määritteen ei tarvitse aina olla vierekkäisiä, vaan niiden välissä voi olla muitakin osia.)  Substantiivilausekkeen pääsanana on substantiivi, adjektiivialusekkeen  pääsana on adjektiivi jne. (Vrt. Bloomfield, 1914) Ks. myös [[Kielitiede:pääsana]].
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=pääsana
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=head
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=pääsana
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=pääkonstituentti
+|otsikossa=N
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:määrite
+|käsitesuhde=vieruskäsite
+}}
+pagename=Kieliteknologia:päätesymboli
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=päätesymboli
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=terminal symbol
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=päätesymboli
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:rajoittamaton toisinkirjoituskielioppi
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=rajoittamaton toisinkirjoituskielioppi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=unrestricted rewrite grammar
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=rajoittamaton toisinkirjoituskielioppi
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:rekursiivinen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=rekursiivinen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=recursive
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=rekursiivinen
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:rekursiivinen tilasiirtymäverkko
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=rekursiivinen tilasiirtymäverkko
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=recursive transition network
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=rekursiivinen tilasiirtymäverkko
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:relaatio
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=relaatio
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=relation
+|kieli=ranska
+}}
+{{Liittyvä nimitys
+|nimitys=relaatio
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:rinnastus
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=rinnastus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=coordination
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=rinnastus
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=koordinaatio
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:robusti
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=robusti
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=robust
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=robusti
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=vakaa
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:ryväs
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=ryväs
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=cluster
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=ryväs
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:ryvästys
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=ryvästys
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=clusterning
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=ryvästys
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=ryhmittely
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:saanti
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=saanti
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=recall
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=saanti
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=täckning
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:sanaluokkajäsennys
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=sanaluokkajäsennys
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=part of speech tagging
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=sanaluokkajäsennys
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:sanaluokkakoodi
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=sanaluokkakoodi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=part of speech tag
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=sanaluokkakoodi
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=sanaluokkaleima
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:sananmuoto
+{{Käsite
+|määritelmä=kirjaimista tai muista kirjoitusmerkeistä koostuva [[Kieliteknologia:merkkijono|merkkijono]], joka edustaa jonkin tai joidenkin [[Kieliteknologia:lekseemi|lekseemien]] jotakin taivutusmuotoa
+|selite=Sananmuoto ovat yksittäisestä käyttöyhteydestä tai esiintymästä riippumaton yksikkö. [[Kieliteknologia:sane|Saneet]] ovat sanamuotojen esiintymiä puheessa tai teksteissä.  Tekstissä esiintyvät sananmuodot vastaavat tekstissä esiintyviä keskenään erilaisia saneita.  Lekseemeillä voi olla runsaasti eri sananmuotoja, joista kukin edustaa kyseisen lekseemin jotakin taivutusmuotoa.  Sananmuodot voivat olla [[Kieliteknologia:moniselitteisyys|moniselitteisiä]], esim. 'katosta' voi olla 'katto' -lekseemin tai 'katos' -lekseemin muoto.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=sananmuoto
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=word-form
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=ordform
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=word type
+|käyttösuositus=vältettävä
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:lekseemi
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:sane
+}}
+pagename=Kieliteknologia:sanaverkko
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=sanaverkko
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=WordNet
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=sanaverkko
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=wordnet
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:sane
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=sane
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=word token
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=sane
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=sananmuodon esiintymä
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:saneiden alamerkitysten yksiselitteistäminen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=saneiden alamerkitysten yksiselitteistäminen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=word sense disambiguation
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=saneiden alamerkitysten yksiselitteistäminen
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:saneistaa
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=saneistaa
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=tokenise
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=saneistaa
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=tokenisera
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:sekventiaalisuus
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=sekventiaalisuus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=sequentiality
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=sekventiaalisuus
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:siirtymä
+{{Käsite
+|määritelmä=ohje, jonka mukaisesti automaatin [[tila]] muuttuu syöttömerkin johdosta
+|selite=Siirtymä liittyy aina johonkin tilaan, josta siirrytään sen mukaisesti eteenpäin.  Siirtymään liittyy myös se merkki (tai merkkipari), jolla siirtymä suoritetaan ja se tila, johon siirtymän johdosta siirrytään.  Tyypillisesti siirtymä voidaan ilmaista kolmikkona ''(q<sub>i</sub>, c, q<sub>j</sub>)'', jossa ''q<sub>i</sub>'' on tila, josta siirrytään, ''c'' on merkki, joka siirtymisen aiheuttaa ja ''q<sub>j</sub>'' on tila, johon siirrytään.  Paitsi automaateissa, myös transduktoreissa on siirtymiä, joissa syöttömerkin lisäksi on tulostusmerkki.  Graafisesti esitetyissä automaateissa siirtymät kuvataan nuolina, jotka lähtevät jostakin tilasta ja päätyvät johonkin (yleensä toiseen) tilaan.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=siirtymä
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=transition
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=siirtymä
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=övergång
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=tilasiirtymä
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=transition
+|otsikossa=N
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:tila
+|käsitesuhde=vieruskäsite
+}}
+pagename=Kieliteknologia:solmu
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=solmu
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=node
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=solmu
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=vertex
+|kieli=englanti
+}}
+pagename=Kieliteknologia:sovellus
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=sovellus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=application
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=sovellus
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=tillämpning
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=applikation
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:spektri
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=spektri
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=spectrum
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=spektri
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:spektrogrammi
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=spektrogrammi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=spectrogram
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=spektrogrammi
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:suunnattu syklitön verkko
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=suunnattu syklitön verkko
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=directed acyclic graph
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=DAG
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=suunnattu syklitön verkko
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:suunnattu verkko
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=suunnattu verkko
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=directed graph
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=suunnattu verkko
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=suunnattu graafi
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:syklitön verkko
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=syklitön verkko
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=acyclic graph
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=syklitön verkko
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=syklitön graafi
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:synonyymiryhmä
+{{Käsite
+|tarkistettu=N
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=synonyymiryhmä
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=synset
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=synonyymiryhmä
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=viro
+|nimitys=sünohulk
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=synonym set
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:syvyyssuuntainen (haku tai jäsennys)
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=syvyyssuuntainen (haku tai jäsennys)
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=depth-first (search or parsing)
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=syvyyssuuntainen (haku tai jäsennys)
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:syöte
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=syöte
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=input
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=syöte
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:syöttäminen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=syöttäminen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=feeding
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=syöttäminen
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:säännöllinen joukko
+{{Käsite
+|määritelmä=yksinkertaisilla operaatioilla yhden merkin mittaisista tai tyhjistä merkkijonoista muodostettavissa oleva [[Kieliteknologia:formaali_kieli|merkkijonojen joukko]]
+|selite=Tietyn aakkoston S merkeistä koostuvien merkkijonojen joukko on säännöllinen kieli, jos se voidaan muodostaa (1) [[Kieliteknologia:tyhjä_joukko|tyhjästä joukosta]] (joka on säännöllinen kieli), (2) [[Kieliteknologia:tyhjä_merkkijono|tyhjästä merkkijonosta]] (joka on säännöllinen kieli), (3) aakkoston S mistä tahansa merkistä muodostetusta yhden merkin mittaisen merkkijonon muodostamasta joukosta (jollaiset ovat säännöllisiä kieliä), seuraavassa luetuilla operaatioilla.  Kahdesta säännöllisestä kielestä ''P'' ja ''Q'' voidaan muodostamaa niiden [[Kieliteknologia:yhdiste|yhdiste]] (unioni) ''P &cup; Q'', tai ne voidaan [[Kieliteknologia:peräkkäinasettelu|asetellla peräkkäin]] ''PQ'' tai säännöllistä kieltä ''P'' voidaan [[Kieliteknologia:toisto|toistaa]] ''P*'' ja näin saadut joukot ovat myös säännöllisiä kieliä.  Vain tällä tavalla muodostettavissa olevat joukot ovat säännöllisiä kieliä.
+
+Esim. joukko ''{"", "aa", "aaaa", ...}'' joka koostuu merkkijonoista, joissa on parillinen määrä ''a''-kirjaimia on säännöllinen kieli. Sen voi katsoa muodostuneen kahdesta joukosta ''{"a"}'' peräkkäinasettelulla, jolloin saadaan joukko ''{"aa"}'' ja sen jälkeen toistamalla tätä (nolla, yhden tai useamman kerran),  jolla saadaan haluttu joukko.
+
+Jokaiselle säännölliselle kielelle on olemassa [[Kieliteknologia:äärellinen_automaatti|äärellinen automaatti]], joka hyväksyy täsmälleen kyseisen kielen merkkijonot ja kääntäen, jokaisen äärellisen automaatin hyväksymät merkkijonot muodostavat säännöllisen kielen.  Samoin, ns. [[Kieliteknologia:säännöllinen_kielioppi|säännölliset kieliopit]] tuottavat vain säännöllisiä kieliä ja kaikki säännölliset kielet voidaan kuvata sopivilla säännöllisillä kieliopeilla.  [[Kieliteknologia:säännöllinen_lauseke|Säännöllisillä lausekkeilla]] voidaan määritellä säännöllisiä kieliä.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=säännöllinen joukko
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=säännöllinen kieli
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=säännöllinen joukko
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=regular language
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=regular set
+|käyttösuositus=vältettävä
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=langage rationnel
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=saksa
+|nimitys=reguläre Sprache
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:formaali_kieli
+|käsitesuhde=yläkäsite
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:säännöllinen_lauseke
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:äärellinen_automaatti
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:säännöllinen_kielioppi
+}}
+pagename=Kieliteknologia:säännöllinen kielioppi
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=säännöllinen kielioppi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=regular grammar
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=säännöllinen kielioppi
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:säännöllinen lauseke
+{{Käsite
+|määritelmä=yksinkertaisilla operaatioilla muodostettu lauseke, joka kuvaa [[Kieliteknologia:formaali_kieli|merkkijonojen joukkoa]] tai säännöllistä relaatiota
+|selite=Säännöllisten lausekkeiden formalismeja on useita: Unixin Grepin ja Egrepin, Perl-ohjelmointikielen, Xeroxin XFST-ohjelman jne. formalismit.  Nämä ovat keskenään pääosin yhteismitallisia, joskin toisissa on huomattavissa määrin laajennuksia toisiin verrattuna.  Kaikilla näillä formalismeilla voidaan määritellä [[Kieliteknologia:säännöllinen_joukko|säännöllisiä kieliä]] (ja joillakin myös säännöllisiä relaatioita).
+
+Kaikissa säännöllisten lausekkeiden formalismeissa voidaan muodostaa lausekkeita koostamalla niitä yksittäisistä aakkoston merkeistä, [[Kieliteknologia:peräkkäinasettelu|peräkkäinasettelulla]], muodostamalla [[Kieliteknologia:yhdiste|vaihtoehtoja]] ja [[Kieliteknologia:toisto|toistamalla]]. Esim. säännöllinen lauseke "(aa)*&#124;b" kuvaa niitä [[Kieliteknologia:merkkijono|merkkijonoja]], jotka koostuvat joko parillisesta määrästä a-kirjaimia tai yhdestä b-kirjaimesta.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=säännöllinen lauseke
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=regular expression
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=säännöllinen lauseke
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=regulärt uttryck
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=expression rationelle
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=expression régulière
+|otsikossa=N
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:säännöllinen_joukko
+}}
+pagename=Kieliteknologia:talkoistaminen
+{{Käsite
+|määritelmä=prosessi, jossa avoimella kutsulla annetaan jokin tehtävä laajan, ennaltamääräämättömän ihmisjoukon suoritettavaksi
+|tarkistettu=N
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=talkoistaminen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=crowdsourcing
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=talkoistaminen
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=joukkoistaminen
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:tarkkuus
+{{Käsite
+|määritelmä=relevanttien tulosten osuus kaikista haun tuloksista
+|selite=Tiedonhaussa tarkkuus on haun tuottamien relevanttien dokumenttien osuus kaikista haun tuottamista dokumenteista.  Tarkkuus esitetään usein prosenttiosuutena.  [[Kieliteknologia:jäsennin|Jäsentimen]] tarkkuus on sen tuottamien oikeiden tulkintojen osuutta tuottamista kaikista tulkinnoista. Lääketieteessä [[Epidemiologia:spesifisyys|spesifisyys]] vastaa tiedonhaun tarkkuutta.  Ks. myös [[Kieliteknologia;saanti|saanti]].
+|lähteet=LSP2000
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tarkkuus
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=precision
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=tarkkuus
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=precision
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:saanti
+|käsitesuhde=vieruskäsite
+}}
+{{Lähikäsite
+|käsite=Epidemiologia:spesifisyys
+|käsitesuhde=lääketieteessä
+}}
+pagename=Kieliteknologia:tarra
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tarra
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=tarra
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:taulukko
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=taulukko
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=chart
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=taulukko
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:taulukkojäsennys
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=taulukkojäsennys
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=chart parsing
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=taulukkojäsennys
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:tiedon eristäminen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tiedon eristäminen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=information extraction
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=tiedon eristäminen
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=IE
+|kieli=englanti
+}}
+pagename=Kieliteknologia:tiedonhaku
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tiedonhaku
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=information retrieval
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=tiedonhaku
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=informationssökning
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:tietokone
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tietokone
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=computer
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=tietokone
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=dator
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=ordinateur
+|kieli=ranska
+}}
+pagename=Kieliteknologia:tietokoneavusteinen kielen kääntäminen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tietokoneavusteinen kielen kääntäminen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=machine-aided translation
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=tietokoneavusteinen kielen kääntäminen
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:tietokoneavusteinen kielen oppiminen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tietokoneavusteinen kielen oppiminen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=computer-assisted language learning
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=tietokoneavusteinen kielen oppiminen
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=datorstödd språkinlärning
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=enseignement assistée par ordinateur
+|kieli=ranska
+}}
+{{Liittyvä nimitys
+|nimitys=CALL
+|kieli=englanti
+}}
+pagename=Kieliteknologia:tietokonelingvistiikka
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tietokonelingvistiikka
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=computational linguistics
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=tietokonelingvistiikka
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=datalingvistik
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=datorlingvistik
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:tietorakenne
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tietorakenne
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=data structure
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=tietorakenne
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:tietämys
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tietämys
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=knowledge
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=tietämys
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:tiivistelmä
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tiivistelmä
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=summary
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=tiivistelmä
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=sammanfattning
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=sammandrag
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:tila
+{{Käsite
+|määritelmä=olotila, jollaisessa automaatti kunakin hetkenä on
+|selite=Esimerkiksi [[Kieliteknologia:äärellinen_automaatti|äärellisessä automaatissa]] on joukko tiloja, joista se kullakin hetkellä on yhdessä ja siirtyy syöttömerkkien vaikutuksesta aina johonkin uuteen tilaan jonkin [[Kieliteknologia:siirtymä|tilasiirtymän]] mukaisesti.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tila
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=state
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=tila
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=tillstånd
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=état
+|otsikossa=N
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:äärellinen_automaatti
+|käsitesuhde=osa
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:siirtymä
+|käsitesuhde=vieruskäsite
+}}
+pagename=Kieliteknologia:toisinkirjoituskielioppi
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=toisinkirjoituskielioppi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=rewrite grammar
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=toisinkirjoituskielioppi
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:toisinkirjoitussääntö
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=toisinkirjoitussääntö
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=rewrite rule
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=toisinkirjoitussääntö
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=omskrivningsregel
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:toisto
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=toisto
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=iteration
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=toisto
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:transfer-malli
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=transfer-malli
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=transfer model
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=transfer-malli
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:tuloste
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tuloste
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=output
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=tuloste
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:tunnistaa
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tunnistaa
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=recognize
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=tunnistaa
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:tunnistaminen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tunnistaminen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=recognition
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=tunnistaminen
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=igenkänning
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:tyhjä joukko
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tyhjä joukko
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=empty set
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=tyhjä joukko
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=tom mängd
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=leere Menge
+|kieli=saksa
+}}
+{{Liittyvä nimitys
+|nimitys=ensemble vide
+|kieli=ranska
+}}
+{{Liittyvä nimitys
+|nimitys=void set
+|kieli=englanti
+}}
+pagename=Kieliteknologia:tyhjä merkkijono
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tyhjä merkkijono
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=null string
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=tyhjä merkkijono
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=tom sträng
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=epsilon
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:typistäminen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=typistäminen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=stemming
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=typistäminen
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=trunkering
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:tyvi
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=tyvi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=stem
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=tyvi
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=truncated word
+|kieli=englanti
+}}
+pagename=Kieliteknologia:täydennetty rekursiivinen tilasiirtymäverkko
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=täydennetty rekursiivinen tilasiirtymäverkko
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=augmented transition network
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=ATN
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=täydennetty rekursiivinen tilasiirtymäverkko
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:umpiluokka
+{{Käsite
+|määritelmä=sanojen luokka, johon ei tule enää uusia jäseniä
+|selite=Esimerkiksi kielen tietyt sanaluokat kuten pronominit tai konjunktiot voivat olla umpiluokkia, samoin tietyllä tavalla taipuvat tai tietyllä tavalla johdetut sanat.  Umpiluokan vastakohtina on avoimet tai produktiiviset luokat, joihin voidaan lainaamalla, johtamalla tai keksimällä tuottaa uusia sanoja.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=umpiluokka
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=closed class
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|nimitys=umpiluokka
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=closed category
+|otsikossa=N
+}}
+pagename=Kieliteknologia:unifikaatio
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=unifikaatio
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=unification
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=unifikaatio
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=samaistus
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:vasemmalle rekusriivinen sääntö
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=vasemmalle rekusriivinen sääntö
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=left recursive rule
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=vasemmalle rekusriivinen sääntö
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:verkko
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=verkko
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=graph
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=verkko
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=network
+|kieli=englanti
+}}
+pagename=Kieliteknologia:vuorovaikutteinen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=vuorovaikutteinen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=interactive
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=vuorovaikutteinen
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=interaktiv
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=interactif
+|kieli=ranska
+}}
+pagename=Kieliteknologia:vuotaminen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=vuotaminen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=bleeding
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=vuotaminen
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:välikesymboli
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=välikesymboli
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=nonterminal symbol
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=välikesymboli
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=meta symbol
+|kieli=englanti
+}}
+pagename=Kieliteknologia:välilyönti
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=välilyönti
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=space
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=välilyönti
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:yhdiste
+{{Käsite
+|määritelmä=joukko, johon kuuluvat kummankin joukon alkiot
+|selite=Joukko-opissa kahden joukon yhdiste koostuu niistä alkioista, jotka kuuluvat jompaankumpaan joukoista (tai molempiin joukkoihin).
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=yhdiste
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=yhdiste
+|käyttösuositus=suositeltu
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=unioni
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=union
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=union
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=föreningsmängd
+|otsikossa=N
+}}
+pagename=Kieliteknologia:yhdistäminen (transduktorien)
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=yhdistäminen (transduktorien)
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=composition (of transducers)
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=yhdistäminen (transduktorien)
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:yksiselitteinen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=yksiselitteinen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=unambiguous
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=yksiselitteinen
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=entydig
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=otvetydig
+|kieli=ruotsi
+}}
+pagename=Kieliteknologia:yksiselitteistäminen
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=yksiselitteistäminen
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=disambiguation
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=yksiselitteistäminen
+|kieli=suomi
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|nimitys=disambiguering
+|kieli=ruotsi
+}}
+{{Liittyvä nimitys
+|nimitys=désambiguïsation
+|kieli=ranska
+}}
+pagename=Kieliteknologia:yligenerointi
+{{Käsite
+|lähdeaineistotunnus=KT_03_2012
+|käsite=yligenerointi
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|nimitys=overgeneration
+|kieli=englanti
+}}
+{{Liittyvä nimitys
+|nimitys=yligenerointi
+|kieli=suomi
+|otsikossa=Y
+}}
+pagename=Kieliteknologia:äärellinen automaatti
+{{Käsite
+|määritelmä=[[Kieliteknologia:tila|tiloihin]] ja tilojen välisiin [[Kieliteknologia:siirtymä|siirtymiin]] perustuva automaatti, joka hyväksyy tai hylkää [[Kieliteknologia:merkkijono|merkkijonoja]]
+|selite=Äärellisen automaatin tehtävänä on hyväksyä tai hylätä merkkijonoja, jotka koostuvat annetun [[Kieliteknologia:aakkosto|aakkkoston]] [[Kieliteknologia:merkki|merkeistä]].  Äärelliset automaatit ovat joko [[Kieliteknologia:deterministinen|deterministisiä]] tai [[Kieliteknologia:epädeterministinen|epädeterministisiä]] (jos eivät ole deterministisiä). Äärellisesä automaatissa on joukko tiloja ''Q'' ja joukko tilojen välisiä siirtymiä. Automaatti aloittaa yhdestä tilastaan ''q<sub>0</sub>'', joka on osoitettu sen [[Kieliteknologia:alkutila|alkutilaksi]].  Automaatti hyväksyy merkkijonoa siirtymällä kunkin merkin kohdalla tilasta toiseen (tai samaan tilaan) seuraten jotakin senhetkisestä tilasta lähtevää siirtymää.  Ollakseen deterministinen, kustakin tilasta saa lähteä enintään yksi siirtymä millekään aakkoston merkille. Automaatti hylkää merkkijonon mm. jos jossakin kohdassa sille ei ole vuorossa olevaa merkkiä varten siirtymää. Osa automaatin kaikista tiloista merkitään ns. [[Kieliteknologia:lopputila|lopputiloiksi]] ''Q<sub>f</sub>'', joka tarkoittaa sitä, että jos automaatti on saanut siirrytyksi merkkijonon kaikilla merkeillä ja päätyy yhteen näistä lopputiloista, automaatin katsotaan hyväksyneen merkkijonon. Jos automaatti päätyy lopuksi muuhun kuin lopputilaan, automaatin katsotaan hylänneen merkkijonon.
+
+Automaateista piirretään usein graafisia kuvia, jolloin tiloja esitetään ympyröillä ja siirtymiä nuolilla, jotka lähtevät tiloista ja vievät (toisiin) tiloihin.  Alkutilaan voi osoittaa nuoli vasemmalta tyhjästä ja lopputilat merkitään usein kaksinkertaisilla ympyröillä.
+|lähteet=SLP2009
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=äärellinen automaatti
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=äärellinen automaatti
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=äärellistilainen automaatti
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=finite-state machine
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=finite-state automaton
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=FSM
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=ändlig automat
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=tillståndsmaskin
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=saksa
+|nimitys=endlicher Automat
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=saksa
+|nimitys=Zustandsmaschine
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=automate fini
+|otsikossa=Y
+}}
+{{Liittyvä nimitys
+|kieli=ranska
+|nimitys=machine à états finis
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=saksa
+|nimitys=Zustandsautomat
+|otsikossa=N
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:automaatti
+|käsitesuhde=yläläsite
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:deterministinen_äärellinen_automaatti
+|käsitesuhde=alakäsite
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:tila
+|käsitesuhde=osa
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:alkutila
+|käsitesuhde=osa
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:aakkosto
+|käsitesuhde=osa
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:epädeterministinen_äärellinen_automaatti
+|käsitesuhde=alakäsite
+}}
+pagename=Kieliteknologia:äärellinen transduktori
+{{Käsite
+|määritelmä=eräänlainen äärellistilainen [[Kieliteknologia:automaatti|automaatti]], joka muuntaa merkkijonoja toisiksi merkkijonoiksi
+|selite=Kaksinauhainen äärellistilainen automaatti, jonka siirtymät koostuvat yksittäisen merkin sijasta merkkipareista. Äärelliset transduktorit (FST) voidaan tulkita kolmella tavalla: (1) FST lukee ensimmäistä nauhaa ja tulostaa toista nauhaa, (2) FST lukee kahta nauhaa rinnan ja vertaa niitä, sekä (3) FST tunnistaa merkkipareja. Kaikissa tulkinnoissa merkkipareissa jompikumpi tai molemmat merkit voivat olla tyhjiä merkkejä, jolloin yhtään merkkiä ei lueta tai tulosteta.  Muuntamisen lisäksi äärelliset transduktorit joko hyväksyvät syötteen tai hylkäävät sen eli eivät tulosta yhtään merkkijonoa siitä.
+|tarkistettu=Y
+|ilmiön kuvaus=N
+|lähdeaineistotunnus=KT_03_2012
+|käsite=äärellinen transduktori
+|lähdeaineisto=kt_03_2012_source.csv
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=finite state transducer
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=suomi
+|otsikossa=Y
+|nimitys=äärellinen transduktori
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=ruotsi
+|nimitys=finit transduktor
+|otsikossa=N
+}}
+{{Liittyvä nimitys
+|kieli=englanti
+|nimitys=FST
+|otsikossa=Y
+}}
+{{Lähikäsite
+|käsite=Kieliteknologia:automaatti
+|käsitesuhde=yläkäsite
+}}

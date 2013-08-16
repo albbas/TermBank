@@ -1,0 +1,8 @@
+Luokka	Toiminimioikeus	[[Luokka:Immateriaalioikeus]]
+Luokka	Immateriaalioikeus	[[Luokka:Oikeustiede]]
+Luokka	Työsuhdekeksintö	[[Luokka:Teollisoikeus]]
+Luokka	Tavaramerkkioikeus	[[Luokka:Teollisoikeus]]
+Luokka	Patentti	[[Luokka:Teollisoikeus]]
+Luokka	Lähioikeudet tekijänoikeudessa	[[Luokka:Tekijänoikeus]]
+Luokka	Teollisoikeus	[[Luokka:Immateriaalioikeus]]
+Luokka	Tekijänoikeus	[[Luokka:Immateriaalioikeus]]

@@ -1,0 +1,103 @@
+Biologia	antagonisti	{{K‰site|lis‰tiedot=<br>}}{{Liittyv‰ nimitys|nimitys=antagonisti|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=antagonist|kieli=englanti}}
+Biologia	apomorfinen	{{K‰site|lis‰tiedot=<br>}}{{Liittyv‰ nimitys|nimitys=apomorfinen|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=apomorphic|kieli=englanti}}
+Biologia	aromaattinen	{{K‰site|lis‰tiedot=<br>}}{{Liittyv‰ nimitys|nimitys=aromaattinen|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=aromatic|kieli=englanti}}
+Biologia	autoikkinen	{{K‰site|lis‰tiedot=<br>}}{{Liittyv‰ nimitys|nimitys=autoikkinen|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=autoic|kieli=englanti}}
+Biologia	avustajaentsyymi	{{K‰site|lis‰tiedot=<br>|luokka=Mikrobiologia}}{{Liittyv‰ nimitys|nimitys=avustajaentsyymi|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=chaperone|kieli=englanti}}
+Biologia	biotrofi	{{K‰site|lis‰tiedot=<br>|luokka=Sienitiede}}{{Liittyv‰ nimitys|nimitys=biotrofi|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=biotrophic organism|kieli=englanti}}
+Biologia	diploidi kierto	{{K‰site|lis‰tiedot=<br>|luokka=Mikrobiologia}}{{Liittyv‰ nimitys|nimitys=diploidi kierto|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=diplonttinen kierto|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=diploid cycle|kieli=englanti}}
+Biologia	DNA-helikaasi	{{K‰site|lis‰tiedot=<br>|luokka=Mikrobiologia}}{{Liittyv‰ nimitys|nimitys=DNA-helikaasi|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=DNA helicase|kieli=englanti}}
+Biologia	dsRNA	{{K‰site|lis‰tiedot=<br>|luokka=Mikrobiologia}}{{Liittyv‰ nimitys|nimitys=dsRNA|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=double stranded RNA|kieli=englanti}}{{Liittyv‰ nimitys|nimitys=dsRNA|kieli=englanti}}
+Biologia	dyneiinimoottori	{{K‰site|lis‰tiedot=<br>|luokka=Mikrobiologia}}{{Liittyv‰ nimitys|nimitys=dyneiinimoottori|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=dynein (motor protein)|kieli=englanti}}
+Biologia	ei-ribosomaalinen peptidi	{{K‰site|selite=Monimuotoinen aineryhm√§, johon kuuluu esimerkiksi sienimyrkkyj√§ ja antibiootteja.|lis‰tiedot=<br>|luokka=Mikrobiologia}}{{Liittyv‰ nimitys|nimitys=ei-ribosomaalinen peptidi|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=non ribosomal peptid|kieli=englanti}}
+Biologia	ei-ribosomaalinen peptidisyntetaasi	{{K‰site|lis‰tiedot=<br>|luokka=Mikrobiologia}}{{Liittyv‰ nimitys|nimitys=ei-ribosomaalinen peptidisyntetaasi|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=non-ribosomal peptide synthetase (NRPS)|kieli=englanti}}
+Biologia	ei-synteeninen alue	{{K‰site|lis‰tiedot=<br>|luokka=Mikrobiologia}}{{Liittyv‰ nimitys|nimitys=ei-synteeninen alue|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=non-syntenic block|kieli=englanti}}
+Biologia	eksoni	{{K‰site|lis‰tiedot=<br>|luokka=Mikrobiologia}}{{Liittyv‰ nimitys|nimitys=eksoni|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=exon|kieli=englanti}}
+Biologia	endoglukanaasi	{{K‰site|selite=Hydrolyysin tuloksena syntyy lyhyit√§ glukoosiyksik√∂iden muodostamia ketjuja.|lis‰tiedot=<br>|luokka=Mikrobiologia}}{{Liittyv‰ nimitys|nimitys=endoglukanaasi|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=endoglucanase|kieli=englanti}}
+Biologia	endosytosymbioosi	{{K‰site|lis‰tiedot=<br>|luokka=Mikrobiologia}}{{Liittyv‰ nimitys|nimitys=endosytosymbioosi|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=endocytosymbiosis|kieli=englanti}}
+Biologia	endosytoosi	{{K‰site|lis‰tiedot=<br>|luokka=Mikrobiologia}}{{Liittyv‰ nimitys|nimitys=endosytoosi|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=endocytosis|kieli=englanti}}
+Biologia	epigenetiikka	{{K‰site|lis‰tiedot=<br>|luokka=Mikrobiologia}}{{Liittyv‰ nimitys|nimitys=epigenetiikka|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=epigenetics|kieli=englanti}}
+Biologia	epiteetti	{{K‰site|lis‰tiedot=<br>}}{{Liittyv‰ nimitys|nimitys=epiteetti|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=lajim√§√§re|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=epithet|kieli=englanti}}
+Biologia	eritumainen	{{K‰site|lis‰tiedot=<br>|luokka=Sienitiede}}{{Liittyv‰ nimitys|nimitys=eritumainen|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=heterokaryoottinen|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=heterokaryotic|kieli=englanti}}
+Biologia	erityisaine	{{K‰site|selite=Perusaineenvaihduntatuotetta taas tarvitaan, ja sen puute johtaa eli√∂n kuolemaan.|lis‰tiedot=<br>}}{{Liittyv‰ nimitys|nimitys=erityisaine|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=erityisaineenvaihduntatuote|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=secondary metabolite|kieli=englanti}}
+Biologia	esil√§hetti-RNA	{{K‰site|lis‰tiedot=<br>|luokka=Mikrobiologia}}{{Liittyv‰ nimitys|nimitys=esil√§hetti-RNA|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=pre-messenger RNA|kieli=englanti}}
+Biologia	esisukusolupes√§ke	{{K‰site|lis‰tiedot=<br>|luokka=mikrobiologia}}{{Liittyv‰ nimitys|nimitys=esisukusolupes√§ke|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=progametangio|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=progametangium|kieli=englanti}}
+biologia	fenoli	{{K‰site|lis‰tiedot=<br>|luokka=mikrobiologia}}{{Liittyv‰ nimitys|nimitys=fenoli|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=humusyhdisteiden funktionaalinen ryhm√§|kieli=englanti}}
+biologia	fenolinen rakenne	{{K‰site|lis‰tiedot=<br>|luokka=mikrobiologia}}{{Liittyv‰ nimitys|nimitys=fenolinen rakenne|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=phenolic structure|kieli=englanti}}
+biologia	fenotyyppinen plastisuus	{{K‰site|lis‰tiedot=<br>}}{{Liittyv‰ nimitys|nimitys=fenotyyppinen plastisuus|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=phenotypic plasticity|kieli=englanti}}
+Biologia	fulvohappo	{{K‰site|lis‰tiedot=<br>|luokka=Mikrobiologia}}{{Liittyv‰ nimitys|nimitys=fulvohappo|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=fulvic acid|kieli=englanti}}
+Biologia	gametogamia	{{K‰site|lis‰tiedot=<br>|luokka=Mikrobiologia}}{{Liittyv‰ nimitys|nimitys=gametogamia|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=gametogamy|kieli=englanti}}
+Biologia	haplo-diploidinen kierto	{{K‰site|lis‰tiedot=<br>}}{{Liittyv‰ nimitys|nimitys=haplo-diploidinen kierto|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=haplodiplonttinen kierto|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=haplo-diploid cycle|kieli=englanti}}
+Biologia	haplofaasi	{{K‰site|lis‰tiedot=<br>}}{{Liittyv‰ nimitys|nimitys=haplofaasi|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=haplophase|kieli=englanti}}
+Biologia	haploidi kierto	{{K‰site|lis‰tiedot=<br>}}{{Liittyv‰ nimitys|nimitys=haploidi kierto|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=haplonttinen kierto|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=haploid cycle|kieli=englanti}}
+Biologia	heteroikkinen	{{K‰site|lis‰tiedot=<br>}}{{Liittyv‰ nimitys|nimitys=heteroikkinen|otsikossa=Y|kieli=suomi}}{{Liittyv‰ nimitys|nimitys=heteroic|kieli=englanti}}
+Nimitys	antagonisti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi}}
+Nimitys	antagonist	{{Nimitys|kieli=englanti}}
+Nimitys	apomorfinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi}}
+Nimitys	apomorphic	{{Nimitys|kieli=englanti}}
+Nimitys	aromaattinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdist√§m√§t√∂n}}
+Nimitys	aromatic	{{Nimitys|kieli=englanti}}
+Nimitys	autoikkinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi}}
+Nimitys	autoic	{{Nimitys|kieli=englanti}}
+Nimitys	avustajaentsyymi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	chaperone	{{Nimitys|kieli=englanti}}
+Nimitys	biotrofi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi}}
+Nimitys	biotrophic organism	{{Nimitys|kieli=englanti}}
+Nimitys	diploidi kierto	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	diplonttinen kierto	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	diploid cycle	{{Nimitys|kieli=englanti}}
+Nimitys	DNA-helikaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	DNA helicase	{{Nimitys|kieli=englanti}}
+Nimitys	dsRNA	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=lyhenne}}{{Nimitys|kieli=englanti}}
+Nimitys	double stranded RNA	{{Nimitys|kieli=englanti}}
+Nimitys	dyneiinimoottori	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	dynein (motor protein)	{{Nimitys|kieli=englanti}}
+Nimitys	ei-ribosomaalinen peptidi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	non ribosomal peptid	{{Nimitys|kieli=englanti}}
+Nimitys	ei-ribosomaalinen peptidisyntetaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	non-ribosomal peptide synthetase (NRPS)	{{Nimitys|kieli=englanti}}
+Nimitys	ei-synteeninen alue	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	non-syntenic block	{{Nimitys|kieli=englanti}}
+Nimitys	eksoni	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdist√§m√§t√∂n}}
+Nimitys	exon	{{Nimitys|kieli=englanti}}
+Nimitys	endoglukanaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	endoglucanase	{{Nimitys|kieli=englanti}}
+Nimitys	endosytosymbioosi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	endocytosymbiosis	{{Nimitys|kieli=englanti}}
+Nimitys	endosytoosi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi}}
+Nimitys	endocytosis	{{Nimitys|kieli=englanti}}
+Nimitys	epigenetiikka	{{Nimitys|kieli=suomi|sanaluokka=substantiivi}}
+Nimitys	epigenetics	{{Nimitys|kieli=englanti}}
+Nimitys	epiteetti	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdist√§m√§t√∂n}}
+Nimitys	lajim√§√§re	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	epithet	{{Nimitys|kieli=englanti}}
+Nimitys	eritumainen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdyssana}}
+Nimitys	heterokaryoottinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdyssana}}
+Nimitys	heterokaryotic	{{Nimitys|kieli=englanti}}
+Nimitys	erityisaine	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	erityisaineenvaihduntatuote	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	secondary metabolite	{{Nimitys|kieli=englanti}}
+Nimitys	esil√§hetti-RNA	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	pre-messenger RNA	{{Nimitys|kieli=englanti}}
+Nimitys	esisukusolupes√§ke	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	progametangio	{{Nimitys|kieli=suomi|sanaluokka=substantiivi}}
+Nimitys	progametangium	{{Nimitys|kieli=englanti}}
+Nimitys	fenoli	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdist√§m√§t√∂n}}
+Nimitys	humusyhdisteiden funktionaalinen ryhm√§	{{Nimitys|kieli=englanti}}
+Nimitys	fenolinen rakenne	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	phenolic structure	{{Nimitys|kieli=englanti}}
+Nimitys	fenotyyppinen plastisuus	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	phenotypic plasticity	{{Nimitys|kieli=englanti}}
+Nimitys	fulvohappo	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	fulvic acid	{{Nimitys|kieli=englanti}}
+Nimitys	gametogamia	{{Nimitys|kieli=suomi|sanaluokka=substantiivi}}
+Nimitys	gametogamy	{{Nimitys|kieli=englanti}}
+Nimitys	haplo-diploidinen kierto	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	haplodiplonttinen kierto	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=yhdyssana}}
+Nimitys	haplo-diploid cycle	{{Nimitys|kieli=englanti}}
+Nimitys	haplofaasi	{{Nimitys|kieli=suomi|sanaluokka=substantiivi}}
+Nimitys	haplophase	{{Nimitys|kieli=englanti}}
+Nimitys	haploidi kierto	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	haplonttinen kierto	{{Nimitys|kieli=suomi|sanaluokka=substantiivi|sanamuoto=sanaliitto}}
+Nimitys	haploid cycle	{{Nimitys|kieli=englanti}}
+Nimitys	heteroikkinen	{{Nimitys|kieli=suomi|sanaluokka=adjektiivi|sanamuoto=yhdyssana}}
+Nimitys	heteroic	{{Nimitys|kieli=englanti}}

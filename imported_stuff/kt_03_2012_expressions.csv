@@ -1,0 +1,509 @@
+nimitys%käsite%käännösvastaavuus%kieli%sanaluokka%sanamuoto%perussanatyyppi%johdostyyppi%käyttösuositus%alkuperä
+active chart parsing%aktiivinen taulukkojäsennys%%englanti%%%%%%
+aktiivinen taulukkojäsennys%aktiivinen taulukkojäsennys%%suomi%%%%%%
+active edge%aktiivinen kaari%%englanti%%%%%%
+aktiivinen kaari%aktiivinen kaari%%suomi%%%%%%
+acyclic graph%syklitön verkko%%englanti%%%%%%
+syklitön verkko%syklitön verkko%%suomi%%%%%%
+agenda%jäljellä olevien tehtävien luettelo%%englanti%%%%%%
+jäljellä olevien tehtävien luettelo%jäljellä olevien tehtävien luettelo%%suomi%%%%%%
+alignment%kohdistus%%englanti%%%%%%
+kohdistus%kohdistus%%suomi%%%%%%
+annotation%annotointi%%englanti%%%%%%
+annotointi%annotointi%%suomi%%%%%%
+annotering%annotointi%%ruotsi%%%%%%
+any symbol%mikä tahansa merkki%%englanti%%%%%%
+mikä tahansa merkki%mikä tahansa merkki%%suomi%%%%%%
+application%sovellus%%englanti%%%%%%
+sovellus%sovellus%%suomi%%%%%%
+tillämpning%sovellus%%ruotsi%%%%%%
+assisted%avusteinen%%englanti%%%%%%
+avusteinen%avusteinen%%suomi%%%%%%
+stödd%avusteinen%%ruotsi%%%%%%
+assisté par%avusteinen%%ranska%%%%%%
+attribute%attribuutti%%englanti%%%%%%
+attribuutti%attribuutti%%suomi%%%%%%
+attribute value pair%attribuutti - arvo pari%%englanti%%%%%%
+attribuutti - arvo pari%attribuutti - arvo pari%%suomi%%%%%%
+augmented transition network%täydennetty rekursiivinen tilasiirtymäverkko%%englanti%%%%%%
+ATN%täydennetty rekursiivinen tilasiirtymäverkko%%englanti%%%%%%
+täydennetty rekursiivinen tilasiirtymäverkko%täydennetty rekursiivinen tilasiirtymäverkko%%suomi%%%%%%
+authorship attribution%kirjoittajan tunnistaminen%%englanti%%%%%%
+kirjoittajan tunnistaminen%kirjoittajan tunnistaminen%%suomi%%%%%%
+backtracking%peruutus%%englanti%%%%%%
+peruutus%peruutus%%suomi%%%%%%
+bleeding%vuotaminen%%englanti%%%%%%
+vuotaminen%vuotaminen%%suomi%%%%%%
+bottom-up parsing%kokoava jäsentäminen%%englanti%%%%%%
+kokoava jäsentäminen%kokoava jäsentäminen%%suomi%%%%%%
+breadth-first (search or parsing)%leveyssuuntainen (haku tai jäsennys)%%englanti%%%%%%
+leveyssuuntainen (haku tai jäsennys)%leveyssuuntainen (haku tai jäsennys)%%suomi%%%%%%
+computer-assisted language learning%tietokoneavusteinen kielen oppiminen%%englanti%%%%%%
+tietokoneavusteinen kielen oppiminen%tietokoneavusteinen kielen oppiminen%%suomi%%%%%%
+datorstödd språkinlärning%tietokoneavusteinen kielen oppiminen%%ruotsi%%%%%%
+enseignement assistée par ordinateur%tietokoneavusteinen kielen oppiminen%%ranska%%%%%%
+cartesian product%karteesinen tulo%%englanti%%%%%%
+karteesinen tulo%karteesinen tulo%%suomi%%%%%%
+kartesisk produkt%karteesinen tulo%%ruotsi%%%%%%
+Kartesisches Produkt%karteesinen tulo%%saksa%%%%%%
+produit cartésien%karteesinen tulo%%ranska%%%%%%
+category%kategoria%%englanti%%%%%%
+kategoria%kategoria%%suomi%%%%%%
+chart%taulukko%%englanti%%%%%%
+taulukko%taulukko%%suomi%%%%%%
+chart parsing%taulukkojäsennys%%englanti%%%%%%
+taulukkojäsennys%taulukkojäsennys%%suomi%%%%%%
+chunk%pätkä%%englanti%%%%%%
+pätkä%pätkä%%suomi%%%%%%
+chunk parsing%pätkäjäsennys%%englanti%%%%%%
+pätkäjäsennys%pätkäjäsennys%%suomi%%%%%%
+closed class%umpiluokka%%englanti%%%%%%
+umpiluokka%umpiluokka%%suomi%%%%%%
+cluster%ryväs%%englanti%%%%%%
+ryväs%ryväs%%suomi%%%%%%
+clusterning%ryvästys%%englanti%%%%%%
+ryvästys%ryvästys%%suomi%%%%%%
+competence%kompetenssi%%englanti%%%%%%
+kompetenssi%kompetenssi%%suomi%%%%%%
+kompetens%kompetenssi%%ruotsi%%%%%%
+complement%komplementti%%englanti%%%%%%
+komplementti%komplementti%%suomi%%%%%%
+komplement%komplementti%%ruotsi%%%%%%
+composition (of transducers)%yhdistäminen (transduktorien)%%englanti%%%%%%
+yhdistäminen (transduktorien)%yhdistäminen (transduktorien)%%suomi%%%%%%
+compositionality%kompositionaalisuus%%englanti%%%%%%
+kompositionaalisuus%kompositionaalisuus%%suomi%%%%%%
+computational complexity%laskennallinen vaativuus%%englanti%%%%%%
+laskennallinen vaativuus%laskennallinen vaativuus%%suomi%%%%%%
+computational linguistics%tietokonelingvistiikka%%englanti%%%%%%
+tietokonelingvistiikka%tietokonelingvistiikka%%suomi%%%%%%
+datalingvistik%tietokonelingvistiikka%%ruotsi%%%%%%
+computer%tietokone%%englanti%%%%%%
+tietokone%tietokone%%suomi%%%%%%
+dator%tietokone%%ruotsi%%%%%%
+ordinateur%tietokone%%ranska%%%%%%
+concatenation%peräkkäinasettelu%%englanti%%%%%%
+peräkkäinasettelu%peräkkäinasettelu%%suomi%%%%%%
+coordination%rinnastus%%englanti%%%%%%
+rinnastus%rinnastus%%suomi%%%%%%
+corpus%korpus%%englanti%%%%%%
+korpus%korpus%%suomi%%%%%%
+crowdsourcing%talkoistaminen%%englanti%%%%%%
+talkoistaminen%talkoistaminen%%suomi%%%%%%
+data structure%tietorakenne%%englanti%%%%%%
+tietorakenne%tietorakenne%%suomi%%%%%%
+default value%oletusarvo%%englanti%%%%%%
+oletusarvo%oletusarvo%%suomi%%%%%%
+depth-first (search or parsing)%syvyyssuuntainen (haku tai jäsennys)%%englanti%%%%%%
+syvyyssuuntainen (haku tai jäsennys)%syvyyssuuntainen (haku tai jäsennys)%%suomi%%%%%%
+determinization (of an automaton)%determinisointi (automaatin)%%englanti%%%%%%
+determinisointi (automaatin determinisointi)%determinisointi (automaatin)%%suomi%%%%%%
+determinism%determinismi%%englanti%%%%%%
+determinismi%determinismi%%suomi%%%%%%
+deterministic finite-state automaton%deterministinen äärellinen automaatti%%englanti%%%%%%
+FSA%deterministinen äärellinen automaatti%%englanti%%%%%%
+deterministinen äärellinen automaatti%deterministinen äärellinen automaatti%%suomi%%%%%%
+ändlig automat%deterministinen äärellinen automaatti%%ruotsi%%%%%%
+digit%numeromerkki%%englanti%%%%%%
+numeromerkki%numeromerkki%%suomi%%%%%%
+sifferkod%numeromerkki%%ruotsi%%%%%%
+directed graph%suunnattu verkko%%englanti%%%%%%
+suunnattu verkko%suunnattu verkko%%suomi%%%%%%
+directed acyclic graph%suunnattu syklitön verkko%%englanti%%%%%%
+DAG%suunnattu syklitön verkko%%englanti%%%%%%
+suunnattu syklitön verkko%suunnattu syklitön verkko%%suomi%%%%%%
+disambiguation%yksiselitteistäminen%%englanti%%%%%%
+yksiselitteistäminen%yksiselitteistäminen%%suomi%%%%%%
+disambiguering%yksiselitteistäminen%%ruotsi%%%%%%
+désambiguïsation%yksiselitteistäminen%%ranska%%%%%%
+discovery procedure%keksimismenetelmä%%englanti%%%%%%
+keksimismenetelmä%keksimismenetelmä%%suomi%%%%%%
+upptäcktsprocedur%keksimismenetelmä%%ruotsi%%%%%%
+procédure de découverte%keksimismenetelmä%%ranska%%%%%%
+distance%etäisyys%%englanti%%%%%%
+etäisyys%etäisyys%%suomi%%%%%%
+document classification%dokumenttien luokittelu%%englanti%%%%%%
+dokumenttien luokittelu%dokumenttien luokittelu%%suomi%%%%%%
+dokumentklassificering%dokumenttien luokittelu%%ruotsi%%%%%%
+dotted rule%pisteellä varustettu toisinkirjoitussääntö%%englanti%%%%%%
+pisteellä varustettu toisinkirjoitussääntö%pisteellä varustettu toisinkirjoitussääntö%%suomi%%%%%%
+dynamic programming%dynaaminen optimointi%%englanti%%%%%%
+dynaaminen optimointi%dynaaminen optimointi%%suomi%%%%%%
+edge%kaari%%englanti%%%%%%
+kaari%kaari%%suomi%%%%%%
+entry%merkintä%%englanti%%%%%%
+merkintä%merkintä%%suomi%%%%%%
+element%alkio%%englanti%%%%%%
+alkio%alkio%%suomi%%%%%%
+element%alkio%%ruotsi%%%%%%
+Element%alkio%%saksa%%%%%%
+élément%alkio%%ranska%%%%%%
+empty set%tyhjä joukko%%englanti%%%%%%
+tyhjä joukko%tyhjä joukko%%suomi%%%%%%
+tom mängd%tyhjä joukko%%ruotsi%%%%%%
+leere Menge%tyhjä joukko%%saksa%%%%%%
+ensemble vide%tyhjä joukko%%ranska%%%%%%
+null string%tyhjä merkkijono%%englanti%%%%%%
+tyhjä merkkijono%tyhjä merkkijono%%suomi%%%%%%
+tom sträng%tyhjä merkkijono%%ruotsi%%%%%%
+epsilon-transition%epsilon-siirtymä%%englanti%%%%%%
+epsilon-siirtymä%epsilon-siirtymä%%suomi%%%%%%
+expert system%asiantuntijajärjestelmä%%englanti%%%%%%
+asiantuntijajärjestelmä%asiantuntijajärjestelmä%%suomi%%%%%%
+expression%ilmaus%%englanti%%%%%%
+ilmaus%ilmaus%%suomi%%%%%%
+expression%lauseke (formaalissa järjestelmässä)%%englanti%%%%%%
+lauseke%lauseke (formaalissa järjestelmässä)%%suomi%%%%%%
+feeding%syöttäminen%%englanti%%%%%%
+syöttäminen%syöttäminen%%suomi%%%%%%
+final state%lopputila%%englanti%%%%%%
+lopputila%lopputila%%suomi%%%%%%
+finite state machine%äärellinen automaatti%%englanti%%%%%%
+äärellinen automaatti%äärellinen automaatti%%suomi%%%%%%
+finite state transducer%äärellinen transduktori%%englanti%%%%%%
+äärellinen transduktori%äärellinen transduktori%%suomi%%%%%%
+finit transduktor%äärellinen transduktori%%ruotsi%%%%%%
+formal language%formaali kieli%%englanti%%%%%%
+formaali kieli%formaali kieli%%suomi%%%%%%
+formellt språk%formaali kieli%%ruotsi%%%%%%
+langage formel%formaali kieli%%ranska%%%%%%
+functionality%funktionaalisuus%%englanti%%%%%%
+funktionaalisuus%funktionaalisuus%%suomi%%%%%%
+generalization%generalisaatio%%englanti%%%%%%
+generalisaatio%generalisaatio%%suomi%%%%%%
+generation%generointi%%englanti%%%%%%
+generointi%generointi%%suomi%%%%%%
+GPSG%GPSG%%englanti%%%%%%
+GPSG%GPSG%%suomi%%%%%%
+grammar checking%kieliopillisuuden tarkistaminen%%englanti%%%%%%
+kieliopillisuuden tarkistaminen%kieliopillisuuden tarkistaminen%%suomi%%%%%%
+grammatical word%kieliopillinen sana%%englanti%%%%%%
+kieliopillinen sana%kieliopillinen sana%%suomi%%%%%%
+formord%kieliopillinen sana%%ruotsi%%%%%%
+graph%verkko%%englanti%%%%%%
+verkko%verkko%%suomi%%%%%%
+head%pääsana%%englanti%%%%%%
+pääsana%pääsana%%suomi%%%%%%
+hidden Markov model%Markovin piilomalli%%englanti%%%%%%
+Markovin piilomalli%Markovin piilomalli%%suomi%%%%%%
+dold Markovmodell%Markovin piilomalli%%ruotsi%%%%%%
+modèle de Markov caché%Markovin piilomalli%%ranska%%%%%%
+index term%indeksitermi%%englanti%%%%%%
+indeksitermi%indeksitermi%%suomi%%%%%%
+indexterm%indeksitermi%%ruotsi%%%%%%
+indexing%indeksointi%%englanti%%%%%%
+indeksointi%indeksointi%%suomi%%%%%%
+indexering%indeksointi%%ruotsi%%%%%%
+inference%inferenssi%%englanti%%%%%%
+inferenssi%inferenssi%%suomi%%%%%%
+information extraction%tiedon eristäminen%%englanti%%%%%%
+tiedon eristäminen%tiedon eristäminen%%suomi%%%%%%
+information retrieval%tiedonhaku%%englanti%%%%%%
+tiedonhaku%tiedonhaku%%suomi%%%%%%
+informationssökning%tiedonhaku%%ruotsi%%%%%%
+inheritance%periminen%%englanti%%%%%%
+periminen%periminen%%suomi%%%%%%
+input%syöte%%englanti%%%%%%
+syöte%syöte%%suomi%%%%%%
+interactive%vuorovaikutteinen%%englanti%%%%%%
+vuorovaikutteinen%vuorovaikutteinen%%suomi%%%%%%
+interaktiv%vuorovaikutteinen%%ruotsi%%%%%%
+interactif%vuorovaikutteinen%%ranska%%%%%%
+intersection%leikkaus%%englanti%%%%%%
+leikkaus%leikkaus%%suomi%%%%%%
+intersektion%leikkaus%%ruotsi%%%%%%
+Durchschnitt%leikkaus%%saksa%%%%%%
+iteration%toisto%%englanti%%%%%%
+toisto%toisto%%suomi%%%%%%
+Kleene-plus%Kleenen plus%%englanti%%%%%%
+Kleenen plus%Kleenen plus%%suomi%%%%%%
+Kleene star%Kleenen tähti%%englanti%%%%%%
+Kleenen tähti%Kleenen tähti%%suomi%%%%%%
+Kleene-stjärna%Kleenen tähti%%ruotsi%%%%%%
+Kleene-Stern%Kleenen tähti%%saksa%%%%%%
+étoile de Kleene%Kleenen tähti%%ranska%%%%%%
+knowledge%tietämys%%englanti%%%%%%
+tietämys%tietämys%%suomi%%%%%%
+language technology%kieliteknologia%%englanti%%%%%%
+kieliteknologia%kieliteknologia%%suomi%%%%%%
+språkteknologi%kieliteknologia%%ruotsi%%%%%%
+lattice%hila%%englanti%%%%%%
+hila%hila%%suomi%%%%%%
+left recursive rule%vasemmalle rekusriivinen sääntö%%englanti%%%%%%
+vasemmalle rekusriivinen sääntö%vasemmalle rekusriivinen sääntö%%suomi%%%%%%
+machine-aided translation%tietokoneavusteinen kielen kääntäminen%%englanti%%%%%%
+tietokoneavusteinen kielen kääntäminen%tietokoneavusteinen kielen kääntäminen%%suomi%%%%%%
+machine translation%konekäännös%%englanti%%%%%%
+konekäännös%konekäännös%%suomi%%%%%%
+mapping%kuvaus%%englanti%%%%%%
+kuvaus%kuvaus%%suomi%%%%%%
+mappning%kuvaus%%ruotsi%%%%%%
+mark-up%merkkaus%%englanti%%%%%%
+merkkaus%merkkaus%%suomi%%%%%%
+uppmärkning%merkkaus%%ruotsi%%%%%%
+Markov model%Markovin malli%%englanti%%%%%%
+Markovin malli%Markovin malli%%suomi%%%%%%
+Markovmodell%Markovin malli%%ruotsi%%%%%%
+Markovmodell%Markovin malli%%saksa%%%%%%
+modèle de Markov%Markovin malli%%ranska%%%%%%
+measure%mitta%%englanti%%%%%%
+mitta%mitta%%suomi%%%%%%
+mått%mitta%%ruotsi%%%%%%
+minimization (of an automaton)%minimointi (automaatin)%%englanti%%%%%%
+minimointi%minimointi (automaatin)%%suomi%%%%%%
+modify%määrittää%%englanti%%%%%%
+määrittää%määrittää%%suomi%%%%%%
+natural number%luonnollinen luku%%englanti%%%%%%
+luonnollinen luku%luonnollinen luku%%suomi%%%%%%
+naturligt tal%luonnollinen luku%%ruotsi%%%%%%
+natürliche Zahl%luonnollinen luku%%saksa%%%%%%
+nombre naturel%luonnollinen luku%%ranska%%%%%%
+named entity%nimetty kohde%%englanti%%%%%%
+nimetty kohde%nimetty kohde%%suomi%%%%%%
+network%verkko%%englanti%%%%%%
+verkko%verkko%%suomi%%%%%%
+node%solmu%%englanti%%%%%%
+solmu%solmu%%suomi%%%%%%
+nondeterministic automaton%epädeterministinen automaatti%%englanti%%%%%%
+epädeterministinen automaatti%epädeterministinen automaatti%%suomi%%%%%%
+icke-deterministisk automat%epädeterministinen automaatti%%ruotsi%%%%%%
+nonterminal symbol%välikesymboli%%englanti%%%%%%
+välikesymboli%välikesymboli%%suomi%%%%%%
+operator%operaattori%%englanti%%%%%%
+operaattori%operaattori%%suomi%%%%%%
+optimization%optimointi%%englanti%%%%%%
+optimointi%optimointi%%suomi%%%%%%
+other symbol%muu merkki%%englanti%%%%%%
+muu merkki%muu merkki%%suomi%%%%%%
+outlier%poikkeava havainto%%englanti%%%%%%
+poikkeava havainto%poikkeava havainto%%suomi%%%%%%
+output%tuloste%%englanti%%%%%%
+tuloste%tuloste%%suomi%%%%%%
+overgeneration%yligenerointi%%englanti%%%%%%
+yligenerointi%yligenerointi%%suomi%%%%%%
+parser%jäsennin%%englanti%%%%%%
+jäsennin%jäsennin%%suomi%%%%%%
+parser%jäsennin%%ruotsi%%%%%%
+parseur%jäsennin%%ranska%%%%%%
+parsing%jäsentäminen%%englanti%%%%%%
+jäsentäminen%jäsentäminen%%suomi%%%%%%
+parsning%jäsentäminen%%ruotsi%%%%%%
+analyse%jäsentäminen%%ranska%%%%%%
+part of speech tag%sanaluokkakoodi%%englanti%%%%%%
+sanaluokkakoodi%sanaluokkakoodi%%suomi%%%%%%
+part of speech tagging%sanaluokkajäsennys%%englanti%%%%%%
+sanaluokkajäsennys%sanaluokkajäsennys%%suomi%%%%%%
+precision%tarkkuus%%englanti%%%%%%
+tarkkuus%tarkkuus%%suomi%%%%%%
+precision%tarkkuus%%ruotsi%%%%%%
+pushdown automaton%pinoautomaatti%%englanti%%%%%%
+pinoautomaatti%pinoautomaatti%%suomi%%%%%%
+recall%saanti%%englanti%%%%%%
+saanti%saanti%%suomi%%%%%%
+täckning%saanti%%ruotsi%%%%%%
+recognition%tunnistaminen%%englanti%%%%%%
+tunnistaminen%tunnistaminen%%suomi%%%%%%
+igenkänning%tunnistaminen%%ruotsi%%%%%%
+recognize%tunnistaa%%englanti%%%%%%
+tunnistaa%tunnistaa%%suomi%%%%%%
+recursive%rekursiivinen%%englanti%%%%%%
+rekursiivinen%rekursiivinen%%suomi%%%%%%
+recursive transition network%rekursiivinen tilasiirtymäverkko%%englanti%%%%%%
+rekursiivinen tilasiirtymäverkko%rekursiivinen tilasiirtymäverkko%%suomi%%%%%%
+regular expression%säännöllinen lauseke%%englanti%%%%%%
+säännöllinen lauseke%säännöllinen lauseke%%suomi%%%%%%
+regulärt uttryck%säännöllinen lauseke%%ruotsi%%%%%%
+expression rationelle%säännöllinen lauseke%%ranska%%%%%%
+regular grammar%säännöllinen kielioppi%%englanti%%%%%%
+säännöllinen kielioppi%säännöllinen kielioppi%%suomi%%%%%%
+regular set%säännöllinen joukko%%englanti%%%%%%
+säännöllinen joukko%säännöllinen joukko%%suomi%%%%%%
+relation%relaatio%%englanti%%%%%%
+relaatio%relaatio%%suomi%%%%%%
+relation%relaatio%%ruotsi%%%%%%
+relation%relaatio%%ranska%%%%%%
+representation%esitysmuoto%%englanti%%%%%%
+esitysmuoto%esitysmuoto%%suomi%%%%%%
+rewrite grammar%toisinkirjoituskielioppi%%englanti%%%%%%
+toisinkirjoituskielioppi%toisinkirjoituskielioppi%%suomi%%%%%%
+rewrite rule%toisinkirjoitussääntö%%englanti%%%%%%
+toisinkirjoitussääntö%toisinkirjoitussääntö%%suomi%%%%%%
+omskrivningsregel%toisinkirjoitussääntö%%ruotsi%%%%%%
+robust%robusti%%englanti%%%%%%
+robusti%robusti%%suomi%%%%%%
+robust%robusti%%ruotsi%%%%%%
+script%komentosarja%%englanti%%%%%%
+komentosarja%komentosarja%%suomi%%%%%%
+search stem%hakuvartalo%%englanti%%%%%%
+hakuvartalo%hakuvartalo%%suomi%%%%%%
+sequentiality%sekventiaalisuus%%englanti%%%%%%
+sekventiaalisuus%sekventiaalisuus%%suomi%%%%%%
+set%joukko%%englanti%%%%%%
+joukko%joukko%%suomi%%%%%%
+mängd%joukko%%ruotsi%%%%%%
+ensemble%joukko%%ranska%%%%%%
+space%välilyönti%%englanti%%%%%%
+välilyönti%välilyönti%%suomi%%%%%%
+spectrogram%spektrogrammi%%englanti%%%%%%
+spektrogrammi%spektrogrammi%%suomi%%%%%%
+spectrum%spektri%%englanti%%%%%%
+spektri%spektri%%suomi%%%%%%
+speech interface%puhekäyttöliittymä%%englanti%%%%%%
+puhekäyttöliittymä%puhekäyttöliittymä%%suomi%%%%%%
+talgränssnitt%puhekäyttöliittymä%%ruotsi%%%%%%
+speech recognition%puheentunnistus%%englanti%%%%%%
+puheentunnistus%puheentunnistus%%suomi%%%%%%
+taligenkänning%puheentunnistus%%ruotsi%%%%%%
+Spracherkennung%puheentunnistus%%saksa%%%%%%
+reconnaissance vocale%puheentunnistus%%ranska%%%%%%
+speech synthesis%puhesynteesi%%englanti%%%%%%
+puhesynteesi%puhesynteesi%%suomi%%%%%%
+talsyntes%puhesynteesi%%ruotsi%%%%%%
+Sprachsynthese%puhesynteesi%%saksa%%%%%%
+synthèse de la parole%puhesynteesi%%ranska%%%%%%
+spelling checking%oikeinkirjoituksen tarkistus%%englanti%%%%%%
+oikeinkirjoituksen tarkistus%oikeinkirjoituksen tarkistus%%suomi%%%%%%
+stavningskontroll%oikeinkirjoituksen tarkistus%%ruotsi%%%%%%
+spelling correction%oikeinkirjoituksen korjaus%%englanti%%%%%%
+oikeinkirjoituksen korjaus%oikeinkirjoituksen korjaus%%suomi%%%%%%
+start state%alkutila%%englanti%%%%%%
+alkutila%alkutila%%suomi%%%%%%
+starttillstånd%alkutila%%ruotsi%%%%%%
+state%tila%%englanti%%%%%%
+tila%tila%%suomi%%%%%%
+tillstånd%tila%%ruotsi%%%%%%
+stem%tyvi%%englanti%%%%%%
+tyvi%tyvi%%suomi%%%%%%
+stemming%typistäminen%%englanti%%%%%%
+typistäminen%typistäminen%%suomi%%%%%%
+trunkering%typistäminen%%ruotsi%%%%%%
+stop word%hukkasana%%englanti%%%%%%
+hukkasana%hukkasana%%suomi%%%%%%
+string%merkkijono%%englanti%%%%%%
+merkkijono%merkkijono%%suomi%%%%%%
+sträng%merkkijono%%ruotsi%%%%%%
+summary%tiivistelmä%%englanti%%%%%%
+tiivistelmä%tiivistelmä%%suomi%%%%%%
+sammanfattning%tiivistelmä%%ruotsi%%%%%%
+surface character%pintamerkki%%englanti%%%%%%
+pintamerkki%pintamerkki%%suomi%%%%%%
+surface form%pintamuoto%%englanti%%%%%%
+pintamuoto%pintamuoto%%suomi%%%%%%
+synonym set synset%synonyymiryhmä%%englanti%%%%%%
+synonyymiryhmä%synonyymiryhmä%%suomi%%%%%%
+syntactic parser%lauseenjäsennin%%englanti%%%%%%
+lauseenjäsennin%lauseenjäsennin%%suomi%%%%%%
+tag%tarra%%englanti%%%%%%
+tarra%tarra%%suomi%%%%%%
+tagg%tarra%%ruotsi%%%%%%
+tag%merkki leima%%englanti%%%%%%
+merkki leima%merkki leima%%suomi%%%%%%
+tagg%merkki leima%%ruotsi%%%%%%
+template%malline%%englanti%%%%%%
+malline%malline%%suomi%%%%%%
+mall%malline%%ruotsi%%%%%%
+terminal symbol%päätesymboli%%englanti%%%%%%
+päätesymboli%päätesymboli%%suomi%%%%%%
+tokenise%saneistaa%%englanti%%%%%%
+saneistaa%saneistaa%%suomi%%%%%%
+tokenisera%saneistaa%%ruotsi%%%%%%
+top-down parsing%produsoiva jäsentäminen%%englanti%%%%%%
+produsoiva jäsentäminen%produsoiva jäsentäminen%%suomi%%%%%%
+transfer model%transfer-malli%%englanti%%%%%%
+transfer-malli%transfer-malli%%suomi%%%%%%
+transition%siirtymä%%englanti%%%%%%
+siirtymä%siirtymä%%suomi%%%%%%
+övergång%siirtymä%%ruotsi%%%%%%
+translation%kääntäminen (kielen)%%englanti%%%%%%
+translation memory%käännösmuisti%%englanti%%%%%%
+käännösmuisti%käännösmuisti%%suomi%%%%%%
+two-level morphology%kaksitasomorfologia%%englanti%%%%%%
+kaksitasomorfologia%kaksitasomorfologia%%suomi%%%%%%
+tvånivåmorfologi%kaksitasomorfologia%%ruotsi%%%%%%
+two-level rule%kaksitasosääntö%%englanti%%%%%%
+kaksitasosääntö%kaksitasosääntö%%suomi%%%%%%
+tvånivåregel%kaksitasosääntö%%ruotsi%%%%%%
+unambiguous%yksiselitteinen%%englanti%%%%%%
+yksiselitteinen%yksiselitteinen%%suomi%%%%%%
+entydig%yksiselitteinen%%ruotsi%%%%%%
+unification%unifikaatio%%englanti%%%%%%
+unifikaatio%unifikaatio%%suomi%%%%%%
+union%yhdiste%%englanti%%%%%%
+yhdiste%yhdiste%%suomi%%%%%%
+föreningsmängd%yhdiste%%ruotsi%%%%%%
+unrestricted rewrite grammar%rajoittamaton toisinkirjoituskielioppi%%englanti%%%%%%
+rajoittamaton toisinkirjoituskielioppi%rajoittamaton toisinkirjoituskielioppi%%suomi%%%%%%
+user interface%käyttöliittymä%%englanti%%%%%%
+käyttöliittymä%käyttöliittymä%%suomi%%%%%%
+användargränssnitt%käyttöliittymä%%ruotsi%%%%%%
+Benutzeroberfläche%käyttöliittymä%%saksa%%%%%%
+interface utilisateur%käyttöliittymä%%ranska%%%%%%
+vertex%solmu%%englanti%%%%%%
+solmu%solmu%%suomi%%%%%%
+voice interface%puhekäyttöliittymä%%englanti%%%%%%
+puhekäyttöliittymä%puhekäyttöliittymä%%suomi%%%%%%
+WordNet%sanaverkko%%englanti%%%%%%
+sanaverkko%sanaverkko%%suomi%%%%%%
+word sense disambiguation%saneiden alamerkitysten yksiselitteistäminen%%englanti%%%%%%
+saneiden alamerkitysten yksiselitteistäminen%saneiden alamerkitysten yksiselitteistäminen%%suomi%%%%%%
+word token%sane%%englanti%%%%%%
+sane%sane%%suomi%%%%%%
+syklitön graafi%syklitön verkko%%suomi%%%%%%
+varustaminen kieliopillisilla koodeilla%annotointi%%suomi%%%%%%
+applikation%sovellus%%ruotsi%%%%%%
+ominaisuus%attribuutti%%suomi%%%%%%
+CALL%tietokoneavusteinen kielen oppiminen%%englanti%%%%%%
+closed category%umpiluokka%%englanti%%%%%%
+ryhmittely%ryvästys%%suomi%%%%%%
+förmåga%kompetenssi%%ruotsi%%%%%%
+fyllnadsled%komplementti%%ruotsi%%%%%%
+laskennallinen kompleksisuus%laskennallinen vaativuus%%suomi%%%%%%
+datorlingvistik%tietokonelingvistiikka%%ruotsi%%%%%%
+konkatenaatio%peräkkäinasettelu%%suomi%%%%%%
+koordinaatio%rinnastus%%suomi%%%%%%
+deterministic finite-state machine%deterministinen äärellinen automaatti%%englanti%%%%%%
+FSM%deterministinen äärellinen automaatti%%englanti%%%%%%
+suunnattu graafi%suunnattu verkko%%suomi%%%%%%
+void set%tyhjä joukko%%englanti%%%%%%
+epsilon%tyhjä merkkijono%%englanti%%%%%%
+epsilon%tyhjä merkkijono%%suomi%%%%%%
+epsilon%tyhjä merkkijono%%ruotsi%%%%%%
+tyhjä siirtymä%epsilon-siirtymä%%suomi%%%%%%
+FSM%äärellinen automaatti%%englanti%%%%%%
+FST%äärellinen transduktori%%englanti%%%%%%
+tuottaminen%generointi%%suomi%%%%%%
+generalized phrase structure grammar%GPSG%%englanti%%%%%%
+yleistetty lausekerakennekielioppi%GPSG%%suomi%%%%%%
+funktionsord%kieliopillinen sana%%ruotsi%%%%%%
+pääkonstituentti%pääsana%%suomi%%%%%%
+HMM%Markovin piilomalli%%englanti%%%%%%
+päättely%inferenssi%%suomi%%%%%%
+IE%tiedon eristäminen%%englanti%%%%%%
+skärningspunkt%leikkaus%%ruotsi%%%%%%
+human language technology%kieliteknologia%%englanti%%%%%%
+MT%konekäännös%%englanti%%%%%%
+function%kuvaus%%englanti%%%%%%
+funktio%kuvaus%%suomi%%%%%%
+vertex%solmu%%englanti%%%%%%
+meta symbol%välikesymboli%%englanti%%%%%%
+programming%optimointi%%englanti%%%%%%
+parsage%jäsentäminen%%ranska%%%%%%
+sanaluokkaleima%sanaluokkakoodi%%suomi%%%%%%
+expression régulière%säännöllinen lauseke%%ranska%%%%%%
+regular language%säännöllinen joukko%%englanti%%%%%%
+säännöllinen kieli%säännöllinen joukko%%suomi%%%%%%
+vakaa%robusti%%suomi%%%%%%
+text-to-speech%puhesynteesi%%englanti%%%%%%
+truncated word%tyvi%%englanti%%%%%%
+stemming%typistäminen%%ruotsi%%%%%%
+sammandrag%tiivistelmä%%ruotsi%%%%%%
+syntaktinen jäsennin%lauseenjäsennin%%suomi%%%%%%
+sapluuna%malline%%suomi%%%%%%
+tilasiirtymä%siirtymä%%suomi%%%%%%
+otvetydig%yksiselitteinen%%ruotsi%%%%%%
+samaistus%unifikaatio%%suomi%%%%%%
+unioni%yhdiste%%suomi%%%%%%
+union%yhdiste%%ruotsi%%%%%%
+interface opérateur%käyttöliittymä%%ranska%%%%%%
+wordnet%sanaverkko%%suomi%%%%%%
+sananmuodon esiintymä%sane%%suomi%%%%%%

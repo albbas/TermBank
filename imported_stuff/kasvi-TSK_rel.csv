@@ -1,0 +1,167 @@
+käsite%käsitesuhde%lähikäsite
+ainavihanta%yläkäsite%kasvi
+kaksivuotinen%yläkäsite%kasvi
+kaksivuotinen%%kerran kukkiva
+kosmopoliitti%yläkäsite%laji
+kotoperäinen%yläkäsite%laji
+kotoperäinen%%alkuperäinen
+kotoperäinen%%eksoottinen
+kotoperäinen%%vastuulaji
+kuivakkokasvi%yläkäsite%kasvi
+kulttuuritulokas%yläkäsite%tulokas
+monivuotinen%yläkäsite%kasvi
+monivuotinen%%perenna
+monivuotinen%%kerran kukkiva
+muinaistulokas%yläkäsite%tulokas
+muinaistulokas%%uustulokas
+painolastitulokas%yläkäsite%tulokas
+perenna%yläkäsite%monivuotinen
+perenna%%monivuotinen
+piilotalvehtija%yläkäsite%kasvi
+pioneerikasvillisuus%yläkäsite%kasvillisuus
+pioneerikasvillisuus%%pioneerilaji
+pioneerilaji%yläkäsite%laji
+pioneerilaji%%kasvi
+pioneerilaji%%pioneerikasvillisuus
+puolipiilijä%yläkäsite%kasvi
+suolakkokasvi%yläkäsite%kasvi
+kesäkasvi%yläkäsite%kasvi
+tulokas%yläkäsite%laji
+tulokas%%myllykasvi
+tulokas%%piennarkasvi
+tulokas%%satunnainen
+typensuosija%yläkäsite%kasvilaji
+uposkasvi%yläkäsite%vesikasvi
+vakiintunut tulokas%yläkäsite%tulokas
+vakiintunut tulokas%%vakinainen
+viljelykarkulainen%yläkäsite%kasvi
+viljelykarkulainen%%alkuperäiskasvi
+viljelykarkulainen%%tahaton tulokas
+yksivuotinen%%kerran kukkiva
+ylitalvinen%yläkäsite%kasvi,yksivuotinen
+kulttuurinsuosija%%alkuperäinen
+allopatrinen%yläkäsite%populaatio
+allopatrinen%%sama-alueinen
+allopolyploidi%%allotetraploidi
+allotetraploidi%%allopolyploidi
+kalkinvaatija%yläkäsite%kasvilaji,kalkinsuosija
+kalkinsuosija%yläkäsite%kasvilaji
+kalkinkarttaja%yläkäsite%kasvilaji
+satunnaistulokas%yläkäsite%vakinainen
+satunnaistulokas%%satunnainen
+yleinen%yläkäsite%laji
+kesävihanta%yläkäsite%kasvi
+päivänvalossa kukkiva%yläkäsite%kasvi
+uhanalainen%yläkäsite%laji
+uhanalainen%%harvinainen
+uhanalainen%%satelliittilaji
+uhanalainen%%avainlaji
+satunnainen%yläkäsite%laji
+satunnainen%%tulokas
+satunnainen%%satunnaistulokas
+päällyskasvi%yläkäsite%kasvi
+kerran kukkiva%yläkäsite%kasvi
+kerran kukkiva%%yksivuotinen
+kerran kukkiva%%kaksivuotinen
+kerran kukkiva%%monivuotinen
+ilmaversoinen%yläkäsite%vesikasvi
+vesikasvi%yläkäsite%kasvi
+välinpitämätön%yläkäsite%laji
+lajinsisäinen%%laji
+tahaton tulokas%yläkäsite%tulokas
+tahaton tulokas%%viljelykarkulainen
+irtokelluja%yläkäsite%vesikasvi
+paikallinen%yläkäsite%laji
+luontainen%yläkäsite%laji
+luontainen%%alkuperäinen
+kotiutunut%yläkäsite%laji
+kotiutunut%%alloktoninen
+kotiutunut%%piennarkasvi
+kotiutunut%%vakinainen
+uustulokas%yläkäsite%tulokas
+uustulokas%%muinaistulokas
+öisin kukkiva%yläkäsite%kasvi
+tilapäinen%yläkäsite%laji
+sotatulokas%yläkäsite%tulokas
+alkuperäinen%yläkäsite%laji
+alkuperäinen%%kotoperäinen
+alkuperäinen%%luontainen
+alkuperäinen%%toissijainen
+alkuperäinen%%piennarkasvi
+alkuperäinen%%kulttuurinsuosija
+harvinainen%yläkäsite%laji
+harvinainen%%uhanalainen
+jäänne%yläkäsite%laji
+jäänne%%viljelyjäänne
+vakinainen%yläkäsite%laji
+vakinainen%%vakiintunut tulokas
+vakinainen%%kotiutunut
+varjokasvi%yläkäsite%kasvilaji
+toissijainen%yläkäsite%kasvillisuus
+toissijainen%%alkuperäinen
+sama-alueinen%yläkäsite%populaatio
+sama-alueinen%%allopatrinen
+patjakasvi%yläkäsite%laji
+epiliittinen%yläkäsite%eliö
+alkuperäiskasvi%yläkäsite%kasvi
+alkuperäiskasvi%%viljelykarkulainen
+aluskasvillisuus%yläkäsite%kasvillisuus
+avainlaji%yläkäsite%laji
+avainlaji%%uhanalainen
+direktiivilaji%yläkäsite%kasvilaji
+dyynikasvillisuus%yläkäsite%kasvillisuus
+harjukasvillisuus%yläkäsite%kasvillisuus
+kesäpuu%%kevätpuu
+kevätpuu%%kesäpuu
+kosteikkokasvi%yläkäsite%kasvi,hygrofiili
+lyhyenpäivänkasvi%yläkäsite%kasvi
+mesofyytti%yläkäsite%kasvi
+piennarkasvi%%alkuperäinen
+piennarkasvi%%tulokas
+piennarkasvi%%kotiutunut
+pitkänpäivänkasvi%yläkäsite%kasvi
+päiväneutraali%yläkäsite%kasvi
+rantakasvillisuus%yläkäsite%kasvillisuus
+typensuosijakasvi%yläkäsite%kasvi
+vastuulaji%yläkäsite%laji
+vastuulaji%%kotoperäinen
+alloktoninen%%kotiutunut
+amfitooppinen%yläkäsite%laji,populaatio
+allotooppinen%yläkäsite%populaatio
+bioindikaattori%yläkäsite%ilmentäjälaji
+biomarkkeri%%eliö
+bipolaarinen%yläkäsite%laji
+boreoalpiininen%yläkäsite%laji
+dormantti%yläkäsite%kasvilaji
+eksoottinen%yläkäsite%laji
+eksoottinen%%kotoperäinen
+eksoottinen%%myllykasvi
+epifylli%yläkäsite%kasvi
+epipeelinen%yläkäsite%eliö
+erotuslaji%yläkäsite%kasvilaji
+pakolaislaji%yläkäsite%laji
+generalisti%yläkäsite%laji
+halobiontti%yläkäsite%eliö
+halofiili%yläkäsite%laji
+hemeradiafori%yläkäsite%alkuperäiskasvi
+hemiedafinen%yläkäsite%eliö
+hydrobiontti%yläkäsite%eliö
+vesihakuinen%yläkäsite%kasvilaji,laji
+hydrofobi%yläkäsite%laji
+hygrofiili%yläkäsite%laji
+ilmentäjälaji%yläkäsite%laji
+kasmofyytti%yläkäsite%kalliokasvi
+komofyytti%yläkäsite%kalliokasvi
+vakiolaji%yläkäsite%laji
+koprofiili%yläkäsite%kasvilaji
+viljelyjäänne%%jäänne
+litofyytti%yläkäsite%kasvi
+myllykasvi%yläkäsite%tulokas
+myllykasvi%%tulokas
+myllykasvi%%eksoottinen
+niukkaravinteinen%yläkäsite%kasvi
+kalliokasvi%yläkäsite%kasvi
+polyterminen%yläkäsite%laji
+typologinen laji%yläkäsite%laji
+vastinlaji%yläkäsite%laji
+satelliittilaji%%uhanalainen
