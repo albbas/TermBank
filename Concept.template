@@ -1,0 +1,108 @@
+<includeonly>{{Concept/heading}}<!--
+
+--><table style="width:100%;"><tr><td style="vertical-align:top;"><!--
+
+-->{{#ifeq:{{{tarkistettu|}}}|N|
+<div class=ttp-tarkistettu>'''Tämä sivu on vielä tarkistamatta'''</div>
+}}
+<!--
+
+-->{{#ask:[[Liittyvä nimitys::{{FULLPAGENAME}}]] [[kieli::{{#ask: [[{{NAMESPACE}}]]|?Otsikkokieli=|mainlabel=-|link=none}}]]
+|?Nimitys =
+|?Käyttösuositus =
+|?Käyttöhuomautus =
+|?Alkuperä =
+|?Korkeus=
+|format=template
+|template=Muotoiltu termi
+|introtemplate=Muotoiltu käännösvastine/alku
+|outrotemplate=Muotoiltu käännösvastine/loppu
+|sort=Korkeus
+|order=asc
+}}<!--
+
+-->{{#if:{{{määritelmä|}}}|<div class=ttp-maaritelma lang=fi>'''{{int:ttp-page-concept-definition}} '''{{{määritelmä|}}}<noinclude>[[Määritelty::Y]]</noinclude></div>|<noinclude>[[Määritelty::N]]</noinclude>}}<!--
+
+-->{{#if:{{{määritelmä_fi|}}}|<div>'''{{int:ttp-page-concept-definition}} '''{{{määritelmä_fi|}}}<noinclude>[[Määritelty::Y]]</noinclude>{{#if:{{{määritelmä_sv|}}}|<div id=defsvsw class=down style="font-size:0.8em;float:right;">(sv)</div>}}{{#if:{{{määritelmä_en|}}}|<div id=defensw class=down style="font-size:0.8em;float:right;">(en)</div>}}</div>|<noinclude>[[Määritelty::N]]</noinclude>}}<!--
+
+--><div class="ttp-maaritelma hide" id=defsv>'''{{int:ttp-page-concept-definition}} '''{{{määritelmä_sv|}}}<noinclude>[[Määritelty::Y]]</noinclude></div><!--
+
+--><div class="ttp-maaritelma hide" id=defen>'''{{int:ttp-page-concept-definition}} '''{{{määritelmä_en|}}}<noinclude>[[Määritelty::Y]]</noinclude></div><!--
+
+-->{{#if:{{{selite|}}}|<div class=ttp-selite style="clear:both;">'''{{int:ttp-page-concept-explanation}} '''{{{selite|}}}</div>}}<!--
+
+-->{{#if:{{{selite_fi|}}}|<div style="clear:both;">'''{{int:ttp-page-concept-explanation}} '''{{{selite_fi|}}}{{#if:{{{selite_sv|}}}|<div id=expsvsw class=down style="font-size:0.8em;float:right;">(sv)</div>}}{{#if:{{{selite_en|}}}|<div id=expensw class=down style="font-size:0.8em;float:right;">(en)</div>}}</div>}}<!--
+
+--><div class="ttp-maaritelma hide" id=expsv>'''{{int:ttp-page-concept-explanation}} '''{{{selite_sv|}}}</div><!--
+
+--><div class="ttp-maaritelma hide" id=expen>'''{{int:ttp-page-concept-explanation}} '''{{{selite_en|}}}</div><!--
+
+-->{{#if:{{{tieteellinen nimi|}}}|<div class=ttp-tieteellinen-nimi>'''{{int:ttp-page-concept-scientificname}} '''{{{tieteellinen nimi|}}}</div>}}<!--
+
+-->{{#ifeq:{{{ilmiön kuvaus|}}}|Y|<div class=ttp-ilmionkuvaus>'''{{#ifexist: {{FULLPAGENAME}}/ilmiön kuvaus|[[{{FULLPAGENAME}}/ilmiön kuvaus|Ilmiön kuvaus]]|{{#formlink:form=Ilmiö|link text=Ilmiön kuvaus|target={{FULLPAGENAME}}/ilmiön kuvaus|Ilmiö[Luokka]={{{luokka|}}}}}}}'''</div>}}<!--
+
+-->{{#if:{{{lisätiedot|}}}|<div class=ttp-lisatiedot>'''{{int:ttp-page-concept-additional}} '''{{{lisätiedot|}}}</div>}}<!--
+
+-->{{#if:{{{lisätiedot_fi|}}}|<div style="clear:both;">'''{{int:ttp-page-concept-additional}} '''{{{lisätiedot_fi|}}}{{#if:{{{lisätiedot_sv|}}}|<div id=addsvsw class=down style="font-size:0.8em;float:right;">(sv)</div>}}{{#if:{{{additional_en|}}}|<div id=addensw class=down style="font-size:0.8em;float:right;">(en)</div></div>}}}}<!--
+
+--><div class="ttp-maaritelma hide" id=addsv>'''{{int:ttp-page-concept-explanation}} '''{{{lisätiedot_sv|}}}</div><!--
+
+--><div class="ttp-maaritelma hide" id=adden>'''{{int:ttp-page-concept-explanation}} '''{{{lisätiedot_en|}}}</div><!--
+
+-->{{#ask:[[Liittyvä nimitys::{{FULLPAGENAME}}]] [[Kieli::!{{#ask: [[{{NAMESPACE}}]]|?Otsikkokieli=|mainlabel=-|link=none}}]]
+|intro=<h2 title="Huom! Käännösvastaavuus on usein vain osittaista.">{{int:ttp-page-concept-equivalents}}</h2>
+|?Nimitys =
+|?Kieli =
+|?Käyttöhuomautus =
+|?Käännösvastaavuus =
+|sort=Kieli
+|format=template
+|template=Muotoiltu käännösvastine
+|introtemplate=Muotoiltu käännösvastine/alku
+|outrotemplate=Muotoiltu käännösvastine/loppu
+}}<!--
+
+-->{{#ask:[[Lähikäsite::{{FULLPAGENAME}}]]
+|intro=<h2>{{int:ttp-page-concept-relatedconcepts}}</h2>
+|mainlabel=-
+|?Käsite =
+|?Käsitesuhde =
+|format=ul
+|sort=Käsite
+|sep=;
+}}<!--
+
+-->{{#if: {{{lähteet|}}}|== {{int:ttp-page-concept-sources}} ==|}}<!--
+
+-->{{#arraymap:{{{lähteet|}}}|,|x|[[Lähde::Lähde:x|x]]}}
+[[Kategori:Käsitteet]][[Kategori:{{NAMESPACE}}]]<!--
+
+-->{{#arraymap:{{{luokka|}}}|,|x|[[Kategori:x]]|}}<!--
+
+--></td>
+
+<td>{{#arraymap:{{{kuvat|}}}|,|£|[[Kuva:£|thumb|250px]]|}}</td>
+</tr>
+</table>
+
+== {{int:ttp-page-concept-footnotes}} ==
+
+    <references />
+
+    <div class=ttp-privatedata-placeholder></div><div style="display: none;">
+    <!-- Nää tuottaa ylimääräisiä rivinvaihtoja sivulle, joten piilotetaan ne -->
+    __NOTOC__ __NOEDITSECTION__
+    {{#set:Työryhmä={{NAMESPACE}}|Viimeisin muokkaaja=Käyttäjä:{{REVISIONUSER}}|Viimeisin muokkaus={{REVISIONTIMESTAMP}}|Selite={{{selite|}}}|Määritelmä={{{määritelmä|}}}|Tarkistettu={{{tarkistettu|ei}}}|Määritelty={{#if:{{{määritelmä|}}}|kyllä|ei}}|Selitetty={{#if:{{{selite|}}}|kyllä|ei}}}}
+    </div>
+
+    <div>
+    Lähdeviittaus tähän sivuun:<br>
+    ''Giellagáldu {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}: {{FULLPAGENAME}}. (Tarkka osoite: <nowiki>http://gtsvn.uit.no/termwiki/</nowiki>{{FULLPAGENAME}}.)''
+    </div>
+</includeonly>
+
+<noinclude>
+Tämä on malline käsitteille. Se määrittelee käsitteiden ulkoasun ja niiden semanttiset kentät.
+
+Muokkaa tätä sivua, jos haluat nähdä mallineen tekstin.
+</noinclude>
