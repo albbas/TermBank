@@ -1,0 +1,35 @@
+<noinclude>
+
+{{#forminput:form=Nimitys|query string=namespace=Nimitys|autocomplete on category=Nimitykset}}
+
+</noinclude><includeonly>
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Nimitys|multiple|add button text=Lisää}}}
+{| class="formtable"
+! Kieli           || {{{field|kieli|input type=combobox}}}
+|-
+! Sanaluokka      || {{{field|sanaluokka}}}
+|-
+! Sanamuoto       || {{{field|sanamuoto}}} ||Tämä kenttä koskee vain suomenkielisiä nimityksiä.
+|-
+! Perussanatyyppi || {{{field|perussanatyyppi}}}  ||Tämä kenttä koskee vain suomenkielisiä nimityksiä.
+|-
+! Johdostyyppi || {{{field|johdostyyppi}}} ||Tämä kenttä koskee vain suomenkielisiä nimityksiä.
+|-
+! Yhdysosamuoto tai prefiksi|| {{{field|yhdysosamuoto}}} ||Tämä kenttä koskee vain suomenkielisiä nimityksiä.
+|-
+! Suku ||{{{field|suku}}}
+|-
+! Monikko || {{{field|monikko}}} || Tämä kenttä on monikkomuotoa koskevalle tiedolle
+|-
+! Alkuperä        || {{{field|alkuperä|input type = textarea}}}
+|}
+{{{end template}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>
