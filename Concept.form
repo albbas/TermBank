@@ -1,7 +1,7 @@
 <noinclude>
-Voit luoda uuden käsitteen tai muokata olemassa olevaa kirjoittamalla käsitteen tunnisteen alle.
+Make new concepts or edit existing concepts.
 
-{{#forminput:form=Concept|autocomplete on category=Käsitteet}}
+{{#forminput:form=Concept|autocomplete on category=Concepts}}
 
 </noinclude><includeonly>
 <div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
@@ -14,80 +14,80 @@ Voit luoda uuden käsitteen tai muokata olemassa olevaa kirjoittamalla käsittee
 {| class="formtable"
 ! {{int:ttp-form-concept-help}}        || {{int:ttp-form-concept-help-text}}
 |-
-! {{int:ttp-form-concept-definition}}  || {{{field|määritelmä_fi|input type=textarea}}}
+! {{int:ttp-form-concept-definition}}  || {{{field|definition_fi|input type=textarea}}}
 |-
-! {{int:ttp-form-concept-explanation}} || {{{field|selite_fi|input type=textarea}}}
+! {{int:ttp-form-concept-explanation}} || {{{field|explanation_fi|input type=textarea}}}
 |-
-! {{int:ttp-form-concept-moreinfo}}    || {{{field|lisätiedot_fi|input type = textarea}}}
+! {{int:ttp-form-concept-moreinfo}}    || {{{field|more_info_fi|input type = textarea}}}
 |-
 |}
 
 = norska =
 <table class="formtable">
 <tr><th>{{int:ttp-form-concept-help}}</th><td>{{int:ttp-form-concept-help-text}}</td></tr>
-<tr><th>{{int:ttp-form-concept-definition}}</th><td>{{{field|määritelmä_sv|input type=textarea}}}</td></tr>
-<tr><th>{{int:ttp-form-concept-explanation}}</th><td>{{{field|selite_sv|input type=textarea}}}</td></tr>
-<tr><th>{{int:ttp-form-concept-moreinfo}}</th><td>{{{field|lisätiedot_sv|input type = textarea}}}</td></tr>
+<tr><th>{{int:ttp-form-concept-definition}}</th><td>{{{field|definition_sv|input type=textarea}}}</td></tr>
+<tr><th>{{int:ttp-form-concept-explanation}}</th><td>{{{field|explanation_sv|input type=textarea}}}</td></tr>
+<tr><th>{{int:ttp-form-concept-moreinfo}}</th><td>{{{field|more_info_sv|input type = textarea}}}</td></tr>
 </table><br>
 
 = English =
 <table class="formtable">
 <tr><th>{{int:ttp-form-concept-help}}</th><td>{{int:ttp-form-concept-help-text}}</td></tr>
-<tr><th>{{int:ttp-form-concept-definition}}</th><td>{{{field|määritelmä_en|input type=textarea}}}</td></tr>
-<tr><th>{{int:ttp-form-concept-explanation}}</th><td>{{{field|selite_en|input type=textarea}}}</td></tr>
-<tr><th>{{int:ttp-form-concept-moreinfo}}</th><td>{{{field|lisätiedot_en|input type = textarea}}}</td></tr>
+<tr><th>{{int:ttp-form-concept-definition}}</th><td>{{{field|definition_en|input type=textarea}}}</td></tr>
+<tr><th>{{int:ttp-form-concept-explanation}}</th><td>{{{field|explanation_en|input type=textarea}}}</td></tr>
+<tr><th>{{int:ttp-form-concept-moreinfo}}</th><td>{{{field|more_info_en|input type = textarea}}}</td></tr>
 </table>
 
 <headertabs />
 
 {| class="formtable"
-! {{int:ttp-form-concept-images}}      || {{{field|kuvat|input type=text|values from namespace=Tiedosto|list}}} {{int:ttp-form-concept-upload}}
+! {{int:ttp-form-concept-images}}      || {{{field|pictures|input type=text|values from namespace=Tiedosto|list}}} {{int:ttp-form-concept-upload}}
 |- class="areafield field-kasvitiede field-biologia field-sienitiede field-eläintiede field-mikrobiologia"
-! {{int:ttp-form-concept-sciname}}     || {{{field|tieteellinen nimi}}}
+! {{int:ttp-form-concept-sciname}}     || {{{field|scientific name}}}
 |-
-! {{int:ttp-form-concept-sources}}     || {{{field|lähteet|list}}}
+! {{int:ttp-form-concept-sources}}     || {{{field|sources|list}}}
 |-
-! {{int:ttp-form-concept-checked}}     || {{{field|tarkistettu|input type=checkbox|default=Y}}}
+! {{int:ttp-form-concept-checked}}     || {{{field|reviewed|input type=checkbox|default=Y}}}
 |-
-! {{int:ttp-form-concept-categories}}  || {{{field|luokka|input type=text with autocomplete|values from namespace=category|list|size=100}}}
+! {{int:ttp-form-concept-categories}}  || {{{field|category|input type=text with autocomplete|values from namespace=category|list|size=100}}}
 |-
-! {{int:ttp-form-concept-notiondescrip}}|| {{{field|ilmiön kuvaus|input type=checkbox}}}
+! {{int:ttp-form-concept-notiondescrip}}|| {{{field|no picture|input type=checkbox}}}
 |}
 {{{end template}}}
 '''{{int:ttp-form-concept-expressions}}'''
 {{{for template
-|Liittyvä nimitys|multiple|label=Käsitteeseen liittyvät nimitykset
-|add button text=Lisää nimitys
+|Related expression|multiple|label=Related expressions of the concept
+|add button text=Add expression
 }}}
 <!--{{int:ttp-form-concept-explabel}}-->
 <!--{{int:ttp-form-concept-addexp}}-->
 
 {| class="formtable"
-! {{int:ttp-form-concept-expfield}} || {{{field|kieli|property=Kieli}}} {{{field|nimitys}}}
+! {{int:ttp-form-concept-expfield}} || {{{field|language|property=Language}}} {{{field|expression}}}
 |-
-! {{int:ttp-form-concept-usesug}}   || {{{field|käyttösuositus|property=Käyttösuositus}}} Järjestys otsikossa {{{field|järjestysluku|size=3}}}
+! {{int:ttp-form-concept-usesug}}   || {{{field|status|property=Status}}} Sort by title {{{field|sorting_class|size=3}}}
 |-
-! {{int:ttp-form-concept-usenote}}  || {{{field|käyttöhuomautus|property=Käyttöhuomautus}}}
+! {{int:ttp-form-concept-usenote}}  || {{{field|note|property=Note}}}
 |-
-! {{int:ttp-form-concept-match}}    || {{{field|käännösvastaavuus|property=Käännösvastaavuus}}}
+! {{int:ttp-form-concept-match}}    || {{{field|equivalence|property=Equivalence}}}
 |-
-! {{int:ttp-form-concept-showinheading}} || {{{field|otsikossa|property=Otsikossa|default=Y}}}
+! {{int:ttp-form-concept-showinheading}} || {{{field|in_header|property=In header|default=Y}}}
 |}
 
 {{{end template}}}
 
 '''{{int:ttp-form-concept-related}}'''
 {{{for template
-|Lähikäsite|multiple|label=Lähikäsitteet
-|add button text=Lisää lähikäsite
+|Related concept|multiple|label=Related concept
+|add button text=Add related concept
 }}}
 <!--{{int:ttp-form-concept-relatedlabel}}-->
 <!--{{int:ttp-form-concept-addrelated}}-->
 
 {| class="formtable"
-! {{int:ttp-form-concept-relatedfield}} || {{{field|käsite|property=Käsite|values from category=Käsitteet|remote autocompletion|default={{NAMESPACE}}:}}}
+! {{int:ttp-form-concept-relatedfield}} || {{{field|concept|property=Concept|values from category=Concepts|remote autocompletion|default={{NAMESPACE}}:}}}
 |-
-! {{int:ttp-form-concept-relation}}     || {{{field|käsitesuhde|property=Käsitesuhde}}}
+! {{int:ttp-form-concept-relation}}     || {{{field|relation|property=Relation}}}
 |}
 
 {{{end template}}}
