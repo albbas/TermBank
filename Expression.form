@@ -1,28 +1,28 @@
 <noinclude>
 
-{{#forminput:form=Nimitys|query string=namespace=Nimitys|autocomplete on category=Nimitykset}}
+{{#forminput:form=Expression|query string=namespace=Expression|autocomplete on category=Expressions}}
 
 </noinclude><includeonly>
 <div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
-{{{for template|Nimitys|multiple|add button text=Lisää}}}
+{{{for template|Expression|multiple|add button text=Add}}}
 {| class="formtable"
-! Kieli           || {{{field|kieli|input type=combobox}}}
+! Language           || {{{field|language|property=Language}}}
 |-
-! Sanaluokka      || {{{field|sanaluokka}}}
+! Word class      || {{{field|wordclass}}}
 |-
-! Sanamuoto       || {{{field|sanamuoto}}} ||Tämä kenttä koskee vain suomenkielisiä nimityksiä.
+! Sanamuoto       || {{{field|sanamuoto}}} ||This field only applies to finnish expressions.
 |-
-! Perussanatyyppi || {{{field|perussanatyyppi}}}  ||Tämä kenttä koskee vain suomenkielisiä nimityksiä.
+! Perussanatyyppi || {{{field|perussanatyyppi}}}  ||This field only applies to finnish expressions.
 |-
-! Johdostyyppi || {{{field|johdostyyppi}}} ||Tämä kenttä koskee vain suomenkielisiä nimityksiä.
+! Johdostyyppi || {{{field|johdostyyppi}}} ||This field only applies to finnish expressions.
 |-
-! Yhdysosamuoto tai prefiksi|| {{{field|yhdysosamuoto}}} ||Tämä kenttä koskee vain suomenkielisiä nimityksiä.
+! Yhdysosamuoto tai prefiksi|| {{{field|yhdysosamuoto}}} ||This field only applies to finnish expressions.
 |-
 ! Suku ||{{{field|suku}}}
 |-
 ! Monikko || {{{field|monikko}}} || Tämä kenttä on monikkomuotoa koskevalle tiedolle
 |-
-! Alkuperä        || {{{field|alkuperä|input type = textarea}}}
+! Origin        || {{{field|origin|input type = textarea}}}
 |}
 {{{end template}}}
 
