@@ -1,0 +1,44 @@
+<noinclude>
+Tämä on malline Nimitys.
+Muokkaa tätä sivua, jos haluat nähdä mallineen tekstin.
+</noinclude><includeonly><table class="wikitable">
+<tr>
+<th> kieli </th>
+<td> [[Kieli::{{{kieli|}}}]] </td>
+</tr><tr>
+<th> sanaluokka </th>
+<td> [[Sanaluokka::{{{sanaluokka|}}}]] </td>
+</tr>{{#ifeq:{{{kieli|}}}|suomi|<tr><th> sanamuoto </th>
+<td>[[Sanamuoto::{{{sanamuoto|}}}]]</td>
+</tr><tr>
+<th> perussanatyyppi </th>
+<td> [[Perussanatyyppi::{{{perussanatyyppi|}}}]] </td>
+</tr><tr>
+<th> johdostyyppi </th>
+<td> [[Johdostyyppi::{{{johdostyyppi|}}}]] </td>
+</tr><tr>
+<th> yhdysosamuoto tai prefiksi</th>
+<td> [[Yhdysosamuoto::{{{yhdysosamuoto|}}}]] </td>
+</tr>}}
+{{#ifeq:{{{kieli|}}}|suomi||<tr>
+<th> suku </th>
+<td> [[Suku::{{{suku|}}}]] </td></tr>
+<tr>
+<th> monikko </th>
+<td> {{{monikko|}}} </td>
+</tr>}}<tr>
+<th> alkuperä </th>
+<td> {{{alkuperä|}}} </td>
+</tr>
+</table>
+
+{{#ask: [[Liittyvä nimitys::+]][[Nimitys::{{FULLPAGENAME}}]][[Kieli::{{{kieli|}}}]]
+|?Referentti
+|?Työryhmä
+|format=template
+|template=Liittyvä käsite
+|link=none}}
+
+
+[[Kategori:Nimitykset]]
+</includeonly>
