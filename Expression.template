@@ -1,14 +1,16 @@
 <noinclude>
-Tämä on malline Nimitys.
-Muokkaa tätä sivua, jos haluat nähdä mallineen tekstin.
-</noinclude><includeonly><table class="wikitable">
+This is the template for expressions.
+Edit this page to see the code of the template.
+</noinclude>
+
+<includeonly><table class="wikitable">
 <tr>
-<th> kieli </th>
-<td> [[Kieli::{{{kieli|}}}]] </td>
+<th> language </th>
+<td> [[Language::{{{language|}}}]] </td>
 </tr><tr>
-<th> sanaluokka </th>
-<td> [[Sanaluokka::{{{sanaluokka|}}}]] </td>
-</tr>{{#ifeq:{{{kieli|}}}|suomi|<tr><th> sanamuoto </th>
+<th> wordclass </th>
+<td> [[Word class::{{{wordclass|}}}]] </td>
+</tr>{{#ifeq:{{{language|}}}|fi|<tr><th> sanamuoto </th>
 <td>[[Sanamuoto::{{{sanamuoto|}}}]]</td>
 </tr><tr>
 <th> perussanatyyppi </th>
@@ -20,25 +22,25 @@ Muokkaa tätä sivua, jos haluat nähdä mallineen tekstin.
 <th> yhdysosamuoto tai prefiksi</th>
 <td> [[Yhdysosamuoto::{{{yhdysosamuoto|}}}]] </td>
 </tr>}}
-{{#ifeq:{{{kieli|}}}|suomi||<tr>
+{{#ifeq:{{{language|}}}|fi||<tr>
 <th> suku </th>
 <td> [[Suku::{{{suku|}}}]] </td></tr>
 <tr>
 <th> monikko </th>
 <td> {{{monikko|}}} </td>
 </tr>}}<tr>
-<th> alkuperä </th>
-<td> {{{alkuperä|}}} </td>
+<th> origin </th>
+<td> {{{origin|}}} </td>
 </tr>
 </table>
 
-{{#ask: [[Liittyvä nimitys::+]][[Nimitys::{{FULLPAGENAME}}]][[Kieli::{{{kieli|}}}]]
-|?Referentti
-|?Työryhmä
+{{#ask: [[Related expression::+]][[Expression::{{FULLPAGENAME}}]][[Language::{{{language|}}}]]
+|?Referent
+|?Work group
 |format=template
-|template=Liittyvä käsite
+|template=Related concept
 |link=none}}
 
 
-[[Kategori:Nimitykset]]
+[[Category:Expressions]]
 </includeonly>
