@@ -6,6 +6,7 @@ function print_all_namespaces($xml) {
     foreach ($xml->macro as $macro) {
         print "// " . $macro['id'] . "\n";
         foreach ($macro->label as $label) {
+            $label = str_replace(" ", "_", $label);
             print "wfAddTermNamespace( " . $counter . ", '" . $label . "' );\n";
             $counter++;
             print "wfAddTermNamespace( " . $counter . ", '" . $label . "_talk' );\n";
