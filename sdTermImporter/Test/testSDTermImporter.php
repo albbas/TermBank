@@ -21,9 +21,10 @@
 
 class TestSdTermImporter extends PHPUnit_Framework_TestCase
 {
-    public function testTestXinclude()
+    public function testInitDom()
     {
-        $resultDom = new SdTermImporter('termcenter.xml');
+        $resultDom = new SdTermImporter();
+        $resultDom->initDom('termcenter.xml');
 
         $expectedDom = new DOMDocument();
         $expectedDom->load('result-termcenter.xml');
@@ -55,7 +56,7 @@ class TestSdTermImporter extends PHPUnit_Framework_TestCase
 </entry>
 XML;
 
-        $dom = new SdTermImporter('termcenter.xml');
+        $dom = new SdTermImporter();
 
         $entry = new SimpleXMLElement($xmlstr);
         $result = $dom->getTopicClass($entry);
@@ -88,7 +89,7 @@ XML;
 </entry>
 XML;
 
-        $dom = new SdTermImporter('termcenter.xml');
+        $dom = new SdTermImporter();
         $dom->initSdClass('sd-class.xml');
 
 
@@ -124,7 +125,7 @@ XML;
 </entryref>
 XML;
 
-        $dom = new SdTermImporter('termcenter.xml');
+        $dom = new SdTermImporter();
         $entryref = new SimpleXMLElement($xmlstr);
         $result = $dom->getHead($entryref);
         $expectedResult = "máná biilastuollu";
@@ -156,7 +157,7 @@ XML;
 </entryref>
 XML;
 
-        $dom = new SdTermImporter('termcenter.xml');
+        $dom = new SdTermImporter();
         $entryref = new SimpleXMLElement($xmlstr);
         $result = $dom->getQAChecked($entryref);
         $expectedResult = "true";
@@ -188,18 +189,19 @@ XML;
 </entryref>
 XML;
 
-        $dom = new SdTermImporter('termcenter.xml');
+        $dom = new SdTermImporter();
         $entryref = new SimpleXMLElement($xmlstr);
         $result = $dom->getEntryRefLang($entryref);
         $expectedResult = "sme";
 
         $this->assertEquals($expectedResult, $result);
     }
+
 }
 
 class SdTermImporter
 {
-    function __construct($url)
+    function initDom($url)
     {
         $this->dom = new DOMDocument();
         $this->dom->load($url);
