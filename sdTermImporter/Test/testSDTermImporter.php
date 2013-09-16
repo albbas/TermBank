@@ -19,6 +19,8 @@
  *
  */
 
+include '../sdTermImporter.php';
+
 class TestSdTermImporter extends PHPUnit_Framework_TestCase
 {
     public function testInitDom()
@@ -275,88 +277,6 @@ EOD;
         $result = $dom->makePageContent($entry, $entry->entryref[0]);
 
         $this->assertEquals($expectedResult, $result);
-    }
-}
-
-class SdTermImporter
-{
-    function __construct()
-    {
-        $this->langArray["sme"] = "se";
-        $this->langArray["fin"] = "fi";
-        $this->langArray["nor"] = "nb";
-        $this->langArray["swe"] = "sv";
-    }
-
-    function initDom($url)
-    {
-        $this->dom = new DOMDocument();
-        $this->dom->load($url);
-        // substitute xincludes
-        $this->dom->xinclude();
-
-    }
-
-    function getDom()
-    {
-        return $this->dom;
-    }
-
-    function initSdClass($url)
-    {
-        $this->sdClass = simplexml_load_file($url);
-    }
-
-    function getTopicClass($entry)
-    {
-        return $entry->topicClass["top"];
-    }
-
-    function getTopicClassLangString($top, $lang)
-    {
-        return $this->sdClass->xpath('//macro[@id="' . $top . '"]/label[@xml:lang="' . $lang . '"]/text()')[0];
-    }
-
-    function getHead($entryref)
-    {
-        return $entryref->xpath('.//head/text()')[0];
-    }
-
-    function getEntryRefLang($entryref)
-    {
-        return (string) $entryref->attributes('xml', TRUE)->lang;
-    }
-
-    function getQAChecked($entryref)
-    {
-        if ((string) $entryref->xpath('.//qa["checked"]')[0]['checked'] === 'true') {
-            return 'Yes';
-        } else {
-            return 'No';
-        }
-    }
-
-    function makePageName($entry, $entryref)
-    {
-        return $this->getTopicClassLangString(
-            $this->getTopicClass($entry),
-            $this->getEntryRefLang($entryref)
-            ) . ":" . $this->getHead($entryref);
-    }
-
-    function makePageContent($entry, $entryref)
-    {
-        $result = "{{Concept\n" .
-        "|language=" . $this->langArray[$this->getEntryRefLang($entryref)] . "\n" .
-        "|definition=" . $this->getHead($entryref) . "\n" .
-        "|explanation=" . "\n" .
-        "|more_info=" . "\n" .
-        "|sources=" . "\n" .
-        "|reviewed=" . $this->getQAChecked($entryref) . "\n" .
-        "|no picture=No\n" .
-        "}}\n";
-
-        return $result;
     }
 }
 
