@@ -39,6 +39,19 @@ class TestSdTermImporter extends PHPUnit_Framework_TestCase
 
         $this->assertEquals($expectedResult, $result);
     }
+
+    public function testGetTopicClassLangString()
+    {
+        $dom = new SdTermImporter('termcenter.xml');
+        $dom->initSdClass('sd-class.xml');
+        $top = $dom->getTopicClass("6");
+        $result = $dom->getTopicClassLangString($top, "sme");
+
+        $expectedResult = "Ekologiija ja biras";
+        $this->assertEquals($expectedResult, $result);
+    }
+
+    public function testGet
 }
 
 class SdTermImporter
@@ -46,9 +59,10 @@ class SdTermImporter
     function __construct($url)
     {
         $this->dom = new DOMDocument();
-        $this->dom->load('termcenter.xml');
+        $this->dom->load($url);
         // substitute xincludes
         $this->dom->xinclude();
+
     }
 
     function getDom()
@@ -56,11 +70,21 @@ class SdTermImporter
         return $this->dom;
     }
 
+    function initSdClass($url)
+    {
+        $this->sdClass = simplexml_load_file($url);
+    }
+
     function getTopicClass($entryid)
     {
         $xml = new SimpleXMLElement($this->dom->saveXML());
 
         return $xml->xpath('//entry[@id="' . $entryid . '"]/topicClass["top"]')[0]['top'];
+    }
+
+    function getTopicClassLangString($top, $lang)
+    {
+        return $this->sdClass->xpath('//macro[@id="' . $top . '"]/label[@xml:lang="' . $lang . '"]/text()')[0];
     }
 }
 

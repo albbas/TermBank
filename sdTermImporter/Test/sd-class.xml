@@ -1,0 +1,20 @@
+<classification id="SD-class" metadoc="SD-class-meta.xml">
+    <macro id="B">
+        <label xml:lang="nob">Kunst og litteratur</label>
+        <label xml:lang="sme">Dáidda ja girjjálašvuohta </label>
+        <label xml:lang="smj">Dájddá ja girjálasjvuohta</label>
+        <label xml:lang="sma">Tjiehpiesvuekieh jih tjaaleldahkh</label>
+        <micro id="B0000">
+            <label xml:lang="nob">kunst, musikk og litteratur</label>
+            <label xml:lang="sme">dáidda, musihkka ja girjjálašvuohta </label>
+            <label xml:lang="smj">dájddá, musihkka ja girjálasjvuohta</label>
+            <label xml:lang="sma">tjiehpiesvuekieh, musigke jïh tjaaleldahkh</label>
+        </micro>
+    </macro>
+    <macro id="R">
+        <label xml:lang="nob">Økologi og miljø</label>
+        <label xml:lang="sme">Ekologiija ja biras</label>
+        <label xml:lang="smj">Ekologija ja birás</label>
+        <label xml:lang="sma">Økologije jïh voenge</label>
+    </macro>
+</classification>
