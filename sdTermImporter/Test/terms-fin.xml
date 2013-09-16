@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<terminology id="SD-terms" last-update="20100209115614" xml:lang="fin">
+    <entry id="lastenistuin\S">
+        <common>
+            <head pos="S">lastenistuin</head>
+            <orth status="main"/>
+            <qa checked="true" when="20070321103924" who="mathisoe"/>
+        </common>
+        <senses>
+            <sense idref="6" status="main">
+                <topicClass botm="RN8120" mid="R8100" top="R"/>
+                <synonyms/>
+            </sense>
+        </senses>
+        <changes>
+            <change what="Created the entry" when="20070215103942" who="mathisoe"/>
+        </changes>
+    </entry>
+</terminology>

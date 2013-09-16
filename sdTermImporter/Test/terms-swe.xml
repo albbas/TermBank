@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<terminology id="SD-terms" last-update="20091002130303" xml:lang="swe">
+    <entry id="barnbilstol\S">
+        <common>
+            <head pos="S">barnbilstol</head>
+            <orth status="main"/>
+            <qa checked="true" when="20070531120517" who="mathisoe"/>
+        </common>
+        <senses>
+            <sense idref="6" status="main">
+                <topicClass botm="RN8120" mid="R8100" top="R"/>
+                <synonyms/>
+            </sense>
+        </senses>
+        <changes>
+            <change what="Created the entry" when="20070531120506" who="mathisoe"/>
+        </changes>
+    </entry>
+</terminology>

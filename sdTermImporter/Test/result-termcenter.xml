@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<termCenter xmlns:xi="http://www.w3.org/2001/XInclude" id="SD-terms" ClassSystem="SD-class" last-update="20120123141936" front="front-ref">
+    <entry id="6">
+        <topicClass top="R" mid="R8100" botm="RN8120"/>
+        <entryref xml:lang="sme">
+            <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
+        <common>
+            <head pos="S">m&#xE1;n&#xE1; biilastuollu</head>
+            <infl major="I" minor="g">stuollu - stuolu - stuoluide</infl>
+            <orth status="main"/>
+            <qa checked="true" when="20060106135554" who="risten"/>
+        </common>
+        <senses>
+            <sense idref="6" status="main">
+                <topicClass botm="RN8120" mid="R8100" top="R"/>
+                <synonyms/>
+            </sense>
+        </senses>
+        <changes>
+            <change when="20050401134257" what="Converted from SQL" who="admin"/>
+        </changes>
+    </entry>
+        </entryref>
+        <entryref xml:lang="nor">
+            <entry id="barnesete\S">
+        <common>
+            <head pos="S">barnesete</head>
+            <orth status="main"/>
+            <qa checked="true" when="20050629145006" who="ingam"/>
+        </common>
+        <senses>
+            <sense idref="6" status="main">
+                <topicClass botm="RN8120" mid="R8100" top="R"/>
+                <synonyms/>
+            </sense>
+        </senses>
+        <changes>
+            <change when="20050401134301" what="Converted from SQL" who="admin"/>
+        </changes>
+    </entry>
+        </entryref>
+        <changes>
+            <change when="20050401134255" what="Converted from SQL" who="admin"/>
+            <change what="Added entry for fin" when="20070215103942" who="mathisoe"/>
+            <change what="Added entry for swe" when="20070531120506" who="mathisoe"/>
+        </changes>
+        <entryref xml:lang="fin">
+            <entry id="lastenistuin\S">
+        <common>
+            <head pos="S">lastenistuin</head>
+            <orth status="main"/>
+            <qa checked="true" when="20070321103924" who="mathisoe"/>
+        </common>
+        <senses>
+            <sense idref="6" status="main">
+                <topicClass botm="RN8120" mid="R8100" top="R"/>
+                <synonyms/>
+            </sense>
+        </senses>
+        <changes>
+            <change what="Created the entry" when="20070215103942" who="mathisoe"/>
+        </changes>
+    </entry>
+        </entryref>
+        <entryref xml:lang="swe">
+            <entry id="barnbilstol\S">
+        <common>
+            <head pos="S">barnbilstol</head>
+            <orth status="main"/>
+            <qa checked="true" when="20070531120517" who="mathisoe"/>
+        </common>
+        <senses>
+            <sense idref="6" status="main">
+                <topicClass botm="RN8120" mid="R8100" top="R"/>
+                <synonyms/>
+            </sense>
+        </senses>
+        <changes>
+            <change what="Created the entry" when="20070531120506" who="mathisoe"/>
+        </changes>
+    </entry>
+        </entryref>
+    </entry>
+</termCenter>
+

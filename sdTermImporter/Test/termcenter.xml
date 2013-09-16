@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<termCenter xmlns:xi="http://www.w3.org/2001/XInclude" id="SD-terms" ClassSystem="SD-class" last-update="20120123141936" front="front-ref">
+    <entry id="6">
+        <topicClass top="R" mid="R8100" botm="RN8120"/>
+        <entryref xml:lang="sme">
+            <xi:include href="terms-sme.xml" xpointer="xpointer(//entry[@id='máná_biilastuollu\S'])"/>
+        </entryref>
+        <entryref xml:lang="nor">
+            <xi:include href="terms-nor.xml" xpointer="xpointer(//entry[@id='barnesete\S'])"/>
+        </entryref>
+        <changes>
+            <change when="20050401134255" what="Converted from SQL" who="admin"/>
+            <change what="Added entry for fin" when="20070215103942" who="mathisoe"/>
+            <change what="Added entry for swe" when="20070531120506" who="mathisoe"/>
+        </changes>
+        <entryref xml:lang="fin">
+            <xi:include href="terms-fin.xml" xpointer="xpointer(//entry[@id='lastenistuin\S'])"/>
+        </entryref>
+        <entryref xml:lang="swe">
+            <xi:include href="terms-swe.xml" xpointer="xpointer(//entry[@id='barnbilstol\S'])"/>
+        </entryref>
+    </entry>
+</termCenter>
