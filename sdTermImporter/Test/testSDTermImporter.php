@@ -160,7 +160,7 @@ XML;
         $dom = new SdTermImporter();
         $entryref = new SimpleXMLElement($xmlstr);
         $result = $dom->getQAChecked($entryref);
-        $expectedResult = "true";
+        $expectedResult = "Yes";
 
         $this->assertEquals($expectedResult, $result);
     }
@@ -230,10 +230,64 @@ XML;
 
         $this->assertEquals($expectedResult, $result);
     }
+
+    public function testMakePageContent()
+    {
+        $xmlstr = <<<XML
+<entry id="6">
+    <topicClass top="R" mid="R8100" botm="RN8120"/>
+    <entryref xml:lang="sme">
+        <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
+            <common>
+                <head pos="S">m&#xE1;n&#xE1; biilastuollu</head>
+                <infl major="I" minor="g">stuollu - stuolu - stuoluide</infl>
+                <orth status="main"/>
+                <qa checked="true" when="20060106135554" who="risten"/>
+            </common>
+            <senses>
+                <sense idref="6" status="main">
+                    <topicClass botm="RN8120" mid="R8100" top="R"/>
+                    <synonyms/>
+                </sense>
+            </senses>
+        </entry>
+    </entryref>
+</entry>
+XML;
+
+        $expectedResult = <<<EOD
+{{Concept
+|language=se
+|definition=máná biilastuollu
+|explanation=
+|more_info=
+|sources=
+|reviewed=Yes
+|no picture=No
+}}
+
+EOD;
+
+        $dom = new SdTermImporter();
+        $dom->initSdClass('sd-class.xml');
+        $entry = new SimpleXMLElement($xmlstr);
+
+        $result = $dom->makePageContent($entry, $entry->entryref[0]);
+
+        $this->assertEquals($expectedResult, $result);
+    }
 }
 
 class SdTermImporter
 {
+    function __construct()
+    {
+        $this->langArray["sme"] = "se";
+        $this->langArray["fin"] = "fi";
+        $this->langArray["nor"] = "nb";
+        $this->langArray["swe"] = "sv";
+    }
+
     function initDom($url)
     {
         $this->dom = new DOMDocument();
@@ -270,12 +324,16 @@ class SdTermImporter
 
     function getEntryRefLang($entryref)
     {
-        return $entryref->attributes('xml', TRUE)->lang;
+        return (string) $entryref->attributes('xml', TRUE)->lang;
     }
 
     function getQAChecked($entryref)
     {
-        return $entryref->xpath('.//qa["checked"]')[0]['checked'];
+        if ((string) $entryref->xpath('.//qa["checked"]')[0]['checked'] === 'true') {
+            return 'Yes';
+        } else {
+            return 'No';
+        }
     }
 
     function makePageName($entry, $entryref)
@@ -284,6 +342,21 @@ class SdTermImporter
             $this->getTopicClass($entry),
             $this->getEntryRefLang($entryref)
             ) . ":" . $this->getHead($entryref);
+    }
+
+    function makePageContent($entry, $entryref)
+    {
+        $result = "{{Concept\n" .
+        "|language=" . $this->langArray[$this->getEntryRefLang($entryref)] . "\n" .
+        "|definition=" . $this->getHead($entryref) . "\n" .
+        "|explanation=" . "\n" .
+        "|more_info=" . "\n" .
+        "|sources=" . "\n" .
+        "|reviewed=" . $this->getQAChecked($entryref) . "\n" .
+        "|no picture=No\n" .
+        "}}\n";
+
+        return $result;
     }
 }
 
