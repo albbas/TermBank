@@ -31,6 +31,14 @@ class TestSdTermImporter extends PHPUnit_Framework_TestCase
         $this->assertEquals($resultDom->getDom()->saveXML(), $expectedDom->saveXML());
     }
 
+    public function testGetTopicClass()
+    {
+        $dom = new SdTermImporter('termcenter.xml');
+        $result = $dom->getTopicClass("6");
+        $expectedResult = "R";
+
+        $this->assertEquals($expectedResult, $result);
+    }
 }
 
 class SdTermImporter
@@ -46,6 +54,13 @@ class SdTermImporter
     function getDom()
     {
         return $this->dom;
+    }
+
+    function getTopicClass($entryid)
+    {
+        $xml = new SimpleXMLElement($this->dom->saveXML());
+
+        return $xml->xpath('//entry[@id="' . $entryid . '"]/topicClass["top"]')[0]['top'];
     }
 }
 
