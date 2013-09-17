@@ -279,7 +279,7 @@ EOD;
         $this->assertEquals($expectedResult, $result);
     }
 
-    public function testMakeRelatedExpression()
+    public function testMakeRelatedExpressionFromEntryRef()
     {
         $xmlstr = <<<XML
 <entry id="6">
@@ -316,7 +316,7 @@ EOD;
         $dom->initSdClass('sd-class.xml');
         $entry = new SimpleXMLElement($xmlstr);
 
-        $result = $dom->makeRelatedExpression($entry, $entry->entryref[0]);
+        $result = $dom->makeRelatedExpression($entry->entryref[0]);
 
         $this->assertEquals($expectedResult, $result);
     }
