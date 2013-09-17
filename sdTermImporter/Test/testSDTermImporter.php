@@ -317,5 +317,87 @@ EOD;
 
         $this->assertEquals($expectedResult, $result);
     }
+
+    public function testFindSynonyms()
+    {
+        $xmlstr = <<<XML
+<entry id="6">
+    <topicClass top="R" mid="R8100" botm="RN8120"/>
+    <entryref xml:lang="sme">
+        <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
+            <common>
+                <head pos="S">m&#xE1;n&#xE1; biilastuollu</head>
+                <infl major="I" minor="g">stuollu - stuolu - stuoluide</infl>
+                <orth status="main"/>
+                <qa checked="true" when="20060106135554" who="risten"/>
+            </common>
+            <senses>
+                <sense idref="6" status="main">
+                    <topicClass botm="RN8120" mid="R8100" top="R"/>
+                    <synonyms>
+                        <synonym synref="máksimuš\S"/>
+                        <synonym synref="čujuhus\S"/>
+                    </synonyms>
+                </sense>
+            </senses>
+        </entry>
+    </entryref>
+</entry>
+XML;
+
+        $expectedResult = array(new SimpleXMLElement('<synonym synref="máksimuš\S"/>'), new SimpleXMLElement('<synonym synref="čujuhus\S"/>'));
+
+        $dom = new SdTermImporter();
+        $entry = new SimpleXMLElement($xmlstr);
+
+        $result = $dom->findSynonyms($entry);
+
+        $this->assertEquals($expectedResult, $result);
+    }
+
+    /*<<<EOD
+{{Related expression
+|language=se
+|expression=máksimuš
+|in_header=No
+}}
+EOD;*/
+
+    /*$synonym = <<<XML
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<terminology id="SD-terms" last-update="20120123141936" xml:lang="sme">
+    <entry id="máksimuš\S">
+        <common>
+            <head pos="S">máksimuš</head>
+            <orth status="main"/>
+            <qa checked="false"/>
+        </common>
+        <senses>
+            <sense idref="19034" mainref="máksámuš\S" status="syn">
+                <topicClass botm="" mid="D0000" top="D"/>
+            </sense>
+        </senses>
+        <changes>
+            <change what="Added entry by inclusion from 'máksámuš\S'" when="20061107123635" who="ingam"/>
+        </changes>
+    </entry>
+        <entry id="máksineiseváldi\S">
+        <common>
+            <head pos="S">máksineiseváldi</head>
+            <orth status="main"/>
+            <qa checked="false"/>
+        </common>
+        <senses>
+            <sense idref="19035" status="main">
+                <topicClass botm="" mid="A0000" top="A"/>
+            </sense>
+        </senses>
+        <changes>
+            <change what="Created the entry" when="20061107123822" who="ingam"/>
+        </changes>
+    </entry>
+</terminology>
+XML;*/
+
 }
 ?>

@@ -110,6 +110,17 @@ class SdTermImporter
 
         return $result;
     }
+
+    /*
+     * entry is a entry from termcenter
+     * returns an array of synonym elements
+     * from a sense with idref identical to the entry id
+     */
+    function findSynonyms($entry)
+    {
+        $id = $entry['id'];
+        return $entry->xpath('.//sense[@idref="' . $id . '"]//synonym');
+    }
 }
 
 ?>
