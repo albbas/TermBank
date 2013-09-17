@@ -85,7 +85,7 @@ class SdTermImporter
             ) . ":" . $this->getHead($entryref);
     }
 
-    function makePageContent($entry, $entryref)
+    function makeConcept($entry, $entryref)
     {
         $result = "{{Concept\n" .
         "|language=" . $this->langArray[$this->getEntryRefLang($entryref)] . "\n" .
@@ -95,6 +95,17 @@ class SdTermImporter
         "|sources=" . "\n" .
         "|reviewed=" . $this->getQAChecked($entryref) . "\n" .
         "|no picture=No\n" .
+        "}}\n";
+
+        return $result;
+    }
+
+    function makeRelatedExpression($entry, $entryref)
+    {
+        $result = "{{Related expression\n" .
+        "|language=" . $this->langArray[$this->getEntryRefLang($entryref)] . "\n" .
+        "|expression=" . $this->getHead($entryref) . "\n" .
+        "|in_header=No" . "\n" .
         "}}\n";
 
         return $result;
