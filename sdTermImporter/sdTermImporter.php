@@ -100,7 +100,7 @@ class SdTermImporter
         return $result;
     }
 
-    function makeRelatedExpression($entryref)
+    function makeRelatedExpressionFromEntryRef($entryref)
     {
         $result = "{{Related expression\n" .
         "|language=" . $this->langArray[$this->getEntryRefLang($entryref)] . "\n" .
