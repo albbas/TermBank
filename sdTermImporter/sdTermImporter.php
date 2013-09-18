@@ -90,7 +90,7 @@ class SdTermImporter
         $result = "{{Concept\n" .
         "|language=" . $this->langArray[$this->getEntryRefLang($entryref)] . "\n" .
         "|definition=" . $this->getHead($entryref) . "\n" .
-        "|explanation=" . "\n" .
+        "|explanation=" . $this->findDef($entry, $this->getEntryRefLang($entryref)) . "\n" .
         "|more_info=" . "\n" .
         "|sources=" . "\n" .
         "|reviewed=" . $this->getQAChecked($entryref) . "\n" .
@@ -125,7 +125,7 @@ class SdTermImporter
         return $entryref[0]->xpath('.//sense[@idref="' . $id . '"]//synonym');
     }
 
-    function makeRelatedExpressionFromSynonymEntries($synref, $lang, $xml)
+    function makeRelatedExpressionFromSynonymEntry($synref, $lang, $xml)
     {
         $entry = $xml->xpath('//entry[@id="' . $synref . '"]');
 
@@ -144,8 +144,8 @@ class SdTermImporter
     {
         $id = $entry['id'];
         $entryref = $entry->xpath('.//entryref[@xml:lang="' . $lang . '"]');
-
-        return $entryref[0]->xpath('.//sense[@idref="' . $id . '"]/def/text()');
+        $def = $entryref[0]->xpath('.//sense[@idref="' . $id . '"]/def/text()');
+        return $def[0];
     }
 }
 

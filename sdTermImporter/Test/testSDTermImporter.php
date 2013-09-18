@@ -249,6 +249,7 @@ XML;
             <senses>
                 <sense idref="6" status="main">
                     <topicClass botm="RN8120" mid="R8100" top="R"/>
+                    <def>abcde</def>
                     <synonyms/>
                 </sense>
             </senses>
@@ -261,7 +262,7 @@ XML;
 {{Concept
 |language=se
 |definition=máná biilastuollu
-|explanation=
+|explanation=abcde
 |more_info=
 |sources=
 |reviewed=Yes
@@ -366,7 +367,7 @@ XML;
         $this->assertEquals($expectedResult, $result);
     }
 
-    function testFindSynonymEntries() {
+    function testMakeRelatedExpressionFromSynonymEntry() {
         $synonym = <<<XML
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <terminology id="SD-terms" last-update="20120123141936" xml:lang="sme">
@@ -414,7 +415,7 @@ EOD;
         $dom = new SdTermImporter();
         $dom->initSdClass('sd-class.xml');
 
-        $result = $dom->makeRelatedExpressionFromSynonymEntries("máksimuš\S", "sme", new SimpleXMLElement($synonym));
+        $result = $dom->makeRelatedExpressionFromSynonymEntry("máksimuš\S", "sme", new SimpleXMLElement($synonym));
 
         $this->assertEquals($expectedResult, $result);
     }
@@ -446,7 +447,7 @@ EOD;
 </entry>
 XML;
 
-        $expectedResult = array('abcde');
+        $expectedResult = 'abcde';
 
         $dom = new SdTermImporter();
         $entry = new SimpleXMLElement($xmlstr);
