@@ -342,6 +342,17 @@ EOD;
             </senses>
         </entry>
     </entryref>
+    <entryref xml:lang="nor">
+        <entry>
+            <senses>
+                <sense idref="6">
+                    <synonyms>
+                        <synonym synref="abba\S"/>
+                    </synonyms>
+                </sense>
+            </senses>
+        </entry>
+    </entryref>
 </entry>
 XML;
 
@@ -350,20 +361,13 @@ XML;
         $dom = new SdTermImporter();
         $entry = new SimpleXMLElement($xmlstr);
 
-        $result = $dom->findSynonyms($entry);
+        $result = $dom->findSynonyms($entry, "sme");
 
         $this->assertEquals($expectedResult, $result);
     }
 
-    /*<<<EOD
-{{Related expression
-|language=se
-|expression=máksimuš
-|in_header=No
-}}
-EOD;*/
-
-    /*$synonym = <<<XML
+    function testFindSynonymEntries() {
+        $synonym = <<<XML
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <terminology id="SD-terms" last-update="20120123141936" xml:lang="sme">
     <entry id="máksimuš\S">
@@ -397,7 +401,60 @@ EOD;*/
         </changes>
     </entry>
 </terminology>
-XML;*/
+XML;
+
+        $expectedResult = <<<EOD
+{{Related expression
+|language=se
+|expression=máksimuš
+|in_header=No
+}}
+
+EOD;
+        $dom = new SdTermImporter();
+        $dom->initSdClass('sd-class.xml');
+
+        $result = $dom->makeRelatedExpressionFromSynonymEntries("máksimuš\S", "sme", new SimpleXMLElement($synonym));
+
+        $this->assertEquals($expectedResult, $result);
+    }
+
+    public function testFindDef()
+    {
+        $xmlstr = <<<XML
+<entry id="6">
+    <topicClass top="R" mid="R8100" botm="RN8120"/>
+    <entryref xml:lang="sme">
+        <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
+            <senses>
+                <sense idref="6" status="main">
+                    <topicClass botm="RN8120" mid="R8100" top="R"/>
+                    <def>abcde</def>
+                </sense>
+            </senses>
+        </entry>
+    </entryref>
+    <entryref xml:lang="nor">
+        <entry>
+            <senses>
+                <sense idref="6">
+                    <def>fghij</def>
+                </sense>
+            </senses>
+        </entry>
+    </entryref>
+</entry>
+XML;
+
+        $expectedResult = array('abcde');
+
+        $dom = new SdTermImporter();
+        $entry = new SimpleXMLElement($xmlstr);
+
+        $result = $dom->findDef($entry, "sme");
+
+        $this->assertEquals($expectedResult, $result);
+    }
 
 }
 ?>

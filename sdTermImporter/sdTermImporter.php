@@ -112,14 +112,40 @@ class SdTermImporter
     }
 
     /*
-     * entry is a entry from termcenter
+     * entry is an entry from termcenter
      * returns an array of synonym elements
+     * from an entryref with lang
      * from a sense with idref identical to the entry id
      */
-    function findSynonyms($entry)
+    function findSynonyms($entry, $lang)
     {
         $id = $entry['id'];
-        return $entry->xpath('.//sense[@idref="' . $id . '"]//synonym');
+        $entryref = $entry->xpath('.//entryref[@xml:lang="' . $lang . '"]');
+
+        return $entryref[0]->xpath('.//sense[@idref="' . $id . '"]//synonym');
+    }
+
+    function makeRelatedExpressionFromSynonymEntries($synref, $lang, $xml)
+    {
+        $entry = $xml->xpath('//entry[@id="' . $synref . '"]');
+
+        if (count($entry) === 1) {
+            $result = "{{Related expression\n" .
+            "|language=" . $this->langArray[$lang] . "\n" .
+            "|expression=" . $this->getHead($entry[0]) . "\n" .
+            "|in_header=No" . "\n" .
+            "}}\n";
+
+            return $result;
+        }
+    }
+
+    function findDef($entry, $lang)
+    {
+        $id = $entry['id'];
+        $entryref = $entry->xpath('.//entryref[@xml:lang="' . $lang . '"]');
+
+        return $entryref[0]->xpath('.//sense[@idref="' . $id . '"]/def/text()');
     }
 }
 
