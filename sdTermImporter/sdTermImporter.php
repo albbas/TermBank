@@ -48,6 +48,11 @@ class SdTermImporter
         $this->sdClass = simplexml_load_file($url);
     }
 
+    function initSynonym($xmlstr, $lang)
+    {
+        $this->synArray[$lang] = new SimpleXMLElement($xmlstr);
+    }
+
     function getTopicClass($entry)
     {
         return $entry->topicClass["top"];
@@ -146,6 +151,21 @@ class SdTermImporter
         $entryref = $entry->xpath('.//entryref[@xml:lang="' . $lang . '"]');
         $def = $entryref[0]->xpath('.//sense[@idref="' . $id . '"]/def/text()');
         return $def[0];
+    }
+
+    function makePageContent($entry, $entryref)
+    {
+        $result = "";
+        $result = $result . $this->makeConcept($entry, $entryref);
+        $lang = $this->getEntryRefLang($entryref);
+        foreach ($this->findSynonyms($entry, $lang) as $synonym) {
+            $result = $result . $this->makeRelatedExpressionFromSynonymEntry($synonym['synref'], $lang, $this->synArray[$lang]);
+        }
+        foreach ($entry->xpath('./entryref') as $eref) {
+            $result = $result . $this->makeRelatedExpressionFromEntryRef($eref);
+        }
+
+        return $result;
     }
 }
 
