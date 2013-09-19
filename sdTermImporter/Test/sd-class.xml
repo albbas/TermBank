@@ -17,4 +17,10 @@
         <label xml:lang="smj">Ekologija ja birás</label>
         <label xml:lang="sma">Økologije jïh voenge</label>
     </macro>
+    <macro id="T">
+        <label xml:lang="nob">Fiskeri</label>
+        <label xml:lang="sme">Guolástus </label>
+        <label xml:lang="smj">Guolástus</label>
+        <label xml:lang="sma">Gøølemdahke</label>
+    </macro>
 </classification>
