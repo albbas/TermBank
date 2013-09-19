@@ -63,9 +63,13 @@ class SdTermImporter
         return $entry->topicClass["top"];
     }
 
-    function getTopicClassLangString($top, $lang)
+    /*
+     * Lang is hard coded to sme because that is what is used in
+     * the saami termwiki
+     */
+    function getTopicClassLangString($top)
     {
-        return $this->sdClass->xpath('//macro[@id="' . $top . '"]/label[@xml:lang="' . $lang . '"]/text()')[0];
+        return $this->sdClass->xpath('//macro[@id="' . $top . '"]/label[@xml:lang="sme"]/text()')[0];
     }
 
     function getHead($entryref)

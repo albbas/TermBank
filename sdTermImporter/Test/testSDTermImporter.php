@@ -97,7 +97,7 @@ XML;
 
         $entry = new SimpleXMLElement($xmlstr);
         $top = $dom->getTopicClass($entry);
-        $result = $dom->getTopicClassLangString($top, "sme");
+        $result = $dom->getTopicClassLangString($top);
 
         $expectedResult = "Ekologiija ja biras";
         $this->assertEquals($expectedResult, $result);
