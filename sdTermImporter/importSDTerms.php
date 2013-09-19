@@ -35,12 +35,15 @@ include 'sdTermImporter.php';
 
     $termcenter = new SimpleXMLElement($dom->getDom()->saveXML());
 
+    $counter = 1;
     foreach ($termcenter->entry as $entry) {
+        $counter++;
         foreach($entry->entryref as $entryref) {
             if (in_array($dom->getEntryRefLang($entryref), $langs)) {
-                print $dom->makePageName($entry, $entryref) . "\n";
-                print $dom->makePageContent($entry, $entryref). "\n\n\n";
+                print $dom->makeConceptPageName($entry, $entryref) . "\n";
+                print $dom->makeConceptPageContent($entry, $entryref). "\n\n\n";
             }
         }
     }
+    print $counter . "\n";
 ?>

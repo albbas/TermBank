@@ -187,7 +187,7 @@ XML;
         $this->assertEquals($expectedResult, $result);
     }
 
-    public function testMakePageName()
+    public function testMakeConceptPageName()
     {
         $xmlstr = <<<XML
 <entry id="6">
@@ -215,7 +215,7 @@ XML;
         $dom->initSdClass('sd-class.xml');
 
         $entry = new SimpleXMLElement($xmlstr);
-        $result = $dom->makePageName($entry, $entry->entryref[0]);
+        $result = $dom->makeConceptPageName($entry, $entry->entryref[0]);
         $expectedResult = "Ekologiija ja biras:máná biilastuollu";
 
         $this->assertEquals($expectedResult, $result);
@@ -481,7 +481,7 @@ XML;
         $this->assertEquals($expectedResult, $result);
     }
 
-    public function testMakePageContent()
+    public function testMakeConceptPageContent()
     {
 
         $xmlstr = <<<XML
@@ -574,7 +574,7 @@ EOF;
 
         $entry = new SimpleXMLElement($xmlstr);
 
-        $result = $dom->makePageContent($entry, $entry->entryref[0]);
+        $result = $dom->makeConceptPageContent($entry, $entry->entryref[0]);
 
         $this->assertEquals($expectedResult, $result);
     }

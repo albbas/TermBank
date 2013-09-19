@@ -91,7 +91,7 @@ class SdTermImporter
         }
     }
 
-    function makePageName($entry, $entryref)
+    function makeConceptPageName($entry, $entryref)
     {
         return $this->getTopicClassLangString(
             $this->getTopicClass($entry),
@@ -166,7 +166,7 @@ class SdTermImporter
         }
     }
 
-    function makePageContent($entry, $entryref)
+    function makeConceptPageContent($entry, $entryref)
     {
         $result = "";
         $result = $result . $this->makeConcept($entry, $entryref);
