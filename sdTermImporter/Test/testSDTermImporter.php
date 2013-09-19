@@ -39,22 +39,6 @@ class TestSdTermImporter extends PHPUnit_Framework_TestCase
         $xmlstr = <<<XML
 <entry id="6">
     <topicClass top="R" mid="R8100" botm="RN8120"/>
-    <entryref xml:lang="sme">
-        <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
-            <common>
-                <head pos="S">m&#xE1;n&#xE1; biilastuollu</head>
-                <infl major="I" minor="g">stuollu - stuolu - stuoluide</infl>
-                <orth status="main"/>
-                <qa checked="true" when="20060106135554" who="risten"/>
-            </common>
-            <senses>
-                <sense idref="6" status="main">
-                    <topicClass botm="RN8120" mid="R8100" top="R"/>
-                    <synonyms/>
-                </sense>
-            </senses>
-        </entry>
-    </entryref>
 </entry>
 XML;
 
@@ -72,22 +56,6 @@ XML;
         $xmlstr = <<<XML
 <entry id="6">
     <topicClass top="R" mid="R8100" botm="RN8120"/>
-    <entryref xml:lang="sme">
-        <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
-            <common>
-                <head pos="S">m&#xE1;n&#xE1; biilastuollu</head>
-                <infl major="I" minor="g">stuollu - stuolu - stuoluide</infl>
-                <orth status="main"/>
-                <qa checked="true" when="20060106135554" who="risten"/>
-            </common>
-            <senses>
-                <sense idref="6" status="main">
-                    <topicClass botm="RN8120" mid="R8100" top="R"/>
-                    <synonyms/>
-                </sense>
-            </senses>
-        </entry>
-    </entryref>
 </entry>
 XML;
 
@@ -108,22 +76,6 @@ XML;
         $xmlstr = <<<XML
 <entry id="6">
     <topicClass top="T" mid="R8100" botm="RN8120"/>
-    <entryref xml:lang="sme">
-        <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
-            <common>
-                <head pos="S">m&#xE1;n&#xE1; biilastuollu</head>
-                <infl major="I" minor="g">stuollu - stuolu - stuoluide</infl>
-                <orth status="main"/>
-                <qa checked="true" when="20060106135554" who="risten"/>
-            </common>
-            <senses>
-                <sense idref="6" status="main">
-                    <topicClass botm="RN8120" mid="R8100" top="R"/>
-                    <synonyms/>
-                </sense>
-            </senses>
-        </entry>
-    </entryref>
 </entry>
 XML;
 
