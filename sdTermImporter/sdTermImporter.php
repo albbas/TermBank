@@ -69,7 +69,7 @@ class SdTermImporter
      */
     function getTopicClassLangString($top)
     {
-        return $this->sdClass->xpath('//macro[@id="' . $top . '"]/label[@xml:lang="sme"]/text()')[0];
+        return (string) $this->sdClass->xpath('//macro[@id="' . $top . '"]/label[@xml:lang="sme"]/text()')[0];
     }
 
     function getHead($entryref)
