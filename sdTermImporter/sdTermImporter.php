@@ -159,7 +159,11 @@ class SdTermImporter
         $id = $entry['id'];
         $entryref = $entry->xpath('.//entryref[@xml:lang="' . $lang . '"]');
         $def = $entryref[0]->xpath('.//sense[@idref="' . $id . '"]/def/text()');
-        return $def[0];
+        if ($def) {
+            return $def[0];
+        } else {
+            return "";
+        }
     }
 
     function makePageContent($entry, $entryref)

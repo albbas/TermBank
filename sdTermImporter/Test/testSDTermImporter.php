@@ -420,7 +420,7 @@ EOD;
         $this->assertEquals($expectedResult, $result);
     }
 
-    public function testFindDef()
+    public function testFindDefWhenDefExists()
     {
         $xmlstr = <<<XML
 <entry id="6">
@@ -448,6 +448,42 @@ EOD;
 XML;
 
         $expectedResult = 'abcde';
+
+        $dom = new SdTermImporter();
+        $entry = new SimpleXMLElement($xmlstr);
+
+        $result = $dom->findDef($entry, "sme");
+
+        $this->assertEquals($expectedResult, $result);
+    }
+
+    public function testFindDefWhenDefDoesNotExist()
+    {
+        $xmlstr = <<<XML
+<entry id="6">
+    <topicClass top="R" mid="R8100" botm="RN8120"/>
+    <entryref xml:lang="sme">
+        <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
+            <senses>
+                <sense idref="6" status="main">
+                    <topicClass botm="RN8120" mid="R8100" top="R"/>
+                </sense>
+            </senses>
+        </entry>
+    </entryref>
+    <entryref xml:lang="nor">
+        <entry>
+            <senses>
+                <sense idref="6">
+                    <def>fghij</def>
+                </sense>
+            </senses>
+        </entry>
+    </entryref>
+</entry>
+XML;
+
+        $expectedResult = '';
 
         $dom = new SdTermImporter();
         $entry = new SimpleXMLElement($xmlstr);
