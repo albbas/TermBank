@@ -118,7 +118,7 @@ XML;
         $dom = new SdTermImporter();
         $entryref = new SimpleXMLElement($xmlstr);
         $result = $dom->getHead($entryref);
-        $expectedResult = "máná biilastuollu";
+        $expectedResult = "Máná biilastuollu";
 
         $this->assertEquals($expectedResult, $result);
     }
@@ -216,7 +216,7 @@ XML;
 
         $entry = new SimpleXMLElement($xmlstr);
         $result = $dom->makeConceptPageName($entry, $entry->entryref[0]);
-        $expectedResult = "Ekologiija ja biras:máná biilastuollu";
+        $expectedResult = "Ekologiija ja biras:Máná biilastuollu";
 
         $this->assertEquals($expectedResult, $result);
     }
@@ -249,7 +249,7 @@ XML;
         $expectedResult = <<<EOD
 {{Concept
 |language=se
-|definition=máná biilastuollu
+|definition=Máná biilastuollu
 |explanation=abcde
 |more_info=
 |sources=
@@ -292,7 +292,7 @@ XML;
         $expectedResult = <<<EOD
 {{Related expression
 |language=se
-|expression=máná biilastuollu
+|expression=Máná biilastuollu
 |in_header=No
 }}
 
@@ -395,7 +395,7 @@ XML;
         $expectedResult = <<<EOD
 {{Related expression
 |language=se
-|expression=máksimuš
+|expression=Máksimuš
 |in_header=No
 }}
 
@@ -548,7 +548,7 @@ XML;
         $expectedResult = <<<EOF
 {{Concept
 |language=se
-|definition=máná biilastuollu
+|definition=Máná biilastuollu
 |explanation=abcde
 |more_info=
 |sources=
@@ -557,12 +557,12 @@ XML;
 }}
 {{Related expression
 |language=se
-|expression=máksimuš
+|expression=Máksimuš
 |in_header=No
 }}
 {{Related expression
 |language=se
-|expression=máná biilastuollu
+|expression=Máná biilastuollu
 |in_header=No
 }}
 

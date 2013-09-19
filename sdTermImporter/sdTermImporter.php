@@ -74,7 +74,7 @@ class SdTermImporter
 
     function getHead($entryref)
     {
-        return trim((string) $entryref->xpath('.//head/text()')[0]);
+        return ucfirst(trim((string) $entryref->xpath('.//head/text()')[0]));
     }
 
     function getEntryRefLang($entryref)
