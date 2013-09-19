@@ -53,6 +53,11 @@ class SdTermImporter
         $this->synArray[$lang] = new SimpleXMLElement($xmlstr);
     }
 
+    function initSynonymUrl($url, $lang)
+    {
+        $this->synArray[$lang] = simplexml_load_file($url);
+    }
+
     function getTopicClass($entry)
     {
         return $entry->topicClass["top"];
