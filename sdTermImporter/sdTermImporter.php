@@ -74,12 +74,12 @@ class SdTermImporter
 
     function getHead($entryref)
     {
-        return $entryref->xpath('.//head/text()')[0];
+        return trim((string) $entryref->xpath('.//head/text()')[0]);
     }
 
     function getEntryRefLang($entryref)
     {
-        return (string) $entryref->attributes('xml', TRUE)->lang;
+        return trim((string) $entryref->attributes('xml', TRUE)->lang);
     }
 
     function getQAChecked($entryref)
@@ -160,7 +160,7 @@ class SdTermImporter
         $entryref = $entry->xpath('.//entryref[@xml:lang="' . $lang . '"]');
         $def = $entryref[0]->xpath('.//sense[@idref="' . $id . '"]/def/text()');
         if ($def) {
-            return $def[0];
+            return trim( (string) $def[0]);
         } else {
             return "";
         }
