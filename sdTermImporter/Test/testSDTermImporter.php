@@ -578,5 +578,19 @@ EOF;
 
         $this->assertEquals($expectedResult, $result);
     }
+
+    public function testPos()
+    {
+        $origPos = array('A', 'ABBR', 'Adv', 'PP', 'Pron', 'S', 'V');
+        $expectedResult = array('A', 'N', 'Adv', 'N', 'Pron', 'N', 'V');
+
+        $dom = new SdTermImporter();
+        $result = array();
+        foreach ($origPos as $pos) {
+            $result[] = $dom->getPos($pos);
+        }
+
+        $this->assertEquals($expectedResult, $result);
+    }
 }
 ?>

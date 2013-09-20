@@ -27,6 +27,19 @@ class SdTermImporter
         $this->langArray["fin"] = "fi";
         $this->langArray["nor"] = "nb";
         $this->langArray["swe"] = "sv";
+
+        $this->posArray["A"] = "A";
+        $this->posArray["ABBR"] = "N";
+        $this->posArray["Adv"] = "Adv";
+        $this->posArray["PP"] = "N";
+        $this->posArray["Pron"] = "Pron";
+        $this->posArray["S"] = "N";
+        $this->posArray["V"] = "V";
+    }
+
+    function getPos($origPos)
+    {
+        return $this->posArray[$origPos];
     }
 
     function initDom($url)
