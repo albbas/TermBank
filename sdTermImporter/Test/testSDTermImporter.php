@@ -243,17 +243,38 @@ XML;
             </senses>
         </entry>
     </entryref>
+    <entryref xml:lang="nor">
+        <entry id="barnesete\S">
+            <common>
+                <head pos="S">barnesete</head>
+                <orth status="main"/>
+                <qa checked="true" when="20050629145006" who="ingam"/>
+            </common>
+            <senses>
+                <sense idref="6" status="main">
+                    <topicClass botm="RN8120" mid="R8100" top="R"/>
+                    <synonyms/>
+                </sense>
+            </senses>
+            <changes>
+                <change when="20050401134301" what="Converted from SQL" who="admin"/>
+            </changes>
+        </entry>
+    </entryref>
 </entry>
 XML;
 
         $expectedResult = <<<EOD
 {{Concept
-|language=se
-|definition=Máná biilastuollu
-|explanation=abcde
-|more_info=
+|definition_se=Máná biilastuollu
+|explanation_se=abcde
+|more_info_se=
+|definition_nb=Barnesete
+|explanation_nb=
+|more_info_nb=
 |sources=
 |reviewed=Yes
+|category=
 |no picture=No
 }}
 
@@ -547,10 +568,12 @@ XML;
 
         $expectedResult = <<<EOF
 {{Concept
-|language=se
-|definition=Máná biilastuollu
-|explanation=abcde
-|more_info=
+|definition_se=Máná biilastuollu
+|explanation_se=abcde
+|more_info_se=
+|definition_nb=Barnesete
+|explanation_nb=abcde
+|more_info_nb=
 |sources=
 |reviewed=Yes
 |no picture=No
@@ -563,6 +586,11 @@ XML;
 {{Related expression
 |language=se
 |expression=Máná biilastuollu
+|in_header=No
+}}
+{{Related expression
+|language=nb
+|expression=Barnesete
 |in_header=No
 }}
 
