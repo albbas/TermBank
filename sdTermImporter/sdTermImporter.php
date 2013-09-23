@@ -158,9 +158,9 @@ class SdTermImporter
         return $entryref[0]->xpath('.//sense[@idref="' . $id . '"]//synonym');
     }
 
-    function makeRelatedExpressionFromSynonymEntry($synref, $lang, $xml)
+    function makeRelatedExpressionFromSynonymEntry($synref, $lang)
     {
-        $entry = $xml->xpath('//entry[@id="' . $synref . '"]');
+        $entry = $this->synArray[$lang]->xpath('//entry[@id="' . $synref . '"]');
 
         if (count($entry) === 1) {
             $result = "{{Related expression\n" .
@@ -185,16 +185,20 @@ class SdTermImporter
         }
     }
 
-    function makeConceptPageContent($entry, $entryref)
+    function makeConceptPageContent($entry)
     {
         $result = "";
         $result = $result . $this->makeConcept($entry);
-        $lang = $this->getEntryRefLang($entryref);
-        foreach ($this->findSynonyms($entry, $lang) as $synonym) {
-            $result = $result . $this->makeRelatedExpressionFromSynonymEntry($synonym['synref'], $lang, $this->synArray[$lang]);
+
+        foreach($entry->entryref as $entryref) {
+            $lang = $this->getEntryRefLang($entryref);
+            foreach ($this->findSynonyms($entry, $lang) as $synonym) {
+                $result = $result . $this->makeRelatedExpressionFromSynonymEntry($synonym['synref'], $lang);
+            }
         }
-        foreach ($entry->xpath('./entryref') as $eref) {
-            $result = $result . $this->makeRelatedExpressionFromEntryRef($eref);
+
+        foreach ($entry->entryref as $entryref) {
+            $result = $result . $this->makeRelatedExpressionFromEntryRef($entryref);
         }
 
         return $result;

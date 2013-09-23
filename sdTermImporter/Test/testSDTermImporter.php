@@ -424,8 +424,9 @@ XML;
 EOD;
         $dom = new SdTermImporter();
         $dom->initSdClass('sd-class.xml');
+        $dom->initSynonym($synonym, "sme");
 
-        $result = $dom->makeRelatedExpressionFromSynonymEntry("máksimuš\S", "sme", new SimpleXMLElement($synonym));
+        $result = $dom->makeRelatedExpressionFromSynonymEntry("máksimuš\S", "sme");
 
         $this->assertEquals($expectedResult, $result);
     }
@@ -596,7 +597,7 @@ EOF;
 
         $entry = new SimpleXMLElement($xmlstr);
 
-        $result = $dom->makeConceptPageContent($entry, $entry->entryref[0]);
+        $result = $dom->makeConceptPageContent($entry);
 
         $this->assertEquals($expectedResult, $result);
     }
