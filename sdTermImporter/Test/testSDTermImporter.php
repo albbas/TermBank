@@ -269,11 +269,12 @@ XML;
 |definition_se=Máná biilastuollu
 |explanation_se=abcde
 |more_info_se=
+|reviewed_se=Yes
 |definition_nb=Barnesete
 |explanation_nb=
 |more_info_nb=
+|reviewed_nb=Yes
 |sources=
-|reviewed=Yes
 |category=
 |no picture=No
 }}
@@ -284,7 +285,7 @@ EOD;
         $dom->initSdClass('sd-class.xml');
         $entry = new SimpleXMLElement($xmlstr);
 
-        $result = $dom->makeConcept($entry, $entry->entryref[0]);
+        $result = $dom->makeConcept($entry);
 
         $this->assertEquals($expectedResult, $result);
     }
@@ -571,11 +572,9 @@ XML;
 |definition_se=Máná biilastuollu
 |explanation_se=abcde
 |more_info_se=
-|definition_nb=Barnesete
-|explanation_nb=abcde
-|more_info_nb=
+|reviewed_se=Yes
 |sources=
-|reviewed=Yes
+|category=
 |no picture=No
 }}
 {{Related expression
@@ -586,11 +585,6 @@ XML;
 {{Related expression
 |language=se
 |expression=Máná biilastuollu
-|in_header=No
-}}
-{{Related expression
-|language=nb
-|expression=Barnesete
 |in_header=No
 }}
 

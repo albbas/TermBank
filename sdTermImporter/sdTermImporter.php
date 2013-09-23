@@ -112,15 +112,21 @@ class SdTermImporter
             ) . ":" . $this->getHead($entryref);
     }
 
-    function makeConcept($entry, $entryref)
+    function makeConcept($entry)
     {
-        $result = "{{Concept\n" .
-        "|language=" . $this->langArray[$this->getEntryRefLang($entryref)] . "\n" .
-        "|definition=" . $this->getHead($entryref) . "\n" .
-        "|explanation=" . $this->findDef($entry, $this->getEntryRefLang($entryref)) . "\n" .
-        "|more_info=" . "\n" .
+        $result = "{{Concept\n";
+        foreach ($entry->entryref as $entryref) {
+            $lang = $this->langArray[$this->getEntryRefLang($entryref)];
+            $result = $result .
+            "|definition_" . $lang . "=" . $this->getHead($entryref) . "\n" .
+            "|explanation_" . $lang . "=" . $this->findDef($entry, $this->getEntryRefLang($entryref)) . "\n" .
+            "|more_info_" . $lang . "=" . "\n" .
+            "|reviewed_" . $lang . "=" . $this->getQAChecked($entryref) . "\n";
+        }
+
+        $result = $result .
         "|sources=" . "\n" .
-        "|reviewed=" . $this->getQAChecked($entryref) . "\n" .
+        "|category=" . "\n" .
         "|no picture=No\n" .
         "}}\n";
 
@@ -182,7 +188,7 @@ class SdTermImporter
     function makeConceptPageContent($entry, $entryref)
     {
         $result = "";
-        $result = $result . $this->makeConcept($entry, $entryref);
+        $result = $result . $this->makeConcept($entry);
         $lang = $this->getEntryRefLang($entryref);
         foreach ($this->findSynonyms($entry, $lang) as $synonym) {
             $result = $result . $this->makeRelatedExpressionFromSynonymEntry($synonym['synref'], $lang, $this->synArray[$lang]);
