@@ -23,9 +23,14 @@ class SdTermImporter
 {
     function __construct()
     {
-        $this->langArray["sme"] = "se";
+        $this->langArray["eng"] = "en";
         $this->langArray["fin"] = "fi";
         $this->langArray["nor"] = "nb";
+        $this->langArray["sma"] = "sma";
+        $this->langArray["sme"] = "se";
+        $this->langArray["smj"] = "smj";
+        $this->langArray["smn"] = "smn";
+        $this->langArray["sms"] = "sms";
         $this->langArray["swe"] = "sv";
 
         $this->posArray["A"] = "A";
@@ -104,7 +109,7 @@ class SdTermImporter
         }
     }
 
-    function makeConceptPageName($entry, $entryref)
+    function makeConceptPageName($entry)
     {
         return $this->getTopicClassLangString(
             $this->getTopicClass($entry),
