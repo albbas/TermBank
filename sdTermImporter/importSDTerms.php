@@ -67,7 +67,7 @@ class TBImportExternalDatabase extends Maintenance {
 
                 $title = Title::makeTitleSafe(
                             $namespaceId,
-                            $dom->getHead($dom->getMainEntryref($entry));
+                            $dom->getHead($dom->getMainEntryref($entry)));
                 $content = $dom->makeConceptPageContent($entry);
                 $this->insert($title, $content);
             } catch (Exception $e) {
