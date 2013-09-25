@@ -100,7 +100,9 @@ class SdTermImporter
     function getTopicClassLangString($top)
     {
         if (sizeof($this->sdClass->xpath('//macro[@id="' . $top . '"]/label[@xml:lang="sme"]/text()')) > 0 ) {
-            return trim((string) $this->sdClass->xpath('//macro[@id="' . $top . '"]/label[@xml:lang="sme"]/text()')[0]);
+            $label = $this->sdClass->xpath('//macro[@id="' . $top . '"]/label[@xml:lang="sme"]/text()');
+
+            return trim((string) $label[0]);
         } else {
             throw new SdTermImporterException("No TopicClassLangString for: " . $top);
         }
@@ -110,7 +112,8 @@ class SdTermImporter
     function getHead($entryref)
     {
         if (sizeof($entryref->xpath('.//head/text()')) > 0) {
-            return ucfirst(trim((string) $entryref->xpath('.//head/text()')[0]));
+            $head = $entryref->xpath('.//head/text()');
+            return ucfirst(trim((string) $head[0]));
         } else {
             throw new SdTermImporterException('head not found\n' . $entryref->asXML());
         }
@@ -124,7 +127,8 @@ class SdTermImporter
     function getQAChecked($entryref)
     {
         if (sizeof($entryref->xpath('.//qa["checked"]')) > 0) {
-            if ((string) $entryref->xpath('.//qa["checked"]')[0]['checked'] === 'true') {
+            $qa = $entryref->xpath('.//qa["checked"]');
+            if ((string) $qa[0]['checked'] === 'true') {
                 return 'Yes';
             } else {
                 return 'No';
