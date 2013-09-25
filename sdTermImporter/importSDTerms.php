@@ -42,12 +42,12 @@ class TBImportExternalDatabase extends Maintenance {
         $langs = array("eng", "fin", "lat", "nor", "sma", "sme", "smj", "smn", "sms", "swe");
 
         foreach ($langs as $lang) {
-            print 'file:///home/boerre/gtsvn//words/terms/SD-terms/newsrc/terms-' . $lang . ".xml" . "\n";
-            $dom->initSynonymUrl('file:///home/boerre/gtsvn//words/terms/SD-terms/newsrc/terms-' . $lang . ".xml", $lang);
+            print 'https://victorio.uit.no/langtech/trunk/words/terms/SD-terms/newsrc/terms-' . $lang . ".xml" . "\n";
+            $dom->initSynonymUrl('https://victorio.uit.no/langtech/trunk/words/terms/SD-terms/newsrc/terms-' . $lang . ".xml", $lang);
         }
 
         print "initDom\n";
-        $dom->initDom('file:///home/boerre/gtsvn//words/terms/SD-terms/newsrc/termcenter.xml');
+        $dom->initDom('https://victorio.uit.no/langtech/trunk/words/terms/SD-terms/newsrc/termcenter.xml');
         print "initSdClass\n";
         $dom->initSdClass('https://victorio.uit.no/langtech/branches/Risten_1-5-x/termdb/src/db-colls/classes/SD-class/SD-class.xml');
 
