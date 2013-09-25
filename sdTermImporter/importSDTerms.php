@@ -22,14 +22,15 @@ include 'sdTermImporter.php';
 
     $dom = new SdTermImporter();
 
-    $langs = array("sme", "nor", "fin", "swe");
+    $langs = array("eng", "fin", "lat", "nor", "sma", "sme", "smj", "smn", "sms", "swe");
+
     foreach ($langs as $lang) {
-        print 'file:///home/boerre/gtsvn//words/terms/SD-terms/src/terms-' . $lang . ".xml" . "\n";
-        $dom->initSynonymUrl('file:///home/boerre/gtsvn//words/terms/SD-terms/src/terms-' . $lang . ".xml", $lang);
+        print 'file:///home/boerre/gtsvn//words/terms/SD-terms/newsrc/terms-' . $lang . ".xml" . "\n";
+        $dom->initSynonymUrl('file:///home/boerre/gtsvn//words/terms/SD-terms/newsrc/terms-' . $lang . ".xml", $lang);
     }
 
     print "initDom\n";
-    $dom->initDom('file:///home/boerre/gtsvn//words/terms/SD-terms/src/termcenter.xml');
+    $dom->initDom('file:///home/boerre/gtsvn//words/terms/SD-terms/newsrc/termcenter.xml');
     print "initSdClass\n";
     $dom->initSdClass('https://victorio.uit.no/langtech/branches/Risten_1-5-x/termdb/src/db-colls/classes/SD-class/SD-class.xml');
 
@@ -38,11 +39,12 @@ include 'sdTermImporter.php';
     $counter = 1;
     foreach ($termcenter->entry as $entry) {
         $counter++;
-        foreach($entry->entryref as $entryref) {
-            if (in_array($dom->getEntryRefLang($entryref), $langs)) {
-                print $dom->makeConceptPageName($entry, $entryref) . "\n";
-                print $dom->makeConceptPageContent($entry, $entryref). "\n\n\n";
-            }
+        try {
+            $dom->makeConceptPageName($entry) . "\n";
+            $dom->makeConceptPageContent($entry). "\n\n\n";
+        } catch (Exception $e) {
+            print "Exception: " . $e->getMessage() . "\n";
+            print $entry->asXML() . "\n";
         }
     }
     print $counter . "\n";
