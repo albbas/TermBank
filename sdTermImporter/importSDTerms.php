@@ -42,12 +42,12 @@ class TBImportExternalDatabase extends Maintenance {
         $langs = array("eng", "fin", "lat", "nor", "sma", "sme", "smj", "smn", "sms", "swe");
 
         foreach ($langs as $lang) {
-            print 'https://victorio.uit.no/langtech/trunk/words/terms/SD-terms/newsrc/terms-' . $lang . ".xml" . "\n";
-            $dom->initSynonymUrl('https://victorio.uit.no/langtech/trunk/words/terms/SD-terms/newsrc/terms-' . $lang . ".xml", $lang);
+            print 'terms-' . $lang . ".xml" . "\n";
+            $dom->initSynonymUrl('terms-' . $lang . ".xml", $lang);
         }
 
         print "initDom\n";
-        $dom->initDom('https://victorio.uit.no/langtech/trunk/words/terms/SD-terms/newsrc/termcenter.xml');
+        $dom->initDom('termcenter.xml');
         print "initSdClass\n";
         $dom->initSdClass('https://victorio.uit.no/langtech/branches/Risten_1-5-x/termdb/src/db-colls/classes/SD-class/SD-class.xml');
 
@@ -57,7 +57,17 @@ class TBImportExternalDatabase extends Maintenance {
         foreach ($termcenter->entry as $entry) {
             $counter++;
             try {
-                $title = Title::makeTitleSafe($dom->makeConceptPageName($entry));
+                $namespace =
+                    $dom->getTopicClassLangString(
+                        $this->getTopicClass($entry),
+                        "sme");
+
+                global $wgContLang;
+                $namespaceId = $wgContLang->getNsIndex( $namespace );
+
+                $title = Title::makeTitleSafe(
+                            $namespaceId,
+                            $dom->getHead($dom->getMainEntryref($entry));
                 $content = $dom->makeConceptPageContent($entry);
                 $this->insert($title, $content);
             } catch (Exception $e) {
