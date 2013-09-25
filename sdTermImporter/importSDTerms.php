@@ -59,11 +59,11 @@ class TBImportExternalDatabase extends Maintenance {
             try {
                 $namespace =
                     $dom->getTopicClassLangString(
-                        $this->getTopicClass($entry),
+                        $dom->getTopicClass($entry),
                         "sme");
 
                 global $wgContLang;
-                $namespaceId = $wgContLang->getNsIndex( $namespace );
+                $namespaceId = $wgContLang->getNsIndex($namespace);
 
                 $title = Title::makeTitleSafe(
                             $namespaceId,
