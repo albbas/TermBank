@@ -102,7 +102,7 @@ class SdTermImporter
         if (sizeof($this->sdClass->xpath('//macro[@id="' . $top . '"]/label[@xml:lang="sme"]/text()')) > 0 ) {
             $label = $this->sdClass->xpath('//macro[@id="' . $top . '"]/label[@xml:lang="sme"]/text()');
 
-            return trim((string) $label[0]);
+            return str_replace(" ", "_", trim((string) $label[0]));
         } else {
             throw new SdTermImporterException("No TopicClassLangString for: " . $top);
         }

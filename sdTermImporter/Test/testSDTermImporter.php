@@ -67,7 +67,7 @@ XML;
         $top = $dom->getTopicClass($entry);
         $result = $dom->getTopicClassLangString($top);
 
-        $expectedResult = "Ekologiija ja biras";
+        $expectedResult = "Ekologiija_ja_biras";
         $this->assertEquals($expectedResult, $result);
     }
 
@@ -216,7 +216,7 @@ XML;
 
         $entry = new SimpleXMLElement($xmlstr);
         $result = $dom->makeConceptPageName($entry);
-        $expectedResult = "Ekologiija ja biras:Máná biilastuollu";
+        $expectedResult = "Ekologiija_ja_biras:Máná biilastuollu";
 
         $this->assertEquals($expectedResult, $result);
     }
