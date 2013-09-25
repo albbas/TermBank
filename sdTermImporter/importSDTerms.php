@@ -80,9 +80,9 @@ class TBImportExternalDatabase extends Maintenance {
 
     protected function insert(Title $title, $content)
     {
-        $user = User::newFromName( 'Aineiston tuonti', false );
-        $page = new WikiPage( $title );
-        $page->doEdit( $content, 'Aineiston tuonti', 0, false, $user );
+        $user = User::newFromName('SD-term importer', false);
+        $page = new WikiPage($title);
+        $page->doEdit($content, 'SD-term importer', 0, false, $user);
     }
 }
 
