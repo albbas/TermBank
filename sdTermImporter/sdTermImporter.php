@@ -18,6 +18,9 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
  */
+class SdTermImporterException extends Exception
+{
+}
 
 class SdTermImporter
 {
@@ -25,6 +28,7 @@ class SdTermImporter
     {
         $this->langArray["eng"] = "en";
         $this->langArray["fin"] = "fi";
+        $this->langArray["lat"] = "lat";
         $this->langArray["nor"] = "nb";
         $this->langArray["sma"] = "sma";
         $this->langArray["sme"] = "se";
@@ -40,6 +44,8 @@ class SdTermImporter
         $this->posArray["Pron"] = "Pron";
         $this->posArray["S"] = "N";
         $this->posArray["V"] = "V";
+
+        $this->langPriority = array("sme", "nor", "smj", "sma", "fin");
     }
 
     function getPos($origPos)
@@ -51,7 +57,7 @@ class SdTermImporter
     {
         $this->dom = new DOMDocument();
         $this->dom->load($url);
-        // substitute xincludes
+        // substitute xincludes, takes forever and a day
         $this->dom->xinclude();
 
     }
@@ -78,7 +84,13 @@ class SdTermImporter
 
     function getTopicClass($entry)
     {
-        return $entry->topicClass["top"];
+        $top = $entry->topicClass["top"];
+
+        if ($top != "Z") {
+            return $top;
+        } else {
+            throw new SdTermImporterException("Dagligtale\n" . $entry->asXML());
+        }
     }
 
     /*
@@ -87,12 +99,21 @@ class SdTermImporter
      */
     function getTopicClassLangString($top)
     {
-        return trim((string) $this->sdClass->xpath('//macro[@id="' . $top . '"]/label[@xml:lang="sme"]/text()')[0]);
+        if (sizeof($this->sdClass->xpath('//macro[@id="' . $top . '"]/label[@xml:lang="sme"]/text()')) > 0 ) {
+            return trim((string) $this->sdClass->xpath('//macro[@id="' . $top . '"]/label[@xml:lang="sme"]/text()')[0]);
+        } else {
+            throw new SdTermImporterException("No TopicClassLangString for: " . $top);
+        }
+
     }
 
     function getHead($entryref)
     {
-        return ucfirst(trim((string) $entryref->xpath('.//head/text()')[0]));
+        if (sizeof($entryref->xpath('.//head/text()')) > 0) {
+            return ucfirst(trim((string) $entryref->xpath('.//head/text()')[0]));
+        } else {
+            throw new SdTermImporterException('head not found\n' . $entryref->asXML());
+        }
     }
 
     function getEntryRefLang($entryref)
@@ -102,19 +123,49 @@ class SdTermImporter
 
     function getQAChecked($entryref)
     {
-        if ((string) $entryref->xpath('.//qa["checked"]')[0]['checked'] === 'true') {
-            return 'Yes';
+        if (sizeof($entryref->xpath('.//qa["checked"]')) > 0) {
+            if ((string) $entryref->xpath('.//qa["checked"]')[0]['checked'] === 'true') {
+                return 'Yes';
+            } else {
+                return 'No';
+            }
         } else {
-            return 'No';
+            throw new SdTermImporterException('qa element not found\n' .
+            $entryref->xpath("..")->asXML());
         }
     }
 
+    /*
+     * Most entries contain sme entryref, so sme is the first lang to search
+     * for. Next comes nor, smj, sma, fin.
+     * Look for entryrefs in this order.
+     * The first entryref found fitting this order, is used to make the
+     * concept page name
+     */
+    function getMainEntryref($entry)
+    {
+        foreach($this->langPriority as $lang) {
+            $entryref = $entry->xpath('.//entryref[@xml:lang="' . $lang . '"]');
+            if (sizeof($entryref) > 0) {
+                return $entryref[0];
+            }
+        }
+
+        throw new SdTermImporterException('None of the langs in langPriority are found');
+    }
+
+    /*
+     * Always fetch the sami category string
+     */
     function makeConceptPageName($entry)
     {
-        return $this->getTopicClassLangString(
+        $category = $this->getTopicClassLangString(
             $this->getTopicClass($entry),
-            $this->getEntryRefLang($entryref)
-            ) . ":" . $this->getHead($entryref);
+            "sme");
+
+        $head = $this->getHead($this->getMainEntryref($entry));
+
+        return $category . ":" . $head;
     }
 
     function makeConcept($entry)

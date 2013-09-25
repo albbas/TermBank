@@ -215,7 +215,7 @@ XML;
         $dom->initSdClass('sd-class.xml');
 
         $entry = new SimpleXMLElement($xmlstr);
-        $result = $dom->makeConceptPageName($entry, $entry->entryref[0]);
+        $result = $dom->makeConceptPageName($entry);
         $expectedResult = "Ekologiija ja biras:Máná biilastuollu";
 
         $this->assertEquals($expectedResult, $result);
@@ -615,5 +615,69 @@ EOF;
 
         $this->assertEquals($expectedResult, $result);
     }
+
+    public function testGetMainEntryRefSme()
+    {
+        $xmlstr = <<<XML
+<entry>
+    <topicClass top="R" mid="R8100" botm="RN8120"/>
+    <entryref xml:lang="sme">
+    </entryref>
+    <entryref xml:lang="nor">
+    </entryref>
+</entry>
+XML;
+
+        $dom = new SdTermImporter();
+        $dom->initSdClass('sd-class.xml');
+
+        $entry = new SimpleXMLElement($xmlstr);
+        $result = $dom->getMainEntryref($entry);
+        $expectedResult = $entry->xpath('.//entryref[@xml:lang="sme"]');;
+
+        $this->assertEquals($expectedResult[0], $result);
+    }
+
+    public function testGetMainEntryRefNor()
+    {
+        $xmlstr = <<<XML
+<entry>
+    <topicClass top="R" mid="R8100" botm="RN8120"/>
+    <entryref xml:lang="fin">
+    </entryref>
+    <entryref xml:lang="nor">
+    </entryref>
+</entry>
+XML;
+
+        $dom = new SdTermImporter();
+        $dom->initSdClass('sd-class.xml');
+
+        $entry = new SimpleXMLElement($xmlstr);
+        $result = $dom->getMainEntryref($entry);
+        $expectedResult = $entry->xpath('.//entryref[@xml:lang="nor"]');;
+
+        $this->assertEquals($expectedResult[0], $result);
+    }
+
+    public function testGetMainEntryRefEmpty()
+    {
+        $xmlstr = <<<XML
+<entry>
+    <topicClass top="R" mid="R8100" botm="RN8120"/>
+    <entryref xml:lang="">
+    </entryref>
+</entry>
+XML;
+
+        $dom = new SdTermImporter();
+        $dom->initSdClass('sd-class.xml');
+
+        $entry = new SimpleXMLElement($xmlstr);
+        $this->setExpectedException('SdTermImporterException');
+        $result = $dom->getMainEntryref($entry);
+
+     }
+
 }
 ?>
