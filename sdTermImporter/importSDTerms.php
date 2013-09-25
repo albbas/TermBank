@@ -1,8 +1,8 @@
 <?php
 
 /*
- * <one line to give the program's name and a brief idea of what it does.>
- * Copyright (C) 2013  Børre Gaup <albbas@gmail.com>
+ * Import SD-terms to Termwiki
+ * Copyright (C) 2013  Børre Gaup <borre.gaup@uit.no>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -20,32 +20,62 @@
  */
 include 'sdTermImporter.php';
 
-    $dom = new SdTermImporter();
+// Standard boilerplate to define $IP
+if ( getenv( 'MW_INSTALL_PATH' ) !== false ) {
+        $IP = getenv( 'MW_INSTALL_PATH' );
+} else {
+        $dir = dirname( __FILE__ ); $IP = "$dir/../..";
+}
+require_once( "$IP/maintenance/Maintenance.php" );
 
-    $langs = array("eng", "fin", "lat", "nor", "sma", "sme", "smj", "smn", "sms", "swe");
+class TBImportExternalDatabase extends Maintenance {
 
-    foreach ($langs as $lang) {
-        print 'file:///home/boerre/gtsvn//words/terms/SD-terms/newsrc/terms-' . $lang . ".xml" . "\n";
-        $dom->initSynonymUrl('file:///home/boerre/gtsvn//words/terms/SD-terms/newsrc/terms-' . $lang . ".xml", $lang);
+    public function __construct() {
+        parent::__construct();
+        $this->mDescription = '...';
     }
 
-    print "initDom\n";
-    $dom->initDom('file:///home/boerre/gtsvn//words/terms/SD-terms/newsrc/termcenter.xml');
-    print "initSdClass\n";
-    $dom->initSdClass('https://victorio.uit.no/langtech/branches/Risten_1-5-x/termdb/src/db-colls/classes/SD-class/SD-class.xml');
+    public function execute() {
 
-    $termcenter = new SimpleXMLElement($dom->getDom()->saveXML());
+        $dom = new SdTermImporter();
 
-    $counter = 1;
-    foreach ($termcenter->entry as $entry) {
-        $counter++;
-        try {
-            $dom->makeConceptPageName($entry) . "\n";
-            $dom->makeConceptPageContent($entry). "\n\n\n";
-        } catch (Exception $e) {
-            print "Exception: " . $e->getMessage() . "\n";
-            print $entry->asXML() . "\n";
+        $langs = array("eng", "fin", "lat", "nor", "sma", "sme", "smj", "smn", "sms", "swe");
+
+        foreach ($langs as $lang) {
+            print 'file:///home/boerre/gtsvn//words/terms/SD-terms/newsrc/terms-' . $lang . ".xml" . "\n";
+            $dom->initSynonymUrl('file:///home/boerre/gtsvn//words/terms/SD-terms/newsrc/terms-' . $lang . ".xml", $lang);
         }
+
+        print "initDom\n";
+        $dom->initDom('file:///home/boerre/gtsvn//words/terms/SD-terms/newsrc/termcenter.xml');
+        print "initSdClass\n";
+        $dom->initSdClass('https://victorio.uit.no/langtech/branches/Risten_1-5-x/termdb/src/db-colls/classes/SD-class/SD-class.xml');
+
+        $termcenter = new SimpleXMLElement($dom->getDom()->saveXML());
+
+        $counter = 1;
+        foreach ($termcenter->entry as $entry) {
+            $counter++;
+            try {
+                $title = Title::makeTitleSafe($dom->makeConceptPageName($entry));
+                $content = $dom->makeConceptPageContent($entry);
+                $this->insert($title, $content);
+            } catch (Exception $e) {
+                print "Exception: " . $e->getMessage() . "\n";
+                print $entry->asXML() . "\n";
+            }
+        }
+        print $counter . "\n";
     }
-    print $counter . "\n";
+
+    protected function insert(Title $title, $content)
+    {
+        $user = User::newFromName( 'Aineiston tuonti', false );
+        $page = new WikiPage( $title );
+        $page->doEdit( $content, 'Aineiston tuonti', 0, false, $user );
+    }
+}
+
+$maintClass = 'TBImportExternalDatabase';
+require_once( DO_MAINTENANCE );
 ?>
