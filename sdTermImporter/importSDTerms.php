@@ -24,7 +24,7 @@ include 'sdTermImporter.php';
 if ( getenv( 'MW_INSTALL_PATH' ) !== false ) {
         $IP = getenv( 'MW_INSTALL_PATH' );
 } else {
-        $dir = dirname( __FILE__ ); $IP = "$dir/../..";
+        $dir = dirname( __FILE__ ); $IP = "$dir/../../..";
 }
 require_once( "$IP/maintenance/Maintenance.php" );
 
