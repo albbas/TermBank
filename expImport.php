@@ -29,7 +29,7 @@ class TBImportExternalDatabase extends Maintenance {
 
         foreach($this->parseCSV($this->getOption('expressions')) as $expression => $content) {
 
-            $title = Title::makeTitleSafe(NS_EXPRESSION, $expression);
+            $title = Title::makeTitle(NS_EXPRESSION, $expression);
             if (!$title) {
                 echo "Invalid title for {$expression}\n";
                 continue;
