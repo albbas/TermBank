@@ -65,7 +65,7 @@ class TBImportExternalDatabase extends Maintenance {
                 global $wgContLang;
                 $namespaceId = $wgContLang->getNsIndex($namespace);
 
-                $title = Title::makeTitleSafe(
+                $title = Title::makeTitle(
                             $namespaceId,
                             $dom->getHead($dom->getMainEntryref($entry)));
                 $content = $dom->makeConceptPageContent($entry);
