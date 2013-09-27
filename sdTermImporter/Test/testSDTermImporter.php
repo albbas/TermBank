@@ -95,9 +95,9 @@ XML;
     {
         $xmlstr = <<<XML
 <entryref xml:lang="sme">
-    <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
+    <entry id="máná_biilastuollu\S">
         <common>
-            <head pos="S">m&#xE1;n&#xE1; biilastuollu</head>
+            <head pos="S">máná biilastuollu</head>
             <infl major="I" minor="g">stuollu - stuolu - stuoluide</infl>
             <orth status="main"/>
             <qa checked="true" when="20060106135554" who="risten"/>
@@ -118,7 +118,7 @@ XML;
         $dom = new SdTermImporter();
         $entryref = new SimpleXMLElement($xmlstr);
         $result = $dom->getHead($entryref);
-        $expectedResult = "Máná biilastuollu";
+        $expectedResult = "máná biilastuollu";
 
         $this->assertEquals($expectedResult, $result);
     }
@@ -127,9 +127,9 @@ XML;
     {
         $xmlstr = <<<XML
 <entryref xml:lang="sme">
-    <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
+    <entry id="máná_biilastuollu\S">
         <common>
-            <head pos="S">m&#xE1;n&#xE1; biilastuollu</head>
+            <head pos="S">máná biilastuollu</head>
             <infl major="I" minor="g">stuollu - stuolu - stuoluide</infl>
             <orth status="main"/>
             <qa checked="true" when="20060106135554" who="risten"/>
@@ -159,9 +159,9 @@ XML;
     {
         $xmlstr = <<<XML
 <entryref xml:lang="sme">
-    <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
+    <entry id="máná_biilastuollu\S">
         <common>
-            <head pos="S">m&#xE1;n&#xE1; biilastuollu</head>
+            <head pos="S">máná biilastuollu</head>
             <infl major="I" minor="g">stuollu - stuolu - stuoluide</infl>
             <orth status="main"/>
             <qa checked="true" when="20060106135554" who="risten"/>
@@ -193,9 +193,9 @@ XML;
 <entry id="6">
     <topicClass top="R" mid="R8100" botm="RN8120"/>
     <entryref xml:lang="sme">
-        <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
+        <entry id="máná_biilastuollu\S">
             <common>
-                <head pos="S">m&#xE1;n&#xE1; biilastuollu</head>
+                <head pos="S">máná biilastuollu</head>
                 <infl major="I" minor="g">stuollu - stuolu - stuoluide</infl>
                 <orth status="main"/>
                 <qa checked="true" when="20060106135554" who="risten"/>
@@ -216,7 +216,7 @@ XML;
 
         $entry = new SimpleXMLElement($xmlstr);
         $result = $dom->makeConceptPageName($entry);
-        $expectedResult = "Ekologiija_ja_biras:Máná biilastuollu";
+        $expectedResult = "Ekologiija_ja_biras:máná biilastuollu";
 
         $this->assertEquals($expectedResult, $result);
     }
@@ -227,9 +227,9 @@ XML;
 <entry id="6">
     <topicClass top="R" mid="R8100" botm="RN8120"/>
     <entryref xml:lang="sme">
-        <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
+        <entry id="máná_biilastuollu\S">
             <common>
-                <head pos="S">m&#xE1;n&#xE1; biilastuollu</head>
+                <head pos="S">máná biilastuollu</head>
                 <infl major="I" minor="g">stuollu - stuolu - stuoluide</infl>
                 <orth status="main"/>
                 <qa checked="true" when="20060106135554" who="risten"/>
@@ -266,11 +266,11 @@ XML;
 
         $expectedResult = <<<EOD
 {{Concept
-|definition_se=Máná biilastuollu
+|definition_se=máná biilastuollu
 |explanation_se=abcde
 |more_info_se=
 |reviewed_se=Yes
-|definition_nb=Barnesete
+|definition_nb=barnesete
 |explanation_nb=
 |more_info_nb=
 |reviewed_nb=Yes
@@ -294,9 +294,9 @@ EOD;
     {
         $xmlstr = <<<XML
 <entryref xml:lang="sme">
-    <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
+    <entry id="máná_biilastuollu\S">
         <common>
-            <head pos="S">m&#xE1;n&#xE1; biilastuollu</head>
+            <head pos="S">máná biilastuollu</head>
             <infl major="I" minor="g">stuollu - stuolu - stuoluide</infl>
             <orth status="main"/>
             <qa checked="true" when="20060106135554" who="risten"/>
@@ -314,7 +314,7 @@ XML;
         $expectedResult = <<<EOD
 {{Related expression
 |language=se
-|expression=Máná biilastuollu
+|expression=máná biilastuollu
 |in_header=No
 }}
 
@@ -335,9 +335,9 @@ EOD;
 <entry id="6">
     <topicClass top="R" mid="R8100" botm="RN8120"/>
     <entryref xml:lang="sme">
-        <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
+        <entry id="máná_biilastuollu\S">
             <common>
-                <head pos="S">m&#xE1;n&#xE1; biilastuollu</head>
+                <head pos="S">máná biilastuollu</head>
                 <infl major="I" minor="g">stuollu - stuolu - stuoluide</infl>
                 <orth status="main"/>
                 <qa checked="true" when="20060106135554" who="risten"/>
@@ -417,7 +417,7 @@ XML;
         $expectedResult = <<<EOD
 {{Related expression
 |language=se
-|expression=Máksimuš
+|expression=máksimuš
 |in_header=No
 }}
 
@@ -437,7 +437,7 @@ EOD;
 <entry id="6">
     <topicClass top="R" mid="R8100" botm="RN8120"/>
     <entryref xml:lang="sme">
-        <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
+        <entry id="máná_biilastuollu\S">
             <senses>
                 <sense idref="6" status="main">
                     <topicClass botm="RN8120" mid="R8100" top="R"/>
@@ -474,7 +474,7 @@ XML;
 <entry id="6">
     <topicClass top="R" mid="R8100" botm="RN8120"/>
     <entryref xml:lang="sme">
-        <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
+        <entry id="máná_biilastuollu\S">
             <senses>
                 <sense idref="6" status="main">
                     <topicClass botm="RN8120" mid="R8100" top="R"/>
@@ -511,9 +511,9 @@ XML;
 <entry id="6">
     <topicClass top="R" mid="R8100" botm="RN8120"/>
     <entryref xml:lang="sme">
-        <entry id="m&#xE1;n&#xE1;_biilastuollu\S">
+        <entry id="máná_biilastuollu\S">
             <common>
-                <head pos="S">m&#xE1;n&#xE1; biilastuollu</head>
+                <head pos="S">máná biilastuollu</head>
                 <infl major="I" minor="g">stuollu - stuolu - stuoluide</infl>
                 <orth status="main"/>
                 <qa checked="true" when="20060106135554" who="risten"/>
@@ -570,7 +570,7 @@ XML;
 
         $expectedResult = <<<EOF
 {{Concept
-|definition_se=Máná biilastuollu
+|definition_se=máná biilastuollu
 |explanation_se=abcde
 |more_info_se=
 |reviewed_se=Yes
@@ -580,12 +580,12 @@ XML;
 }}
 {{Related expression
 |language=se
-|expression=Máksimuš
+|expression=máksimuš
 |in_header=No
 }}
 {{Related expression
 |language=se
-|expression=Máná biilastuollu
+|expression=máná biilastuollu
 |in_header=No
 }}
 

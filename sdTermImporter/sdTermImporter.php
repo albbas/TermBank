@@ -113,7 +113,7 @@ class SdTermImporter
     {
         if (sizeof($entryref->xpath('.//head/text()')) > 0) {
             $head = $entryref->xpath('.//head/text()');
-            return ucfirst(trim((string) $head[0]));
+            return trim((string) $head[0]);
         } else {
             throw new SdTermImporterException('head not found\n' . $entryref->asXML());
         }
