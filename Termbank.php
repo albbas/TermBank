@@ -29,6 +29,7 @@ $dir = dirname( __FILE__ ) . '/';
 
 $wgExtensionMessagesFiles['Termbank'] = $dir . 'Termbank.i18n.php';
 $wgExtensionMessagesFiles['Termbank-alias'] = $dir . 'Termbank.alias.php';
+$wgExtensionMessagesFiles['TermbankNamespaces'] = $dir . '/Termbank.namespaces.php';
 $wgAutoloadClasses['SpecialPrivateData'] = "$dir/SpecialPrivateData.php";
 $wgAutoloadClasses['TemplateParser'] = "$dir/TemplateParser.php";
 $wgAutoloadClasses['ResourceLoaderTermbankModule'] = "$dir/ResourceLoaderTermbankModule.php";
